@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2855,
+    "subject": "General Awareness",
+    "chapter": "History",
+    "topic": "National Film Awards",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which is the highest award given at the National Film Awards for the best feature film in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Golden Lotus (Swarna Kamal)"
+      },
+      {
+        "id": "B",
+        "text": "Silver Lotus (Rajat Kamal)"
+      },
+      {
+        "id": "C",
+        "text": "National Shield"
+      },
+      {
+        "id": "D",
+        "text": "Filmfare Award"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Golden Lotus (Swarna Kamal)",
+      "explanation": {
+        "concept": "Swarna Kamal is the highest honor for Best Feature Film at National Film Awards.",
+        "step_by_step": [
+          "Recall categories of National Film Awards",
+          "Identify top honor",
+          "Select Swarna Kamal"
+        ],
+        "why_correct": {
+          "A": "Correct as it represents highest recognition."
+        },
+        "why_incorrect": {
+          "B": "Lower category",
+          "C": "Not official award",
+          "D": "Private award"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "National Film Awards"
+      ],
+      "formulae": []
+    },
+    "subtopic": "History"
+  }
+]

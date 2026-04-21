@@ -1,0 +1,668 @@
+[
+  {
+    "id": 2895,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the theme of National Youth Day 2026 in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Empower the Future Generation"
+      },
+      {
+        "id": "B",
+        "text": "Ignite the Self, Impact the World"
+      },
+      {
+        "id": "C",
+        "text": "Youth for Digital India"
+      },
+      {
+        "id": "D",
+        "text": "Building Tomorrow's Leaders"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ignite the Self, Impact the World",
+      "explanation": {
+        "concept": "Themes of national days highlight societal priorities.",
+        "step_by_step": [
+          "Recall National Youth Day 2026 theme.",
+          "Match with options.",
+          "Correct phrase identified."
+        ],
+        "why_correct": {
+          "B": "Official theme."
+        },
+        "why_incorrect": {
+          "A": "Generic phrase.",
+          "C": "Not official.",
+          "D": "Misleading option."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "National observances"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2896,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Why is January 16 celebrated as National Startup Day in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Launch of Digital India"
+      },
+      {
+        "id": "B",
+        "text": "Anniversary of Startup India initiative"
+      },
+      {
+        "id": "C",
+        "text": "First unicorn startup in India"
+      },
+      {
+        "id": "D",
+        "text": "Introduction of GST"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Anniversary of Startup India initiative",
+      "explanation": {
+        "concept": "National Startup Day commemorates policy initiatives promoting entrepreneurship.",
+        "step_by_step": [
+          "Identify date: Jan 16.",
+          "Link with Startup India launch.",
+          "Confirm reason."
+        ],
+        "why_correct": {
+          "B": "Correct reason."
+        },
+        "why_incorrect": {
+          "A": "Digital India unrelated.",
+          "C": "Incorrect event.",
+          "D": "GST unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Startup India"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2898,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the theme of World Hindi Day 2026?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hindi for Global Unity"
+      },
+      {
+        "id": "B",
+        "text": "Hindi: From Traditional Knowledge to AI"
+      },
+      {
+        "id": "C",
+        "text": "Promoting Hindi Worldwide"
+      },
+      {
+        "id": "D",
+        "text": "Digital Future of Hindi"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hindi: From Traditional Knowledge to AI",
+      "explanation": {
+        "concept": "Themes emphasize language relevance in modern contexts.",
+        "step_by_step": [
+          "Recall 2026 theme.",
+          "Match with options.",
+          "Select correct phrasing."
+        ],
+        "why_correct": {
+          "B": "Official theme."
+        },
+        "why_incorrect": {
+          "A": "Generic statement.",
+          "C": "Not official.",
+          "D": "Partial but incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Language observances"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2904,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "World Hindi Day is celebrated annually on which date?",
+    "options": [
+      {
+        "id": "A",
+        "text": "January 10"
+      },
+      {
+        "id": "B",
+        "text": "January 12"
+      },
+      {
+        "id": "C",
+        "text": "February 21"
+      },
+      {
+        "id": "D",
+        "text": "September 14"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "January 10",
+      "explanation": {
+        "concept": "Important days are fixed dates with specific global or national significance.",
+        "step_by_step": [
+          "Recall World Hindi Day date.",
+          "Differentiate from Hindi Diwas (Sept 14).",
+          "Select January 10."
+        ],
+        "why_correct": {
+          "A": "Correct date."
+        },
+        "why_incorrect": {
+          "B": "National Youth Day.",
+          "C": "International Mother Language Day.",
+          "D": "Hindi Diwas, not World Hindi Day."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Important days"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2906,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "National Youth Day in India is celebrated to commemorate the birth anniversary of which personality?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mahatma Gandhi"
+      },
+      {
+        "id": "B",
+        "text": "Swami Vivekananda"
+      },
+      {
+        "id": "C",
+        "text": "Rabindranath Tagore"
+      },
+      {
+        "id": "D",
+        "text": "Subhas Chandra Bose"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Swami Vivekananda",
+      "explanation": {
+        "concept": "Many national days are linked to birth anniversaries of influential figures.",
+        "step_by_step": [
+          "Recall National Youth Day significance.",
+          "Identify associated personality.",
+          "Swami Vivekananda is correct."
+        ],
+        "why_correct": {
+          "B": "Correct personality."
+        },
+        "why_incorrect": {
+          "A": "Associated with Gandhi Jayanti.",
+          "C": "Tagore Jayanti.",
+          "D": "Netaji Jayanti."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "National figures"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2908,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which important day marks the celebration of linguistic diversity globally and is observed on February 21?",
+    "options": [
+      {
+        "id": "A",
+        "text": "World Hindi Day"
+      },
+      {
+        "id": "B",
+        "text": "International Mother Language Day"
+      },
+      {
+        "id": "C",
+        "text": "National Education Day"
+      },
+      {
+        "id": "D",
+        "text": "World Literacy Day"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "International Mother Language Day",
+      "explanation": {
+        "concept": "Global observances often promote cultural and linguistic diversity.",
+        "step_by_step": [
+          "Identify date Feb 21.",
+          "Recall associated observance.",
+          "Match with correct option."
+        ],
+        "why_correct": {
+          "B": "Correct global observance."
+        },
+        "why_incorrect": {
+          "A": "Observed Jan 10.",
+          "C": "Observed Nov 11.",
+          "D": "Observed Sept 8."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "UN observances"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2914,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which statement best explains the significance of National Startup Day in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Marks the launch of Make in India initiative"
+      },
+      {
+        "id": "B",
+        "text": "Celebrates the growth and innovation of startups under Startup India initiative"
+      },
+      {
+        "id": "C",
+        "text": "Commemorates India's first unicorn company"
+      },
+      {
+        "id": "D",
+        "text": "Recognizes contributions of public sector enterprises"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Celebrates the growth and innovation of startups under Startup India initiative",
+      "explanation": {
+        "concept": "Important days often highlight policy-driven economic sectors.",
+        "step_by_step": [
+          "Identify National Startup Day purpose.",
+          "Link with Startup India initiative.",
+          "Select best explanation."
+        ],
+        "why_correct": {
+          "B": "Correct explanation."
+        },
+        "why_incorrect": {
+          "A": "Different initiative.",
+          "C": "Incorrect reason.",
+          "D": "Unrelated sector."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Startup ecosystem"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2916,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which theme reflects the integration of traditional knowledge with modern technology in 2026 observances?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ignite the Self, Impact the World"
+      },
+      {
+        "id": "B",
+        "text": "Hindi: From Traditional Knowledge to AI"
+      },
+      {
+        "id": "C",
+        "text": "Sustainable Development for All"
+      },
+      {
+        "id": "D",
+        "text": "Digital India for Growth"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hindi: From Traditional Knowledge to AI",
+      "explanation": {
+        "concept": "Themes often reflect technological integration into traditional domains.",
+        "step_by_step": [
+          "Identify theme involving AI.",
+          "Match with World Hindi Day 2026.",
+          "Select correct option."
+        ],
+        "why_correct": {
+          "B": "Correct theme."
+        },
+        "why_incorrect": {
+          "A": "Youth Day theme.",
+          "C": "Generic.",
+          "D": "Not official."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Themes analysis"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2920,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Important Days",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following pairs is incorrectly matched?",
+    "options": [
+      {
+        "id": "A",
+        "text": "National Youth Day – January 12"
+      },
+      {
+        "id": "B",
+        "text": "World Hindi Day – January 10"
+      },
+      {
+        "id": "C",
+        "text": "National Startup Day – January 16"
+      },
+      {
+        "id": "D",
+        "text": "International Literacy Day – February 21"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "International Literacy Day – February 21",
+      "explanation": {
+        "concept": "Incorrect match questions test precise factual recall.",
+        "step_by_step": [
+          "Check each pair.",
+          "Identify mismatch.",
+          "Literacy Day is Sept 8, not Feb 21."
+        ],
+        "why_correct": {
+          "D": "Incorrect pair."
+        },
+        "why_incorrect": {
+          "A": "Correct.",
+          "B": "Correct.",
+          "C": "Correct."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Important days mapping"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

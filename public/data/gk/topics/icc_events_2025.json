@@ -1,0 +1,224 @@
+[
+  {
+    "id": 2865,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "ICC Events 2025",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Where did India win the ICC Champions Trophy 2025?",
+    "options": [
+      {
+        "id": "A",
+        "text": "London"
+      },
+      {
+        "id": "B",
+        "text": "Dubai"
+      },
+      {
+        "id": "C",
+        "text": "Sydney"
+      },
+      {
+        "id": "D",
+        "text": "Mumbai"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Dubai",
+      "explanation": {
+        "concept": "Understanding venues of major ICC tournaments.",
+        "step_by_step": [
+          "Recall Champions Trophy 2025 location.",
+          "The tournament was hosted in Dubai.",
+          "India won the title there."
+        ],
+        "why_correct": {
+          "B": "Dubai hosted the Champions Trophy 2025."
+        },
+        "why_incorrect": {
+          "A": "London was not the venue.",
+          "C": "Sydney was not involved.",
+          "D": "Mumbai was not the host."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "ICC venues"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2875,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "ICC Events 2025",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which country did India defeat to win the ICC Champions Trophy 2025?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Australia"
+      },
+      {
+        "id": "B",
+        "text": "England"
+      },
+      {
+        "id": "C",
+        "text": "Pakistan"
+      },
+      {
+        "id": "D",
+        "text": "New Zealand"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "New Zealand",
+      "explanation": {
+        "concept": "Understanding match results in ICC tournaments.",
+        "step_by_step": [
+          "Recall Champions Trophy 2025 final.",
+          "India played against New Zealand.",
+          "India defeated New Zealand to win."
+        ],
+        "why_correct": {
+          "D": "New Zealand was the finalist opponent."
+        },
+        "why_incorrect": {
+          "A": "Australia was not in the final.",
+          "B": "England did not reach final.",
+          "C": "Pakistan was not finalist."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "ICC finals"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2885,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "ICC Events 2025",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which statement correctly differentiates the ICC Champions Trophy 2025 from the ICC Women’s Cricket World Cup 2025?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both were hosted in the same country"
+      },
+      {
+        "id": "B",
+        "text": "Champions Trophy was hosted in Dubai, Women's WC in India"
+      },
+      {
+        "id": "C",
+        "text": "Both tournaments were hosted in India"
+      },
+      {
+        "id": "D",
+        "text": "Women's WC was hosted in UAE"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Champions Trophy was hosted in Dubai, Women's WC in India",
+      "explanation": {
+        "concept": "Understanding distinctions between major ICC tournament venues.",
+        "step_by_step": [
+          "Recall Champions Trophy 2025 venue: Dubai.",
+          "Recall Women's WC venue: India.",
+          "Thus option B is correct."
+        ],
+        "why_correct": {
+          "B": "Correct distinction between venues."
+        },
+        "why_incorrect": {
+          "A": "They were in different countries.",
+          "C": "Champions Trophy not in India.",
+          "D": "Women's WC not in UAE."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "ICC comparison"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3187,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trading Settlement",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In the T+1 settlement cycle followed in India, what does 'T+1' signify?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trade is settled after one month"
+      },
+      {
+        "id": "B",
+        "text": "Settlement occurs one day after trade date"
+      },
+      {
+        "id": "C",
+        "text": "Trade is executed in one hour"
+      },
+      {
+        "id": "D",
+        "text": "Settlement is optional within one week"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Settlement occurs one day after trade date",
+      "explanation": {
+        "concept": "T+1 means settlement happens on the next trading day.",
+        "step_by_step": [
+          "T = trade day",
+          "+1 = next working day",
+          "Settlement completed next day"
+        ],
+        "why_correct": {
+          "B": "Correct meaning of T+1 cycle"
+        },
+        "why_incorrect": {
+          "A": "Incorrect time frame",
+          "C": "Execution is immediate, not settlement",
+          "D": "Settlement is mandatory"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3187",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "settlement cycle"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

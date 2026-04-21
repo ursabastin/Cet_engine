@@ -1,0 +1,230 @@
+[
+  {
+    "id": 2404,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "Formulas",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "All Excel formulas must begin with which symbol?",
+    "options": [
+      {
+        "id": "A",
+        "text": "+"
+      },
+      {
+        "id": "B",
+        "text": "-"
+      },
+      {
+        "id": "C",
+        "text": "="
+      },
+      {
+        "id": "D",
+        "text": "*"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "=",
+      "explanation": {
+        "concept": "Excel uses '=' to indicate the start of a formula.",
+        "step_by_step": [
+          "Formula must start with '='.",
+          "Other symbols are operators within formula.",
+          "Thus '=' is correct."
+        ],
+        "why_correct": {
+          "C": "Correct because all formulas begin with '='."
+        },
+        "why_incorrect": {
+          "A": "Operator, not starter.",
+          "B": "Operator only.",
+          "D": "Multiplication operator."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "formulas"
+      ],
+      "formulae": [
+        "=A1+B1"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2414,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "Formulas",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What will be the output of the formula =5+3*2 in Excel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "11"
+      },
+      {
+        "id": "C",
+        "text": "13"
+      },
+      {
+        "id": "D",
+        "text": "10"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "11",
+      "explanation": {
+        "concept": "Excel follows operator precedence (BODMAS). Multiplication occurs before addition.",
+        "step_by_step": [
+          "Expression: 5 + 3 * 2.",
+          "Multiplication first: 3*2 = 6.",
+          "Then addition: 5+6 = 11."
+        ],
+        "why_correct": {
+          "B": "Correct due to operator precedence."
+        },
+        "why_incorrect": {
+          "A": "Incorrect evaluation.",
+          "C": "Wrong precedence applied.",
+          "D": "Incorrect calculation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "operator precedence"
+      ],
+      "formulae": [
+        "=5+3*2"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2424,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "Formulas",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What will be the result of = 10 +5 in Excel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15"
+      },
+      {
+        "id": "B",
+        "text": "105"
+      },
+      {
+        "id": "C",
+        "text": "#VALUE!"
+      },
+      {
+        "id": "D",
+        "text": "10+5"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "15",
+      "explanation": {
+        "concept": "Excel implicitly converts numeric text to numbers in arithmetic operations.",
+        "step_by_step": [
+          "10 is treated as numeric text.",
+          "Excel converts it to number 10.",
+          "10 + 5 = 15."
+        ],
+        "why_correct": {
+          "A": "Correct due to implicit conversion."
+        },
+        "why_incorrect": {
+          "B": "Concatenation requires '&'.",
+          "C": "Occurs only if conversion fails.",
+          "D": "Expression is evaluated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "type conversion"
+      ],
+      "formulae": [
+        "=10+5"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  }
+]

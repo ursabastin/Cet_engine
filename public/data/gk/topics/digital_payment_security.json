@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3187,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Digital Payment Security",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In UPI transactions, the primary role of the UPI PIN is to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Identify the bank account"
+      },
+      {
+        "id": "B",
+        "text": "Authenticate the user and authorize transactions"
+      },
+      {
+        "id": "C",
+        "text": "Replace the IFSC code"
+      },
+      {
+        "id": "D",
+        "text": "Act as transaction reference number"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Authenticate the user and authorize transactions",
+      "explanation": {
+        "concept": "UPI PIN ensures secure authorization of transactions by verifying user identity.",
+        "step_by_step": [
+          "UPI PIN is secret credential.",
+          "It confirms user identity.",
+          "It authorizes payments."
+        ],
+        "why_correct": {
+          "B": "Correct security function."
+        },
+        "why_incorrect": {
+          "A": "Account identified by VPA.",
+          "C": "Different concept.",
+          "D": "Reference number is separate."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "UPI security"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

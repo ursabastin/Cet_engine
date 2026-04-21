@@ -1,0 +1,374 @@
+[
+  {
+    "id": 2973,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Agreements",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Comprehensive Economic Partnership Agreement (CEPA) signed by India is with which country?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Japan"
+      },
+      {
+        "id": "B",
+        "text": "United Arab Emirates"
+      },
+      {
+        "id": "C",
+        "text": "France"
+      },
+      {
+        "id": "D",
+        "text": "Canada"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "United Arab Emirates",
+      "explanation": {
+        "concept": "CEPA is a trade agreement to reduce tariffs and increase trade cooperation.",
+        "step_by_step": [
+          "Identify recent FTAs",
+          "India-UAE CEPA is a major recent agreement",
+          "It boosts trade and investment"
+        ],
+        "why_correct": {
+          "B": "Correct as CEPA was signed with UAE"
+        },
+        "why_incorrect": {
+          "A": "India has agreements with Japan but not CEPA in this context",
+          "C": "France is not part of CEPA",
+          "D": "Canada has no such agreement"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2973",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "FTA",
+        "CEPA"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2982,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Agreements",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Economic Cooperation and Trade Agreement (ECTA) signed by India is with which country?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Australia"
+      },
+      {
+        "id": "B",
+        "text": "United Kingdom"
+      },
+      {
+        "id": "C",
+        "text": "Germany"
+      },
+      {
+        "id": "D",
+        "text": "Brazil"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Australia",
+      "explanation": {
+        "concept": "ECTA is a trade agreement focusing on tariff reduction and trade expansion.",
+        "step_by_step": [
+          "Recall recent FTAs",
+          "India-Australia ECTA is a key agreement",
+          "It enhances bilateral trade"
+        ],
+        "why_correct": {
+          "A": "Correct as ECTA was signed with Australia"
+        },
+        "why_incorrect": {
+          "B": "Negotiations ongoing, no ECTA yet",
+          "C": "Germany is not part of ECTA",
+          "D": "Brazil has no such agreement"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2982",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "ECTA",
+        "FTA"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2990,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Agreements",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "India is currently negotiating a comprehensive Free Trade Agreement (FTA) with which of the following regions as part of its recent trade strategy (2024–26)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "European Union"
+      },
+      {
+        "id": "B",
+        "text": "ASEAN (new agreement)"
+      },
+      {
+        "id": "C",
+        "text": "SAARC"
+      },
+      {
+        "id": "D",
+        "text": "G7"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "European Union",
+      "explanation": {
+        "concept": "India is actively negotiating FTAs with major economies to expand trade access.",
+        "step_by_step": [
+          "Identify ongoing negotiations",
+          "India-EU FTA is under discussion",
+          "It aims to boost trade relations"
+        ],
+        "why_correct": {
+          "A": "Correct ongoing FTA negotiation"
+        },
+        "why_incorrect": {
+          "B": "Existing ties, not new FTA focus",
+          "C": "SAARC is not for FTAs",
+          "D": "G7 is not a trade bloc for FTAs"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2990",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "FTA negotiations"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2994,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Agreements",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is a key feature of Free Trade Agreements (FTAs)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Imposition of high tariffs"
+      },
+      {
+        "id": "B",
+        "text": "Reduction or elimination of trade barriers"
+      },
+      {
+        "id": "C",
+        "text": "Restriction on imports only"
+      },
+      {
+        "id": "D",
+        "text": "Fixed exchange rates between countries"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Reduction or elimination of trade barriers",
+      "explanation": {
+        "concept": "FTAs aim to promote trade by reducing tariffs and quotas.",
+        "step_by_step": [
+          "Understand FTA objective",
+          "Focus on liberalization",
+          "Encourage cross-border trade"
+        ],
+        "why_correct": {
+          "B": "Correct feature"
+        },
+        "why_incorrect": {
+          "A": "Opposite of FTA goal",
+          "C": "Not limited to imports",
+          "D": "Exchange rate policy is separate"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2994",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "FTA"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3000,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Agreements",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "India’s ongoing FTA negotiations with the United Kingdom primarily aim to achieve which of the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Complete elimination of all imports"
+      },
+      {
+        "id": "B",
+        "text": "Enhanced market access and tariff reduction"
+      },
+      {
+        "id": "C",
+        "text": "Adoption of a common currency"
+      },
+      {
+        "id": "D",
+        "text": "Restriction of service sector trade"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Enhanced market access and tariff reduction",
+      "explanation": {
+        "concept": "FTAs aim to increase trade flows by reducing barriers and improving access.",
+        "step_by_step": [
+          "Understand FTA objectives",
+          "Focus on trade liberalization",
+          "Enhance bilateral trade"
+        ],
+        "why_correct": {
+          "B": "Correct objective"
+        },
+        "why_incorrect": {
+          "A": "Unrealistic and incorrect",
+          "C": "Currency union not part of FTA",
+          "D": "Services are promoted, not restricted"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3000",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "FTA UK"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

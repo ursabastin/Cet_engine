@@ -1,0 +1,77 @@
+[
+  {
+    "id": 3014,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Quantum Computing",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following statements correctly explains the fundamental advantage of quantum computers over classical computers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They operate faster due to higher clock speeds"
+      },
+      {
+        "id": "B",
+        "text": "They use bits with more storage capacity"
+      },
+      {
+        "id": "C",
+        "text": "They utilize superposition and entanglement for parallel computation"
+      },
+      {
+        "id": "D",
+        "text": "They consume less electrical power in all computations"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "They utilize superposition and entanglement for parallel computation",
+      "explanation": {
+        "concept": "Quantum computers leverage quantum mechanics principles like superposition and entanglement to process multiple states simultaneously.",
+        "step_by_step": [
+          "Classical bits are binary (0 or 1).",
+          "Quantum bits (qubits) can exist in multiple states.",
+          "This allows parallelism in computation."
+        ],
+        "why_correct": {
+          "C": "Correct: Quantum principles enable exponential computational advantages."
+        },
+        "why_incorrect": {
+          "A": "Speed is not due to clock frequency.",
+          "B": "Storage is not the key advantage.",
+          "D": "Power efficiency is not universally guaranteed."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Quantum computing",
+        "Superposition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

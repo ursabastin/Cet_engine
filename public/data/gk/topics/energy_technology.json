@@ -1,0 +1,225 @@
+[
+  {
+    "id": 3007,
+    "subject": "General Awareness",
+    "chapter": "Science & Tech",
+    "topic": "Energy Technology",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Lithium-ion batteries, widely used in electric vehicles, were recognized with a Nobel Prize primarily for advancements in which field?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nuclear physics"
+      },
+      {
+        "id": "B",
+        "text": "Electrochemistry"
+      },
+      {
+        "id": "C",
+        "text": "Thermodynamics"
+      },
+      {
+        "id": "D",
+        "text": "Optics"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Electrochemistry",
+      "explanation": {
+        "concept": "Lithium-ion batteries operate based on electrochemical reactions enabling efficient energy storage.",
+        "step_by_step": [
+          "Battery operation involves chemical reactions.",
+          "These reactions produce electrical energy.",
+          "This is electrochemistry."
+        ],
+        "why_correct": {
+          "B": "Correct: Lithium-ion batteries rely on electrochemistry."
+        },
+        "why_incorrect": {
+          "A": "Nuclear physics deals with atomic nuclei.",
+          "C": "Thermodynamics studies heat, not battery chemistry.",
+          "D": "Optics studies light."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Electrochemistry",
+        "Energy storage"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Science & Tech"
+  },
+  {
+    "id": 3018,
+    "subject": "General Awareness",
+    "chapter": "Science & Tech",
+    "topic": "Energy Technology",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Green hydrogen is considered a clean energy source primarily because it is produced using which of the following methods?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Electrolysis powered by renewable energy"
+      },
+      {
+        "id": "B",
+        "text": "Steam methane reforming"
+      },
+      {
+        "id": "C",
+        "text": "Coal gasification"
+      },
+      {
+        "id": "D",
+        "text": "Petroleum cracking"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Electrolysis powered by renewable energy",
+      "explanation": {
+        "concept": "Green hydrogen is produced by splitting water using renewable energy, resulting in zero carbon emissions.",
+        "step_by_step": [
+          "Hydrogen production methods vary.",
+          "Green hydrogen uses electrolysis.",
+          "It relies on renewable energy."
+        ],
+        "why_correct": {
+          "A": "Correct: Renewable-powered electrolysis produces green hydrogen."
+        },
+        "why_incorrect": {
+          "B": "Produces grey hydrogen with CO2 emissions.",
+          "C": "Coal gasification emits carbon.",
+          "D": "Petroleum processes are fossil-fuel based."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Renewable energy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Science & Tech"
+  },
+  {
+    "id": 3023,
+    "subject": "General Awareness",
+    "chapter": "Science & Tech",
+    "topic": "Energy Technology",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the key advantage of solid-state batteries over traditional lithium-ion batteries in electric vehicles?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lower energy density"
+      },
+      {
+        "id": "B",
+        "text": "Use of liquid electrolytes"
+      },
+      {
+        "id": "C",
+        "text": "Higher safety and energy density"
+      },
+      {
+        "id": "D",
+        "text": "Shorter lifespan"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Higher safety and energy density",
+      "explanation": {
+        "concept": "Solid-state batteries use solid electrolytes, improving safety and allowing higher energy density compared to liquid-based lithium-ion batteries.",
+        "step_by_step": [
+          "Compare electrolyte types.",
+          "Solid electrolytes reduce leakage risk.",
+          "They allow compact high-density storage."
+        ],
+        "why_correct": {
+          "C": "Correct: They offer higher safety and energy density."
+        },
+        "why_incorrect": {
+          "A": "They aim for higher, not lower density.",
+          "B": "They avoid liquid electrolytes.",
+          "D": "They generally improve lifespan."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Battery technology"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Science & Tech"
+  }
+]

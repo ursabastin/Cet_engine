@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3186,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "UPI vs IMPS",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following distinguishes UPI from IMPS despite both being real-time payment systems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UPI does not require bank account linkage"
+      },
+      {
+        "id": "B",
+        "text": "UPI allows use of Virtual Payment Address (VPA)"
+      },
+      {
+        "id": "C",
+        "text": "IMPS operates only during working hours"
+      },
+      {
+        "id": "D",
+        "text": "IMPS supports QR code payments natively"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "UPI allows use of Virtual Payment Address (VPA)",
+      "explanation": {
+        "concept": "UPI introduces VPA abstraction layer unlike IMPS which requires bank details.",
+        "step_by_step": [
+          "Both are real-time.",
+          "UPI uses VPA.",
+          "IMPS requires account/IFSC or MMID."
+        ],
+        "why_correct": {
+          "B": "Key differentiator."
+        },
+        "why_incorrect": {
+          "A": "UPI requires bank linkage.",
+          "C": "IMPS is 24x7.",
+          "D": "QR mainly linked to UPI."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "UPI vs IMPS"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

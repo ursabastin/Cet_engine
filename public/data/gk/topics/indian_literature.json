@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2858,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indian Literature",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature distinguishes the Jnanpith Award from most other literary awards in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is limited to English literature only"
+      },
+      {
+        "id": "B",
+        "text": "It is awarded for lifetime contribution across Indian languages"
+      },
+      {
+        "id": "C",
+        "text": "It is awarded annually without exception"
+      },
+      {
+        "id": "D",
+        "text": "It is given only to debut authors"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Lifetime contribution across Indian languages",
+      "explanation": {
+        "concept": "Jnanpith recognizes lifetime literary contribution in any of the recognized Indian languages.",
+        "step_by_step": [
+          "Understand scope of award",
+          "Compare with other literary awards",
+          "Identify distinguishing feature"
+        ],
+        "why_correct": {
+          "B": "Correct as it honors lifetime contribution."
+        },
+        "why_incorrect": {
+          "A": "Not limited to English",
+          "C": "Not strictly annual",
+          "D": "Not limited to debut authors"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Jnanpith uniqueness"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

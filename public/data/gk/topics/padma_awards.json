@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2832,
+    "subject": "General Awareness",
+    "chapter": "History",
+    "topic": "Padma Awards",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which order correctly represents the hierarchy of Padma Awards in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Padma Bhushan > Padma Vibhushan > Padma Shri"
+      },
+      {
+        "id": "B",
+        "text": "Padma Vibhushan > Padma Bhushan > Padma Shri"
+      },
+      {
+        "id": "C",
+        "text": "Padma Shri > Padma Bhushan > Padma Vibhushan"
+      },
+      {
+        "id": "D",
+        "text": "Padma Bhushan > Padma Shri > Padma Vibhushan"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Padma Vibhushan > Padma Bhushan > Padma Shri",
+      "explanation": {
+        "concept": "Padma Awards are civilian honors ranked below Bharat Ratna, with three categories in descending order.",
+        "step_by_step": [
+          "Recall categories of Padma Awards",
+          "Arrange them by prestige",
+          "Compare each option with correct hierarchy"
+        ],
+        "why_correct": {
+          "B": "Correct hierarchy from highest to lowest is Padma Vibhushan, Padma Bhushan, Padma Shri."
+        },
+        "why_incorrect": {
+          "A": "Incorrect order",
+          "C": "Reverse order",
+          "D": "Incorrect sequencing of ranks"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Padma Awards hierarchy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "History"
+  }
+]

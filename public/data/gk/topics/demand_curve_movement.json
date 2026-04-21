@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3121,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Demand Curve Movement",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A fall in the price of a commodity leads to movement along the demand curve. This phenomenon is known as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase in demand"
+      },
+      {
+        "id": "B",
+        "text": "Decrease in demand"
+      },
+      {
+        "id": "C",
+        "text": "Expansion of demand"
+      },
+      {
+        "id": "D",
+        "text": "Shift in demand curve"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Expansion of demand",
+      "explanation": {
+        "concept": "Movement along the demand curve due to price change is called expansion (price falls) or contraction (price rises).",
+        "step_by_step": [
+          "Identify price decrease",
+          "Recognize movement along same curve",
+          "Apply correct terminology"
+        ],
+        "why_correct": {
+          "C": "Expansion occurs when quantity demanded increases due to price fall"
+        },
+        "why_incorrect": {
+          "A": "Refers to shift due to non-price factors",
+          "B": "Opposite direction",
+          "D": "Shift is due to external factors"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "movement along demand curve"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

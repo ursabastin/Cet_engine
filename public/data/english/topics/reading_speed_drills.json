@@ -1,0 +1,1536 @@
+[
+  {
+    "id": 2101,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A student reads a 900-word passage in 3 minutes. What is the student's reading speed in words per minute (WPM)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "250 WPM"
+      },
+      {
+        "id": "B",
+        "text": "300 WPM"
+      },
+      {
+        "id": "C",
+        "text": "350 WPM"
+      },
+      {
+        "id": "D",
+        "text": "400 WPM"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "300 WPM",
+      "explanation": {
+        "concept": "Reading speed is calculated by dividing total words read by time taken in minutes.",
+        "step_by_step": [
+          "Total words = 900",
+          "Time taken = 3 minutes",
+          "Reading speed = 900 ÷ 3",
+          "Reading speed = 300 WPM"
+        ],
+        "why_correct": {
+          "A": "Incorrect calculation.",
+          "B": "Correct division of total words by time.",
+          "C": "Overestimates reading speed.",
+          "D": "Incorrect calculation."
+        },
+        "why_incorrect": {
+          "A": "Result of incorrect division.",
+          "C": "Implies faster reading than actual.",
+          "D": "Not supported by given data."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "reading speed calculation"
+      ],
+      "formulae": [
+        "WPM = total words / time in minutes"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2102,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a reader improves their speed from 240 WPM to 300 WPM, what is the percentage increase in reading speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20%"
+      },
+      {
+        "id": "B",
+        "text": "25%"
+      },
+      {
+        "id": "C",
+        "text": "30%"
+      },
+      {
+        "id": "D",
+        "text": "35%"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "25%",
+      "explanation": {
+        "concept": "Percentage increase = (increase/original) × 100",
+        "step_by_step": [
+          "Original speed = 240",
+          "New speed = 300",
+          "Increase = 300 − 240 = 60",
+          "Percentage increase = (60/240) × 100",
+          "= 25%"
+        ],
+        "why_correct": {
+          "B": "Correct application of percentage formula."
+        },
+        "why_incorrect": {
+          "A": "Underestimates increase.",
+          "C": "Overestimates increase.",
+          "D": "Incorrect calculation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "percentage increase",
+        "reading speed improvement"
+      ],
+      "formulae": [
+        "(increase/original)*100"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2103,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader takes 4 minutes to read a passage at 250 WPM. How many words are in the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "800"
+      },
+      {
+        "id": "B",
+        "text": "900"
+      },
+      {
+        "id": "C",
+        "text": "1000"
+      },
+      {
+        "id": "D",
+        "text": "1100"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "1000",
+      "explanation": {
+        "concept": "Total words = reading speed × time",
+        "step_by_step": [
+          "Speed = 250 WPM",
+          "Time = 4 minutes",
+          "Total words = 250 × 4",
+          "= 1000 words"
+        ],
+        "why_correct": {
+          "C": "Correct multiplication."
+        },
+        "why_incorrect": {
+          "A": "Too low.",
+          "B": "Incorrect multiplication.",
+          "D": "Too high."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "reading speed",
+        "multiplication"
+      ],
+      "formulae": [
+        "words = WPM × time"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2104,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader reads 60% of a 1200-word passage in 3 minutes. What is their reading speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "200 WPM"
+      },
+      {
+        "id": "B",
+        "text": "240 WPM"
+      },
+      {
+        "id": "C",
+        "text": "300 WPM"
+      },
+      {
+        "id": "D",
+        "text": "360 WPM"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "240 WPM",
+      "explanation": {
+        "concept": "First find words read using percentage, then divide by time.",
+        "step_by_step": [
+          "Total passage = 1200 words",
+          "60% read = 0.6 × 1200 = 720 words",
+          "Time = 3 minutes",
+          "Speed = 720 ÷ 3 = 240 WPM"
+        ],
+        "why_correct": {
+          "B": "Correct calculation of partial reading and speed."
+        },
+        "why_incorrect": {
+          "A": "Underestimates.",
+          "C": "Ignores percentage condition.",
+          "D": "Overestimates."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "percentage application",
+        "reading speed"
+      ],
+      "formulae": [
+        "WPM = words/time"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2105,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a reader reduces reading time from 5 minutes to 4 minutes for the same 1000-word passage, what is the increase in WPM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "50"
+      },
+      {
+        "id": "B",
+        "text": "75"
+      },
+      {
+        "id": "C",
+        "text": "100"
+      },
+      {
+        "id": "D",
+        "text": "125"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "50",
+      "explanation": {
+        "concept": "Calculate initial and final speeds, then subtract.",
+        "step_by_step": [
+          "Initial speed = 1000 ÷ 5 = 200 WPM",
+          "Final speed = 1000 ÷ 4 = 250 WPM",
+          "Increase = 250 − 200 = 50"
+        ],
+        "why_correct": {
+          "A": "Correct difference between speeds."
+        },
+        "why_incorrect": {
+          "B": "Incorrect subtraction.",
+          "C": "Overestimates.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "rate comparison"
+      ],
+      "formulae": [
+        "WPM = words/time"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2106,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader with a speed of 320 WPM reads continuously for 7.5 minutes. Approximately how many words are read?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2200"
+      },
+      {
+        "id": "B",
+        "text": "2400"
+      },
+      {
+        "id": "C",
+        "text": "2600"
+      },
+      {
+        "id": "D",
+        "text": "2800"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "2400",
+      "explanation": {
+        "concept": "Multiply WPM by time.",
+        "step_by_step": [
+          "Speed = 320 WPM",
+          "Time = 7.5 minutes",
+          "Words = 320 × 7.5 = 2400"
+        ],
+        "why_correct": {
+          "B": "Accurate multiplication."
+        },
+        "why_incorrect": {
+          "A": "Too low.",
+          "C": "Overestimates.",
+          "D": "Too high."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "decimal multiplication"
+      ],
+      "formulae": [
+        "words = speed × time"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2107,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Two readers A and B read the same passage. A reads at 300 WPM and finishes in 4 minutes. B reads at 240 WPM. How much more time does B take?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 minute"
+      },
+      {
+        "id": "B",
+        "text": "1.5 minutes"
+      },
+      {
+        "id": "C",
+        "text": "2 minutes"
+      },
+      {
+        "id": "D",
+        "text": "2.5 minutes"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1 minute",
+      "explanation": {
+        "concept": "Find total words using A, then compute B's time.",
+        "step_by_step": [
+          "A's words = 300 × 4 = 1200",
+          "B's time = 1200 ÷ 240 = 5 minutes",
+          "Extra time = 5 − 4 = 1 minute"
+        ],
+        "why_correct": {
+          "A": "Correct time difference."
+        },
+        "why_incorrect": {
+          "B": "Overestimates.",
+          "C": "Incorrect calculation.",
+          "D": "Too high."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "rate comparison",
+        "time difference"
+      ],
+      "formulae": [
+        "time = words/speed"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2108,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader completes 3 passages of 800 words each in 12 minutes. What is the average reading speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "180 WPM"
+      },
+      {
+        "id": "B",
+        "text": "200 WPM"
+      },
+      {
+        "id": "C",
+        "text": "220 WPM"
+      },
+      {
+        "id": "D",
+        "text": "240 WPM"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "200 WPM",
+      "explanation": {
+        "concept": "Average speed = total words / total time.",
+        "step_by_step": [
+          "Total words = 3 × 800 = 2400",
+          "Time = 12 minutes",
+          "Speed = 2400 ÷ 12 = 200"
+        ],
+        "why_correct": {
+          "B": "Correct average calculation."
+        },
+        "why_incorrect": {
+          "A": "Too low.",
+          "C": "Overestimates.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "average speed"
+      ],
+      "formulae": [
+        "average = total/total"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2109,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a reader increases speed by 20%, the time taken to read a passage reduces by what percentage (approx)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16.67%"
+      },
+      {
+        "id": "B",
+        "text": "18%"
+      },
+      {
+        "id": "C",
+        "text": "20%"
+      },
+      {
+        "id": "D",
+        "text": "25%"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "16.67%",
+      "explanation": {
+        "concept": "Time is inversely proportional to speed.",
+        "step_by_step": [
+          "New speed = 1.2S",
+          "Time ∝ 1/speed",
+          "New time = 1/1.2 = 0.8333",
+          "Reduction = 1 − 0.8333 = 0.1667",
+          "= 16.67%"
+        ],
+        "why_correct": {
+          "A": "Correct inverse relationship application."
+        },
+        "why_incorrect": {
+          "B": "Approximation error.",
+          "C": "Assumes direct relation.",
+          "D": "Overestimates."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "inverse proportion"
+      ],
+      "formulae": [
+        "time ∝ 1/speed"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2110,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A student reads at 280 WPM but spends 20% of the total time re-reading. What is the effective reading speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "224 WPM"
+      },
+      {
+        "id": "B",
+        "text": "240 WPM"
+      },
+      {
+        "id": "C",
+        "text": "260 WPM"
+      },
+      {
+        "id": "D",
+        "text": "280 WPM"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "224 WPM",
+      "explanation": {
+        "concept": "Effective speed reduces proportionally with wasted time.",
+        "step_by_step": [
+          "20% time wasted → only 80% effective",
+          "Effective speed = 280 × 0.8",
+          "= 224 WPM"
+        ],
+        "why_correct": {
+          "A": "Correct adjustment for inefficiency."
+        },
+        "why_incorrect": {
+          "B": "Incorrect scaling.",
+          "C": "Under-adjustment.",
+          "D": "Ignores re-reading."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "efficiency adjustment"
+      ],
+      "formulae": [
+        "effective speed = actual × efficiency"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2111,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader increases their reading speed from 200 WPM to 260 WPM. How much less time (in minutes) will they take to read a 1300-word passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "1.5"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "2.5"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "1.5",
+      "explanation": {
+        "concept": "Compute time before and after speed increase, then find difference.",
+        "step_by_step": [
+          "Initial time = 1300 ÷ 200 = 6.5 minutes",
+          "New time = 1300 ÷ 260 = 5 minutes",
+          "Time saved = 6.5 − 5 = 1.5 minutes"
+        ],
+        "why_correct": {
+          "B": "Correct computation of time difference."
+        },
+        "why_incorrect": {
+          "A": "Underestimates reduction.",
+          "C": "Overestimates.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "time calculation",
+        "speed comparison"
+      ],
+      "formulae": [
+        "time = words/speed"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2112,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader reads the first half of a passage at 300 WPM and the second half at 200 WPM. What is the average speed for the entire passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "240 WPM"
+      },
+      {
+        "id": "B",
+        "text": "250 WPM"
+      },
+      {
+        "id": "C",
+        "text": "260 WPM"
+      },
+      {
+        "id": "D",
+        "text": "270 WPM"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "240 WPM",
+      "explanation": {
+        "concept": "Average speed for equal distances is harmonic mean.",
+        "step_by_step": [
+          "Average speed = 2xy/(x+y)",
+          "= (2 × 300 × 200) / (300 + 200)",
+          "= 120000 / 500",
+          "= 240 WPM"
+        ],
+        "why_correct": {
+          "A": "Correct harmonic mean application."
+        },
+        "why_incorrect": {
+          "B": "Arithmetic mean mistake.",
+          "C": "Overestimates.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "harmonic mean",
+        "average speed"
+      ],
+      "formulae": [
+        "2xy/(x+y)"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2113,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader takes 6 minutes to read 1500 words. If they maintain the same speed, how many words will they read in 10 minutes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2000"
+      },
+      {
+        "id": "B",
+        "text": "2200"
+      },
+      {
+        "id": "C",
+        "text": "2400"
+      },
+      {
+        "id": "D",
+        "text": "2500"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "2500",
+      "explanation": {
+        "concept": "Find speed, then multiply by new time.",
+        "step_by_step": [
+          "Speed = 1500 ÷ 6 = 250 WPM",
+          "Words in 10 min = 250 × 10 = 2500"
+        ],
+        "why_correct": {
+          "D": "Correct proportional scaling."
+        },
+        "why_incorrect": {
+          "A": "Underestimates.",
+          "B": "Incorrect scaling.",
+          "C": "Too low."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "proportional reasoning"
+      ],
+      "formulae": [
+        "WPM = words/time"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2114,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a reader reads 25% faster than another and takes 8 minutes to read a passage, how long does the slower reader take?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9 minutes"
+      },
+      {
+        "id": "B",
+        "text": "10 minutes"
+      },
+      {
+        "id": "C",
+        "text": "11 minutes"
+      },
+      {
+        "id": "D",
+        "text": "12 minutes"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "10 minutes",
+      "explanation": {
+        "concept": "Speed and time are inversely proportional.",
+        "step_by_step": [
+          "Let slower speed = S",
+          "Faster speed = 1.25S",
+          "Time ratio = inverse = 1.25:1",
+          "Faster time = 8 → slower = 8 × 1.25 = 10 minutes"
+        ],
+        "why_correct": {
+          "B": "Correct inverse proportion."
+        },
+        "why_incorrect": {
+          "A": "Underestimates.",
+          "C": "Overestimates.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "inverse relation"
+      ],
+      "formulae": [
+        "time ∝ 1/speed"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2115,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader reads 1800 words in two sessions: 5 minutes and 7 minutes. What is the average reading speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "140 WPM"
+      },
+      {
+        "id": "B",
+        "text": "150 WPM"
+      },
+      {
+        "id": "C",
+        "text": "160 WPM"
+      },
+      {
+        "id": "D",
+        "text": "170 WPM"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "150 WPM",
+      "explanation": {
+        "concept": "Average speed = total words / total time.",
+        "step_by_step": [
+          "Total time = 5 + 7 = 12 minutes",
+          "Speed = 1800 ÷ 12 = 150 WPM"
+        ],
+        "why_correct": {
+          "B": "Correct average."
+        },
+        "why_incorrect": {
+          "A": "Too low.",
+          "C": "Too high.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "average speed"
+      ],
+      "formulae": [
+        "total/total"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2116,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader's speed decreases by 20%. By what percentage does the time increase?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20%"
+      },
+      {
+        "id": "B",
+        "text": "25%"
+      },
+      {
+        "id": "C",
+        "text": "30%"
+      },
+      {
+        "id": "D",
+        "text": "40%"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "25%",
+      "explanation": {
+        "concept": "Time increases inversely with speed.",
+        "step_by_step": [
+          "New speed = 0.8S",
+          "Time ∝ 1/speed",
+          "New time = 1/0.8 = 1.25",
+          "Increase = 25%"
+        ],
+        "why_correct": {
+          "B": "Correct inverse relation."
+        },
+        "why_incorrect": {
+          "A": "Direct relation error.",
+          "C": "Overestimate.",
+          "D": "Too high."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "inverse proportionality"
+      ],
+      "formulae": [
+        "1/x relation"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2117,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader reads 75% of a passage in 9 minutes at 300 WPM. What is the total length of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3000 words"
+      },
+      {
+        "id": "B",
+        "text": "3200 words"
+      },
+      {
+        "id": "C",
+        "text": "3600 words"
+      },
+      {
+        "id": "D",
+        "text": "4000 words"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "3600 words",
+      "explanation": {
+        "concept": "Find words read, then scale to 100%.",
+        "step_by_step": [
+          "Words read = 300 × 9 = 2700",
+          "2700 = 75%",
+          "Total = 2700 / 0.75 = 3600"
+        ],
+        "why_correct": {
+          "C": "Correct scaling."
+        },
+        "why_incorrect": {
+          "A": "Too low.",
+          "B": "Incorrect scaling.",
+          "D": "Overestimate."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "percentage scaling"
+      ],
+      "formulae": [
+        "part/percentage"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2118,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader reads 600 words in 2 minutes. At the same speed, how long will it take to read 2100 words?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 minutes"
+      },
+      {
+        "id": "B",
+        "text": "7 minutes"
+      },
+      {
+        "id": "C",
+        "text": "7.5 minutes"
+      },
+      {
+        "id": "D",
+        "text": "8 minutes"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "7 minutes",
+      "explanation": {
+        "concept": "Use proportional reasoning.",
+        "step_by_step": [
+          "Speed = 600 ÷ 2 = 300 WPM",
+          "Time = 2100 ÷ 300 = 7 minutes"
+        ],
+        "why_correct": {
+          "B": "Correct calculation."
+        },
+        "why_incorrect": {
+          "A": "Too low.",
+          "C": "Overestimate.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "rate calculation"
+      ],
+      "formulae": [
+        "time = words/speed"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2119,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A reader alternates speeds of 200 WPM and 300 WPM every minute for 10 minutes. What is the total number of words read?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2400"
+      },
+      {
+        "id": "B",
+        "text": "2500"
+      },
+      {
+        "id": "C",
+        "text": "2600"
+      },
+      {
+        "id": "D",
+        "text": "2700"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "2500",
+      "explanation": {
+        "concept": "Equal time at each speed → average speed = arithmetic mean.",
+        "step_by_step": [
+          "Average speed = (200 + 300)/2 = 250",
+          "Total words = 250 × 10 = 2500"
+        ],
+        "why_correct": {
+          "B": "Correct averaging."
+        },
+        "why_incorrect": {
+          "A": "Too low.",
+          "C": "Overestimate.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "average speed"
+      ],
+      "formulae": [
+        "(a+b)/2"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  },
+  {
+    "id": 2120,
+    "subject": "English language",
+    "chapter": "Reading Comprehension",
+    "topic": "Reading speed drills",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a reader reads 1000 words in 4 minutes but pauses for 1 minute in between, what is the effective reading speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "200 WPM"
+      },
+      {
+        "id": "B",
+        "text": "180 WPM"
+      },
+      {
+        "id": "C",
+        "text": "160 WPM"
+      },
+      {
+        "id": "D",
+        "text": "150 WPM"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "200 WPM",
+      "explanation": {
+        "concept": "Effective time includes pause.",
+        "step_by_step": [
+          "Total time = 4 + 1 = 5 minutes",
+          "Speed = 1000 ÷ 5 = 200 WPM"
+        ],
+        "why_correct": {
+          "A": "Correct effective speed."
+        },
+        "why_incorrect": {
+          "B": "Underestimate.",
+          "C": "Too low.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "effective speed"
+      ],
+      "formulae": [
+        "words/total time"
+      ]
+    },
+    "subtopic": "Reading Comprehension"
+  }
+]

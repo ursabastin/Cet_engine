@@ -1,0 +1,744 @@
+[
+  {
+    "id": 1466,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should the government ban single-use plastics?\nArguments:\nI. Yes, because plastic waste significantly harms marine ecosystems.\nII. No, because plastic is widely used in daily life.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only argument I is strong"
+      },
+      {
+        "id": "B",
+        "text": "Only argument II is strong"
+      },
+      {
+        "id": "C",
+        "text": "Both arguments are strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither argument is strong"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only argument I is strong",
+      "explanation": {
+        "concept": "A strong argument must be relevant, logical, and based on substantial reasoning rather than general statements.",
+        "step_by_step": [
+          "Argument I directly addresses environmental impact, which is a strong logical reason.",
+          "Argument II merely states common usage without addressing consequences or necessity.",
+          "Usage alone does not justify policy decisions."
+        ],
+        "why_correct": {
+          "A": "Argument I is relevant and impactful, while II is vague and not logically persuasive."
+        },
+        "why_incorrect": {
+          "B": "Argument II lacks depth and justification.",
+          "C": "Argument II is weak and cannot be considered strong.",
+          "D": "Argument I is clearly strong."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "relevance",
+        "logical strength"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1467,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should online education replace traditional classrooms?\nArguments:\nI. Yes, because it provides flexibility in learning schedules.\nII. No, because students enjoy social interaction in classrooms.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II is strong"
+      },
+      {
+        "id": "C",
+        "text": "Both are strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither is strong"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both are strong",
+      "explanation": {
+        "concept": "Strong arguments can exist on both sides if they provide logical, relevant, and meaningful reasoning.",
+        "step_by_step": [
+          "Argument I highlights flexibility, a valid advantage.",
+          "Argument II points to social development, an important educational aspect.",
+          "Both arguments are relevant to the decision."
+        ],
+        "why_correct": {
+          "C": "Both arguments provide valid, relevant perspectives."
+        },
+        "why_incorrect": {
+          "A": "Ignores the valid social reasoning in II.",
+          "B": "Ignores the flexibility advantage in I.",
+          "D": "Both arguments are logically sound."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "balanced reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1468,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should exams be conducted online permanently?\nArguments:\nI. Yes, because it reduces administrative costs.\nII. No, because internet connectivity is unreliable in many regions.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II strong"
+      },
+      {
+        "id": "C",
+        "text": "Both strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither strong"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both strong",
+      "explanation": {
+        "concept": "Arguments addressing feasibility and practicality from different perspectives can both be strong.",
+        "step_by_step": [
+          "Argument I considers cost efficiency, a valid administrative factor.",
+          "Argument II addresses accessibility issues, critical for fairness.",
+          "Both are relevant to the decision."
+        ],
+        "why_correct": {
+          "C": "Both arguments present valid, logical concerns."
+        },
+        "why_incorrect": {
+          "A": "Ignores accessibility issue.",
+          "B": "Ignores cost benefit.",
+          "D": "Both arguments are relevant."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "feasibility",
+        "cost vs accessibility"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1469,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should students be allowed to use calculators in exams?\nArguments:\nI. Yes, because calculators reduce calculation errors.\nII. No, because exams should test mental ability.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II strong"
+      },
+      {
+        "id": "C",
+        "text": "Both strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither strong"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both strong",
+      "explanation": {
+        "concept": "Arguments evaluating trade-offs between accuracy and skill assessment are both valid.",
+        "step_by_step": [
+          "Argument I supports accuracy improvement.",
+          "Argument II focuses on evaluating student capability.",
+          "Both relate directly to the exam purpose."
+        ],
+        "why_correct": {
+          "C": "Both arguments are relevant and logically valid."
+        },
+        "why_incorrect": {
+          "A": "Ignores testing purpose.",
+          "B": "Ignores accuracy factor.",
+          "D": "Both are meaningful arguments."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "trade-off reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1470,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should homework be abolished?\nArguments:\nI. Yes, because students feel stressed.\nII. No, because homework reinforces learning.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II strong"
+      },
+      {
+        "id": "C",
+        "text": "Both strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither strong"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both strong",
+      "explanation": {
+        "concept": "Emotional and academic considerations both can form strong arguments if relevant.",
+        "step_by_step": [
+          "Argument I addresses student well-being.",
+          "Argument II highlights educational benefit.",
+          "Both are directly related to the decision."
+        ],
+        "why_correct": {
+          "C": "Both arguments are relevant and meaningful."
+        },
+        "why_incorrect": {
+          "A": "Ignores academic benefit.",
+          "B": "Ignores student stress factor.",
+          "D": "Both are strong."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "emotional vs logical reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1471,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should voting be made compulsory?\nArguments:\nI. Yes, because it increases participation in democracy.\nII. No, because forcing people violates personal freedom.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II strong"
+      },
+      {
+        "id": "C",
+        "text": "Both strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither strong"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both strong",
+      "explanation": {
+        "concept": "Conflicting principles (collective benefit vs individual rights) can both produce strong arguments.",
+        "step_by_step": [
+          "Argument I focuses on democratic participation.",
+          "Argument II focuses on individual liberty.",
+          "Both are fundamental concerns."
+        ],
+        "why_correct": {
+          "C": "Both arguments are logically strong from different perspectives."
+        },
+        "why_incorrect": {
+          "A": "Ignores freedom concern.",
+          "B": "Ignores democratic participation.",
+          "D": "Both are valid arguments."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "ethical reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1472,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should mobile phones be banned in schools?\nArguments:\nI. Yes, because they distract students.\nII. No, because students like using them.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II strong"
+      },
+      {
+        "id": "C",
+        "text": "Both strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither strong"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I strong",
+      "explanation": {
+        "concept": "Strong arguments must be based on logical reasoning, not preferences.",
+        "step_by_step": [
+          "Argument I provides a functional reason (distraction).",
+          "Argument II is based on liking, which is subjective and weak.",
+          "Preferences do not justify policy decisions."
+        ],
+        "why_correct": {
+          "A": "Argument I is logical and relevant."
+        },
+        "why_incorrect": {
+          "B": "Argument II is subjective.",
+          "C": "Argument II is weak.",
+          "D": "Argument I is clearly strong."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "objective vs subjective reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1473,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should artificial intelligence replace human jobs?\nArguments:\nI. Yes, because AI increases efficiency.\nII. No, because it may lead to unemployment.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II strong"
+      },
+      {
+        "id": "C",
+        "text": "Both strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither strong"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both strong",
+      "explanation": {
+        "concept": "Economic and social impacts are both valid bases for strong arguments.",
+        "step_by_step": [
+          "Argument I addresses productivity gains.",
+          "Argument II addresses employment concerns.",
+          "Both are relevant to the issue."
+        ],
+        "why_correct": {
+          "C": "Both are logically valid and relevant."
+        },
+        "why_incorrect": {
+          "A": "Ignores employment impact.",
+          "B": "Ignores efficiency benefit.",
+          "D": "Both arguments are strong."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "economic reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1474,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should public transport be made free?\nArguments:\nI. Yes, because it reduces traffic congestion.\nII. No, because it will increase government expenditure.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II strong"
+      },
+      {
+        "id": "C",
+        "text": "Both strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither strong"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both strong",
+      "explanation": {
+        "concept": "Strong arguments often involve trade-offs between benefits and costs.",
+        "step_by_step": [
+          "Argument I highlights societal benefit.",
+          "Argument II highlights financial burden.",
+          "Both are relevant considerations."
+        ],
+        "why_correct": {
+          "C": "Both arguments are logically valid."
+        },
+        "why_incorrect": {
+          "A": "Ignores financial cost.",
+          "B": "Ignores traffic benefit.",
+          "D": "Both are strong."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "cost-benefit analysis"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1475,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Strong / Weak Arguments",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Should exams be open-book?\nArguments:\nI. Yes, because it reduces memorization burden.\nII. No, because students may not study properly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I strong"
+      },
+      {
+        "id": "B",
+        "text": "Only II strong"
+      },
+      {
+        "id": "C",
+        "text": "Both strong"
+      },
+      {
+        "id": "D",
+        "text": "Neither strong"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both strong",
+      "explanation": {
+        "concept": "Arguments considering learning approach and discipline are both relevant.",
+        "step_by_step": [
+          "Argument I highlights reduced rote learning.",
+          "Argument II raises concern about preparation discipline.",
+          "Both directly relate to exam effectiveness."
+        ],
+        "why_correct": {
+          "C": "Both arguments are relevant and logical."
+        },
+        "why_incorrect": {
+          "A": "Ignores discipline concern.",
+          "B": "Ignores learning benefit.",
+          "D": "Both are strong."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "learning strategies"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  }
+]

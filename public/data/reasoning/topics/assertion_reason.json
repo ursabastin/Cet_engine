@@ -1,0 +1,747 @@
+[
+  {
+    "id": 1446,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): All metals are good conductors of electricity. Reason (R): Free electrons in metals facilitate the flow of electric current.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "A is false but R is true",
+      "explanation": {
+        "concept": "Understanding exceptions in generalizations and causal explanation.",
+        "step_by_step": [
+          "Assertion claims all metals conduct electricity, but some like bismuth are poor conductors.",
+          "Reason correctly explains conduction in typical metals due to free electrons.",
+          "Thus, assertion is false but reason is true."
+        ],
+        "why_correct": {
+          "A": "Correct because assertion is not universally true while reason remains valid."
+        },
+        "why_incorrect": {
+          "B": "Assertion is not true, so cannot be both true.",
+          "C": "Reason is actually true.",
+          "D": "This is correct option but listed as distractor reasoning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "generalization validity",
+        "cause-effect reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1447,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): Inflation reduces purchasing power. Reason (R): Inflation increases the general price level of goods and services.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": {
+        "concept": "Cause-effect linkage in economic reasoning.",
+        "step_by_step": [
+          "Inflation means rise in general price levels.",
+          "As prices rise, same income buys fewer goods.",
+          "This directly reduces purchasing power.",
+          "Hence R explains A."
+        ],
+        "why_correct": {
+          "A": "Reason directly explains why purchasing power falls."
+        },
+        "why_incorrect": {
+          "B": "R actually explains A.",
+          "C": "Reason is true.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "economic cause-effect"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1448,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): Democracy ensures political stability. Reason (R): In a democracy, leaders are elected by majority vote.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Both A and R are true but R is not the correct explanation of A",
+      "explanation": {
+        "concept": "Distinguishing between correlation and explanation.",
+        "step_by_step": [
+          "Democracy may lead to stability in some cases.",
+          "Election by majority is a feature of democracy.",
+          "But elections alone do not guarantee stability.",
+          "Thus R does not explain A."
+        ],
+        "why_correct": {
+          "A": "Correct as both statements are true but not causally linked."
+        },
+        "why_incorrect": {
+          "B": "This is correct option but reasoning reversed.",
+          "C": "Reason is true.",
+          "D": "Assertion can be considered broadly true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "causation vs correlation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1449,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): Plants appear green. Reason (R): Chlorophyll absorbs green light.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "A is true but R is false",
+      "explanation": {
+        "concept": "Scientific reasoning and identifying incorrect premises.",
+        "step_by_step": [
+          "Plants appear green due to reflection of green light.",
+          "Chlorophyll absorbs red and blue light, not green.",
+          "Thus reason is false."
+        ],
+        "why_correct": {
+          "A": "Correct because assertion is true and reason is incorrect."
+        },
+        "why_incorrect": {
+          "B": "Reason is not true.",
+          "C": "This is correct option but mislabeled.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "scientific reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1450,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): Some students fail despite studying hard. Reason (R): Studying hard guarantees success in exams.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "A is true but R is false",
+      "explanation": {
+        "concept": "Logical inconsistency and absolute claims.",
+        "step_by_step": [
+          "Assertion is realistic and observed.",
+          "Reason is an absolute statement which is incorrect.",
+          "Thus A true, R false."
+        ],
+        "why_correct": {
+          "A": "Correct identification of truth and falsity."
+        },
+        "why_incorrect": {
+          "B": "Reason is not true.",
+          "C": "This is correct option but mislabeled.",
+          "D": "Assertion is not false."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "logical consistency"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1451,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): All squares are rectangles. Reason (R): All rectangles have equal sides.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "A is true but R is false",
+      "explanation": {
+        "concept": "Set inclusion and property misinterpretation.",
+        "step_by_step": [
+          "Squares satisfy rectangle properties.",
+          "Rectangles do not require equal sides.",
+          "Thus reason is false."
+        ],
+        "why_correct": {
+          "A": "Correct logical identification."
+        },
+        "why_incorrect": {
+          "B": "Reason is incorrect.",
+          "C": "This is correct option but mislabeled.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "set theory reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1452,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): Light travels faster than sound. Reason (R): Sound requires a medium to travel.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Both A and R are true but R is not the correct explanation of A",
+      "explanation": {
+        "concept": "Understanding independent truths vs causal explanation.",
+        "step_by_step": [
+          "Light is faster than sound.",
+          "Sound needs medium, light does not.",
+          "But medium requirement does not explain speed difference.",
+          "Hence R not explanation."
+        ],
+        "why_correct": {
+          "A": "Correct relation without causation."
+        },
+        "why_incorrect": {
+          "B": "This is correct but misrepresented.",
+          "C": "Reason is true.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "cause vs fact distinction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1453,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): A balanced diet is essential for good health. Reason (R): A balanced diet provides all necessary nutrients.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": {
+        "concept": "Direct explanatory reasoning.",
+        "step_by_step": [
+          "Balanced diet ensures nutrient intake.",
+          "Nutrients are required for body functioning.",
+          "Thus reason explains assertion."
+        ],
+        "why_correct": {
+          "A": "Direct cause-effect explanation."
+        },
+        "why_incorrect": {
+          "B": "R clearly explains A.",
+          "C": "Reason is true.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "biological reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1454,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): All birds can fly. Reason (R): Birds have wings.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is false but R is true"
+      },
+      {
+        "id": "D",
+        "text": "Both A and R are false"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "A is false but R is true",
+      "explanation": {
+        "concept": "Exceptions and flawed generalization.",
+        "step_by_step": [
+          "Not all birds can fly (e.g., ostrich).",
+          "Birds generally have wings.",
+          "Thus assertion false, reason true."
+        ],
+        "why_correct": {
+          "A": "Correct logical classification."
+        },
+        "why_incorrect": {
+          "B": "Assertion is false.",
+          "C": "This is correct option but mislabeled.",
+          "D": "Reason is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "exception handling"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1455,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Assertion & Reason",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): Increasing supply reduces price in a market. Reason (R): Price is inversely proportional to demand.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "A is true but R is false",
+      "explanation": {
+        "concept": "Misapplied economic relationships.",
+        "step_by_step": [
+          "Supply increase leads to price decrease (ceteris paribus).",
+          "Demand relationship is not strictly inverse in all contexts.",
+          "Reason incorrectly stated.",
+          "Thus A true, R false."
+        ],
+        "why_correct": {
+          "A": "Correct identification of flawed reasoning."
+        },
+        "why_incorrect": {
+          "B": "Reason is not valid.",
+          "C": "This is correct option but mislabeled.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "economic logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

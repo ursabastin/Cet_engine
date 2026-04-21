@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3225,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Funding Sources",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Angel investors typically invest in startups during which phase of their lifecycle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Post-IPO phase"
+      },
+      {
+        "id": "B",
+        "text": "Early-stage or seed phase"
+      },
+      {
+        "id": "C",
+        "text": "Late-stage expansion"
+      },
+      {
+        "id": "D",
+        "text": "Exit phase"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Early-stage or seed phase",
+      "explanation": {
+        "concept": "Angel investors provide capital at the early stages of startup development.",
+        "step_by_step": [
+          "Angel investors support early ideas.",
+          "They invest before VCs.",
+          "They help startups move from ideation to validation."
+        ],
+        "why_correct": {
+          "B": "Correct stage for angel investment."
+        },
+        "why_incorrect": {
+          "A": "Too late stage.",
+          "C": "Handled by VCs/PE.",
+          "D": "Exit stage involves selling stakes."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Angel investment"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

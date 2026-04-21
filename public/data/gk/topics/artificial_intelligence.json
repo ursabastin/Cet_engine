@@ -1,0 +1,301 @@
+[
+  {
+    "id": 3002,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Artificial Intelligence",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.41,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which organization developed the generative AI model known as ChatGPT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Google"
+      },
+      {
+        "id": "B",
+        "text": "Microsoft"
+      },
+      {
+        "id": "C",
+        "text": "OpenAI"
+      },
+      {
+        "id": "D",
+        "text": "Meta"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "OpenAI",
+      "explanation": {
+        "concept": "ChatGPT is a generative AI model based on large language models developed by OpenAI.",
+        "step_by_step": [
+          "Recognize major AI companies.",
+          "ChatGPT is specifically linked with OpenAI.",
+          "Other companies have their own models like Gemini (Google)."
+        ],
+        "why_correct": {
+          "C": "Correct: OpenAI created ChatGPT."
+        },
+        "why_incorrect": {
+          "A": "Google developed Gemini, not ChatGPT.",
+          "B": "Microsoft partners with OpenAI but did not develop ChatGPT.",
+          "D": "Meta focuses on LLaMA models."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Generative AI",
+        "Tech companies"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 3009,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Artificial Intelligence",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which technology company developed the AI model 'Gemini', considered a major competitor to ChatGPT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amazon"
+      },
+      {
+        "id": "B",
+        "text": "Google"
+      },
+      {
+        "id": "C",
+        "text": "IBM"
+      },
+      {
+        "id": "D",
+        "text": "Apple"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Google",
+      "explanation": {
+        "concept": "Gemini is a generative AI model developed by Google as part of its AI ecosystem.",
+        "step_by_step": [
+          "Identify AI competitors.",
+          "Gemini belongs to Google.",
+          "Other companies have different AI systems."
+        ],
+        "why_correct": {
+          "B": "Correct: Gemini is developed by Google."
+        },
+        "why_incorrect": {
+          "A": "Amazon focuses on AWS AI tools.",
+          "C": "IBM develops Watson.",
+          "D": "Apple focuses on device AI."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "AI competition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 3012,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Artificial Intelligence",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes Generative AI models like ChatGPT and Gemini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They only retrieve stored data without modification"
+      },
+      {
+        "id": "B",
+        "text": "They generate new content based on learned patterns"
+      },
+      {
+        "id": "C",
+        "text": "They function only as search engines"
+      },
+      {
+        "id": "D",
+        "text": "They are limited to numerical computations"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "They generate new content based on learned patterns",
+      "explanation": {
+        "concept": "Generative AI models use deep learning to produce new text, images, or code by learning patterns from training data.",
+        "step_by_step": [
+          "Understand difference between retrieval and generation.",
+          "Generative AI creates new outputs.",
+          "It uses probabilistic modeling of language/data."
+        ],
+        "why_correct": {
+          "B": "Correct: Generative AI produces new content."
+        },
+        "why_incorrect": {
+          "A": "That describes database retrieval systems.",
+          "C": "Search engines index and retrieve data, not generate.",
+          "D": "AI is not limited to numeric computation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Generative AI",
+        "Machine learning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 3021,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Artificial Intelligence",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best explains the role of training data in large language models like ChatGPT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It directly stores answers for retrieval"
+      },
+      {
+        "id": "B",
+        "text": "It programs fixed rules for responses"
+      },
+      {
+        "id": "C",
+        "text": "It helps the model learn statistical patterns of language"
+      },
+      {
+        "id": "D",
+        "text": "It limits the model to predefined outputs only"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "It helps the model learn statistical patterns of language",
+      "explanation": {
+        "concept": "Large language models are trained on datasets to learn probabilistic relationships between words and phrases.",
+        "step_by_step": [
+          "Training data is used during model training phase.",
+          "Model learns patterns, not exact answers.",
+          "It predicts next tokens probabilistically."
+        ],
+        "why_correct": {
+          "C": "Correct: Training data enables pattern learning."
+        },
+        "why_incorrect": {
+          "A": "Models do not function as databases.",
+          "B": "Rules are not hard-coded.",
+          "D": "Models generate flexible outputs."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Machine learning",
+        "Language models"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  }
+]

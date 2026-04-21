@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3163,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Digital Rupee",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Digital Rupee (e₹) introduced by the RBI is best classified under which category?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cryptocurrency"
+      },
+      {
+        "id": "B",
+        "text": "Central Bank Digital Currency"
+      },
+      {
+        "id": "C",
+        "text": "Electronic Wallet"
+      },
+      {
+        "id": "D",
+        "text": "Digital Payment Gateway"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Central Bank Digital Currency",
+      "explanation": {
+        "concept": "Digital Rupee is a sovereign digital currency issued by RBI, categorized as CBDC.",
+        "step_by_step": [
+          "Digital Rupee is issued by central bank.",
+          "It is legal tender.",
+          "CBDC refers to such centrally issued digital currency."
+        ],
+        "why_correct": {
+          "B": "Correct classification of Digital Rupee."
+        },
+        "why_incorrect": {
+          "A": "Cryptocurrency is decentralized, unlike e₹.",
+          "C": "Wallet is a storage tool, not currency.",
+          "D": "Payment gateway is a service, not currency."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "CBDC"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "id": 1329,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a triangle, the sides are in the ratio 3:4:5. If the perimeter is 96 cm, what is the length of the longest side?",
+    "options": [
+      {
+        "id": "A",
+        "text": "30 cm"
+      },
+      {
+        "id": "B",
+        "text": "36 cm"
+      },
+      {
+        "id": "C",
+        "text": "40 cm"
+      },
+      {
+        "id": "D",
+        "text": "48 cm"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "40 cm",
+      "explanation": {
+        "concept": "If sides are in ratio, assume them as multiples of a common variable and use perimeter relation.",
+        "step_by_step": [
+          "Let sides be 3x, 4x, 5x",
+          "Perimeter = 3x + 4x + 5x = 12x",
+          "Given 12x = 96 ⇒ x = 8",
+          "Longest side = 5x = 40"
+        ],
+        "why_correct": {
+          "C": "Correct substitution gives 40 cm"
+        },
+        "why_incorrect": {
+          "A": "Incorrect substitution or ratio handling",
+          "B": "Mistakenly taking 4x as largest",
+          "D": "Wrong multiplication"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "ratio in triangle"
+      ],
+      "formulae": [
+        "Perimeter = sum of sides"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1330,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The area of a triangle is 84 cm² and its base is 12 cm. Find its height.",
+    "options": [
+      {
+        "id": "A",
+        "text": "7 cm"
+      },
+      {
+        "id": "B",
+        "text": "10 cm"
+      },
+      {
+        "id": "C",
+        "text": "14 cm"
+      },
+      {
+        "id": "D",
+        "text": "16 cm"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "14 cm",
+      "explanation": {
+        "concept": "Area of triangle = (1/2) × base × height",
+        "step_by_step": [
+          "84 = (1/2) × 12 × h",
+          "84 = 6h",
+          "h = 14"
+        ],
+        "why_correct": {
+          "C": "Correct calculation gives 14"
+        },
+        "why_incorrect": {
+          "A": "Half of correct value",
+          "B": "Calculation mistake",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "area of triangle"
+      ],
+      "formulae": [
+        "Area = 1/2 × base × height"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1331,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If two sides of a triangle are 10 cm and 7 cm, what is the range of possible values of the third side?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 < x < 17"
+      },
+      {
+        "id": "B",
+        "text": "3 ≤ x ≤ 17"
+      },
+      {
+        "id": "C",
+        "text": "x > 3"
+      },
+      {
+        "id": "D",
+        "text": "x < 17"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "3 < x < 17",
+      "explanation": {
+        "concept": "Triangle inequality: sum of any two sides must be greater than the third side.",
+        "step_by_step": [
+          "x < 10 + 7 = 17",
+          "x > |10 - 7| = 3",
+          "Thus 3 < x < 17"
+        ],
+        "why_correct": {
+          "A": "Correct inequality range"
+        },
+        "why_incorrect": {
+          "B": "Equality not allowed",
+          "C": "Upper bound missing",
+          "D": "Lower bound missing"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "triangle inequality"
+      ],
+      "formulae": [
+        "|a-b| < c < a+b"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1332,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a right-angled triangle, if one leg is 9 cm and hypotenuse is 15 cm, find the other leg.",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 cm"
+      },
+      {
+        "id": "B",
+        "text": "10 cm"
+      },
+      {
+        "id": "C",
+        "text": "8 cm"
+      },
+      {
+        "id": "D",
+        "text": "6 cm"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "12 cm",
+      "explanation": {
+        "concept": "Use Pythagoras theorem.",
+        "step_by_step": [
+          "h² = p² + b²",
+          "15² = 9² + x²",
+          "225 = 81 + x²",
+          "x² = 144 ⇒ x = 12"
+        ],
+        "why_correct": {
+          "A": "Correct application of theorem"
+        },
+        "why_incorrect": {
+          "B": "Calculation error",
+          "C": "Incorrect squaring",
+          "D": "Underestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Pythagoras theorem"
+      ],
+      "formulae": [
+        "a² + b² = c²"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1333,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The angles of a triangle are in the ratio 2:3:4. Find the largest angle.",
+    "options": [
+      {
+        "id": "A",
+        "text": "80°"
+      },
+      {
+        "id": "B",
+        "text": "90°"
+      },
+      {
+        "id": "C",
+        "text": "100°"
+      },
+      {
+        "id": "D",
+        "text": "120°"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "80°",
+      "explanation": {
+        "concept": "Sum of angles in a triangle is 180°.",
+        "step_by_step": [
+          "Let angles be 2x, 3x, 4x",
+          "Total = 9x = 180",
+          "x = 20",
+          "Largest = 4x = 80"
+        ],
+        "why_correct": {
+          "A": "Correct ratio resolution"
+        },
+        "why_incorrect": {
+          "B": "Assumes right triangle",
+          "C": "Wrong multiplication",
+          "D": "Exceeds sum constraint"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "angle sum"
+      ],
+      "formulae": [
+        "Sum = 180°"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1334,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the area of an equilateral triangle of side 14 cm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "49√3"
+      },
+      {
+        "id": "B",
+        "text": "98√3"
+      },
+      {
+        "id": "C",
+        "text": "84√3"
+      },
+      {
+        "id": "D",
+        "text": "196√3"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "49√3",
+      "explanation": {
+        "concept": "Area of equilateral triangle = (√3/4) a²",
+        "step_by_step": [
+          "Area = (√3/4) × 14²",
+          "= (√3/4) × 196",
+          "= 49√3"
+        ],
+        "why_correct": {
+          "A": "Correct formula usage"
+        },
+        "why_incorrect": {
+          "B": "Double counting",
+          "C": "Wrong simplification",
+          "D": "Incorrect squaring"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "equilateral triangle"
+      ],
+      "formulae": [
+        "Area = (√3/4)a²"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1335,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the sides of a triangle are 13, 14, 15, find its area using Heron's formula.",
+    "options": [
+      {
+        "id": "A",
+        "text": "84"
+      },
+      {
+        "id": "B",
+        "text": "90"
+      },
+      {
+        "id": "C",
+        "text": "78"
+      },
+      {
+        "id": "D",
+        "text": "96"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "84",
+      "explanation": {
+        "concept": "Use Heron's formula: √[s(s-a)(s-b)(s-c)]",
+        "step_by_step": [
+          "s = (13+14+15)/2 = 21",
+          "Area = √[21×8×7×6]",
+          "= √7056 = 84"
+        ],
+        "why_correct": {
+          "A": "Correct Heron's evaluation"
+        },
+        "why_incorrect": {
+          "B": "Calculation error",
+          "C": "Wrong s value",
+          "D": "Incorrect multiplication"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "Heron's formula"
+      ],
+      "formulae": [
+        "√(s(s-a)(s-b)(s-c))"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1336,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If two angles of a triangle are 45° and 65°, find the third angle.",
+    "options": [
+      {
+        "id": "A",
+        "text": "70°"
+      },
+      {
+        "id": "B",
+        "text": "75°"
+      },
+      {
+        "id": "C",
+        "text": "80°"
+      },
+      {
+        "id": "D",
+        "text": "90°"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "70°",
+      "explanation": {
+        "concept": "Sum of angles in triangle is 180°.",
+        "step_by_step": [
+          "Sum = 45 + 65 = 110",
+          "Third = 180 - 110 = 70"
+        ],
+        "why_correct": {
+          "A": "Correct subtraction"
+        },
+        "why_incorrect": {
+          "B": "Wrong arithmetic",
+          "C": "Overestimation",
+          "D": "Assumes right triangle"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "angle sum"
+      ],
+      "formulae": [
+        "Sum = 180°"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1337,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A triangle has sides 6, 8, and 10. What type of triangle is it?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acute"
+      },
+      {
+        "id": "B",
+        "text": "Obtuse"
+      },
+      {
+        "id": "C",
+        "text": "Right-angled"
+      },
+      {
+        "id": "D",
+        "text": "Isosceles"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Right-angled",
+      "explanation": {
+        "concept": "Check using Pythagoras relation.",
+        "step_by_step": [
+          "6² + 8² = 36 + 64 = 100",
+          "10² = 100",
+          "Thus right triangle"
+        ],
+        "why_correct": {
+          "C": "Follows Pythagoras theorem"
+        },
+        "why_incorrect": {
+          "A": "Acute condition not satisfied",
+          "B": "Not obtuse",
+          "D": "Sides unequal"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "triangle classification"
+      ],
+      "formulae": [
+        "a² + b² = c²"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1338,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The base of a triangle is increased by 20% and height decreased by 20%. Find the percentage change in area.",
+    "options": [
+      {
+        "id": "A",
+        "text": "No change"
+      },
+      {
+        "id": "B",
+        "text": "4% decrease"
+      },
+      {
+        "id": "C",
+        "text": "4% increase"
+      },
+      {
+        "id": "D",
+        "text": "8% decrease"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "4% decrease",
+      "explanation": {
+        "concept": "Area ∝ base × height",
+        "step_by_step": [
+          "New area factor = 1.2 × 0.8 = 0.96",
+          "Area decreases by 4%"
+        ],
+        "why_correct": {
+          "B": "Correct multiplication gives 0.96"
+        },
+        "why_incorrect": {
+          "A": "Change exists",
+          "C": "Incorrect direction",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "percentage change"
+      ],
+      "formulae": [
+        "Area ∝ bh"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1339,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If perimeter of an equilateral triangle is 72 cm, find its side.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18 cm"
+      },
+      {
+        "id": "B",
+        "text": "24 cm"
+      },
+      {
+        "id": "C",
+        "text": "30 cm"
+      },
+      {
+        "id": "D",
+        "text": "36 cm"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "24 cm",
+      "explanation": {
+        "concept": "All sides equal in equilateral triangle.",
+        "step_by_step": [
+          "Side = 72 / 3 = 24"
+        ],
+        "why_correct": {
+          "B": "Correct division"
+        },
+        "why_incorrect": {
+          "A": "Incorrect division",
+          "C": "Overestimation",
+          "D": "Wrong interpretation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "equilateral triangle"
+      ],
+      "formulae": [
+        "Perimeter = 3a"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1340,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Triangle",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.86,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a triangle, if a median divides it into two triangles of equal area, what can be said about the median?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It bisects the base"
+      },
+      {
+        "id": "B",
+        "text": "It is perpendicular"
+      },
+      {
+        "id": "C",
+        "text": "It is equal to altitude"
+      },
+      {
+        "id": "D",
+        "text": "None"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "It bisects the base",
+      "explanation": {
+        "concept": "Median joins vertex to midpoint of opposite side, dividing area equally.",
+        "step_by_step": [
+          "Median splits triangle into two equal-area triangles",
+          "This happens because base is divided equally"
+        ],
+        "why_correct": {
+          "A": "Definition of median"
+        },
+        "why_incorrect": {
+          "B": "Not necessarily perpendicular",
+          "C": "Not always equal",
+          "D": "Incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "median property"
+      ],
+      "formulae": [
+        "Area split property"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

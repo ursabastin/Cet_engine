@@ -1,0 +1,150 @@
+[
+  {
+    "id": 2848,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Highest Honors",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which is the highest civilian award in India after Bharat Ratna?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Padma Shri"
+      },
+      {
+        "id": "B",
+        "text": "Padma Bhushan"
+      },
+      {
+        "id": "C",
+        "text": "Padma Vibhushan"
+      },
+      {
+        "id": "D",
+        "text": "Rajiv Gandhi Khel Ratna"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Padma Vibhushan",
+      "explanation": {
+        "concept": "Padma Vibhushan is the second-highest civilian award after Bharat Ratna.",
+        "step_by_step": [
+          "Recall civilian awards hierarchy",
+          "Identify rank immediately after Bharat Ratna",
+          "Select Padma Vibhushan"
+        ],
+        "why_correct": {
+          "C": "Correct as it is second-highest civilian honor."
+        },
+        "why_incorrect": {
+          "A": "Lower category",
+          "B": "Below Padma Vibhushan",
+          "D": "Sports award"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Civilian awards hierarchy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2857,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Highest Honors",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which is the highest wartime gallantry award in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ashok Chakra"
+      },
+      {
+        "id": "B",
+        "text": "Param Vir Chakra"
+      },
+      {
+        "id": "C",
+        "text": "Vir Chakra"
+      },
+      {
+        "id": "D",
+        "text": "Kirti Chakra"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Param Vir Chakra",
+      "explanation": {
+        "concept": "Param Vir Chakra is the highest military decoration awarded for valor in wartime.",
+        "step_by_step": [
+          "Differentiate wartime vs peacetime awards",
+          "Identify highest wartime honor",
+          "Select Param Vir Chakra"
+        ],
+        "why_correct": {
+          "B": "Correct as it is highest wartime gallantry award."
+        },
+        "why_incorrect": {
+          "A": "Peacetime",
+          "C": "Lower rank",
+          "D": "Peacetime"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Param Vir Chakra"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

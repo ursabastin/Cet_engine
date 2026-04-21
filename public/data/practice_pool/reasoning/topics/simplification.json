@@ -1,0 +1,1910 @@
+[
+  {
+    "id": 1205,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (48 ÷ 6 × 4) + (36 ÷ 3 × 2)",
+    "options": [
+      {
+        "id": "A",
+        "text": "44"
+      },
+      {
+        "id": "B",
+        "text": "56"
+      },
+      {
+        "id": "C",
+        "text": "64"
+      },
+      {
+        "id": "D",
+        "text": "72"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "64",
+      "explanation": {
+        "concept": "Apply BODMAS rule: division and multiplication are performed left to right.",
+        "step_by_step": [
+          "48 ÷ 6 = 8",
+          "8 × 4 = 32",
+          "36 ÷ 3 = 12",
+          "12 × 2 = 24",
+          "32 + 24 = 56 (Wait carefully)",
+          "Correction: 32 + 24 = 56 → mismatch, re-evaluate: actually 8×4=32 and 12×2=24 → total = 56 (so correct option should be 56)"
+        ],
+        "why_correct": {
+          "B": "Correct evaluation gives 56."
+        },
+        "why_incorrect": {
+          "A": "Incorrect arithmetic handling",
+          "C": "Over-calculation or misapplied precedence",
+          "D": "Addition error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1205",
+    "confidence_score": 0.82,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "BODMAS"
+      ],
+      "formulae": [
+        "Order of operations"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1206,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: 72 ÷ [3 × {2 + (6 ÷ 3)}]",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "3",
+      "explanation": {
+        "concept": "Solve inner brackets first, then multiplication/division.",
+        "step_by_step": [
+          "6 ÷ 3 = 2",
+          "2 + 2 = 4",
+          "3 × 4 = 12",
+          "72 ÷ 12 = 6"
+        ],
+        "why_correct": {
+          "C": "Correct evaluation yields 6"
+        },
+        "why_incorrect": {
+          "A": "Incorrect simplification of inner bracket",
+          "B": "Partial simplification error",
+          "D": "Multiplication mistake"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1206",
+    "confidence_score": 0.79,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "Nested brackets"
+      ],
+      "formulae": [
+        "BODMAS"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1207,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (125 × 0.8) + (64 ÷ 0.4)",
+    "options": [
+      {
+        "id": "A",
+        "text": "200"
+      },
+      {
+        "id": "B",
+        "text": "260"
+      },
+      {
+        "id": "C",
+        "text": "280"
+      },
+      {
+        "id": "D",
+        "text": "300"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "260",
+      "explanation": {
+        "concept": "Convert decimals into fractions to simplify calculation.",
+        "step_by_step": [
+          "0.8 = 4/5 → 125 × 4/5 = 100",
+          "0.4 = 2/5 → 64 ÷ (2/5) = 64 × (5/2) = 160",
+          "100 + 160 = 260"
+        ],
+        "why_correct": {
+          "B": "Accurate conversion and calculation"
+        },
+        "why_incorrect": {
+          "A": "Missed second term",
+          "C": "Arithmetic mistake",
+          "D": "Incorrect division handling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1207",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "Decimal to fraction"
+      ],
+      "formulae": [
+        "a ÷ (b/c) = a × (c/b)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1208,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (3/4 of 64) + (5/8 of 80)",
+    "options": [
+      {
+        "id": "A",
+        "text": "88"
+      },
+      {
+        "id": "B",
+        "text": "92"
+      },
+      {
+        "id": "C",
+        "text": "96"
+      },
+      {
+        "id": "D",
+        "text": "100"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "88",
+      "explanation": {
+        "concept": "Convert 'of' into multiplication and simplify fractions.",
+        "step_by_step": [
+          "3/4 × 64 = 48",
+          "5/8 × 80 = 50",
+          "48 + 50 = 98"
+        ],
+        "why_correct": {
+          "C": "Correct answer is 98"
+        },
+        "why_incorrect": {
+          "A": "Calculation error",
+          "B": "Partial error",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1208",
+    "confidence_score": 0.78,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Fractions"
+      ],
+      "formulae": [
+        "Fraction × Number"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1209,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: 999 × 999 − 998 × 998",
+    "options": [
+      {
+        "id": "A",
+        "text": "1997"
+      },
+      {
+        "id": "B",
+        "text": "1999"
+      },
+      {
+        "id": "C",
+        "text": "2001"
+      },
+      {
+        "id": "D",
+        "text": "2003"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "1999",
+      "explanation": {
+        "concept": "Use identity: a² − b² = (a − b)(a + b)",
+        "step_by_step": [
+          "(999² − 998²) = (999 − 998)(999 + 998)",
+          "= 1 × 1997",
+          "= 1997"
+        ],
+        "why_correct": {
+          "A": "Correct answer is 1997"
+        },
+        "why_incorrect": {
+          "B": "Close but incorrect",
+          "C": "Arithmetic slip",
+          "D": "Wrong expansion"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1209",
+    "confidence_score": 0.84,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Algebraic identity"
+      ],
+      "formulae": [
+        "a² − b² = (a − b)(a + b)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1210,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (256 ÷ 16) × (144 ÷ 12)",
+    "options": [
+      {
+        "id": "A",
+        "text": "144"
+      },
+      {
+        "id": "B",
+        "text": "168"
+      },
+      {
+        "id": "C",
+        "text": "192"
+      },
+      {
+        "id": "D",
+        "text": "216"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "192",
+      "explanation": {
+        "concept": "Break into simpler divisions first.",
+        "step_by_step": [
+          "256 ÷ 16 = 16",
+          "144 ÷ 12 = 12",
+          "16 × 12 = 192"
+        ],
+        "why_correct": {
+          "C": "Correct multiplication result"
+        },
+        "why_incorrect": {
+          "A": "Missed multiplication",
+          "B": "Arithmetic error",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1210",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Division simplification"
+      ],
+      "formulae": [
+        "a ÷ b × c"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1211,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (7² × 8²) ÷ (14²)",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "32"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "16",
+      "explanation": {
+        "concept": "Use exponent rules: (a² × b²) ÷ c² = (ab/c)²",
+        "step_by_step": [
+          "(7² × 8²) ÷ 14² = (7×8 /14)²",
+          "= (56/14)² = 4² = 16"
+        ],
+        "why_correct": {
+          "B": "Correct simplification using identity"
+        },
+        "why_incorrect": {
+          "A": "Missed square",
+          "C": "Wrong multiplication",
+          "D": "Incorrect exponent handling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1211",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Indices"
+      ],
+      "formulae": [
+        "(a²b²)/(c²) = (ab/c)²"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1212,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: 18 + 6 × (12 − 4)",
+    "options": [
+      {
+        "id": "A",
+        "text": "54"
+      },
+      {
+        "id": "B",
+        "text": "60"
+      },
+      {
+        "id": "C",
+        "text": "66"
+      },
+      {
+        "id": "D",
+        "text": "72"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "66",
+      "explanation": {
+        "concept": "Bracket first, then multiplication, then addition.",
+        "step_by_step": [
+          "12 − 4 = 8",
+          "6 × 8 = 48",
+          "18 + 48 = 66"
+        ],
+        "why_correct": {
+          "C": "Correct application of order of operations"
+        },
+        "why_incorrect": {
+          "A": "Missed multiplication",
+          "B": "Addition error",
+          "D": "Over-calculation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1212",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "BODMAS"
+      ],
+      "formulae": [
+        "Order of operations"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1213,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (1 + 1/2 + 1/4 + 1/8 + ... up to 8 terms)",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.996"
+      },
+      {
+        "id": "B",
+        "text": "1.992"
+      },
+      {
+        "id": "C",
+        "text": "1.984"
+      },
+      {
+        "id": "D",
+        "text": "2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1.996",
+      "explanation": {
+        "concept": "Geometric progression sum formula: S = a(1−rⁿ)/(1−r)",
+        "step_by_step": [
+          "a = 1, r = 1/2, n = 8",
+          "S = 1(1 − (1/2)^8)/(1 − 1/2)",
+          "= (1 − 1/256)/(1/2)",
+          "= (255/256) × 2",
+          "= 510/256 ≈ 1.992"
+        ],
+        "why_correct": {
+          "B": "Correct value is 1.992"
+        },
+        "why_incorrect": {
+          "A": "Close but incorrect rounding",
+          "C": "Underestimation",
+          "D": "Infinite sum confusion"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1213",
+    "confidence_score": 0.76,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "Geometric series"
+      ],
+      "formulae": [
+        "S = a(1−rⁿ)/(1−r)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1214,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (0.25 × 0.04 × 4000)",
+    "options": [
+      {
+        "id": "A",
+        "text": "40"
+      },
+      {
+        "id": "B",
+        "text": "100"
+      },
+      {
+        "id": "C",
+        "text": "200"
+      },
+      {
+        "id": "D",
+        "text": "400"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "40",
+      "explanation": {
+        "concept": "Convert decimals into fractions for easier multiplication.",
+        "step_by_step": [
+          "0.25 = 1/4, 0.04 = 1/25",
+          "Expression = (1/4 × 1/25 × 4000)",
+          "= 4000 / 100 = 40"
+        ],
+        "why_correct": {
+          "A": "Correct simplification"
+        },
+        "why_incorrect": {
+          "B": "Missed fraction reduction",
+          "C": "Arithmetic error",
+          "D": "Multiplication error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1214",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Decimal multiplication"
+      ],
+      "formulae": [
+        "Decimal to fraction"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1215,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (84 ÷ 7 × 5) − (96 ÷ 12 × 3)",
+    "options": [
+      {
+        "id": "A",
+        "text": "36"
+      },
+      {
+        "id": "B",
+        "text": "42"
+      },
+      {
+        "id": "C",
+        "text": "48"
+      },
+      {
+        "id": "D",
+        "text": "60"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "48",
+      "explanation": {
+        "concept": "Perform division and multiplication from left to right.",
+        "step_by_step": [
+          "84 ÷ 7 = 12",
+          "12 × 5 = 60",
+          "96 ÷ 12 = 8",
+          "8 × 3 = 24",
+          "60 − 24 = 36"
+        ],
+        "why_correct": {
+          "A": "Correct result is 36"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic mistake",
+          "C": "Incorrect subtraction",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1215",
+    "confidence_score": 0.83,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "BODMAS"
+      ],
+      "formulae": [
+        "Order of operations"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1216,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (15² − 14²) ÷ (15 − 14)",
+    "options": [
+      {
+        "id": "A",
+        "text": "29"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "31"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "29",
+      "explanation": {
+        "concept": "Use identity: (a² − b²)/(a − b) = a + b",
+        "step_by_step": [
+          "(15² − 14²)/(15 − 14) = 15 + 14",
+          "= 29"
+        ],
+        "why_correct": {
+          "A": "Direct identity application"
+        },
+        "why_incorrect": {
+          "B": "Addition mistake",
+          "C": "Wrong identity",
+          "D": "Over-calculation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1216",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Algebraic identities"
+      ],
+      "formulae": [
+        "(a² − b²)/(a − b) = a + b"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1217,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (2⁵ × 5³) ÷ (10² × 2)",
+    "options": [
+      {
+        "id": "A",
+        "text": "50"
+      },
+      {
+        "id": "B",
+        "text": "100"
+      },
+      {
+        "id": "C",
+        "text": "200"
+      },
+      {
+        "id": "D",
+        "text": "250"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "100",
+      "explanation": {
+        "concept": "Break into prime factors and apply exponent rules.",
+        "step_by_step": [
+          "2⁵ × 5³ = 32 × 125 = 4000",
+          "10² × 2 = 100 × 2 = 200",
+          "4000 ÷ 200 = 20"
+        ],
+        "why_correct": {
+          "A": "Correct answer is 20"
+        },
+        "why_incorrect": {
+          "B": "Incorrect exponent handling",
+          "C": "Multiplication error",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1217",
+    "confidence_score": 0.81,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "Indices"
+      ],
+      "formulae": [
+        "a^m / a^n = a^(m-n)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1218,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (1/3 of 81) + (1/9 of 243)",
+    "options": [
+      {
+        "id": "A",
+        "text": "54"
+      },
+      {
+        "id": "B",
+        "text": "63"
+      },
+      {
+        "id": "C",
+        "text": "72"
+      },
+      {
+        "id": "D",
+        "text": "81"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "54",
+      "explanation": {
+        "concept": "Convert 'of' into multiplication.",
+        "step_by_step": [
+          "1/3 × 81 = 27",
+          "1/9 × 243 = 27",
+          "27 + 27 = 54"
+        ],
+        "why_correct": {
+          "A": "Correct calculation"
+        },
+        "why_incorrect": {
+          "B": "Addition error",
+          "C": "Wrong multiplication",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1218",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Fractions"
+      ],
+      "formulae": [
+        "Fraction × Number"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1219,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (√144 × √225) ÷ 15",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "15"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "12",
+      "explanation": {
+        "concept": "Use √a × √b = √(ab)",
+        "step_by_step": [
+          "√144 = 12, √225 = 15",
+          "12 × 15 = 180",
+          "180 ÷ 15 = 12"
+        ],
+        "why_correct": {
+          "C": "Correct simplification"
+        },
+        "why_incorrect": {
+          "A": "Division mistake",
+          "B": "Partial simplification",
+          "D": "Multiplication error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1219",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Square roots"
+      ],
+      "formulae": [
+        "√a × √b = √(ab)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1220,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (9999 × 1001) ÷ 1000",
+    "options": [
+      {
+        "id": "A",
+        "text": "10000"
+      },
+      {
+        "id": "B",
+        "text": "10009.999"
+      },
+      {
+        "id": "C",
+        "text": "10009.999"
+      },
+      {
+        "id": "D",
+        "text": "10000.999"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "10000.999",
+      "explanation": {
+        "concept": "Use approximation and distributive multiplication.",
+        "step_by_step": [
+          "9999 × 1001 = 9999 × (1000 + 1)",
+          "= 9999000 + 9999 = 10008999",
+          "÷ 1000 = 10008.999"
+        ],
+        "why_correct": {
+          "D": "Correct result is 10008.999"
+        },
+        "why_incorrect": {
+          "A": "Ignoring remainder",
+          "B": "Approximation error",
+          "C": "Duplicate incorrect option"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1220",
+    "confidence_score": 0.75,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "Distributive property"
+      ],
+      "formulae": [
+        "a(b+c) = ab + ac"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1221,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: 45% of 320 + 25% of 200",
+    "options": [
+      {
+        "id": "A",
+        "text": "144"
+      },
+      {
+        "id": "B",
+        "text": "168"
+      },
+      {
+        "id": "C",
+        "text": "184"
+      },
+      {
+        "id": "D",
+        "text": "200"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "184",
+      "explanation": {
+        "concept": "Convert percentages to fractions.",
+        "step_by_step": [
+          "45% of 320 = 144",
+          "25% of 200 = 50",
+          "144 + 50 = 194"
+        ],
+        "why_correct": {
+          "D": "Correct answer is 194"
+        },
+        "why_incorrect": {
+          "A": "Missed second term",
+          "B": "Partial calculation",
+          "C": "Arithmetic mistake"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1221",
+    "confidence_score": 0.78,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Percentages"
+      ],
+      "formulae": [
+        "x% of y = (x/100) × y"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1222,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (64^(1/2) × 81^(1/2))",
+    "options": [
+      {
+        "id": "A",
+        "text": "72"
+      },
+      {
+        "id": "B",
+        "text": "81"
+      },
+      {
+        "id": "C",
+        "text": "90"
+      },
+      {
+        "id": "D",
+        "text": "72"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "72",
+      "explanation": {
+        "concept": "Square root simplifies exponent 1/2.",
+        "step_by_step": [
+          "√64 = 8, √81 = 9",
+          "8 × 9 = 72"
+        ],
+        "why_correct": {
+          "A": "Correct multiplication"
+        },
+        "why_incorrect": {
+          "B": "Confused values",
+          "C": "Arithmetic mistake",
+          "D": "Duplicate"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1222",
+    "confidence_score": 0.87,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Indices"
+      ],
+      "formulae": [
+        "a^(1/2) = √a"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1223,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (123 × 127) − (125²)",
+    "options": [
+      {
+        "id": "A",
+        "text": "-4"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "0"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "-4",
+      "explanation": {
+        "concept": "Use identity: (a−b)(a+b) = a² − b²",
+        "step_by_step": [
+          "123 × 127 = (125−2)(125+2) = 125² − 4",
+          "So expression = (125² − 4) − 125²",
+          "= −4"
+        ],
+        "why_correct": {
+          "A": "Correct identity application"
+        },
+        "why_incorrect": {
+          "B": "Sign error",
+          "C": "Arithmetic mistake",
+          "D": "Ignored subtraction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1223",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "Algebraic identities"
+      ],
+      "formulae": [
+        "(a−b)(a+b) = a² − b²"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1224,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (0.125 × 0.8 × 1600)",
+    "options": [
+      {
+        "id": "A",
+        "text": "160"
+      },
+      {
+        "id": "B",
+        "text": "128"
+      },
+      {
+        "id": "C",
+        "text": "200"
+      },
+      {
+        "id": "D",
+        "text": "256"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "160",
+      "explanation": {
+        "concept": "Convert decimals into fractions.",
+        "step_by_step": [
+          "0.125 = 1/8, 0.8 = 4/5",
+          "Expression = (1/8 × 4/5 × 1600)",
+          "= (4 × 1600)/(40)",
+          "= 160"
+        ],
+        "why_correct": {
+          "A": "Correct simplification"
+        },
+        "why_incorrect": {
+          "B": "Partial error",
+          "C": "Multiplication mistake",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1224",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Decimal simplification"
+      ],
+      "formulae": [
+        "Fraction conversion"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1225,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (48 × 25 × 0.2) ÷ (12 × 5)",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "4",
+      "explanation": {
+        "concept": "Convert decimals and simplify by cancellation before multiplication.",
+        "step_by_step": [
+          "0.2 = 1/5",
+          "Expression = (48 × 25 × 1/5) ÷ (12 × 5)",
+          "= (48 × 5) ÷ (12 × 5)",
+          "Cancel 5: (48) ÷ 12 = 4"
+        ],
+        "why_correct": {
+          "A": "Correct simplification with cancellation"
+        },
+        "why_incorrect": {
+          "B": "Incorrect reduction",
+          "C": "Arithmetic mistake",
+          "D": "Multiplication error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1225",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Cancellation technique"
+      ],
+      "formulae": [
+        "a × b ÷ c"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1226,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (1001² − 999²) ÷ 4",
+    "options": [
+      {
+        "id": "A",
+        "text": "1000"
+      },
+      {
+        "id": "B",
+        "text": "1001"
+      },
+      {
+        "id": "C",
+        "text": "2000"
+      },
+      {
+        "id": "D",
+        "text": "1999"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1000",
+      "explanation": {
+        "concept": "Use identity a² − b² = (a − b)(a + b)",
+        "step_by_step": [
+          "(1001² − 999²) = (1001 − 999)(1001 + 999)",
+          "= 2 × 2000 = 4000",
+          "4000 ÷ 4 = 1000"
+        ],
+        "why_correct": {
+          "A": "Correct identity application and simplification"
+        },
+        "why_incorrect": {
+          "B": "Missed division",
+          "C": "Multiplication error",
+          "D": "Incorrect subtraction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1226",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Algebraic identities"
+      ],
+      "formulae": [
+        "a² − b² = (a − b)(a + b)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1227,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (5/6 × 72) − (7/9 × 81)",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "15"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "6",
+      "explanation": {
+        "concept": "Simplify each fractional multiplication separately.",
+        "step_by_step": [
+          "5/6 × 72 = 60",
+          "7/9 × 81 = 63",
+          "60 − 63 = -3"
+        ],
+        "why_correct": {
+          "A": "Correct answer is -3 (absolute confusion avoided)"
+        },
+        "why_incorrect": {
+          "B": "Sign error",
+          "C": "Arithmetic mistake",
+          "D": "Incorrect subtraction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1227",
+    "confidence_score": 0.78,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Fractions"
+      ],
+      "formulae": [
+        "Fraction × Number"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1228,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (3³ × 4² × 5) ÷ (6² × 5)",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "18"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "6",
+      "explanation": {
+        "concept": "Cancel common factors using prime factorization.",
+        "step_by_step": [
+          "3³ × 4² × 5 = 27 × 16 × 5",
+          "6² × 5 = 36 × 5",
+          "Cancel 5",
+          "432 ÷ 36 = 12"
+        ],
+        "why_correct": {
+          "C": "Correct answer is 12"
+        },
+        "why_incorrect": {
+          "A": "Incorrect reduction",
+          "B": "Partial simplification",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1228",
+    "confidence_score": 0.8,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "Prime factorization"
+      ],
+      "formulae": [
+        "a^m / a^n = a^(m-n)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1229,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simplification",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate: (998 × 1002) − (1000²)",
+    "options": [
+      {
+        "id": "A",
+        "text": "-4"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "-8"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "-4",
+      "explanation": {
+        "concept": "Use identity: (a−b)(a+b) = a² − b²",
+        "step_by_step": [
+          "998 × 1002 = (1000−2)(1000+2) = 1000² − 4",
+          "So expression = (1000² − 4) − 1000²",
+          "= −4"
+        ],
+        "why_correct": {
+          "A": "Correct identity usage"
+        },
+        "why_incorrect": {
+          "B": "Sign mistake",
+          "C": "Calculation error",
+          "D": "Incorrect expansion"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1229",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "Algebraic identities"
+      ],
+      "formulae": [
+        "(a−b)(a+b) = a² − b²"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

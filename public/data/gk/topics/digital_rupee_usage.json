@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3182,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Digital Rupee Usage",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following statements best describes a retail use case of the Digital Rupee (e₹)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Used only for interbank settlements"
+      },
+      {
+        "id": "B",
+        "text": "Used for peer-to-peer and merchant payments like cash"
+      },
+      {
+        "id": "C",
+        "text": "Used exclusively for stock market trading"
+      },
+      {
+        "id": "D",
+        "text": "Used only for international remittances"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Used for peer-to-peer and merchant payments like cash",
+      "explanation": {
+        "concept": "Retail CBDC is designed for everyday transactions similar to physical cash.",
+        "step_by_step": [
+          "Digital Rupee has retail version.",
+          "It is used by general public.",
+          "Functions similar to cash transactions."
+        ],
+        "why_correct": {
+          "B": "Correct real-world usage."
+        },
+        "why_incorrect": {
+          "A": "Wholesale CBDC use case.",
+          "C": "Not specific to trading.",
+          "D": "Not restricted to remittances."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Retail CBDC"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

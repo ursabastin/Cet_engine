@@ -1,0 +1,151 @@
+[
+  {
+    "id": 3035,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Capital Expenditure",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Capital expenditure in the Union Budget primarily refers to spending on which of the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Salaries and pensions"
+      },
+      {
+        "id": "B",
+        "text": "Subsidies"
+      },
+      {
+        "id": "C",
+        "text": "Creation of physical assets"
+      },
+      {
+        "id": "D",
+        "text": "Interest payments"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Creation of physical assets",
+      "explanation": {
+        "concept": "Capital expenditure creates long-term assets like roads, railways, infrastructure.",
+        "step_by_step": [
+          "Differentiate revenue vs capital expenditure.",
+          "Identify asset creation as key feature.",
+          "Choose option reflecting infrastructure investment."
+        ],
+        "why_correct": {
+          "C": "Correct as it leads to asset formation."
+        },
+        "why_incorrect": {
+          "A": "Revenue expenditure.",
+          "B": "Transfer payments.",
+          "D": "Debt servicing."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "capital expenditure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 3041,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Capital Expenditure",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A significant increase in capital expenditure (Capex) in the Union Budget 2026-27 is primarily aimed at achieving which macroeconomic objective?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reducing inflation directly"
+      },
+      {
+        "id": "B",
+        "text": "Boosting long-term economic growth through asset creation"
+      },
+      {
+        "id": "C",
+        "text": "Increasing subsidies for consumption"
+      },
+      {
+        "id": "D",
+        "text": "Reducing fiscal deficit immediately"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Boosting long-term economic growth through asset creation",
+      "explanation": {
+        "concept": "Capital expenditure leads to infrastructure development which enhances productive capacity and long-term growth.",
+        "step_by_step": [
+          "Understand what capex represents (asset creation).",
+          "Recognize its multiplier effect on the economy.",
+          "Identify long-term growth as the primary goal."
+        ],
+        "why_correct": {
+          "B": "Correct because infrastructure investment drives sustained economic expansion."
+        },
+        "why_incorrect": {
+          "A": "Capex impacts inflation indirectly, not directly.",
+          "C": "That is revenue expenditure.",
+          "D": "Capex may increase deficit in short term."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "capital expenditure",
+        "economic growth"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  }
+]

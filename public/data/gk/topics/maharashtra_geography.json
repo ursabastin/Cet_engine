@@ -1,0 +1,446 @@
+[
+  {
+    "id": 2607,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Maharashtra Geography",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Western Ghats in Maharashtra are locally known as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aravalli"
+      },
+      {
+        "id": "B",
+        "text": "Nilgiri"
+      },
+      {
+        "id": "C",
+        "text": "Sahyadri"
+      },
+      {
+        "id": "D",
+        "text": "Vindhya"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Sahyadri",
+      "explanation": {
+        "concept": "Western Ghats are referred to as Sahyadri in Maharashtra.",
+        "step_by_step": [
+          "Identify regional name",
+          "Western Ghats = Sahyadri in Maharashtra"
+        ],
+        "why_correct": {
+          "C": "Correct local name"
+        },
+        "why_incorrect": {
+          "A": "Northern range",
+          "B": "Southern hills",
+          "D": "Central Indian range"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2607",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Regional geography"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2617,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Maharashtra Geography",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Koyna Dam in Maharashtra is primarily built on which river?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Krishna"
+      },
+      {
+        "id": "B",
+        "text": "Godavari"
+      },
+      {
+        "id": "C",
+        "text": "Koyna"
+      },
+      {
+        "id": "D",
+        "text": "Bhima"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Koyna",
+      "explanation": {
+        "concept": "Koyna Dam is built on the Koyna River, a tributary of Krishna.",
+        "step_by_step": [
+          "Identify dam location",
+          "Recall river name",
+          "Koyna dam on Koyna river"
+        ],
+        "why_correct": {
+          "C": "Correct river"
+        },
+        "why_incorrect": {
+          "A": "Main river but not dam site",
+          "B": "Different basin",
+          "D": "Different tributary"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2617",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Dams",
+        "Regional geography"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2627,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Maharashtra Geography",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Konkan Coast lies between which two geographical features?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Western Ghats and Arabian Sea"
+      },
+      {
+        "id": "B",
+        "text": "Eastern Ghats and Bay of Bengal"
+      },
+      {
+        "id": "C",
+        "text": "Aravalli and Thar Desert"
+      },
+      {
+        "id": "D",
+        "text": "Vindhya and Satpura ranges"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Western Ghats and Arabian Sea",
+      "explanation": {
+        "concept": "Konkan coast is a narrow coastal strip between Western Ghats and Arabian Sea.",
+        "step_by_step": [
+          "Locate Konkan region",
+          "Identify boundaries",
+          "Western Ghats and Arabian Sea"
+        ],
+        "why_correct": {
+          "A": "Correct boundaries"
+        },
+        "why_incorrect": {
+          "B": "East coast region",
+          "C": "Northwest India",
+          "D": "Central India"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2627",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Coastal geography"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2637,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Maharashtra Geography",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which river forms a major part of the eastern boundary of Maharashtra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Godavari"
+      },
+      {
+        "id": "B",
+        "text": "Wardha"
+      },
+      {
+        "id": "C",
+        "text": "Krishna"
+      },
+      {
+        "id": "D",
+        "text": "Tapti"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Wardha",
+      "explanation": {
+        "concept": "Wardha River forms part of Maharashtra's eastern boundary with neighboring states.",
+        "step_by_step": [
+          "Identify boundary rivers",
+          "Wardha lies in eastern region",
+          "Forms state boundary"
+        ],
+        "why_correct": {
+          "B": "Correct boundary river"
+        },
+        "why_incorrect": {
+          "A": "Flows within state",
+          "C": "Southern river",
+          "D": "Western flowing river"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2637",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Regional rivers"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2647,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Maharashtra Geography",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which district in Maharashtra is known for the highest rainfall due to its location in the Western Ghats?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pune"
+      },
+      {
+        "id": "B",
+        "text": "Mumbai"
+      },
+      {
+        "id": "C",
+        "text": "Ratnagiri"
+      },
+      {
+        "id": "D",
+        "text": "Nagpur"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Ratnagiri",
+      "explanation": {
+        "concept": "Ratnagiri lies on the windward side of Western Ghats and receives heavy monsoon rainfall.",
+        "step_by_step": [
+          "Identify coastal districts",
+          "Windward side gets heavy rainfall",
+          "Ratnagiri fits condition"
+        ],
+        "why_correct": {
+          "C": "Highest rainfall region"
+        },
+        "why_incorrect": {
+          "A": "Rain shadow region",
+          "B": "Moderate rainfall",
+          "D": "Low rainfall region"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2647",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Monsoon effects"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2657,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Maharashtra Geography",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which plateau region occupies a major portion of Maharashtra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Malwa Plateau"
+      },
+      {
+        "id": "B",
+        "text": "Deccan Plateau"
+      },
+      {
+        "id": "C",
+        "text": "Chotanagpur Plateau"
+      },
+      {
+        "id": "D",
+        "text": "Shillong Plateau"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Deccan Plateau",
+      "explanation": {
+        "concept": "Maharashtra lies largely on the Deccan Plateau.",
+        "step_by_step": [
+          "Identify geographical region",
+          "Maharashtra in peninsular India",
+          "Part of Deccan Plateau"
+        ],
+        "why_correct": {
+          "B": "Correct plateau"
+        },
+        "why_incorrect": {
+          "A": "Located in MP",
+          "C": "Eastern India",
+          "D": "Northeast India"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2657",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Regional geography"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  }
+]

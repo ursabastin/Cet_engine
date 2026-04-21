@@ -1,0 +1,224 @@
+[
+  {
+    "id": 2978,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Blocs",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.44,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following countries is NOT a member of BRICS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brazil"
+      },
+      {
+        "id": "B",
+        "text": "Russia"
+      },
+      {
+        "id": "C",
+        "text": "India"
+      },
+      {
+        "id": "D",
+        "text": "Germany"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Germany",
+      "explanation": {
+        "concept": "BRICS consists of Brazil, Russia, India, China, South Africa.",
+        "step_by_step": [
+          "Recall BRICS members",
+          "Compare with options",
+          "Identify outsider"
+        ],
+        "why_correct": {
+          "D": "Germany is not part of BRICS"
+        },
+        "why_incorrect": {
+          "A": "Brazil is a BRICS member",
+          "B": "Russia is a member",
+          "C": "India is a founding member"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2978",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "BRICS"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2985,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Blocs",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following organizations primarily represents Southeast Asian nations in trade cooperation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SAARC"
+      },
+      {
+        "id": "B",
+        "text": "ASEAN"
+      },
+      {
+        "id": "C",
+        "text": "G7"
+      },
+      {
+        "id": "D",
+        "text": "BRICS"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "ASEAN",
+      "explanation": {
+        "concept": "ASEAN is a regional grouping of Southeast Asian countries promoting economic integration.",
+        "step_by_step": [
+          "Identify regional blocs",
+          "ASEAN focuses on Southeast Asia",
+          "Promotes trade cooperation"
+        ],
+        "why_correct": {
+          "B": "Correct regional bloc"
+        },
+        "why_incorrect": {
+          "A": "SAARC is South Asian",
+          "C": "G7 is developed nations",
+          "D": "BRICS is emerging economies group"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2985",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "ASEAN"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2996,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Blocs",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which grouping primarily consists of developed economies and influences global trade policies significantly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "BRICS"
+      },
+      {
+        "id": "B",
+        "text": "G7"
+      },
+      {
+        "id": "C",
+        "text": "SAARC"
+      },
+      {
+        "id": "D",
+        "text": "ASEAN"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "G7",
+      "explanation": {
+        "concept": "G7 includes major developed economies that shape global economic policies.",
+        "step_by_step": [
+          "Identify group composition",
+          "G7 includes US, UK, Japan, etc.",
+          "They are advanced economies"
+        ],
+        "why_correct": {
+          "B": "Correct group"
+        },
+        "why_incorrect": {
+          "A": "Emerging economies",
+          "C": "Regional South Asia",
+          "D": "Southeast Asia"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2996",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "G7"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

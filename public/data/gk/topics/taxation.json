@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3038,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Taxation",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is an example of an indirect tax in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Income Tax"
+      },
+      {
+        "id": "B",
+        "text": "Corporate Tax"
+      },
+      {
+        "id": "C",
+        "text": "GST"
+      },
+      {
+        "id": "D",
+        "text": "Wealth Tax"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "GST",
+      "explanation": {
+        "concept": "Indirect taxes are levied on goods/services, not directly on income.",
+        "step_by_step": [
+          "Differentiate direct vs indirect tax.",
+          "Indirect tax is paid through consumption.",
+          "GST fits this category."
+        ],
+        "why_correct": {
+          "C": "Correct as GST is consumption-based tax."
+        },
+        "why_incorrect": {
+          "A": "Direct tax.",
+          "B": "Direct tax on companies.",
+          "D": "Direct tax."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "indirect tax"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

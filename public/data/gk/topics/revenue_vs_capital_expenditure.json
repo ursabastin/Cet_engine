@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3043,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Revenue vs Capital Expenditure",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following expenditures would be classified as revenue expenditure rather than capital expenditure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Construction of highways"
+      },
+      {
+        "id": "B",
+        "text": "Purchase of machinery for railways"
+      },
+      {
+        "id": "C",
+        "text": "Payment of salaries to government employees"
+      },
+      {
+        "id": "D",
+        "text": "Building a new airport terminal"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Payment of salaries to government employees",
+      "explanation": {
+        "concept": "Revenue expenditure does not create assets; it includes operational costs.",
+        "step_by_step": [
+          "Identify expenditures that create assets.",
+          "Exclude capital investments.",
+          "Salaries are recurring operational expenses."
+        ],
+        "why_correct": {
+          "C": "Correct as salaries are recurring expenses."
+        },
+        "why_incorrect": {
+          "A": "Creates infrastructure asset.",
+          "B": "Capital investment.",
+          "D": "Asset creation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "revenue expenditure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  }
+]

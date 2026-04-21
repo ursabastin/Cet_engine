@@ -1,0 +1,77 @@
+[
+  {
+    "id": 3207,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Funding Types",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which type of funding involves using personal savings or internal revenues without external investors?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Angel Investment"
+      },
+      {
+        "id": "B",
+        "text": "Venture Capital"
+      },
+      {
+        "id": "C",
+        "text": "Bootstrapping"
+      },
+      {
+        "id": "D",
+        "text": "Private Equity"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Bootstrapping",
+      "explanation": {
+        "concept": "Bootstrapping refers to self-funding without external capital.",
+        "step_by_step": [
+          "Angel investors provide early capital.",
+          "VC firms invest in scaling startups.",
+          "Bootstrapping uses internal funds.",
+          "PE firms invest in mature companies."
+        ],
+        "why_correct": {
+          "C": "Bootstrapping means self-funding."
+        },
+        "why_incorrect": {
+          "A": "Involves external investors.",
+          "B": "Institutional funding.",
+          "D": "Late-stage investment."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Startup funding"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

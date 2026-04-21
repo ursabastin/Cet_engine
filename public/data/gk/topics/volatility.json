@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3193,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Volatility",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "High volatility in a stock primarily indicates:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stable price movement"
+      },
+      {
+        "id": "B",
+        "text": "Large and frequent price fluctuations"
+      },
+      {
+        "id": "C",
+        "text": "Guaranteed high returns"
+      },
+      {
+        "id": "D",
+        "text": "Low trading volume"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Large and frequent price fluctuations",
+      "explanation": {
+        "concept": "Volatility measures the degree of variation in stock prices over time.",
+        "step_by_step": [
+          "Observe price movements",
+          "Frequent and large changes",
+          "Indicates high volatility"
+        ],
+        "why_correct": {
+          "B": "Defines volatility accurately"
+        },
+        "why_incorrect": {
+          "A": "Opposite of volatility",
+          "C": "Returns are uncertain",
+          "D": "Volume not directly linked"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3193",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "volatility"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

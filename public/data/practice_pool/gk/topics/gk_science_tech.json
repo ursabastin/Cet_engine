@@ -1,0 +1,1833 @@
+[
+    {
+        "id":  3001,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Space Exploration",
+        "difficulty":  {
+                           "level":  4,
+                           "label":  "moderate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.52,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Which ISRO mission made India the first country to successfully land near the lunar South Pole, marking a significant milestone in space exploration?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Chandrayaan-2"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Chandrayaan-3"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Aditya-L1"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Gaganyaan"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Chandrayaan-3",
+                         "explanation":  {
+                                             "concept":  "Chandrayaan-3 was India\u0027s third lunar mission and achieved a soft landing near the Moon’s South Pole, a region previously unexplored by any country.",
+                                             "step_by_step":  [
+                                                                  "Identify ISRO lunar missions: Chandrayaan-2 attempted landing but failed.",
+                                                                  "Chandrayaan-3 successfully executed a soft landing.",
+                                                                  "The landing site was near the South Pole, a first globally."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "A":  "Chandrayaan-2 failed to achieve soft landing.",
+                                                                 "B":  "Correct: Chandrayaan-3 successfully landed near the South Pole."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "C":  "Aditya-L1 is a solar observation mission.",
+                                                                   "D":  "Gaganyaan is a human spaceflight mission, not lunar landing."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_01",
+        "confidence_score":  0.94,
+        "metadata":  {
+                         "estimated_time_sec":  45,
+                         "concepts":  [
+                                          "ISRO missions",
+                                          "Lunar exploration"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3004,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Space Exploration",
+        "difficulty":  {
+                           "level":  5,
+                           "label":  "intermediate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.61,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "What is the primary scientific objective of the James Webb Space Telescope (JWST)?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Study Earth\u0027s atmosphere"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Observe early universe galaxies in infrared spectrum"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Detect gravitational waves"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Monitor solar flares"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Observe early universe galaxies in infrared spectrum",
+                         "explanation":  {
+                                             "concept":  "JWST uses infrared imaging to observe distant galaxies formed shortly after the Big Bang.",
+                                             "step_by_step":  [
+                                                                  "Understand JWST operates in infrared wavelengths.",
+                                                                  "This allows detection of very distant, early galaxies.",
+                                                                  "Other functions belong to different observatories."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: JWST studies early universe in infrared."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Earth atmosphere is studied by satellites, not JWST.",
+                                                                   "C":  "Gravitational waves are detected by LIGO.",
+                                                                   "D":  "Solar flares are studied by solar observatories like Aditya-L1."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_04",
+        "confidence_score":  0.93,
+        "metadata":  {
+                         "estimated_time_sec":  50,
+                         "concepts":  [
+                                          "Astronomy",
+                                          "Infrared observation"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3010,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Space Exploration",
+        "difficulty":  {
+                           "level":  5,
+                           "label":  "intermediate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.6,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "What is the primary objective of ISRO’s Aditya-L1 mission launched in 2023–24 timeframe?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Study lunar surface composition"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Observe the Sun\u0027s corona and solar activity"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Search for extraterrestrial life"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Map Earth\u0027s magnetic field"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Observe the Sun\u0027s corona and solar activity",
+                         "explanation":  {
+                                             "concept":  "Aditya-L1 is India’s first solar mission aimed at studying the Sun’s outer layers and solar phenomena.",
+                                             "step_by_step":  [
+                                                                  "Aditya-L1 is a solar mission.",
+                                                                  "It studies corona and solar winds.",
+                                                                  "It is positioned at Lagrange point L1."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: It studies solar corona and activity."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Lunar study is done by Chandrayaan missions.",
+                                                                   "C":  "No such objective in Aditya-L1.",
+                                                                   "D":  "Earth magnetic mapping is done by other satellites."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_10",
+        "confidence_score":  0.94,
+        "metadata":  {
+                         "estimated_time_sec":  50,
+                         "concepts":  [
+                                          "Solar missions",
+                                          "Lagrange points"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3011,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Space Exploration",
+        "difficulty":  {
+                           "level":  6,
+                           "label":  "hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.72,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "The landing site of Chandrayaan-3 on the Moon has been officially named as which of the following?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Vikram Point"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Shiv Shakti Point"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Sarabhai Crater"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Tricolor Base"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Shiv Shakti Point",
+                         "explanation":  {
+                                             "concept":  "India named the Chandrayaan-3 landing site as Shiv Shakti Point to symbolize energy and strength.",
+                                             "step_by_step":  [
+                                                                  "Identify Chandrayaan-3 landing achievements.",
+                                                                  "The landing site was officially named by India.",
+                                                                  "The name given is Shiv Shakti Point."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: Shiv Shakti Point is the official name."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "No such official designation.",
+                                                                   "C":  "Sarabhai is linked to ISRO founder, not landing site.",
+                                                                   "D":  "Not an official name."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_11",
+        "confidence_score":  0.95,
+        "metadata":  {
+                         "estimated_time_sec":  45,
+                         "concepts":  [
+                                          "Lunar missions",
+                                          "ISRO milestones"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3022,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Space Exploration",
+        "difficulty":  {
+                           "level":  5,
+                           "label":  "intermediate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.6,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Why is the Moon’s South Pole region considered scientifically important for exploration missions like Chandrayaan-3?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "It has higher gravitational force"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "It contains permanently shadowed craters with possible water ice"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "It is closest to Earth"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "It has the highest temperature variations only"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "It contains permanently shadowed craters with possible water ice",
+                         "explanation":  {
+                                             "concept":  "The lunar South Pole has regions that never receive sunlight, preserving water ice deposits crucial for future missions.",
+                                             "step_by_step":  [
+                                                                  "Understand lunar geography.",
+                                                                  "Shadowed craters trap ice.",
+                                                                  "This is vital for fuel and life support."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: Water ice presence makes it important."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Gravity is nearly uniform across Moon.",
+                                                                   "C":  "Distance is not significantly different.",
+                                                                   "D":  "Temperature variation alone is not primary reason."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_22",
+        "confidence_score":  0.94,
+        "metadata":  {
+                         "estimated_time_sec":  55,
+                         "concepts":  [
+                                          "Lunar science"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3030,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Space Exploration",
+        "difficulty":  {
+                           "level":  6,
+                           "label":  "hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.7,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Why is the Lagrange Point L1 chosen for missions like Aditya-L1?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "It is closest point to the Sun"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "It allows continuous, unobstructed view of the Sun"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "It has zero gravity"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "It enables faster spacecraft speeds"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "It allows continuous, unobstructed view of the Sun",
+                         "explanation":  {
+                                             "concept":  "L1 is a stable gravitational point where a satellite can continuously observe the Sun without Earth\u0027s obstruction.",
+                                             "step_by_step":  [
+                                                                  "Lagrange points balance gravitational forces.",
+                                                                  "L1 lies between Earth and Sun.",
+                                                                  "It provides constant solar observation."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: Enables uninterrupted solar observation."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Not the closest point.",
+                                                                   "C":  "Gravity still exists.",
+                                                                   "D":  "Speed is not the main advantage."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_30",
+        "confidence_score":  0.94,
+        "metadata":  {
+                         "estimated_time_sec":  60,
+                         "concepts":  [
+                                          "Orbital mechanics"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3020,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Space Technology",
+        "difficulty":  {
+                           "level":  6,
+                           "label":  "hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.7,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "SpaceX’s Starship is primarily designed to achieve which long-term objective in space exploration?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Deploy weather satellites"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Enable interplanetary travel, including missions to Mars"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Study Earth\u0027s magnetosphere"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Observe distant galaxies"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Enable interplanetary travel, including missions to Mars",
+                         "explanation":  {
+                                             "concept":  "Starship is a fully reusable spacecraft intended for deep-space missions, particularly Mars colonization.",
+                                             "step_by_step":  [
+                                                                  "Understand SpaceX goals.",
+                                                                  "Starship is heavy-lift reusable rocket.",
+                                                                  "It targets Mars missions."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: Starship aims for interplanetary travel."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Satellite deployment is secondary.",
+                                                                   "C":  "Magnetosphere study uses scientific satellites.",
+                                                                   "D":  "Galaxy observation is done by telescopes like JWST."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_20",
+        "confidence_score":  0.94,
+        "metadata":  {
+                         "estimated_time_sec":  60,
+                         "concepts":  [
+                                          "SpaceX",
+                                          "Mars missions"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3016,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Indian Space Program",
+        "difficulty":  {
+                           "level":  5,
+                           "label":  "intermediate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.62,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "What is the primary objective of the Gaganyaan mission planned by ISRO?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Establish a lunar base"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Send humans into low Earth orbit"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Launch a Mars rover"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Deploy communication satellites"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Send humans into low Earth orbit",
+                         "explanation":  {
+                                             "concept":  "Gaganyaan is India\u0027s first human spaceflight mission aiming to send astronauts into low Earth orbit.",
+                                             "step_by_step":  [
+                                                                  "Understand ISRO mission categories.",
+                                                                  "Gaganyaan is crewed mission.",
+                                                                  "It targets low Earth orbit."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: Gaganyaan aims for human spaceflight."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "No lunar base mission planned yet.",
+                                                                   "C":  "Mars rover is not part of Gaganyaan.",
+                                                                   "D":  "Satellite deployment is routine ISRO activity."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_16",
+        "confidence_score":  0.95,
+        "metadata":  {
+                         "estimated_time_sec":  50,
+                         "concepts":  [
+                                          "Human spaceflight"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3002,
+        "subject":  "General Awareness",
+        "chapter":  "Static GK",
+        "topic":  "Artificial Intelligence",
+        "difficulty":  {
+                           "level":  3,
+                           "label":  "basic",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.41,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Which organization developed the generative AI model known as ChatGPT?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Google"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Microsoft"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "OpenAI"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Meta"
+                        }
+                    ],
+        "correct_option":  "C",
+        "solution":  {
+                         "final_answer":  "OpenAI",
+                         "explanation":  {
+                                             "concept":  "ChatGPT is a generative AI model based on large language models developed by OpenAI.",
+                                             "step_by_step":  [
+                                                                  "Recognize major AI companies.",
+                                                                  "ChatGPT is specifically linked with OpenAI.",
+                                                                  "Other companies have their own models like Gemini (Google)."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "C":  "Correct: OpenAI created ChatGPT."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Google developed Gemini, not ChatGPT.",
+                                                                   "B":  "Microsoft partners with OpenAI but did not develop ChatGPT.",
+                                                                   "D":  "Meta focuses on LLaMA models."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_02",
+        "confidence_score":  0.96,
+        "metadata":  {
+                         "estimated_time_sec":  30,
+                         "concepts":  [
+                                          "Generative AI",
+                                          "Tech companies"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Static GK"
+    },
+    {
+        "id":  3009,
+        "subject":  "General Awareness",
+        "chapter":  "Static GK",
+        "topic":  "Artificial Intelligence",
+        "difficulty":  {
+                           "level":  4,
+                           "label":  "moderate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.55,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Which technology company developed the AI model \u0027Gemini\u0027, considered a major competitor to ChatGPT?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Amazon"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Google"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "IBM"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Apple"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Google",
+                         "explanation":  {
+                                             "concept":  "Gemini is a generative AI model developed by Google as part of its AI ecosystem.",
+                                             "step_by_step":  [
+                                                                  "Identify AI competitors.",
+                                                                  "Gemini belongs to Google.",
+                                                                  "Other companies have different AI systems."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: Gemini is developed by Google."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Amazon focuses on AWS AI tools.",
+                                                                   "C":  "IBM develops Watson.",
+                                                                   "D":  "Apple focuses on device AI."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_09",
+        "confidence_score":  0.95,
+        "metadata":  {
+                         "estimated_time_sec":  35,
+                         "concepts":  [
+                                          "AI competition"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Static GK"
+    },
+    {
+        "id":  3012,
+        "subject":  "General Awareness",
+        "chapter":  "Static GK",
+        "topic":  "Artificial Intelligence",
+        "difficulty":  {
+                           "level":  5,
+                           "label":  "intermediate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.6,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Which of the following best describes Generative AI models like ChatGPT and Gemini?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "They only retrieve stored data without modification"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "They generate new content based on learned patterns"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "They function only as search engines"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "They are limited to numerical computations"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "They generate new content based on learned patterns",
+                         "explanation":  {
+                                             "concept":  "Generative AI models use deep learning to produce new text, images, or code by learning patterns from training data.",
+                                             "step_by_step":  [
+                                                                  "Understand difference between retrieval and generation.",
+                                                                  "Generative AI creates new outputs.",
+                                                                  "It uses probabilistic modeling of language/data."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: Generative AI produces new content."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "That describes database retrieval systems.",
+                                                                   "C":  "Search engines index and retrieve data, not generate.",
+                                                                   "D":  "AI is not limited to numeric computation."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_12",
+        "confidence_score":  0.96,
+        "metadata":  {
+                         "estimated_time_sec":  50,
+                         "concepts":  [
+                                          "Generative AI",
+                                          "Machine learning"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Static GK"
+    },
+    {
+        "id":  3021,
+        "subject":  "General Awareness",
+        "chapter":  "Static GK",
+        "topic":  "Artificial Intelligence",
+        "difficulty":  {
+                           "level":  6,
+                           "label":  "hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.71,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Which of the following best explains the role of training data in large language models like ChatGPT?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "It directly stores answers for retrieval"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "It programs fixed rules for responses"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "It helps the model learn statistical patterns of language"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "It limits the model to predefined outputs only"
+                        }
+                    ],
+        "correct_option":  "C",
+        "solution":  {
+                         "final_answer":  "It helps the model learn statistical patterns of language",
+                         "explanation":  {
+                                             "concept":  "Large language models are trained on datasets to learn probabilistic relationships between words and phrases.",
+                                             "step_by_step":  [
+                                                                  "Training data is used during model training phase.",
+                                                                  "Model learns patterns, not exact answers.",
+                                                                  "It predicts next tokens probabilistically."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "C":  "Correct: Training data enables pattern learning."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Models do not function as databases.",
+                                                                   "B":  "Rules are not hard-coded.",
+                                                                   "D":  "Models generate flexible outputs."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_21",
+        "confidence_score":  0.95,
+        "metadata":  {
+                         "estimated_time_sec":  60,
+                         "concepts":  [
+                                          "Machine learning",
+                                          "Language models"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Static GK"
+    },
+    {
+        "id":  3014,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Quantum Computing",
+        "difficulty":  {
+                           "level":  7,
+                           "label":  "very_hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.82,
+        "marks":  4,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Which of the following statements correctly explains the fundamental advantage of quantum computers over classical computers?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "They operate faster due to higher clock speeds"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "They use bits with more storage capacity"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "They utilize superposition and entanglement for parallel computation"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "They consume less electrical power in all computations"
+                        }
+                    ],
+        "correct_option":  "C",
+        "solution":  {
+                         "final_answer":  "They utilize superposition and entanglement for parallel computation",
+                         "explanation":  {
+                                             "concept":  "Quantum computers leverage quantum mechanics principles like superposition and entanglement to process multiple states simultaneously.",
+                                             "step_by_step":  [
+                                                                  "Classical bits are binary (0 or 1).",
+                                                                  "Quantum bits (qubits) can exist in multiple states.",
+                                                                  "This allows parallelism in computation."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "C":  "Correct: Quantum principles enable exponential computational advantages."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Speed is not due to clock frequency.",
+                                                                   "B":  "Storage is not the key advantage.",
+                                                                   "D":  "Power efficiency is not universally guaranteed."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_14",
+        "confidence_score":  0.93,
+        "metadata":  {
+                         "estimated_time_sec":  70,
+                         "concepts":  [
+                                          "Quantum computing",
+                                          "Superposition"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3005,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Biotechnology",
+        "difficulty":  {
+                           "level":  6,
+                           "label":  "hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.74,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "CRISPR-Cas9 technology is primarily used for which of the following scientific applications?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "DNA sequencing"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Gene editing"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Protein synthesis"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Cell imaging"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Gene editing",
+                         "explanation":  {
+                                             "concept":  "CRISPR-Cas9 is a genome editing tool that allows precise modification of DNA sequences.",
+                                             "step_by_step":  [
+                                                                  "CRISPR acts as molecular scissors.",
+                                                                  "It targets specific DNA sequences.",
+                                                                  "It modifies genes precisely."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: CRISPR is used for gene editing."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "DNA sequencing reads DNA, not edits it.",
+                                                                   "C":  "Protein synthesis is a cellular process.",
+                                                                   "D":  "Cell imaging uses microscopy."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_05",
+        "confidence_score":  0.95,
+        "metadata":  {
+                         "estimated_time_sec":  55,
+                         "concepts":  [
+                                          "Genetics",
+                                          "Biotechnology"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3025,
+        "subject":  "General Awareness",
+        "chapter":  "Core Essentials",
+        "topic":  "Biotechnology",
+        "difficulty":  {
+                           "level":  7,
+                           "label":  "very_hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.82,
+        "marks":  4,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "In CRISPR-Cas9 gene editing, what is the specific role of the Cas9 protein?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "It identifies target DNA sequences"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "It acts as molecular scissors to cut DNA"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "It repairs DNA strands"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "It synthesizes RNA guides"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "It acts as molecular scissors to cut DNA",
+                         "explanation":  {
+                                             "concept":  "Cas9 is an endonuclease enzyme that cuts DNA at specific locations guided by RNA.",
+                                             "step_by_step":  [
+                                                                  "Guide RNA identifies target sequence.",
+                                                                  "Cas9 binds to DNA.",
+                                                                  "It cuts DNA precisely."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: Cas9 cuts DNA."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Guide RNA identifies sequence.",
+                                                                   "C":  "Repair is done by cell mechanisms.",
+                                                                   "D":  "RNA synthesis is separate."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_25",
+        "confidence_score":  0.94,
+        "metadata":  {
+                         "estimated_time_sec":  70,
+                         "concepts":  [
+                                          "Gene editing"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Core Essentials"
+    },
+    {
+        "id":  3015,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Medical Science",
+        "difficulty":  {
+                           "level":  6,
+                           "label":  "hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.75,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Recent breakthroughs (2024–2025) in malaria vaccines have primarily targeted which stage of the Plasmodium parasite lifecycle?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Blood-stage replication"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Liver-stage infection"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Mosquito-stage fertilization"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Sporozoite entry into bloodstream"
+                        }
+                    ],
+        "correct_option":  "D",
+        "solution":  {
+                         "final_answer":  "Sporozoite entry into bloodstream",
+                         "explanation":  {
+                                             "concept":  "Modern malaria vaccines target the sporozoite stage to prevent infection before parasites reach liver cells.",
+                                             "step_by_step":  [
+                                                                  "Sporozoites are injected by mosquito.",
+                                                                  "They enter bloodstream first.",
+                                                                  "Vaccines block this entry stage."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "D":  "Correct: Blocking sporozoite entry prevents infection."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "Blood stage occurs later after infection.",
+                                                                   "B":  "Liver stage occurs after sporozoite entry.",
+                                                                   "C":  "Mosquito stage is not targeted in humans."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_15",
+        "confidence_score":  0.91,
+        "metadata":  {
+                         "estimated_time_sec":  65,
+                         "concepts":  [
+                                          "Vaccinology",
+                                          "Malaria lifecycle"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Science \u0026 Tech"
+    },
+    {
+        "id":  3027,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Medical Science",
+        "difficulty":  {
+                           "level":  6,
+                           "label":  "hard",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.74,
+        "marks":  3,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Recent advancements in cancer vaccines (2024–2025) primarily utilize which technology to personalize treatment?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "DNA fingerprinting"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "mRNA-based platforms"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "X-ray imaging"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Antibiotic synthesis"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "mRNA-based platforms",
+                         "explanation":  {
+                                             "concept":  "mRNA vaccines can be tailored to target specific tumor antigens, enabling personalized cancer immunotherapy.",
+                                             "step_by_step":  [
+                                                                  "mRNA technology encodes specific proteins.",
+                                                                  "Immune system targets these proteins.",
+                                                                  "Personalization is possible using patient tumor data."
+                                                              ],
+                                             "why_correct":  {
+                                                                 "B":  "Correct: mRNA enables personalized vaccines."
+                                                             },
+                                             "why_incorrect":  {
+                                                                   "A":  "DNA fingerprinting identifies individuals.",
+                                                                   "C":  "Imaging does not treat cancer.",
+                                                                   "D":  "Antibiotics target bacteria."
+                                                               }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "VAR_27",
+        "confidence_score":  0.93,
+        "metadata":  {
+                         "estimated_time_sec":  65,
+                         "concepts":  [
+                                          "Immunotherapy"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Science \u0026 Tech"
+    },
+    {
+        "id":  5501,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Science \u0026 Technology",
+        "difficulty":  {
+                           "level":  5,
+                           "label":  "intermediate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.6,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "What is the name of India\u0027s planned human spaceflight mission expected to launch its first crewed flight by 2026?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Chandrayaan-4"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Gaganyaan"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Aditya-L2"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Mangalyaan-2"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Gaganyaan",
+                         "explanation":  {
+                                             "concept":  "Indian space program.",
+                                             "why_correct":  {
+                                                                 "B":  "Gaganyaan is ISRO\u0027s mission to send Indian astronauts to low Earth orbit."
+                                                             }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "ST_01",
+        "confidence_score":  0.99,
+        "metadata":  {
+                         "estimated_time_sec":  20,
+                         "concepts":  [
+                                          "ISRO"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Space"
+    },
+    {
+        "id":  5502,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Science \u0026 Technology",
+        "difficulty":  {
+                           "level":  4,
+                           "label":  "moderate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.5,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "In AI, what does the \u0027GPT\u0027 in \u0027ChatGPT\u0027 stand for?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "General Processing Tool"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Generative Pre-trained Transformer"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Global Predictive Technology"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Grid-based Programmed Text"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Generative Pre-trained Transformer",
+                         "explanation":  {
+                                             "concept":  "Artificial Intelligence terms.",
+                                             "why_correct":  {
+                                                                 "B":  "GPT describes the model architecture and training methodology."
+                                                             }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "ST_02",
+        "confidence_score":  0.99,
+        "metadata":  {
+                         "estimated_time_sec":  15,
+                         "concepts":  [
+                                          "AI"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "AI"
+    },
+    {
+        "id":  5503,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Science \u0026 Technology",
+        "difficulty":  {
+                           "level":  5,
+                           "label":  "intermediate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.65,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Which technology uses \u0027Qubits\u0027 instead of classical bits for processing information?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Cloud Computing"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Quantum Computing"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Blockchain"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Edge Computing"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Quantum Computing",
+                         "explanation":  {
+                                             "concept":  "Emerging tech.",
+                                             "why_correct":  {
+                                                                 "B":  "Qubits allow for superposition and entanglement in quantum processors."
+                                                             }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "ST_03",
+        "confidence_score":  0.99,
+        "metadata":  {
+                         "estimated_time_sec":  20,
+                         "concepts":  [
+                                          "Quantum"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Computing"
+    },
+    {
+        "id":  5504,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Science \u0026 Technology",
+        "difficulty":  {
+                           "level":  4,
+                           "label":  "moderate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.45,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "What is the primary purpose of the \u0027James Webb Space Telescope\u0027 (JWST)?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Monitoring Earth\u0027s weather"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Observing the early universe in infrared"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Landing on Mars"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Detecting deep-sea minerals"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Observing the early universe in infrared",
+                         "explanation":  {
+                                             "concept":  "Space telescopes.",
+                                             "why_correct":  {
+                                                                 "B":  "JWST is designed to see the light from the first stars and galaxies."
+                                                             }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "ST_04",
+        "confidence_score":  0.98,
+        "metadata":  {
+                         "estimated_time_sec":  25,
+                         "concepts":  [
+                                          "Astronomy"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Space"
+    },
+    {
+        "id":  5505,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Science \u0026 Technology",
+        "difficulty":  {
+                           "level":  5,
+                           "label":  "intermediate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.55,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "Which genetic engineering tool, known as \u0027molecular scissors\u0027, won the Nobel Prize in Chemistry in 2020?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "PCR"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "CRISPR-Cas9"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "DNA Sequencing"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "mRNA Vaccines"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "CRISPR-Cas9",
+                         "explanation":  {
+                                             "concept":  "Biotechnology.",
+                                             "why_correct":  {
+                                                                 "B":  "CRISPR allows for precise editing of DNA sequences."
+                                                             }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "ST_05",
+        "confidence_score":  0.99,
+        "metadata":  {
+                         "estimated_time_sec":  30,
+                         "concepts":  [
+                                          "Biotech"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Biotechnology"
+    },
+    {
+        "id":  5506,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Science \u0026 Technology",
+        "difficulty":  {
+                           "level":  3,
+                           "label":  "basic",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.35,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "What is the main component of \u0027Natural Gas\u0027?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Ethane"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Propane"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Methane"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Butane"
+                        }
+                    ],
+        "correct_option":  "C",
+        "solution":  {
+                         "final_answer":  "Methane",
+                         "explanation":  {
+                                             "concept":  "Science basics.",
+                                             "why_correct":  {
+                                                                 "C":  "Methane (CH4) typically makes up 70-90% of natural gas."
+                                                             }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "ST_06",
+        "confidence_score":  0.99,
+        "metadata":  {
+                         "estimated_time_sec":  10,
+                         "concepts":  [
+                                          "Chemistry"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "General Science"
+    },
+    {
+        "id":  5507,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Science \u0026 Technology",
+        "difficulty":  {
+                           "level":  4,
+                           "label":  "moderate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.45,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "In 2026, which country\u0027s space agency is launching the \u0027Artemis II\u0027 mission to orbit the Moon?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "ESA"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "NASA"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "CNSA"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Roscosmos"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "NASA",
+                         "explanation":  {
+                                             "concept":  "Global space missions.",
+                                             "why_correct":  {
+                                                                 "B":  "NASA\u0027s Artemis II will be the first crewed mission to the Moon in over 50 years."
+                                                             }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "ST_07",
+        "confidence_score":  0.98,
+        "metadata":  {
+                         "estimated_time_sec":  20,
+                         "concepts":  [
+                                          "NASA"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "Space"
+    },
+    {
+        "id":  5508,
+        "subject":  "General Awareness",
+        "chapter":  "Science \u0026 Tech",
+        "topic":  "Science \u0026 Technology",
+        "difficulty":  {
+                           "level":  4,
+                           "label":  "moderate",
+                           "scale":  [
+                                         "very_easy",
+                                         "easy",
+                                         "basic",
+                                         "moderate",
+                                         "intermediate",
+                                         "hard",
+                                         "very_hard"
+                                     ]
+                       },
+        "difficulty_weight":  0.5,
+        "marks":  2,
+        "negative_marks":  1,
+        "question_type":  "MCQ",
+        "answer_type":  "single_correct",
+        "question_text":  "What is \u0027Generative AI\u0027 primarily used for?",
+        "options":  [
+                        {
+                            "id":  "A",
+                            "text":  "Data storage"
+                        },
+                        {
+                            "id":  "B",
+                            "text":  "Creating new content like text, images, and code"
+                        },
+                        {
+                            "id":  "C",
+                            "text":  "Increasing hardware speed"
+                        },
+                        {
+                            "id":  "D",
+                            "text":  "Connecting local networks"
+                        }
+                    ],
+        "correct_option":  "B",
+        "solution":  {
+                         "final_answer":  "Creating new content like text, images, and code",
+                         "explanation":  {
+                                             "concept":  "AI applications.",
+                                             "why_correct":  {
+                                                                 "B":  "Generative AI models learn patterns and generate novel outputs."
+                                                             }
+                                         }
+                     },
+        "question_state":  "active",
+        "variation_id":  "ST_08",
+        "confidence_score":  0.99,
+        "metadata":  {
+                         "estimated_time_sec":  15,
+                         "concepts":  [
+                                          "AI"
+                                      ],
+                         "formulae":  [
+
+                                      ]
+                     },
+        "subtopic":  "AI"
+    }
+]

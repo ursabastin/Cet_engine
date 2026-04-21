@@ -1,0 +1,298 @@
+[
+  {
+    "id": 2897,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "India Events",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "India AI Impact Summit 2026 is scheduled to be held in which city?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mumbai"
+      },
+      {
+        "id": "B",
+        "text": "New Delhi"
+      },
+      {
+        "id": "C",
+        "text": "Bengaluru"
+      },
+      {
+        "id": "D",
+        "text": "Hyderabad"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "New Delhi",
+      "explanation": {
+        "concept": "Major tech summits in India are hosted in key administrative or tech hubs.",
+        "step_by_step": [
+          "Recall event name.",
+          "Identify host city.",
+          "Confirm New Delhi."
+        ],
+        "why_correct": {
+          "B": "Correct host city."
+        },
+        "why_incorrect": {
+          "A": "Incorrect city.",
+          "C": "Tech hub but not venue.",
+          "D": "Different event city."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "AI summits India"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2905,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "India Events",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "BioAsia 2026, a major biotechnology summit in India, is scheduled to be held in which city?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pune"
+      },
+      {
+        "id": "B",
+        "text": "Hyderabad"
+      },
+      {
+        "id": "C",
+        "text": "Chennai"
+      },
+      {
+        "id": "D",
+        "text": "Ahmedabad"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hyderabad",
+      "explanation": {
+        "concept": "India hosts sector-specific summits in cities known for domain expertise.",
+        "step_by_step": [
+          "Recall BioAsia summit.",
+          "Associate with biotech hub.",
+          "Hyderabad is correct."
+        ],
+        "why_correct": {
+          "B": "Correct host city."
+        },
+        "why_incorrect": {
+          "A": "Tech hub but not BioAsia venue.",
+          "C": "Incorrect.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Biotech summits"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2909,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "India Events",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The theme of India's Republic Day 2026 celebrations is expected to commemorate which milestone?",
+    "options": [
+      {
+        "id": "A",
+        "text": "75 years of Constitution"
+      },
+      {
+        "id": "B",
+        "text": "100 years of Independence"
+      },
+      {
+        "id": "C",
+        "text": "150 years of Vande Mataram"
+      },
+      {
+        "id": "D",
+        "text": "50 years of Emergency"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "150 years of Vande Mataram",
+      "explanation": {
+        "concept": "Republic Day themes often align with historical milestones.",
+        "step_by_step": [
+          "Recall 2026 theme.",
+          "Identify milestone.",
+          "Match with correct option."
+        ],
+        "why_correct": {
+          "C": "Correct theme milestone."
+        },
+        "why_incorrect": {
+          "A": "Different milestone.",
+          "B": "Occurs in 2047.",
+          "D": "Unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "National celebrations"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2915,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "India Events",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following correctly matches the event with its host city in India (2026)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "India AI Impact Summit – Bengaluru"
+      },
+      {
+        "id": "B",
+        "text": "BioAsia – Hyderabad"
+      },
+      {
+        "id": "C",
+        "text": "India AI Impact Summit – Mumbai"
+      },
+      {
+        "id": "D",
+        "text": "BioAsia – Pune"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "BioAsia – Hyderabad",
+      "explanation": {
+        "concept": "Event-location mapping is a key area in current affairs.",
+        "step_by_step": [
+          "Recall BioAsia location: Hyderabad.",
+          "Check other options.",
+          "Only correct match remains."
+        ],
+        "why_correct": {
+          "B": "Correct pairing."
+        },
+        "why_incorrect": {
+          "A": "Incorrect city.",
+          "C": "Incorrect.",
+          "D": "Incorrect location."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Event mapping India"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

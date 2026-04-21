@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2845,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Vyas Samman",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Vyas Samman is awarded annually for outstanding literary work in which language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "English"
+      },
+      {
+        "id": "B",
+        "text": "Hindi"
+      },
+      {
+        "id": "C",
+        "text": "Sanskrit"
+      },
+      {
+        "id": "D",
+        "text": "Any Indian language"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hindi",
+      "explanation": {
+        "concept": "Vyas Samman is awarded for outstanding Hindi literary work published in the last 10 years.",
+        "step_by_step": [
+          "Recall scope of Vyas Samman",
+          "Identify language restriction",
+          "Select Hindi"
+        ],
+        "why_correct": {
+          "B": "Correct as Vyas Samman is specifically for Hindi literature."
+        },
+        "why_incorrect": {
+          "A": "Not English",
+          "C": "Not limited to Sanskrit",
+          "D": "Not all languages"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Vyas Samman"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

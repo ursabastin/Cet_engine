@@ -1,0 +1,233 @@
+[
+  {
+    "id": 2402,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Functions",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which function in Excel returns the number of cells containing numeric values in a range?",
+    "options": [
+      {
+        "id": "A",
+        "text": "COUNT"
+      },
+      {
+        "id": "B",
+        "text": "COUNTA"
+      },
+      {
+        "id": "C",
+        "text": "COUNTIF"
+      },
+      {
+        "id": "D",
+        "text": "SUM"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "COUNT",
+      "explanation": {
+        "concept": "COUNT counts only numeric values, while COUNTA counts all non-empty cells.",
+        "step_by_step": [
+          "COUNT counts numbers only.",
+          "COUNTA counts all non-empty cells.",
+          "COUNTIF counts based on condition.",
+          "Thus COUNT is correct."
+        ],
+        "why_correct": {
+          "A": "Correct because COUNT counts numeric values only."
+        },
+        "why_incorrect": {
+          "B": "Counts text and numbers.",
+          "C": "Requires condition.",
+          "D": "Adds numbers instead of counting."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "functions"
+      ],
+      "formulae": [
+        "=COUNT(range)"
+      ]
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2412,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Functions",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What will be the result of =COUNTA(A1:A5) if A1=10, A2= Text, A3 is blank, A4=0, A5=(empty string)? ",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "4",
+      "explanation": {
+        "concept": "COUNTA counts all non-empty cells including text, numbers, and empty strings.",
+        "step_by_step": [
+          "A1=10 → counted.",
+          "A2=Text → counted.",
+          "A3 blank → not counted.",
+          "A4=0 → counted.",
+          "A5= counted (empty string is not blank). → Total = 4."
+        ],
+        "why_correct": {
+          "C": "Correct because COUNTA counts all non-empty including empty strings."
+        },
+        "why_incorrect": {
+          "A": "Under-counting values.",
+          "B": "Misses empty string case.",
+          "D": "Counts blank incorrectly."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "COUNTA behavior"
+      ],
+      "formulae": [
+        "=COUNTA(range)"
+      ]
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2422,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Functions",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What will be the output of =COUNTIF(A1:A5, > 10 ) if A1=5, A2=15, A3=10, A4=20, A5=8?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "2",
+      "explanation": {
+        "concept": "COUNTIF counts cells satisfying a given condition.",
+        "step_by_step": [
+          "Values >10: A2=15, A4=20.",
+          "A3=10 not counted because condition is strictly >10.",
+          "Total count = 2."
+        ],
+        "why_correct": {
+          "B": "Correct count of values greater than 10."
+        },
+        "why_incorrect": {
+          "A": "Misses one valid value.",
+          "C": "Includes 10 incorrectly.",
+          "D": "Overcounting."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "COUNTIF"
+      ],
+      "formulae": [
+        "=COUNTIF(range,criteria)"
+      ]
+    },
+    "subtopic": "IT & Programming"
+  }
+]

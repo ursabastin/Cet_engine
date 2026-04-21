@@ -1,0 +1,80 @@
+[
+  {
+    "id": 3031,
+    "subject": "General Awareness",
+    "chapter": "Current Affairs & Economics",
+    "topic": "Budget 2026-27 Highlights",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The central theme of the Union Budget 2026-27 emphasizing inclusive development, digital expansion, and sustainability is best aligned with which of the following visions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Make in India"
+      },
+      {
+        "id": "B",
+        "text": "Viksit Bharat"
+      },
+      {
+        "id": "C",
+        "text": "Startup India"
+      },
+      {
+        "id": "D",
+        "text": "Skill India"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Viksit Bharat",
+      "explanation": {
+        "concept": "Recent Union Budgets focus on long-term developmental vision aligning economic growth with sustainability and inclusiveness.",
+        "step_by_step": [
+          "Identify the core theme mentioned in the question.",
+          "Recognize that recent budgets emphasize long-term national development goals.",
+          "‘Viksit Bharat’ is the overarching vision guiding policy direction."
+        ],
+        "why_correct": {
+          "A": "Incorrect because it focuses only on manufacturing, not overall development vision.",
+          "B": "Correct as it represents holistic development including digital, green, and inclusive growth.",
+          "C": "Focuses on entrepreneurship, not the broader national theme.",
+          "D": "Skill development is a component, not the main theme."
+        },
+        "why_incorrect": {
+          "A": "Too narrow in scope.",
+          "C": "Limited to startup ecosystem.",
+          "D": "Does not represent full budget vision."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "budget theme",
+        "economic vision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Current Affairs & Economics"
+  }
+]

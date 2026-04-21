@@ -1,0 +1,763 @@
+[
+  {
+    "id": 1626,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A company claims that implementing flexible working hours has increased employee productivity because overall project completion time has decreased by 15%. Which of the following, if true, most seriously weakens this conclusion?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Employees reported higher job satisfaction after flexible hours were introduced."
+      },
+      {
+        "id": "B",
+        "text": "The company hired additional temporary staff during the same period."
+      },
+      {
+        "id": "C",
+        "text": "Flexible working hours were optional for employees."
+      },
+      {
+        "id": "D",
+        "text": "Project complexity remained unchanged during the period."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Weakening questions require identifying alternative causes that explain the observed effect.",
+        "step_by_step": [
+          "Conclusion: Flexible hours caused improved productivity.",
+          "Look for alternative explanations for reduced completion time.",
+          "Hiring additional staff could reduce completion time independently.",
+          "This undermines the causal link between flexible hours and productivity."
+        ],
+        "why_correct": {
+          "A": "Incorrect because satisfaction does not directly challenge productivity claim.",
+          "B": "Correct because additional staff is an alternative explanation for faster completion.",
+          "C": "Irrelevant to causation.",
+          "D": "Supports consistency but does not weaken argument."
+        },
+        "why_incorrect": {
+          "A": "Does not contradict or weaken the claim.",
+          "C": "Does not provide alternative explanation.",
+          "D": "Actually strengthens reliability of comparison."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "causal reasoning",
+        "weakening arguments"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1627,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "All the employees who attended the training improved their performance. Some employees who did not attend the training also improved their performance. Which conclusion logically follows?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Training is the only factor responsible for performance improvement."
+      },
+      {
+        "id": "B",
+        "text": "Some employees improved performance without attending training."
+      },
+      {
+        "id": "C",
+        "text": "No employee who skipped training improved performance."
+      },
+      {
+        "id": "D",
+        "text": "All employees improved performance."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Syllogistic reasoning involving overlapping sets.",
+        "step_by_step": [
+          "Given: All trained employees improved.",
+          "Given: Some untrained employees also improved.",
+          "This directly implies improvement without training is possible.",
+          "Thus, option B is valid."
+        ],
+        "why_correct": {
+          "B": "Directly derived from second statement."
+        },
+        "why_incorrect": {
+          "A": "Contradicted by second statement.",
+          "C": "Opposite of given information.",
+          "D": "Not supported; only 'some' improved."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "syllogism",
+        "logical deduction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1628,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.9,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "An analyst argues that because sales increased after the advertising campaign, the campaign must have caused the increase. Which of the following identifies the most critical flaw in the reasoning?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fails to consider that correlation does not imply causation."
+      },
+      {
+        "id": "B",
+        "text": "Assumes that sales cannot decrease after advertising."
+      },
+      {
+        "id": "C",
+        "text": "Ignores the possibility of seasonal demand fluctuations."
+      },
+      {
+        "id": "D",
+        "text": "Assumes that advertising campaigns are always effective."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A",
+      "explanation": {
+        "concept": "Post hoc fallacy—assuming causation from sequence.",
+        "step_by_step": [
+          "Observation: Sales increased after campaign.",
+          "Conclusion: Campaign caused increase.",
+          "This ignores possibility of coincidence or external factors.",
+          "This is classic correlation vs causation error."
+        ],
+        "why_correct": {
+          "A": "Correctly identifies core flaw in reasoning."
+        },
+        "why_incorrect": {
+          "B": "Not discussed in argument.",
+          "C": "Specific alternative, but not core flaw.",
+          "D": "Not assumed explicitly."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "causal fallacy",
+        "post hoc reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1629,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the statement 'All efficient managers are good communicators' is true, which of the following must also be true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "All good communicators are efficient managers."
+      },
+      {
+        "id": "B",
+        "text": "Some good communicators are efficient managers."
+      },
+      {
+        "id": "C",
+        "text": "No inefficient manager is a good communicator."
+      },
+      {
+        "id": "D",
+        "text": "Some efficient managers may not be good communicators."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Logical implication and set inclusion.",
+        "step_by_step": [
+          "Given: Efficient managers ⊆ good communicators.",
+          "This implies at least those efficient managers are good communicators.",
+          "So, some good communicators are efficient managers.",
+          "Thus B is valid."
+        ],
+        "why_correct": {
+          "B": "Follows directly from subset relationship."
+        },
+        "why_incorrect": {
+          "A": "Reverses relationship.",
+          "C": "Not necessarily true.",
+          "D": "Contradicts given statement."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "set theory",
+        "logical implication"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1630,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following strengthens the argument that electric vehicles reduce overall pollution?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Electric vehicles are more expensive than petrol vehicles."
+      },
+      {
+        "id": "B",
+        "text": "Electric vehicles produce zero emissions during operation."
+      },
+      {
+        "id": "C",
+        "text": "Charging stations are limited in rural areas."
+      },
+      {
+        "id": "D",
+        "text": "Battery disposal methods are not fully developed."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Strengthening requires supporting evidence for the conclusion.",
+        "step_by_step": [
+          "Conclusion: EVs reduce pollution.",
+          "Supporting evidence: lower emissions.",
+          "Option B directly supports reduced emissions.",
+          "Other options are irrelevant or weaken."
+        ],
+        "why_correct": {
+          "B": "Directly supports reduced pollution claim."
+        },
+        "why_incorrect": {
+          "A": "Irrelevant cost factor.",
+          "C": "Does not affect pollution claim.",
+          "D": "Potentially weakens argument."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "strengthening arguments"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1631,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A study finds that students who study at night score higher on exams. Which assumption is necessary for the conclusion that studying at night improves performance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Night study students sleep fewer hours."
+      },
+      {
+        "id": "B",
+        "text": "Students who study at night are not inherently more motivated."
+      },
+      {
+        "id": "C",
+        "text": "Daytime studying is less effective."
+      },
+      {
+        "id": "D",
+        "text": "Exam difficulty is uniform."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Necessary assumption eliminates alternative explanations.",
+        "step_by_step": [
+          "Conclusion assumes night study causes better performance.",
+          "Alternative: motivated students choose night study.",
+          "If true, causation fails.",
+          "So assumption must deny this alternative."
+        ],
+        "why_correct": {
+          "B": "Removes alternative explanation."
+        },
+        "why_incorrect": {
+          "A": "Irrelevant to causation.",
+          "C": "Not required assumption.",
+          "D": "Not essential for argument."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "assumption identification"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1632,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.91,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If all A are B, and no B are C, which of the following must be true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No A are C."
+      },
+      {
+        "id": "B",
+        "text": "Some A are C."
+      },
+      {
+        "id": "C",
+        "text": "All C are A."
+      },
+      {
+        "id": "D",
+        "text": "Some B are A."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A",
+      "explanation": {
+        "concept": "Transitive exclusion in set theory.",
+        "step_by_step": [
+          "A ⊆ B",
+          "B ∩ C = ∅",
+          "Thus A cannot overlap with C.",
+          "So, no A are C."
+        ],
+        "why_correct": {
+          "A": "Direct logical implication."
+        },
+        "why_incorrect": {
+          "B": "Contradicts logic.",
+          "C": "Unsupported reversal.",
+          "D": "Not necessarily true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "set relations",
+        "syllogism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1633,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which option best describes an argument that attacks the person rather than the claim?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ad hominem fallacy"
+      },
+      {
+        "id": "B",
+        "text": "Straw man fallacy"
+      },
+      {
+        "id": "C",
+        "text": "Circular reasoning"
+      },
+      {
+        "id": "D",
+        "text": "Slippery slope"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A",
+      "explanation": {
+        "concept": "Ad hominem targets individual instead of argument.",
+        "step_by_step": [
+          "Definition: attacking person not claim.",
+          "Ad hominem matches definition.",
+          "Other fallacies are different structures."
+        ],
+        "why_correct": {
+          "A": "Correct definition match."
+        },
+        "why_incorrect": {
+          "B": "Misrepresentation of argument.",
+          "C": "Conclusion assumed in premise.",
+          "D": "Chain reaction assumption."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "logical fallacies"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1634,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "An argument states: 'If the product quality improves, sales will increase. Sales did not increase. Therefore, product quality did not improve.' Identify the reasoning.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Modus ponens"
+      },
+      {
+        "id": "B",
+        "text": "Modus tollens"
+      },
+      {
+        "id": "C",
+        "text": "Affirming the consequent"
+      },
+      {
+        "id": "D",
+        "text": "Denying the antecedent"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Modus tollens: If P → Q, ¬Q ⇒ ¬P.",
+        "step_by_step": [
+          "Given: If P then Q.",
+          "Given: Not Q.",
+          "Conclusion: Not P.",
+          "This is modus tollens."
+        ],
+        "why_correct": {
+          "B": "Matches logical structure."
+        },
+        "why_incorrect": {
+          "A": "Requires P true.",
+          "C": "Different fallacy.",
+          "D": "Different invalid form."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "formal logic",
+        "conditional reasoning"
+      ],
+      "formulae": [
+        "If P→Q, ¬Q ⇒ ¬P"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1635,
+    "subject": "Logical Reasoning",
+    "chapter": "Core Essentials",
+    "topic": "Critical reasoning / advanced reasoning",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.92,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following, if true, would most strengthen the conclusion that implementing AI tools improves employee efficiency?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Employees using AI tools completed tasks faster without compromising accuracy."
+      },
+      {
+        "id": "B",
+        "text": "AI tools require significant initial investment."
+      },
+      {
+        "id": "C",
+        "text": "Some employees prefer manual methods."
+      },
+      {
+        "id": "D",
+        "text": "AI tools are used in multiple industries."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A",
+      "explanation": {
+        "concept": "Direct evidence supporting efficiency strengthens argument.",
+        "step_by_step": [
+          "Conclusion: AI improves efficiency.",
+          "Efficiency = speed + accuracy.",
+          "Option A confirms both.",
+          "Others irrelevant or neutral."
+        ],
+        "why_correct": {
+          "A": "Directly supports efficiency claim."
+        },
+        "why_incorrect": {
+          "B": "Cost irrelevant.",
+          "C": "Preference irrelevant.",
+          "D": "Usage does not imply efficiency."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "argument strengthening",
+        "evaluation of evidence"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "id": 3134,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "When a company sells a product at a loss to attract customers and increase overall sales, this strategy is known as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Premium pricing"
+      },
+      {
+        "id": "B",
+        "text": "Loss leader strategy"
+      },
+      {
+        "id": "C",
+        "text": "Market penetration pricing"
+      },
+      {
+        "id": "D",
+        "text": "Skimming strategy"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Loss leader involves selling a product below cost to attract customers and generate profit elsewhere.",
+        "step_by_step": [
+          "Understand pricing below cost",
+          "Identify marketing objective",
+          "Match with correct term"
+        ],
+        "why_correct": {
+          "B": "Accurately defines loss leader"
+        },
+        "why_incorrect": {
+          "A": "Involves high pricing",
+          "C": "Focuses on low pricing but not necessarily loss",
+          "D": "Involves high initial pricing"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Loss leader"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3136,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In the business model B2C, what does the 'C' represent?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Company"
+      },
+      {
+        "id": "B",
+        "text": "Consumer"
+      },
+      {
+        "id": "C",
+        "text": "Client"
+      },
+      {
+        "id": "D",
+        "text": "Commerce"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "B2C stands for Business-to-Consumer, where businesses sell directly to end users.",
+        "step_by_step": [
+          "Expand B2C",
+          "Identify target audience",
+          "Choose correct term"
+        ],
+        "why_correct": {
+          "B": "Correct representation of end user"
+        },
+        "why_incorrect": {
+          "A": "Represents business, not consumer",
+          "C": "Client is broader term",
+          "D": "Commerce is unrelated here"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "B2C"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3140,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A company focusing on a small, specialized segment of the market is targeting what type of market?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mass market"
+      },
+      {
+        "id": "B",
+        "text": "Niche market"
+      },
+      {
+        "id": "C",
+        "text": "Global market"
+      },
+      {
+        "id": "D",
+        "text": "Monopoly market"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "A niche market is a focused, specialized segment with specific customer needs.",
+        "step_by_step": [
+          "Identify specialization",
+          "Recognize limited audience",
+          "Select niche market"
+        ],
+        "why_correct": {
+          "B": "Correctly defines specialized segment"
+        },
+        "why_incorrect": {
+          "A": "Targets broad audience",
+          "C": "Geographical scope, not segmentation",
+          "D": "Market structure, not segmentation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Niche market"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3143,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A company like boAt selling its products directly through its own website without intermediaries is an example of which model?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B2B"
+      },
+      {
+        "id": "B",
+        "text": "D2C"
+      },
+      {
+        "id": "C",
+        "text": "C2C"
+      },
+      {
+        "id": "D",
+        "text": "B2G"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "D2C (Direct-to-Consumer) refers to companies selling directly to consumers without intermediaries.",
+        "step_by_step": [
+          "Identify direct selling",
+          "Check absence of intermediaries",
+          "Match with D2C"
+        ],
+        "why_correct": {
+          "B": "Correctly represents direct-to-consumer model"
+        },
+        "why_incorrect": {
+          "A": "Business-to-business model",
+          "C": "Consumer-to-consumer transactions",
+          "D": "Business-to-government model"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "D2C"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3145,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Flash sales and limited-time offers that trigger urgency among consumers are examples of which marketing strategy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Relationship marketing"
+      },
+      {
+        "id": "B",
+        "text": "FOMO marketing"
+      },
+      {
+        "id": "C",
+        "text": "Content marketing"
+      },
+      {
+        "id": "D",
+        "text": "Inbound marketing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "FOMO (Fear of Missing Out) marketing creates urgency to push consumers to act quickly.",
+        "step_by_step": [
+          "Identify urgency element",
+          "Recognize psychological trigger",
+          "Match with FOMO"
+        ],
+        "why_correct": {
+          "B": "Correctly captures urgency-driven marketing"
+        },
+        "why_incorrect": {
+          "A": "Focuses on long-term engagement",
+          "C": "Focuses on content creation",
+          "D": "Focuses on attracting customers organically"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "FOMO marketing"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3149,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which business model involves transactions directly between consumers, often facilitated by online platforms?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B2C"
+      },
+      {
+        "id": "B",
+        "text": "C2C"
+      },
+      {
+        "id": "C",
+        "text": "B2B"
+      },
+      {
+        "id": "D",
+        "text": "D2C"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "C2C (Consumer-to-Consumer) involves transactions between individuals, typically via digital platforms.",
+        "step_by_step": [
+          "Identify consumer-to-consumer interaction",
+          "Recognize platform-based exchange",
+          "Select C2C"
+        ],
+        "why_correct": {
+          "B": "Correctly defines C2C model"
+        },
+        "why_incorrect": {
+          "A": "Business to consumer",
+          "C": "Business to business",
+          "D": "Direct brand to consumer"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "C2C"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3152,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A company emphasizes 'eco-friendly packaging' as its key differentiator in advertising. This is an example of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brand equity"
+      },
+      {
+        "id": "B",
+        "text": "Unique Selling Proposition (USP)"
+      },
+      {
+        "id": "C",
+        "text": "Market segmentation"
+      },
+      {
+        "id": "D",
+        "text": "Product lifecycle management"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "USP refers to a unique feature or benefit that distinguishes a product from competitors.",
+        "step_by_step": [
+          "Identify differentiation factor",
+          "Recognize unique feature emphasis",
+          "Match with USP concept"
+        ],
+        "why_correct": {
+          "B": "Correctly identifies differentiation strategy"
+        },
+        "why_incorrect": {
+          "A": "Refers to brand value perception",
+          "C": "Refers to dividing market",
+          "D": "Refers to product stages"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "USP"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3154,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which pricing strategy involves setting a high initial price for a new product and gradually lowering it over time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penetration pricing"
+      },
+      {
+        "id": "B",
+        "text": "Skimming pricing"
+      },
+      {
+        "id": "C",
+        "text": "Competitive pricing"
+      },
+      {
+        "id": "D",
+        "text": "Loss leader pricing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Skimming pricing involves charging high initial prices to maximize profits from early adopters before lowering prices.",
+        "step_by_step": [
+          "Identify high initial price",
+          "Recognize gradual reduction",
+          "Match with skimming strategy"
+        ],
+        "why_correct": {
+          "B": "Correctly defines skimming pricing"
+        },
+        "why_incorrect": {
+          "A": "Low initial pricing",
+          "C": "Based on competitors",
+          "D": "Selling below cost"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Skimming pricing"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3158,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Marketing Terms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which strategy aims to attract customers by offering products at a significantly lower price than competitors to gain market share quickly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Skimming pricing"
+      },
+      {
+        "id": "B",
+        "text": "Penetration pricing"
+      },
+      {
+        "id": "C",
+        "text": "Premium pricing"
+      },
+      {
+        "id": "D",
+        "text": "Loss leader pricing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Penetration pricing involves setting low prices initially to quickly gain market share.",
+        "step_by_step": [
+          "Identify low price strategy",
+          "Recognize objective of market entry",
+          "Match with penetration pricing"
+        ],
+        "why_correct": {
+          "B": "Correctly explains rapid market capture strategy"
+        },
+        "why_incorrect": {
+          "A": "High initial pricing",
+          "C": "High pricing strategy",
+          "D": "Below cost, not necessarily market capture"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Penetration pricing"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

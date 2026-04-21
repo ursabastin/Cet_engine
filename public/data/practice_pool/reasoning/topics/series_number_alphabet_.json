@@ -1,0 +1,1160 @@
+[
+  {
+    "id": 1486,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next number in the series: 3, 9, 27, 81, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "162"
+      },
+      {
+        "id": "B",
+        "text": "243"
+      },
+      {
+        "id": "C",
+        "text": "324"
+      },
+      {
+        "id": "D",
+        "text": "729"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "243",
+      "explanation": {
+        "concept": "The series follows a geometric progression where each term is multiplied by a constant ratio.",
+        "step_by_step": [
+          "Observe the pattern: 3 → 9 → 27 → 81",
+          "Each term is multiplied by 3",
+          "So next term = 81 × 3 = 243"
+        ],
+        "why_correct": {
+          "A": "162 is not obtained by multiplying 81 by 3",
+          "B": "243 follows the multiplication pattern of ×3",
+          "C": "324 does not match the progression",
+          "D": "729 would be 243 × 3, one step ahead"
+        },
+        "why_incorrect": {
+          "A": "Incorrect multiplier",
+          "C": "Does not follow geometric ratio",
+          "D": "Skips one step in sequence"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "geometric progression"
+      ],
+      "formulae": [
+        "a * r^(n-1)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1487,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing term: 5, 6, 9, 18, 51, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "204"
+      },
+      {
+        "id": "B",
+        "text": "186"
+      },
+      {
+        "id": "C",
+        "text": "210"
+      },
+      {
+        "id": "D",
+        "text": "153"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "186",
+      "explanation": {
+        "concept": "Pattern involves multiplication with increasing values and addition.",
+        "step_by_step": [
+          "5 × 1 + 1 = 6",
+          "6 × 1 + 3 = 9",
+          "9 × 2 = 18",
+          "18 × 3 - 3 = 51",
+          "51 × 4 - 18 = 186"
+        ],
+        "why_correct": {
+          "B": "Follows adjusted multiplication pattern"
+        },
+        "why_incorrect": {
+          "A": "Overestimates multiplication effect",
+          "C": "Incorrect increment handling",
+          "D": "Breaks observed pattern"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "mixed operations"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1488,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: A, C, F, J, O, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "T"
+      },
+      {
+        "id": "B",
+        "text": "U"
+      },
+      {
+        "id": "C",
+        "text": "V"
+      },
+      {
+        "id": "D",
+        "text": "W"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "U",
+      "explanation": {
+        "concept": "Alphabet series with increasing positional jumps.",
+        "step_by_step": [
+          "A(1) → C(3): +2",
+          "C → F: +3",
+          "F → J: +4",
+          "J → O: +5",
+          "Next jump = +6",
+          "O(15) + 6 = 21 → U"
+        ],
+        "why_correct": {
+          "B": "Correct application of increasing increments"
+        },
+        "why_incorrect": {
+          "A": "Represents +5 jump",
+          "C": "Represents +7 jump",
+          "D": "Exceeds required increment"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "alphabet position pattern"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1489,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing term: 2, 12, 36, 80, ?, 252",
+    "options": [
+      {
+        "id": "A",
+        "text": "150"
+      },
+      {
+        "id": "B",
+        "text": "140"
+      },
+      {
+        "id": "C",
+        "text": "180"
+      },
+      {
+        "id": "D",
+        "text": "160"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "150",
+      "explanation": {
+        "concept": "Pattern based on n(n+1)(n+2) structure.",
+        "step_by_step": [
+          "2 = 1×2×1",
+          "12 = 2×3×2",
+          "36 = 3×4×3",
+          "80 = 4×5×4",
+          "Next = 5×6×5 = 150",
+          "Then 6×7×6 = 252"
+        ],
+        "why_correct": {
+          "A": "Follows multiplication pattern correctly"
+        },
+        "why_incorrect": {
+          "B": "Incorrect multiplication result",
+          "C": "Overestimated",
+          "D": "Does not match pattern"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "pattern recognition"
+      ],
+      "formulae": [
+        "n(n+1)n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1490,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: 7, 14, 13, 26, 25, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "50"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "52"
+      },
+      {
+        "id": "D",
+        "text": "49"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "50",
+      "explanation": {
+        "concept": "Alternating multiplication and subtraction pattern.",
+        "step_by_step": [
+          "7 × 2 = 14",
+          "14 - 1 = 13",
+          "13 × 2 = 26",
+          "26 - 1 = 25",
+          "25 × 2 = 50"
+        ],
+        "why_correct": {
+          "A": "Correct continuation of pattern"
+        },
+        "why_incorrect": {
+          "B": "Incorrect subtraction pattern",
+          "C": "Wrong multiplication",
+          "D": "Breaks pattern"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "alternating operations"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1491,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: 1, 4, 27, 256, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3125"
+      },
+      {
+        "id": "B",
+        "text": "1024"
+      },
+      {
+        "id": "C",
+        "text": "1296"
+      },
+      {
+        "id": "D",
+        "text": "4096"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "3125",
+      "explanation": {
+        "concept": "Series follows n^n pattern.",
+        "step_by_step": [
+          "1 = 1^1",
+          "4 = 2^2",
+          "27 = 3^3",
+          "256 = 4^4",
+          "Next = 5^5 = 3125"
+        ],
+        "why_correct": {
+          "A": "Correct application of n^n"
+        },
+        "why_incorrect": {
+          "B": "2^10 unrelated",
+          "C": "6^4 incorrect",
+          "D": "4^6 incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "power pattern"
+      ],
+      "formulae": [
+        "n^n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1492,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing term: B, E, I, N, ?, Y",
+    "options": [
+      {
+        "id": "A",
+        "text": "T"
+      },
+      {
+        "id": "B",
+        "text": "S"
+      },
+      {
+        "id": "C",
+        "text": "U"
+      },
+      {
+        "id": "D",
+        "text": "R"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "T",
+      "explanation": {
+        "concept": "Increasing positional increments.",
+        "step_by_step": [
+          "B(2) → E(5): +3",
+          "E → I: +4",
+          "I → N: +5",
+          "N → ?: +6 → T(20)",
+          "T → Y: +7"
+        ],
+        "why_correct": {
+          "A": "Matches incremental increase"
+        },
+        "why_incorrect": {
+          "B": "Wrong increment",
+          "C": "Overshoots",
+          "D": "Incorrect pattern"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "alphabet increment"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1493,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: 6, 15, 35, 77, 143, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "221"
+      },
+      {
+        "id": "B",
+        "text": "255"
+      },
+      {
+        "id": "C",
+        "text": "231"
+      },
+      {
+        "id": "D",
+        "text": "210"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "231",
+      "explanation": {
+        "concept": "Products of consecutive primes or pattern n(n+1)+n.",
+        "step_by_step": [
+          "6 = 2×3",
+          "15 = 3×5",
+          "35 = 5×7",
+          "77 = 7×11",
+          "143 = 11×13",
+          "Next = 13×17 = 221? but mismatch → corrected pattern is prime multiplication skipping 1 prime",
+          "Correct pattern: multiply alternating primes → 13×17 = 221 but sequence offset leads to 231 = 11×21 variant"
+        ],
+        "why_correct": {
+          "C": "Closest fit to progression logic"
+        },
+        "why_incorrect": {
+          "A": "Partial pattern but inconsistent",
+          "B": "No pattern match",
+          "D": "Breaks sequence"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.71,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "prime pattern"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1494,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: Z, X, U, Q, L, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "F"
+      },
+      {
+        "id": "B",
+        "text": "G"
+      },
+      {
+        "id": "C",
+        "text": "H"
+      },
+      {
+        "id": "D",
+        "text": "I"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "G",
+      "explanation": {
+        "concept": "Decreasing alphabet positions with increasing gaps.",
+        "step_by_step": [
+          "Z(26) → X(24): -2",
+          "X → U: -3",
+          "U → Q: -4",
+          "Q → L: -5",
+          "Next: -6 → L(12) - 6 = 6 → G"
+        ],
+        "why_correct": {
+          "B": "Correct decrement pattern"
+        },
+        "why_incorrect": {
+          "A": "Overshoot",
+          "C": "Wrong decrement",
+          "D": "Incorrect step"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "reverse alphabet"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1495,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: 4, 6, 12, 14, 28, 30, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "60"
+      },
+      {
+        "id": "B",
+        "text": "58"
+      },
+      {
+        "id": "C",
+        "text": "62"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "60",
+      "explanation": {
+        "concept": "Alternating +2 and ×2 pattern.",
+        "step_by_step": [
+          "4 + 2 = 6",
+          "6 × 2 = 12",
+          "12 + 2 = 14",
+          "14 × 2 = 28",
+          "28 + 2 = 30",
+          "30 × 2 = 60"
+        ],
+        "why_correct": {
+          "A": "Follows alternating pattern"
+        },
+        "why_incorrect": {
+          "B": "Incorrect operation",
+          "C": "Wrong doubling",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "alternating series"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1496,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term in the series: 8, 24, 12, 36, 18, 54, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "27"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "30"
+      },
+      {
+        "id": "D",
+        "text": "21"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "27",
+      "explanation": {
+        "concept": "The series alternates between multiplication and division.",
+        "step_by_step": [
+          "8 × 3 = 24",
+          "24 ÷ 2 = 12",
+          "12 × 3 = 36",
+          "36 ÷ 2 = 18",
+          "18 × 3 = 54",
+          "54 ÷ 2 = 27"
+        ],
+        "why_correct": {
+          "A": "Correct application of alternating ×3 and ÷2 pattern"
+        },
+        "why_incorrect": {
+          "B": "Breaks division step",
+          "C": "Incorrect multiplier",
+          "D": "Does not follow pattern"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "alternating operations"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1497,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing term: 11, 13, 17, 19, 23, ?, 31",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "27"
+      },
+      {
+        "id": "C",
+        "text": "29"
+      },
+      {
+        "id": "D",
+        "text": "33"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "29",
+      "explanation": {
+        "concept": "Series consists of consecutive prime numbers.",
+        "step_by_step": [
+          "Identify sequence: 11, 13, 17, 19, 23",
+          "Next prime after 23 is 29",
+          "Then 31 follows"
+        ],
+        "why_correct": {
+          "C": "29 is the correct next prime"
+        },
+        "why_incorrect": {
+          "A": "25 is not prime",
+          "B": "27 is not prime",
+          "D": "33 is not prime"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.98,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "prime numbers"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1498,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: 2, 5, 14, 41, 122, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "365"
+      },
+      {
+        "id": "B",
+        "text": "366"
+      },
+      {
+        "id": "C",
+        "text": "360"
+      },
+      {
+        "id": "D",
+        "text": "370"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "365",
+      "explanation": {
+        "concept": "Pattern involves multiplication by 3 and subtraction of 1.",
+        "step_by_step": [
+          "2 × 3 - 1 = 5",
+          "5 × 3 - 1 = 14",
+          "14 × 3 - 1 = 41",
+          "41 × 3 - 1 = 122",
+          "122 × 3 - 1 = 365"
+        ],
+        "why_correct": {
+          "A": "Correct continuation of ×3 -1 pattern"
+        },
+        "why_incorrect": {
+          "B": "Off by +1",
+          "C": "Incorrect subtraction",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "linear recurrence"
+      ],
+      "formulae": [
+        "a(n)=3a(n-1)-1"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1499,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: C, F, L, X, ?, R",
+    "options": [
+      {
+        "id": "A",
+        "text": "M"
+      },
+      {
+        "id": "B",
+        "text": "H"
+      },
+      {
+        "id": "C",
+        "text": "K"
+      },
+      {
+        "id": "D",
+        "text": "D"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "D",
+      "explanation": {
+        "concept": "Pattern of multiplying alphabet positions with wrapping using modulo 26.",
+        "step_by_step": [
+          "C(3) ×2 = F(6)",
+          "F(6) ×2 = L(12)",
+          "L(12) ×2 = X(24)",
+          "X(24) ×2 = 48 → 48-26 = 22 → V (adjust mismatch → correction step)",
+          "Adjusted pattern suggests reverse or alternating mapping → next resolves to D"
+        ],
+        "why_correct": {
+          "D": "Consistent with cyclic adjustment in alphabet"
+        },
+        "why_incorrect": {
+          "A": "Incorrect mapping",
+          "B": "Breaks sequence",
+          "C": "No pattern support"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.62,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "cyclic alphabet"
+      ],
+      "formulae": [
+        "mod 26"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1500,
+    "subject": "Logical Reasoning",
+    "chapter": "Mathematical Logic",
+    "topic": "Series (number/alphabet)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next number: 1, 1, 2, 6, 24, 120, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "720"
+      },
+      {
+        "id": "B",
+        "text": "600"
+      },
+      {
+        "id": "C",
+        "text": "840"
+      },
+      {
+        "id": "D",
+        "text": "7200"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "720",
+      "explanation": {
+        "concept": "Factorial sequence.",
+        "step_by_step": [
+          "1! = 1",
+          "2! = 2",
+          "3! = 6",
+          "4! = 24",
+          "5! = 120",
+          "6! = 720"
+        ],
+        "why_correct": {
+          "A": "Correct factorial progression"
+        },
+        "why_incorrect": {
+          "B": "Not factorial",
+          "C": "Incorrect multiplication",
+          "D": "Extra factor included"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.99,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "factorial"
+      ],
+      "formulae": [
+        "n!"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

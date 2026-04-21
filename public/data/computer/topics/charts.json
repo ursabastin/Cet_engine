@@ -1,0 +1,224 @@
+[
+  {
+    "id": 2405,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Charts",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which type of chart is most suitable for showing the proportion of parts to a whole?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bar Chart"
+      },
+      {
+        "id": "B",
+        "text": "Line Chart"
+      },
+      {
+        "id": "C",
+        "text": "Pie Chart"
+      },
+      {
+        "id": "D",
+        "text": "Scatter Plot"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Pie Chart",
+      "explanation": {
+        "concept": "Pie charts represent data as slices of a whole.",
+        "step_by_step": [
+          "Pie chart shows percentages.",
+          "Other charts show trends or comparisons.",
+          "Thus pie chart is correct."
+        ],
+        "why_correct": {
+          "C": "Correct because it shows proportions clearly."
+        },
+        "why_incorrect": {
+          "A": "Used for comparison.",
+          "B": "Used for trends.",
+          "D": "Used for correlation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "charts"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2415,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Charts",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which chart type is best suited for showing trends over time with continuous data?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pie Chart"
+      },
+      {
+        "id": "B",
+        "text": "Line Chart"
+      },
+      {
+        "id": "C",
+        "text": "Bar Chart"
+      },
+      {
+        "id": "D",
+        "text": "Area Chart"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Line Chart",
+      "explanation": {
+        "concept": "Line charts are ideal for displaying trends over continuous intervals like time.",
+        "step_by_step": [
+          "Line chart connects data points.",
+          "Shows upward/downward trends clearly.",
+          "Other charts are less suitable for continuous trends."
+        ],
+        "why_correct": {
+          "B": "Correct for time-series visualization."
+        },
+        "why_incorrect": {
+          "A": "Used for proportions.",
+          "C": "Used for comparisons.",
+          "D": "Less precise than line chart."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "line charts"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2425,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Charts",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which chart type is best suited to display the relationship between two numerical variables?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pie Chart"
+      },
+      {
+        "id": "B",
+        "text": "Line Chart"
+      },
+      {
+        "id": "C",
+        "text": "Scatter Plot"
+      },
+      {
+        "id": "D",
+        "text": "Column Chart"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Scatter Plot",
+      "explanation": {
+        "concept": "Scatter plots show correlation between two numeric variables.",
+        "step_by_step": [
+          "Each point represents two values.",
+          "Used for identifying trends/correlation.",
+          "Other charts not ideal for relationships."
+        ],
+        "why_correct": {
+          "C": "Correct for correlation analysis."
+        },
+        "why_incorrect": {
+          "A": "Shows proportions.",
+          "B": "Shows trends over time.",
+          "D": "Compares categories."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "scatter plot"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "id": 3015,
+    "subject": "General Awareness",
+    "chapter": "Science & Tech",
+    "topic": "Medical Science",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Recent breakthroughs (2024–2025) in malaria vaccines have primarily targeted which stage of the Plasmodium parasite lifecycle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blood-stage replication"
+      },
+      {
+        "id": "B",
+        "text": "Liver-stage infection"
+      },
+      {
+        "id": "C",
+        "text": "Mosquito-stage fertilization"
+      },
+      {
+        "id": "D",
+        "text": "Sporozoite entry into bloodstream"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Sporozoite entry into bloodstream",
+      "explanation": {
+        "concept": "Modern malaria vaccines target the sporozoite stage to prevent infection before parasites reach liver cells.",
+        "step_by_step": [
+          "Sporozoites are injected by mosquito.",
+          "They enter bloodstream first.",
+          "Vaccines block this entry stage."
+        ],
+        "why_correct": {
+          "D": "Correct: Blocking sporozoite entry prevents infection."
+        },
+        "why_incorrect": {
+          "A": "Blood stage occurs later after infection.",
+          "B": "Liver stage occurs after sporozoite entry.",
+          "C": "Mosquito stage is not targeted in humans."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Vaccinology",
+        "Malaria lifecycle"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Science & Tech"
+  },
+  {
+    "id": 3027,
+    "subject": "General Awareness",
+    "chapter": "Science & Tech",
+    "topic": "Medical Science",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Recent advancements in cancer vaccines (2024–2025) primarily utilize which technology to personalize treatment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNA fingerprinting"
+      },
+      {
+        "id": "B",
+        "text": "mRNA-based platforms"
+      },
+      {
+        "id": "C",
+        "text": "X-ray imaging"
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic synthesis"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "mRNA-based platforms",
+      "explanation": {
+        "concept": "mRNA vaccines can be tailored to target specific tumor antigens, enabling personalized cancer immunotherapy.",
+        "step_by_step": [
+          "mRNA technology encodes specific proteins.",
+          "Immune system targets these proteins.",
+          "Personalization is possible using patient tumor data."
+        ],
+        "why_correct": {
+          "B": "Correct: mRNA enables personalized vaccines."
+        },
+        "why_incorrect": {
+          "A": "DNA fingerprinting identifies individuals.",
+          "C": "Imaging does not treat cancer.",
+          "D": "Antibiotics target bacteria."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Immunotherapy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Science & Tech"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3202,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Global Ranking",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "India ranks as the ______ largest startup ecosystem globally as of 2026.",
+    "options": [
+      {
+        "id": "A",
+        "text": "First"
+      },
+      {
+        "id": "B",
+        "text": "Second"
+      },
+      {
+        "id": "C",
+        "text": "Third"
+      },
+      {
+        "id": "D",
+        "text": "Fourth"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Third",
+      "explanation": {
+        "concept": "Startup ecosystem ranking is based on number of startups, funding, innovation, and ecosystem maturity.",
+        "step_by_step": [
+          "The United States holds the first position.",
+          "China is second due to strong tech infrastructure.",
+          "India follows as the third-largest startup ecosystem globally."
+        ],
+        "why_correct": {
+          "C": "India is the third-largest startup ecosystem."
+        },
+        "why_incorrect": {
+          "A": "India is not the largest ecosystem.",
+          "B": "China holds the second position.",
+          "D": "India ranks higher than fourth."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "Global startup ranking"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

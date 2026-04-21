@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3168,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Risk Management",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A stop-loss order placed at ₹950 for a stock bought at ₹1000 is primarily intended to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maximize profit"
+      },
+      {
+        "id": "B",
+        "text": "Limit potential loss"
+      },
+      {
+        "id": "C",
+        "text": "Ensure dividend income"
+      },
+      {
+        "id": "D",
+        "text": "Increase market liquidity"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Limit potential loss",
+      "explanation": {
+        "concept": "Stop-loss is a risk management tool to cap losses.",
+        "step_by_step": [
+          "Purchase price = 1000",
+          "Stop-loss at 950",
+          "Limits loss to ₹50 per share"
+        ],
+        "why_correct": {
+          "B": "It prevents further downside losses"
+        },
+        "why_incorrect": {
+          "A": "It does not maximize profit",
+          "C": "Dividend unrelated",
+          "D": "Does not affect liquidity"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3168",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "risk management"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

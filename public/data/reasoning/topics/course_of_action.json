@@ -1,0 +1,745 @@
+[
+  {
+    "id": 1456,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The number of road accidents in a city has increased significantly due to reckless driving by young motorists.\n\nCourses of Action:\nI. Strict traffic rules should be enforced with heavy penalties.\nII. Driving licenses of all young motorists should be canceled.\nIII. Awareness programs on safe driving should be conducted.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only I follows"
+      },
+      {
+        "id": "C",
+        "text": "Only II follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I and III follow",
+      "explanation": {
+        "concept": "A valid course of action must be practical, ethical, and directly address the problem without being extreme or unjustified.",
+        "step_by_step": [
+          "Identify cause: reckless driving by young motorists.",
+          "Evaluate I: Enforcing rules and penalties is practical and directly addresses behavior.",
+          "Evaluate II: Canceling all licenses is extreme and unjustified for all young motorists.",
+          "Evaluate III: Awareness programs help in long-term behavioral change."
+        ],
+        "why_correct": {
+          "A": "Both enforcement and awareness are balanced and practical responses."
+        },
+        "why_incorrect": {
+          "B": "Ignores awareness which is also necessary.",
+          "C": "Overly harsh and impractical.",
+          "D": "Includes an extreme action (II)."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1456",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "practical reasoning",
+        "policy evaluation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1457,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Farmers in a region are committing suicide due to heavy debt and crop failure.\n\nCourses of Action:\nI. Government should provide financial assistance and loan waivers.\nII. Farmers should be advised to stop farming.\nIII. Agricultural training and support programs should be introduced.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only I follows"
+      },
+      {
+        "id": "C",
+        "text": "Only II and III follow"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I and III follow",
+      "explanation": {
+        "concept": "Effective solutions must be humane, realistic, and address both immediate and root causes.",
+        "step_by_step": [
+          "Problem: debt and crop failure leading to suicides.",
+          "I: Immediate relief through financial aid is justified.",
+          "II: Advising farmers to quit farming is impractical and ignores livelihood.",
+          "III: Long-term support via training improves sustainability."
+        ],
+        "why_correct": {
+          "A": "Balances immediate and long-term solutions."
+        },
+        "why_incorrect": {
+          "B": "Misses long-term solution.",
+          "C": "Includes impractical suggestion.",
+          "D": "Includes unrealistic action II."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1457",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "social problem solving"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1458,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Many students are failing in mathematics due to lack of conceptual clarity.\n\nCourses of Action:\nI. Schools should focus more on conceptual teaching methods.\nII. Mathematics should be removed from the curriculum.\nIII. Extra remedial classes should be arranged.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Only I follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I and III follow",
+      "explanation": {
+        "concept": "Courses should solve the root issue (conceptual clarity) without eliminating essential subjects.",
+        "step_by_step": [
+          "I improves teaching quality.",
+          "II removes subject entirely, which is irrational.",
+          "III provides additional support to struggling students."
+        ],
+        "why_correct": {
+          "A": "Both actions address root cause and provide support."
+        },
+        "why_incorrect": {
+          "B": "Eliminates subject instead of solving issue.",
+          "C": "Ignores additional support needed.",
+          "D": "Includes illogical action II."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1458",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "educational reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1459,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Pollution levels in a city have crossed safe limits due to industrial emissions.\n\nCourses of Action:\nI. Industries should be shut down immediately.\nII. Strict emission norms should be enforced.\nIII. Promote use of cleaner technologies.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only II and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only I follows"
+      },
+      {
+        "id": "C",
+        "text": "Only III follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only II and III follow",
+      "explanation": {
+        "concept": "Extreme actions that harm economy without alternatives are generally invalid.",
+        "step_by_step": [
+          "I is extreme and impractical.",
+          "II regulates pollution effectively.",
+          "III ensures sustainable long-term solution."
+        ],
+        "why_correct": {
+          "A": "Balanced regulatory and technological approach."
+        },
+        "why_incorrect": {
+          "B": "Overly drastic.",
+          "C": "Ignores immediate regulation.",
+          "D": "Includes extreme option I."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1459",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "environmental policy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1460,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Cybercrime cases are rising rapidly due to lack of awareness among users.\n\nCourses of Action:\nI. Conduct cybersecurity awareness campaigns.\nII. Ban internet usage for general public.\nIII. Strengthen cyber laws and enforcement.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Only I follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I and III follow",
+      "explanation": {
+        "concept": "Solutions should enhance safety without eliminating essential systems.",
+        "step_by_step": [
+          "I addresses awareness gap.",
+          "II is impractical and unrealistic.",
+          "III improves enforcement and deterrence."
+        ],
+        "why_correct": {
+          "A": "Practical and balanced measures."
+        },
+        "why_incorrect": {
+          "B": "Extreme and impractical.",
+          "C": "Incomplete solution.",
+          "D": "Includes unrealistic II."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1460",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "risk mitigation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1461,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Employees in a company are leaving frequently due to dissatisfaction with management.\n\nCourses of Action:\nI. Conduct employee feedback surveys.\nII. Increase salaries without evaluation.\nIII. Improve management practices.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Only I follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I and III follow",
+      "explanation": {
+        "concept": "Solutions should diagnose the problem and fix root causes.",
+        "step_by_step": [
+          "I helps identify issues.",
+          "II is not justified without understanding causes.",
+          "III directly improves management quality."
+        ],
+        "why_correct": {
+          "A": "Diagnostic + corrective approach."
+        },
+        "why_incorrect": {
+          "B": "Unjustified financial decision.",
+          "C": "Incomplete solution.",
+          "D": "Includes flawed II."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1461",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "organizational behavior"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1462,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: A large number of students are addicted to social media, affecting their studies.\n\nCourses of Action:\nI. Ban smartphones for students.\nII. Educate students on responsible usage.\nIII. Introduce time-management workshops.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only II and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only I follows"
+      },
+      {
+        "id": "C",
+        "text": "Only II follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only II and III follow",
+      "explanation": {
+        "concept": "Behavioral issues require education, not extreme restrictions.",
+        "step_by_step": [
+          "I is overly restrictive.",
+          "II promotes awareness.",
+          "III builds self-regulation skills."
+        ],
+        "why_correct": {
+          "A": "Focuses on sustainable behavior change."
+        },
+        "why_incorrect": {
+          "B": "Extreme approach.",
+          "C": "Incomplete solution.",
+          "D": "Includes impractical I."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1462",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "behavioral correction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1463,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The quality of products manufactured by a company is declining, leading to customer complaints.\n\nCourses of Action:\nI. Improve quality control processes.\nII. Ignore complaints temporarily.\nIII. Train employees in quality standards.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Only I follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I and III follow",
+      "explanation": {
+        "concept": "Customer complaints signal issues that must be addressed immediately.",
+        "step_by_step": [
+          "I ensures process improvement.",
+          "II worsens situation.",
+          "III enhances workforce capability."
+        ],
+        "why_correct": {
+          "A": "Both preventive and corrective actions."
+        },
+        "why_incorrect": {
+          "B": "Neglects problem.",
+          "C": "Misses training.",
+          "D": "Includes harmful II."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1463",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "quality management"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1464,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The number of cases of obesity among children is increasing.\n\nCourses of Action:\nI. Promote physical activity in schools.\nII. Ban junk food completely.\nIII. Educate parents about healthy diets.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Only I follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I and III follow",
+      "explanation": {
+        "concept": "Health issues require balanced and sustainable interventions.",
+        "step_by_step": [
+          "I increases activity.",
+          "II is extreme and hard to enforce.",
+          "III addresses dietary awareness."
+        ],
+        "why_correct": {
+          "A": "Practical and sustainable measures."
+        },
+        "why_incorrect": {
+          "B": "Extreme solution.",
+          "C": "Partial solution.",
+          "D": "Includes unrealistic II."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1464",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "health reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1465,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Course of Action",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: There has been a decline in public transport usage due to poor service quality.\n\nCourses of Action:\nI. Improve service quality and punctuality.\nII. Increase fares to compensate losses.\nIII. Gather passenger feedback regularly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and III follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Only I follows"
+      },
+      {
+        "id": "D",
+        "text": "All follow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I and III follow",
+      "explanation": {
+        "concept": "Decline in usage requires improving service, not burdening users.",
+        "step_by_step": [
+          "I directly addresses service issue.",
+          "II may worsen decline.",
+          "III helps understand user needs."
+        ],
+        "why_correct": {
+          "A": "Improvement + feedback loop."
+        },
+        "why_incorrect": {
+          "B": "Counterproductive.",
+          "C": "Incomplete.",
+          "D": "Includes harmful II."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1465",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "public policy reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  }
+]

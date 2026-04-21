@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3173,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Corporate Actions",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A stock split results in which of the following outcomes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase in total company value"
+      },
+      {
+        "id": "B",
+        "text": "Decrease in number of shares"
+      },
+      {
+        "id": "C",
+        "text": "Increase in number of shares with reduced price per share"
+      },
+      {
+        "id": "D",
+        "text": "Immediate increase in dividend payout"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Increase in number of shares with reduced price per share",
+      "explanation": {
+        "concept": "Stock split increases share count while proportionally reducing price.",
+        "step_by_step": [
+          "Company splits shares (e.g., 1:2)",
+          "Share count doubles",
+          "Price halves proportionally"
+        ],
+        "why_correct": {
+          "C": "Stock split increases shares and reduces price"
+        },
+        "why_incorrect": {
+          "A": "Total value remains unchanged",
+          "B": "Shares increase, not decrease",
+          "D": "Dividend not directly affected"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3173",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "stock split"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,1486 @@
+[
+  {
+    "id": 2261,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best explains the primary role of a file system in an operating system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Managing CPU scheduling and process execution"
+      },
+      {
+        "id": "B",
+        "text": "Organizing, storing, and retrieving data on storage devices"
+      },
+      {
+        "id": "C",
+        "text": "Handling user authentication and security policies"
+      },
+      {
+        "id": "D",
+        "text": "Controlling network communication protocols"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Organizing, storing, and retrieving data on storage devices",
+      "explanation": {
+        "concept": "A file system provides the logical structure for storing and accessing data on storage media such as hard disks and SSDs.",
+        "step_by_step": [
+          "Identify the core responsibilities of OS components.",
+          "Recognize that file systems deal with data storage, not CPU or networking.",
+          "Select the option describing storage organization."
+        ],
+        "why_correct": {
+          "A": "Incorrect because CPU scheduling is handled by the process scheduler, not file systems.",
+          "B": "Correct because file systems manage how data is stored, organized, and accessed.",
+          "C": "Incorrect because authentication is part of security subsystems.",
+          "D": "Incorrect because networking is handled by network protocols."
+        },
+        "why_incorrect": {
+          "A": "Relates to process management, not storage.",
+          "C": "Belongs to security domain.",
+          "D": "Relates to networking."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "file system role"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2262,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a file system, what is the primary purpose of an inode (index node)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To store actual file data"
+      },
+      {
+        "id": "B",
+        "text": "To maintain file metadata and pointers to data blocks"
+      },
+      {
+        "id": "C",
+        "text": "To encrypt file contents"
+      },
+      {
+        "id": "D",
+        "text": "To allocate CPU time for file operations"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To maintain file metadata and pointers to data blocks",
+      "explanation": {
+        "concept": "An inode stores metadata such as permissions, size, and pointers to the file’s data blocks, not the actual data itself.",
+        "step_by_step": [
+          "Understand inode structure in UNIX-like systems.",
+          "Identify distinction between metadata and data.",
+          "Select option describing metadata + block pointers."
+        ],
+        "why_correct": {
+          "B": "Correct because inode contains metadata and addresses of data blocks."
+        },
+        "why_incorrect": {
+          "A": "Actual data is stored in data blocks, not inode.",
+          "C": "Encryption is unrelated to inode functionality.",
+          "D": "CPU scheduling is unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "inode",
+        "metadata"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2263,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which file allocation method minimizes fragmentation but may waste space due to pre-allocation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Linked allocation"
+      },
+      {
+        "id": "B",
+        "text": "Indexed allocation"
+      },
+      {
+        "id": "C",
+        "text": "Contiguous allocation"
+      },
+      {
+        "id": "D",
+        "text": "Dynamic allocation"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Contiguous allocation",
+      "explanation": {
+        "concept": "Contiguous allocation stores files in consecutive blocks, reducing fragmentation but often leading to unused reserved space.",
+        "step_by_step": [
+          "Analyze allocation methods.",
+          "Contiguous allocation requires continuous blocks.",
+          "It avoids fragmentation but wastes space if file size is overestimated."
+        ],
+        "why_correct": {
+          "C": "Correct due to continuous block allocation reducing fragmentation."
+        },
+        "why_incorrect": {
+          "A": "Linked allocation avoids waste but increases fragmentation.",
+          "B": "Indexed allocation uses index blocks.",
+          "D": "Not a standard allocation method."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "allocation methods"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2264,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following file systems uses journaling to improve reliability after system crashes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FAT32"
+      },
+      {
+        "id": "B",
+        "text": "NTFS"
+      },
+      {
+        "id": "C",
+        "text": "exFAT"
+      },
+      {
+        "id": "D",
+        "text": "ISO 9660"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "NTFS",
+      "explanation": {
+        "concept": "Journaling file systems log changes before committing them, allowing recovery after crashes.",
+        "step_by_step": [
+          "Identify journaling feature.",
+          "Recognize NTFS supports journaling.",
+          "Eliminate FAT-based systems lacking journaling."
+        ],
+        "why_correct": {
+          "B": "Correct because NTFS maintains a journal for recovery."
+        },
+        "why_incorrect": {
+          "A": "FAT32 does not support journaling.",
+          "C": "exFAT lacks journaling.",
+          "D": "ISO 9660 is read-only optical media format."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "journaling"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2265,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the key advantage of indexed allocation over linked allocation in file systems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lower memory overhead"
+      },
+      {
+        "id": "B",
+        "text": "Direct access to any block of the file"
+      },
+      {
+        "id": "C",
+        "text": "Simpler implementation"
+      },
+      {
+        "id": "D",
+        "text": "No need for additional storage structures"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Direct access to any block of the file",
+      "explanation": {
+        "concept": "Indexed allocation allows random access through an index block, unlike linked allocation which requires sequential traversal.",
+        "step_by_step": [
+          "Compare linked vs indexed.",
+          "Linked requires traversal.",
+          "Indexed allows direct block access via index."
+        ],
+        "why_correct": {
+          "B": "Correct because indexed allocation enables random access."
+        },
+        "why_incorrect": {
+          "A": "Indexed uses extra index blocks.",
+          "C": "Linked allocation is simpler.",
+          "D": "Indexed requires additional index structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "indexed allocation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2266,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes fragmentation in file systems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Loss of file permissions"
+      },
+      {
+        "id": "B",
+        "text": "Scattering of file blocks across non-contiguous locations"
+      },
+      {
+        "id": "C",
+        "text": "Corruption of file metadata"
+      },
+      {
+        "id": "D",
+        "text": "Duplication of file entries"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Scattering of file blocks across non-contiguous locations",
+      "explanation": {
+        "concept": "Fragmentation occurs when file data is stored in scattered locations, reducing efficiency.",
+        "step_by_step": [
+          "Define fragmentation.",
+          "Identify its effect on storage layout.",
+          "Choose scattering description."
+        ],
+        "why_correct": {
+          "B": "Correct as it defines fragmentation accurately."
+        },
+        "why_incorrect": {
+          "A": "Permissions are unrelated.",
+          "C": "Metadata corruption is different.",
+          "D": "Duplication is unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "fragmentation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2267,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which directory structure allows a file to appear in multiple directories simultaneously?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Single-level directory"
+      },
+      {
+        "id": "B",
+        "text": "Two-level directory"
+      },
+      {
+        "id": "C",
+        "text": "Tree-structured directory"
+      },
+      {
+        "id": "D",
+        "text": "Acyclic graph directory"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Acyclic graph directory",
+      "explanation": {
+        "concept": "Acyclic graph directories allow shared files using links without cycles.",
+        "step_by_step": [
+          "Understand directory types.",
+          "Identify sharing capability.",
+          "Acyclic graph supports multiple references."
+        ],
+        "why_correct": {
+          "D": "Correct as it allows shared file references."
+        },
+        "why_incorrect": {
+          "A": "No hierarchy.",
+          "B": "Limited hierarchy.",
+          "C": "Does not allow multiple parent references."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "directory structure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2268,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary limitation of FAT32 file system compared to NTFS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supports larger files than NTFS"
+      },
+      {
+        "id": "B",
+        "text": "Lacks support for file permissions and security features"
+      },
+      {
+        "id": "C",
+        "text": "Consumes more disk space for metadata"
+      },
+      {
+        "id": "D",
+        "text": "Slower read/write operations due to journaling"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Lacks support for file permissions and security features",
+      "explanation": {
+        "concept": "FAT32 is a simpler file system lacking advanced features like permissions and security controls.",
+        "step_by_step": [
+          "Compare FAT32 vs NTFS.",
+          "Identify missing features.",
+          "Choose security limitation."
+        ],
+        "why_correct": {
+          "B": "Correct as FAT32 lacks advanced security."
+        },
+        "why_incorrect": {
+          "A": "FAT32 has file size limits.",
+          "C": "NTFS uses more metadata.",
+          "D": "FAT32 does not use journaling."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "FAT32 vs NTFS"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2269,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which concept ensures that file system operations either complete fully or not at all?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consistency"
+      },
+      {
+        "id": "B",
+        "text": "Atomicity"
+      },
+      {
+        "id": "C",
+        "text": "Isolation"
+      },
+      {
+        "id": "D",
+        "text": "Redundancy"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Atomicity",
+      "explanation": {
+        "concept": "Atomicity ensures operations are indivisible—either fully executed or not executed at all.",
+        "step_by_step": [
+          "Understand ACID properties.",
+          "Identify property ensuring all-or-nothing.",
+          "Select atomicity."
+        ],
+        "why_correct": {
+          "B": "Correct because atomicity enforces complete execution."
+        },
+        "why_incorrect": {
+          "A": "Consistency ensures valid state.",
+          "C": "Isolation deals with concurrency.",
+          "D": "Redundancy is duplication."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "atomicity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2270,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which mechanism is used by modern file systems to reduce disk access latency by predicting future reads?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Disk defragmentation"
+      },
+      {
+        "id": "B",
+        "text": "File indexing"
+      },
+      {
+        "id": "C",
+        "text": "Read-ahead caching"
+      },
+      {
+        "id": "D",
+        "text": "Block compression"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Read-ahead caching",
+      "explanation": {
+        "concept": "Read-ahead caching anticipates future data requests and loads data into memory in advance.",
+        "step_by_step": [
+          "Understand latency reduction techniques.",
+          "Identify predictive mechanism.",
+          "Select read-ahead caching."
+        ],
+        "why_correct": {
+          "C": "Correct as it preloads expected data."
+        },
+        "why_incorrect": {
+          "A": "Defragmentation reorganizes data.",
+          "B": "Indexing speeds lookup, not prediction.",
+          "D": "Compression reduces size, not latency prediction."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "caching"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2271,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary purpose of a superblock in a file system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To store user file data"
+      },
+      {
+        "id": "B",
+        "text": "To maintain information about free disk blocks"
+      },
+      {
+        "id": "C",
+        "text": "To store file system metadata like size and status"
+      },
+      {
+        "id": "D",
+        "text": "To handle file encryption operations"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "To store file system metadata like size and status",
+      "explanation": {
+        "concept": "A superblock contains critical information about the file system, including size, block size, and state.",
+        "step_by_step": [
+          "Recall structure of file systems.",
+          "Identify role of superblock.",
+          "Select metadata storage option."
+        ],
+        "why_correct": {
+          "C": "Correct because superblock stores overall file system metadata."
+        },
+        "why_incorrect": {
+          "A": "Data is stored in data blocks.",
+          "B": "Free space info may be stored elsewhere like bitmaps.",
+          "D": "Encryption is unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "superblock"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2272,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which data structure is commonly used by file systems to track free disk blocks efficiently?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stack"
+      },
+      {
+        "id": "B",
+        "text": "Bitmap (bit vector)"
+      },
+      {
+        "id": "C",
+        "text": "Queue"
+      },
+      {
+        "id": "D",
+        "text": "Linked list of directories"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Bitmap (bit vector)",
+      "explanation": {
+        "concept": "A bitmap uses bits to represent block usage, allowing efficient tracking of free and allocated blocks.",
+        "step_by_step": [
+          "Understand free space management methods.",
+          "Compare efficiency.",
+          "Bitmap provides constant-time checks."
+        ],
+        "why_correct": {
+          "B": "Correct due to efficient representation using bits."
+        },
+        "why_incorrect": {
+          "A": "Stack is not efficient for block tracking.",
+          "C": "Queue does not represent allocation status.",
+          "D": "Directories do not track free blocks."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "bitmap"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2273,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which file system feature ensures recovery of consistent data after unexpected shutdowns by logging intended changes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Caching"
+      },
+      {
+        "id": "B",
+        "text": "Defragmentation"
+      },
+      {
+        "id": "C",
+        "text": "Journaling"
+      },
+      {
+        "id": "D",
+        "text": "Compression"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Journaling",
+      "explanation": {
+        "concept": "Journaling records intended operations before execution, enabling recovery after failure.",
+        "step_by_step": [
+          "Identify fault tolerance techniques.",
+          "Recognize logging mechanism.",
+          "Select journaling."
+        ],
+        "why_correct": {
+          "C": "Correct as it logs operations before execution."
+        },
+        "why_incorrect": {
+          "A": "Caching improves speed.",
+          "B": "Defragmentation improves layout.",
+          "D": "Compression reduces size."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "journaling"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2274,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a UNIX-like file system, what is the effect of deleting a file that still has active hard links?",
+    "options": [
+      {
+        "id": "A",
+        "text": "File is immediately removed from disk"
+      },
+      {
+        "id": "B",
+        "text": "File remains accessible until all links are removed"
+      },
+      {
+        "id": "C",
+        "text": "File becomes corrupted"
+      },
+      {
+        "id": "D",
+        "text": "System crashes due to dangling pointers"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "File remains accessible until all links are removed",
+      "explanation": {
+        "concept": "Hard links point to the same inode; data persists until all references are removed.",
+        "step_by_step": [
+          "Understand hard links.",
+          "Multiple references to same inode.",
+          "Deletion removes only one link."
+        ],
+        "why_correct": {
+          "B": "Correct because inode persists until link count reaches zero."
+        },
+        "why_incorrect": {
+          "A": "File is not removed immediately.",
+          "C": "No corruption occurs.",
+          "D": "System remains stable."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "hard links"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2275,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which term refers to the smallest unit of disk space allocation in most file systems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sector"
+      },
+      {
+        "id": "B",
+        "text": "Cluster"
+      },
+      {
+        "id": "C",
+        "text": "Track"
+      },
+      {
+        "id": "D",
+        "text": "Cylinder"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Cluster",
+      "explanation": {
+        "concept": "A cluster is the smallest allocation unit used by file systems, consisting of one or more sectors.",
+        "step_by_step": [
+          "Differentiate physical vs logical units.",
+          "Sector is physical unit.",
+          "Cluster is logical allocation unit."
+        ],
+        "why_correct": {
+          "B": "Correct as cluster is allocation unit."
+        },
+        "why_incorrect": {
+          "A": "Sector is hardware-level unit.",
+          "C": "Track is disk structure.",
+          "D": "Cylinder is grouping of tracks."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "cluster"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2276,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which mechanism reduces external fragmentation by allowing non-contiguous allocation while still supporting direct access?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Contiguous allocation"
+      },
+      {
+        "id": "B",
+        "text": "Linked allocation"
+      },
+      {
+        "id": "C",
+        "text": "Indexed allocation"
+      },
+      {
+        "id": "D",
+        "text": "Sequential allocation"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Indexed allocation",
+      "explanation": {
+        "concept": "Indexed allocation avoids fragmentation and supports direct access using index blocks.",
+        "step_by_step": [
+          "Evaluate allocation strategies.",
+          "Identify need for direct access.",
+          "Indexed meets both conditions."
+        ],
+        "why_correct": {
+          "C": "Correct as it combines flexibility and direct access."
+        },
+        "why_incorrect": {
+          "A": "Causes fragmentation issues.",
+          "B": "No direct access.",
+          "D": "Sequential access only."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "allocation methods"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2277,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which operation updates file metadata such as access time without modifying file content?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Write operation"
+      },
+      {
+        "id": "B",
+        "text": "Read operation"
+      },
+      {
+        "id": "C",
+        "text": "Execute operation"
+      },
+      {
+        "id": "D",
+        "text": "Delete operation"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Read operation",
+      "explanation": {
+        "concept": "Reading a file updates access time metadata without changing its content.",
+        "step_by_step": [
+          "Understand file operations.",
+          "Identify which affects metadata only.",
+          "Read updates access timestamp."
+        ],
+        "why_correct": {
+          "B": "Correct as read updates access time."
+        },
+        "why_incorrect": {
+          "A": "Write modifies content.",
+          "C": "Execute runs program.",
+          "D": "Delete removes file."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "file operations"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2278,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the main drawback of using linked allocation for file storage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "High internal fragmentation"
+      },
+      {
+        "id": "B",
+        "text": "Poor random access performance"
+      },
+      {
+        "id": "C",
+        "text": "Requires contiguous disk space"
+      },
+      {
+        "id": "D",
+        "text": "Excessive memory usage for indexing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Poor random access performance",
+      "explanation": {
+        "concept": "Linked allocation requires sequential traversal, making random access inefficient.",
+        "step_by_step": [
+          "Understand linked allocation.",
+          "Identify access limitations.",
+          "Random access requires traversal."
+        ],
+        "why_correct": {
+          "B": "Correct as linked allocation is sequential."
+        },
+        "why_incorrect": {
+          "A": "Internal fragmentation is minimal.",
+          "C": "Does not require contiguous space.",
+          "D": "No index structure needed."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "linked allocation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2279,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which file system property ensures that concurrent file operations do not interfere with each other?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Atomicity"
+      },
+      {
+        "id": "B",
+        "text": "Consistency"
+      },
+      {
+        "id": "C",
+        "text": "Isolation"
+      },
+      {
+        "id": "D",
+        "text": "Durability"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Isolation",
+      "explanation": {
+        "concept": "Isolation ensures that concurrent operations do not affect each other’s execution.",
+        "step_by_step": [
+          "Recall ACID properties.",
+          "Identify concurrency control.",
+          "Isolation ensures independence."
+        ],
+        "why_correct": {
+          "C": "Correct as it prevents interference."
+        },
+        "why_incorrect": {
+          "A": "Atomicity ensures all-or-nothing.",
+          "B": "Consistency ensures valid state.",
+          "D": "Durability ensures persistence."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "ACID properties"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2280,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "File systems",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In modern file systems, what is the primary purpose of copy-on-write (COW) technique?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To reduce disk space usage by compressing files"
+      },
+      {
+        "id": "B",
+        "text": "To improve data integrity by writing modified data to new blocks"
+      },
+      {
+        "id": "C",
+        "text": "To increase read speed using caching"
+      },
+      {
+        "id": "D",
+        "text": "To allocate contiguous memory for faster access"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To improve data integrity by writing modified data to new blocks",
+      "explanation": {
+        "concept": "Copy-on-write writes changes to new locations, preserving original data and ensuring consistency.",
+        "step_by_step": [
+          "Understand COW principle.",
+          "Recognize data is not overwritten.",
+          "New blocks ensure integrity."
+        ],
+        "why_correct": {
+          "B": "Correct because COW preserves original data and avoids corruption."
+        },
+        "why_incorrect": {
+          "A": "Compression is unrelated.",
+          "C": "Caching is separate concept.",
+          "D": "COW does not ensure contiguous allocation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "copy-on-write"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

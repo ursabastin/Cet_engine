@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3204,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Ecosystem Scale",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "As of December 2025, approximately how many startups have been recognized by DPIIT in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "50,000"
+      },
+      {
+        "id": "B",
+        "text": "1 lakh"
+      },
+      {
+        "id": "C",
+        "text": "2 lakh"
+      },
+      {
+        "id": "D",
+        "text": "5 lakh"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "2 lakh",
+      "explanation": {
+        "concept": "DPIIT recognition tracks formal startup registrations under Startup India.",
+        "step_by_step": [
+          "Startup growth accelerated post-2016.",
+          "Recognition crossed major milestones gradually.",
+          "By December 2025, over 2 lakh startups were recognized."
+        ],
+        "why_correct": {
+          "C": "Correct estimate based on official data."
+        },
+        "why_incorrect": {
+          "A": "Too low for current ecosystem.",
+          "B": "Outdated figure.",
+          "D": "Overestimation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "DPIIT recognition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

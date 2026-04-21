@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2870,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "ICC Women's Cricket World Cup 2025",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "India won the ICC Women’s Cricket World Cup 2025 under which hosting condition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutral venue"
+      },
+      {
+        "id": "B",
+        "text": "Hosted jointly with Australia"
+      },
+      {
+        "id": "C",
+        "text": "Hosted at home"
+      },
+      {
+        "id": "D",
+        "text": "Hosted in England"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Hosted at home",
+      "explanation": {
+        "concept": "Understanding tournament hosting and its impact on performance.",
+        "step_by_step": [
+          "Recall Women’s World Cup 2025.",
+          "India hosted the tournament.",
+          "They won the title at home."
+        ],
+        "why_correct": {
+          "C": "India hosted and won the tournament domestically."
+        },
+        "why_incorrect": {
+          "A": "It was not neutral.",
+          "B": "No joint hosting.",
+          "D": "England was not the host."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Women's cricket"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

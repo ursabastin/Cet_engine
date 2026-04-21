@@ -1,0 +1,77 @@
+[
+  {
+    "id": 3183,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Payments Banks Limitations",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Payments Banks in India are restricted from engaging in which of the following activities despite being allowed to accept deposits?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Providing ATM/debit card services"
+      },
+      {
+        "id": "B",
+        "text": "Offering savings accounts"
+      },
+      {
+        "id": "C",
+        "text": "Lending money to customers"
+      },
+      {
+        "id": "D",
+        "text": "Facilitating UPI transactions"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Lending money to customers",
+      "explanation": {
+        "concept": "Payments Banks focus on deposits and payments but cannot extend credit.",
+        "step_by_step": [
+          "Identify allowed vs restricted services.",
+          "They accept deposits.",
+          "They cannot lend money.",
+          "Core restriction."
+        ],
+        "why_correct": {
+          "C": "Correct restriction."
+        },
+        "why_incorrect": {
+          "A": "Allowed service.",
+          "B": "Allowed function.",
+          "D": "Core functionality."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Payments Bank restrictions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

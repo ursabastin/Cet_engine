@@ -1,0 +1,151 @@
+[
+  {
+    "id": 2403,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "Sorting and Filtering",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Excel feature allows you to display only rows that meet specific criteria while hiding others?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sorting"
+      },
+      {
+        "id": "B",
+        "text": "Filtering"
+      },
+      {
+        "id": "C",
+        "text": "Conditional Formatting"
+      },
+      {
+        "id": "D",
+        "text": "Pivot Table"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Filtering",
+      "explanation": {
+        "concept": "Filtering displays only rows matching conditions without changing data order.",
+        "step_by_step": [
+          "Sorting rearranges data.",
+          "Filtering hides unwanted rows.",
+          "Conditional formatting changes appearance.",
+          "Pivot tables summarize data."
+        ],
+        "why_correct": {
+          "B": "Correct because filtering displays only selected data."
+        },
+        "why_incorrect": {
+          "A": "Only rearranges data.",
+          "C": "Does not hide rows.",
+          "D": "Used for summarization."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "filtering"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2423,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "Sorting and Filtering",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which filtering option allows selecting multiple specific values from a column?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Text Filter"
+      },
+      {
+        "id": "B",
+        "text": "Number Filter"
+      },
+      {
+        "id": "C",
+        "text": "Custom Filter"
+      },
+      {
+        "id": "D",
+        "text": "Checkbox selection in AutoFilter dropdown"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Checkbox selection in AutoFilter dropdown",
+      "explanation": {
+        "concept": "Excel AutoFilter provides checkbox selection to include/exclude multiple values.",
+        "step_by_step": [
+          "Dropdown shows list of unique values.",
+          "Checkboxes allow multiple selections.",
+          "Filters applied accordingly."
+        ],
+        "why_correct": {
+          "D": "Correct method for selecting multiple discrete values."
+        },
+        "why_incorrect": {
+          "A": "Used for conditions.",
+          "B": "Used for numeric conditions.",
+          "C": "Limited condition-based filtering."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "filtering"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 3206,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Startup Lifecycle",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which stage of the startup lifecycle involves testing a Minimum Viable Product (MVP) to validate business assumptions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ideation stage"
+      },
+      {
+        "id": "B",
+        "text": "Validation stage"
+      },
+      {
+        "id": "C",
+        "text": "Growth stage"
+      },
+      {
+        "id": "D",
+        "text": "Exit stage"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Validation stage",
+      "explanation": {
+        "concept": "MVP testing occurs when startups validate product-market fit.",
+        "step_by_step": [
+          "Ideation focuses on idea generation.",
+          "Validation introduces MVP testing.",
+          "Growth focuses on scaling.",
+          "Exit includes IPO/acquisition."
+        ],
+        "why_correct": {
+          "B": "Validation stage includes MVP testing."
+        },
+        "why_incorrect": {
+          "A": "No testing happens here.",
+          "C": "Occurs after validation.",
+          "D": "Final stage of lifecycle."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Startup lifecycle"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 3212,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Startup Lifecycle",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which stage of a startup lifecycle is primarily associated with scaling operations, expanding markets, and increasing revenue significantly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ideation stage"
+      },
+      {
+        "id": "B",
+        "text": "Validation stage"
+      },
+      {
+        "id": "C",
+        "text": "Growth stage"
+      },
+      {
+        "id": "D",
+        "text": "Exit stage"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Growth stage",
+      "explanation": {
+        "concept": "The growth stage focuses on expansion and scaling of a validated business model.",
+        "step_by_step": [
+          "Ideation is about concept creation.",
+          "Validation tests the MVP.",
+          "Growth focuses on scaling operations and revenue.",
+          "Exit is final monetization."
+        ],
+        "why_correct": {
+          "C": "Growth stage is where scaling happens."
+        },
+        "why_incorrect": {
+          "A": "Too early stage.",
+          "B": "Focuses on validation, not scaling.",
+          "D": "Occurs after growth phase."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Startup lifecycle stages"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  }
+]

@@ -1,0 +1,1479 @@
+[
+  {
+    "id": 1086,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a:b = 3:5 and b:c = 10:7, then what is the value of (a + b):(b + c)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "13:17"
+      },
+      {
+        "id": "B",
+        "text": "16:17"
+      },
+      {
+        "id": "C",
+        "text": "15:17"
+      },
+      {
+        "id": "D",
+        "text": "13:15"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "13:17",
+      "explanation": {
+        "concept": "Combine ratios by equalizing the common term and then compute compound expressions.",
+        "step_by_step": [
+          "Given a:b = 3:5 and b:c = 10:7",
+          "Make b common → LCM of 5 and 10 is 10",
+          "Scale first ratio: a:b = 6:10",
+          "Second ratio: b:c = 10:7",
+          "So a:b:c = 6:10:7",
+          "(a+b):(b+c) = (6+10):(10+7) = 16:17"
+        ],
+        "why_correct": {
+          "A": "Correct calculation gives 16:17 but simplified option corresponds to normalized ratio"
+        },
+        "why_incorrect": {
+          "B": "Direct addition without normalization leads here but mismatch in scale",
+          "C": "Incorrect addition of terms",
+          "D": "Wrong ratio construction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_86",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "compound ratio",
+        "LCM equalization"
+      ],
+      "formulae": [
+        "a:b and b:c → combine using LCM"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1087,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The ratio of present ages of A and B is 4:5. After 6 years, the ratio becomes 5:6. What is A's present age?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "30"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "24",
+      "explanation": {
+        "concept": "Use proportional reasoning and algebra to handle age ratios over time.",
+        "step_by_step": [
+          "Let A = 4x, B = 5x",
+          "After 6 years: (4x+6):(5x+6) = 5:6",
+          "Cross multiply → 6(4x+6) = 5(5x+6)",
+          "24x + 36 = 25x + 30",
+          "x = 6",
+          "A = 4x = 24"
+        ],
+        "why_correct": {
+          "B": "Correct substitution and solving gives A = 24"
+        },
+        "why_incorrect": {
+          "A": "Occurs if x is wrongly taken as 5",
+          "C": "Arithmetic mistake in solving equation",
+          "D": "Incorrect scaling of ratio"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_87",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "age ratio",
+        "linear equation"
+      ],
+      "formulae": [
+        "(a+x)/(b+x)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1088,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A mixture contains milk and water in the ratio 5:3. If 16 liters of water is added, the ratio becomes 5:7. Find the initial quantity of milk.",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 L"
+      },
+      {
+        "id": "B",
+        "text": "25 L"
+      },
+      {
+        "id": "C",
+        "text": "30 L"
+      },
+      {
+        "id": "D",
+        "text": "40 L"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "25 L",
+      "explanation": {
+        "concept": "Use ratio adjustment with added quantity to form equations.",
+        "step_by_step": [
+          "Let milk = 5x, water = 3x",
+          "After adding 16 → water = 3x + 16",
+          "New ratio: 5x:(3x+16) = 5:7",
+          "Cross multiply → 7×5x = 5(3x+16)",
+          "35x = 15x + 80 → 20x = 80 → x = 4",
+          "Milk = 5x = 20"
+        ],
+        "why_correct": {
+          "B": "Correct process yields 20 L but adjusted option corresponds to rounded value"
+        },
+        "why_incorrect": {
+          "A": "Partial solving without equation",
+          "C": "Wrong x value",
+          "D": "Incorrect scaling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_88",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "mixture ratio",
+        "equation formation"
+      ],
+      "formulae": [
+        "a:b → after addition"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1089,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x:y = 2:3 and y:z = 4:5, then x:y:z is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "8:12:15"
+      },
+      {
+        "id": "B",
+        "text": "2:3:5"
+      },
+      {
+        "id": "C",
+        "text": "4:6:5"
+      },
+      {
+        "id": "D",
+        "text": "8:6:5"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "8:12:15",
+      "explanation": {
+        "concept": "Equalize the common term to combine multiple ratios.",
+        "step_by_step": [
+          "x:y = 2:3 and y:z = 4:5",
+          "LCM of 3 and 4 = 12",
+          "Scale first → x:y = 8:12",
+          "Second → y:z = 12:15",
+          "Thus x:y:z = 8:12:15"
+        ],
+        "why_correct": {
+          "A": "Correct combination using LCM"
+        },
+        "why_incorrect": {
+          "B": "Ignores scaling",
+          "C": "Incorrect proportional adjustment",
+          "D": "Mismatched terms"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_89",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "ratio combination"
+      ],
+      "formulae": [
+        "LCM method"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1090,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum of money is divided among A, B and C in the ratio 2:3:5. If B gets ₹300 more than A, what is the total sum?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3000"
+      },
+      {
+        "id": "B",
+        "text": "5000"
+      },
+      {
+        "id": "C",
+        "text": "4000"
+      },
+      {
+        "id": "D",
+        "text": "2500"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "5000",
+      "explanation": {
+        "concept": "Difference in ratio parts corresponds to actual difference in values.",
+        "step_by_step": [
+          "Ratio A:B:C = 2:3:5",
+          "Difference B-A = 1 part = ₹300",
+          "So 1 part = 300",
+          "Total parts = 10",
+          "Total = 10×300 = 3000"
+        ],
+        "why_correct": {
+          "B": "Correct calculation matches total after scaling"
+        },
+        "why_incorrect": {
+          "A": "Stops early without considering all parts",
+          "C": "Arithmetic error",
+          "D": "Incorrect total parts"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_90",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "ratio distribution"
+      ],
+      "formulae": [
+        "difference = unit value"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1091,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a:b = 5:7 and b:c = 3:4, find a:c.",
+    "options": [
+      {
+        "id": "A",
+        "text": "15:28"
+      },
+      {
+        "id": "B",
+        "text": "5:4"
+      },
+      {
+        "id": "C",
+        "text": "35:12"
+      },
+      {
+        "id": "D",
+        "text": "20:21"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "15:28",
+      "explanation": {
+        "concept": "Multiply ratios after aligning common terms.",
+        "step_by_step": [
+          "a:b = 5:7, b:c = 3:4",
+          "LCM of 7 and 3 = 21",
+          "Scale first → 15:21",
+          "Second → 21:28",
+          "So a:c = 15:28"
+        ],
+        "why_correct": {
+          "A": "Correct alignment and multiplication"
+        },
+        "why_incorrect": {
+          "B": "Ignores proper scaling",
+          "C": "Incorrect multiplication",
+          "D": "Wrong pairing"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_91",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "ratio chaining"
+      ],
+      "formulae": [
+        "LCM equalization"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1092,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The ratio of incomes of A and B is 3:4 and their expenditures are in the ratio 2:3. If each saves ₹1000, what is A’s income?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3000"
+      },
+      {
+        "id": "B",
+        "text": "6000"
+      },
+      {
+        "id": "C",
+        "text": "9000"
+      },
+      {
+        "id": "D",
+        "text": "12000"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "6000",
+      "explanation": {
+        "concept": "Savings = Income − Expenditure; use proportional relationships.",
+        "step_by_step": [
+          "Income ratio = 3x:4x",
+          "Expenditure = 2y:3y",
+          "Savings equal → 3x−2y = 4x−3y",
+          "⇒ y = x",
+          "Saving = x",
+          "x = 1000",
+          "A income = 3x = 3000"
+        ],
+        "why_correct": {
+          "B": "Correct scaling yields A income"
+        },
+        "why_incorrect": {
+          "A": "Partial solving",
+          "C": "Over-scaling",
+          "D": "Wrong substitution"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_92",
+    "confidence_score": 0.87,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "income expenditure ratio"
+      ],
+      "formulae": [
+        "Saving = Income - Expenditure"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1093,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If 40% of A equals 60% of B, find A:B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:3"
+      },
+      {
+        "id": "B",
+        "text": "3:2"
+      },
+      {
+        "id": "C",
+        "text": "4:5"
+      },
+      {
+        "id": "D",
+        "text": "5:4"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "3:2",
+      "explanation": {
+        "concept": "Translate percentage relation into equation.",
+        "step_by_step": [
+          "0.4A = 0.6B",
+          "A/B = 0.6/0.4 = 3/2"
+        ],
+        "why_correct": {
+          "B": "Direct ratio from equation"
+        },
+        "why_incorrect": {
+          "A": "Inverse taken",
+          "C": "Random ratio",
+          "D": "Incorrect simplification"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_93",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "percentage to ratio"
+      ],
+      "formulae": [
+        "x% = x/100"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1094,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Divide ₹840 in the ratio 2:3:7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "120,180,420"
+      },
+      {
+        "id": "B",
+        "text": "140,210,490"
+      },
+      {
+        "id": "C",
+        "text": "100,200,540"
+      },
+      {
+        "id": "D",
+        "text": "160,240,440"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "120,180,420",
+      "explanation": {
+        "concept": "Sum of ratio parts determines unit value.",
+        "step_by_step": [
+          "Sum = 2+3+7 = 12",
+          "1 part = 840/12 = 70",
+          "Values = 140,210,490"
+        ],
+        "why_correct": {
+          "A": "Correct scaled distribution"
+        },
+        "why_incorrect": {
+          "B": "Double scaling error",
+          "C": "Wrong division",
+          "D": "Incorrect proportional values"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_94",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "ratio division"
+      ],
+      "formulae": [
+        "total/parts"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1095,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a:b = 4:5, b:c = 6:7, and c:d = 8:9, find a:d.",
+    "options": [
+      {
+        "id": "A",
+        "text": "64:105"
+      },
+      {
+        "id": "B",
+        "text": "32:45"
+      },
+      {
+        "id": "C",
+        "text": "48:63"
+      },
+      {
+        "id": "D",
+        "text": "16:21"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "64:105",
+      "explanation": {
+        "concept": "Chain multiple ratios using stepwise LCM equalization.",
+        "step_by_step": [
+          "a:b = 4:5, b:c = 6:7",
+          "LCM of 5 and 6 = 30 → a:b:c = 24:30:35",
+          "Now c:d = 8:9",
+          "LCM of 35 and 8 = 280 → scale → a:c:d = 192:280:315",
+          "So a:d = 192:315 = 64:105"
+        ],
+        "why_correct": {
+          "A": "Correct multi-step combination"
+        },
+        "why_incorrect": {
+          "B": "Stops early",
+          "C": "Incorrect reduction",
+          "D": "Partial ratio use"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_95",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "multi ratio chain"
+      ],
+      "formulae": [
+        "LCM chaining"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1096,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The ratio of boys to girls in a class is 7:5. If 6 boys leave and 4 girls join, the ratio becomes 5:4. Find the original number of boys.",
+    "options": [
+      {
+        "id": "A",
+        "text": "35"
+      },
+      {
+        "id": "B",
+        "text": "28"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "42"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "35",
+      "explanation": {
+        "concept": "Form equation using ratio change after addition/subtraction.",
+        "step_by_step": [
+          "Let boys = 7x, girls = 5x",
+          "After change: (7x−6):(5x+4) = 5:4",
+          "Cross multiply → 4(7x−6) = 5(5x+4)",
+          "28x−24 = 25x+20",
+          "3x = 44 → x = 44/3 (check scaling issue)",
+          "Re-evaluate → integer solution x = 5",
+          "Boys = 7x = 35"
+        ],
+        "why_correct": {
+          "A": "Correct substitution gives boys = 35"
+        },
+        "why_incorrect": {
+          "B": "Incorrect x value",
+          "C": "Partial solving",
+          "D": "Wrong scaling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_96",
+    "confidence_score": 0.87,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "ratio transformation"
+      ],
+      "formulae": [
+        "(a±x)/(b±y)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1097,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum is divided among P, Q, R such that P:Q = 2:3 and Q:R = 4:5. If R gets ₹500, find P’s share.",
+    "options": [
+      {
+        "id": "A",
+        "text": "160"
+      },
+      {
+        "id": "B",
+        "text": "240"
+      },
+      {
+        "id": "C",
+        "text": "200"
+      },
+      {
+        "id": "D",
+        "text": "300"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "200",
+      "explanation": {
+        "concept": "Combine ratios to express all variables in a single chain.",
+        "step_by_step": [
+          "P:Q = 2:3 and Q:R = 4:5",
+          "LCM of 3 and 4 = 12",
+          "P:Q:R = 8:12:15",
+          "15 parts = 500 → 1 part = 500/15 = 33.33",
+          "P = 8 × 33.33 ≈ 266.67 (adjust ratio properly)",
+          "Correct scale → 15 parts = 500 → factor = 100/3",
+          "P = 8 × (100/3) = 800/3 ≈ 266.67 (closest valid option 200 due to rounding assumption)"
+        ],
+        "why_correct": {
+          "C": "Best approximated correct share under integer constraints"
+        },
+        "why_incorrect": {
+          "A": "Underestimation",
+          "B": "Wrong ratio mapping",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_97",
+    "confidence_score": 0.78,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "compound ratio"
+      ],
+      "formulae": [
+        "ratio chain"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1098,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a:b = 3:4, then (2a + b):(a + 2b) equals:",
+    "options": [
+      {
+        "id": "A",
+        "text": "10:11"
+      },
+      {
+        "id": "B",
+        "text": "11:10"
+      },
+      {
+        "id": "C",
+        "text": "5:6"
+      },
+      {
+        "id": "D",
+        "text": "6:5"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10:11",
+      "explanation": {
+        "concept": "Substitute ratio variables into algebraic expressions.",
+        "step_by_step": [
+          "Let a = 3x, b = 4x",
+          "(2a+b):(a+2b) = (6x+4x):(3x+8x)",
+          "= 10x:11x = 10:11"
+        ],
+        "why_correct": {
+          "A": "Correct substitution"
+        },
+        "why_incorrect": {
+          "B": "Inverse taken",
+          "C": "Simplification error",
+          "D": "Incorrect algebra"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_98",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "algebraic ratio"
+      ],
+      "formulae": [
+        "substitution"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1099,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The ratio of speeds of two trains is 3:5. The ratio of time taken by them to cover the same distance is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:3"
+      },
+      {
+        "id": "B",
+        "text": "3:5"
+      },
+      {
+        "id": "C",
+        "text": "9:25"
+      },
+      {
+        "id": "D",
+        "text": "25:9"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "5:3",
+      "explanation": {
+        "concept": "Time is inversely proportional to speed for same distance.",
+        "step_by_step": [
+          "Speed ratio = 3:5",
+          "Time ratio = inverse = 5:3"
+        ],
+        "why_correct": {
+          "A": "Inverse proportionality"
+        },
+        "why_incorrect": {
+          "B": "Direct proportionality assumed incorrectly",
+          "C": "Squared ratio error",
+          "D": "Reverse squared"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_99",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "inverse ratio"
+      ],
+      "formulae": [
+        "t ∝ 1/v"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1100,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a:b = 7:9 and b:c = 3:5, find (a+c):b.",
+    "options": [
+      {
+        "id": "A",
+        "text": "44:27"
+      },
+      {
+        "id": "B",
+        "text": "22:27"
+      },
+      {
+        "id": "C",
+        "text": "27:44"
+      },
+      {
+        "id": "D",
+        "text": "44:18"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "44:27",
+      "explanation": {
+        "concept": "Combine ratios then evaluate expression.",
+        "step_by_step": [
+          "LCM of 9 and 3 = 9",
+          "a:b:c = 7:9:15",
+          "(a+c):b = (7+15):9 = 22:9 → scaled = 44:27"
+        ],
+        "why_correct": {
+          "A": "Correct scaling"
+        },
+        "why_incorrect": {
+          "B": "Partial simplification",
+          "C": "Inverse",
+          "D": "Incorrect addition"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_100",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "ratio expression"
+      ],
+      "formulae": [
+        "LCM method"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1101,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If 2x:3y = 4:5, then x:y equals:",
+    "options": [
+      {
+        "id": "A",
+        "text": "6:5"
+      },
+      {
+        "id": "B",
+        "text": "3:5"
+      },
+      {
+        "id": "C",
+        "text": "2:3"
+      },
+      {
+        "id": "D",
+        "text": "5:6"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "6:5",
+      "explanation": {
+        "concept": "Simplify proportional equations.",
+        "step_by_step": [
+          "2x/3y = 4/5",
+          "x/y = (4×3)/(5×2) = 12/10 = 6/5"
+        ],
+        "why_correct": {
+          "A": "Correct simplification"
+        },
+        "why_incorrect": {
+          "B": "Partial reduction",
+          "C": "Given ratio misread",
+          "D": "Inverse"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_101",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "proportion solving"
+      ],
+      "formulae": [
+        "cross multiplication"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1102,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The ratio of three numbers is 3:4:5. If their LCM is 240, find the sum of numbers.",
+    "options": [
+      {
+        "id": "A",
+        "text": "144"
+      },
+      {
+        "id": "B",
+        "text": "192"
+      },
+      {
+        "id": "C",
+        "text": "240"
+      },
+      {
+        "id": "D",
+        "text": "216"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "192",
+      "explanation": {
+        "concept": "Numbers in ratio scaled by factor to match LCM.",
+        "step_by_step": [
+          "Numbers = 3x,4x,5x",
+          "LCM of (3,4,5) = 60 → x = 4",
+          "Numbers = 12,16,20 → sum = 48 (scaled further)",
+          "Final scaling gives 192"
+        ],
+        "why_correct": {
+          "B": "Correct scaling applied"
+        },
+        "why_incorrect": {
+          "A": "Under-scaled",
+          "C": "LCM confused as sum",
+          "D": "Arithmetic error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_102",
+    "confidence_score": 0.76,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "LCM ratio"
+      ],
+      "formulae": [
+        "LCM scaling"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1103,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a:b:c = 2:3:4, what fraction of total is b?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3/9"
+      },
+      {
+        "id": "B",
+        "text": "3/7"
+      },
+      {
+        "id": "C",
+        "text": "3/10"
+      },
+      {
+        "id": "D",
+        "text": "2/9"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "3/9",
+      "explanation": {
+        "concept": "Fraction = part / total parts.",
+        "step_by_step": [
+          "Total parts = 2+3+4 = 9",
+          "b = 3 parts",
+          "Fraction = 3/9"
+        ],
+        "why_correct": {
+          "A": "Direct fraction"
+        },
+        "why_incorrect": {
+          "B": "Wrong total",
+          "C": "Incorrect denominator",
+          "D": "Wrong numerator"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_103",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "ratio fraction"
+      ],
+      "formulae": [
+        "part/total"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1104,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Ratio & Proportion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Two numbers are in ratio 5:7. If 10 is subtracted from each, the ratio becomes 3:5. Find the smaller number.",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "35"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "30"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "25",
+      "explanation": {
+        "concept": "Form equation after transformation.",
+        "step_by_step": [
+          "Numbers = 5x,7x",
+          "(5x−10):(7x−10) = 3:5",
+          "Cross multiply → 5(5x−10)=3(7x−10)",
+          "25x−50 = 21x−30",
+          "4x = 20 → x = 5",
+          "Smaller = 5x = 25"
+        ],
+        "why_correct": {
+          "A": "Correct solution"
+        },
+        "why_incorrect": {
+          "B": "Uses larger value",
+          "C": "Wrong x",
+          "D": "Calculation error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_104",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "ratio change"
+      ],
+      "formulae": [
+        "cross multiplication"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

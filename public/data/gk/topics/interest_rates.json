@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3188,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Interest Rates",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which type of interest rate remains unchanged throughout the loan tenure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Floating rate"
+      },
+      {
+        "id": "B",
+        "text": "Fixed rate"
+      },
+      {
+        "id": "C",
+        "text": "Repo-linked rate"
+      },
+      {
+        "id": "D",
+        "text": "Market-linked rate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Fixed rate",
+      "explanation": {
+        "concept": "Fixed interest rate does not change with market conditions.",
+        "step_by_step": [
+          "Understand rate types.",
+          "Fixed remains constant.",
+          "Floating changes with market."
+        ],
+        "why_correct": {
+          "B": "Correct definition."
+        },
+        "why_incorrect": {
+          "A": "Changes with market.",
+          "C": "Linked to repo rate.",
+          "D": "Varies with market."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Interest rates"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

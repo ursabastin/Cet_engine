@@ -1,0 +1,151 @@
+[
+  {
+    "id": 2977,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Digital Commerce",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary objective of ONDC (Open Network for Digital Commerce) in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To regulate foreign trade tariffs"
+      },
+      {
+        "id": "B",
+        "text": "To replace GST system"
+      },
+      {
+        "id": "C",
+        "text": "To democratize e-commerce by connecting buyers and sellers across platforms"
+      },
+      {
+        "id": "D",
+        "text": "To promote only government-owned businesses"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "To democratize e-commerce",
+      "explanation": {
+        "concept": "ONDC is an open protocol network enabling interoperability in digital commerce.",
+        "step_by_step": [
+          "Understand ONDC structure",
+          "It removes platform monopoly",
+          "Connects small sellers with buyers"
+        ],
+        "why_correct": {
+          "C": "Correct purpose of ONDC"
+        },
+        "why_incorrect": {
+          "A": "Not related to tariffs",
+          "B": "GST is unrelated",
+          "D": "Not limited to government businesses"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2977",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "ONDC",
+        "digital commerce"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2995,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Digital Commerce",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes the structural innovation introduced by ONDC?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Centralized control of all e-commerce platforms"
+      },
+      {
+        "id": "B",
+        "text": "Open interoperable network decoupling buyer and seller platforms"
+      },
+      {
+        "id": "C",
+        "text": "Government monopoly over online retail"
+      },
+      {
+        "id": "D",
+        "text": "Replacement of traditional retail markets"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Open interoperable network",
+      "explanation": {
+        "concept": "ONDC separates buyer and seller platforms to create an open digital ecosystem.",
+        "step_by_step": [
+          "Understand ONDC architecture",
+          "It is protocol-based",
+          "Enables interoperability"
+        ],
+        "why_correct": {
+          "B": "Correct description"
+        },
+        "why_incorrect": {
+          "A": "Opposite of decentralization",
+          "C": "No monopoly intended",
+          "D": "Coexists with traditional retail"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2995",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "ONDC architecture"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

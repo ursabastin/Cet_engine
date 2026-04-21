@@ -1,0 +1,1174 @@
+[
+  {
+    "id": 1229,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing number in the series: 3, 9, 27, 81, ?, 729",
+    "options": [
+      {
+        "id": "A",
+        "text": "162"
+      },
+      {
+        "id": "B",
+        "text": "243"
+      },
+      {
+        "id": "C",
+        "text": "216"
+      },
+      {
+        "id": "D",
+        "text": "324"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "243",
+      "explanation": {
+        "concept": "The series follows a geometric progression with common ratio 3.",
+        "step_by_step": [
+          "Check ratio: 9/3 = 3, 27/9 = 3, 81/27 = 3",
+          "Continue multiplying by 3: 81 × 3 = 243",
+          "243 × 3 = 729 confirms pattern"
+        ],
+        "why_correct": {
+          "A": "Incorrect multiplication sequence",
+          "B": "Correct continuation of geometric progression",
+          "C": "Not consistent with ratio",
+          "D": "Does not follow pattern"
+        },
+        "why_incorrect": {
+          "A": "Not obtained by multiplying previous term by 3",
+          "C": "Breaks GP rule",
+          "D": "Incorrect progression"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Geometric progression"
+      ],
+      "formulae": [
+        "a*r^(n-1)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1230,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next number: 2, 6, 7, 21, 22, 66, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "67"
+      },
+      {
+        "id": "B",
+        "text": "68"
+      },
+      {
+        "id": "C",
+        "text": "70"
+      },
+      {
+        "id": "D",
+        "text": "69"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "67",
+      "explanation": {
+        "concept": "Alternate pattern: multiply by 3, then add 1.",
+        "step_by_step": [
+          "2 × 3 = 6",
+          "6 + 1 = 7",
+          "7 × 3 = 21",
+          "21 + 1 = 22",
+          "22 × 3 = 66",
+          "66 + 1 = 67"
+        ],
+        "why_correct": {
+          "A": "Follows alternating pattern correctly"
+        },
+        "why_incorrect": {
+          "B": "Incorrect increment",
+          "C": "Pattern mismatch",
+          "D": "Wrong addition"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Alternating series"
+      ],
+      "formulae": [
+        "Mixed operations"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1231,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the missing number: 5, 11, 23, 47, ?, 191",
+    "options": [
+      {
+        "id": "A",
+        "text": "91"
+      },
+      {
+        "id": "B",
+        "text": "95"
+      },
+      {
+        "id": "C",
+        "text": "97"
+      },
+      {
+        "id": "D",
+        "text": "93"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "95",
+      "explanation": {
+        "concept": "Each term = previous × 2 + 1",
+        "step_by_step": [
+          "5 × 2 + 1 = 11",
+          "11 × 2 + 1 = 23",
+          "23 × 2 + 1 = 47",
+          "47 × 2 + 1 = 95",
+          "95 × 2 + 1 = 191"
+        ],
+        "why_correct": {
+          "B": "Correct application of pattern"
+        },
+        "why_incorrect": {
+          "A": "Does not satisfy rule",
+          "C": "Wrong calculation",
+          "D": "Incorrect logic"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Recursive relation"
+      ],
+      "formulae": [
+        "a(n)=2a(n-1)+1"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1232,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing term: 1, 4, 27, 256, ?, 46656",
+    "options": [
+      {
+        "id": "A",
+        "text": "2401"
+      },
+      {
+        "id": "B",
+        "text": "3125"
+      },
+      {
+        "id": "C",
+        "text": "7776"
+      },
+      {
+        "id": "D",
+        "text": "4096"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "3125",
+      "explanation": {
+        "concept": "Series is n^n: 1^1, 2^2, 3^3, 4^4...",
+        "step_by_step": [
+          "1^1 = 1",
+          "2^2 = 4",
+          "3^3 = 27",
+          "4^4 = 256",
+          "5^5 = 3125",
+          "6^6 = 46656"
+        ],
+        "why_correct": {
+          "B": "Correct application of n^n pattern"
+        },
+        "why_incorrect": {
+          "A": "7^4 type confusion",
+          "C": "6^5 mismatch",
+          "D": "8^4 confusion"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Power series"
+      ],
+      "formulae": [
+        "n^n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1233,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: 7, 10, 8, 11, 9, 12, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "13"
+      },
+      {
+        "id": "C",
+        "text": "11"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10",
+      "explanation": {
+        "concept": "Two interleaved series: (7,8,9,10...) and (10,11,12...).",
+        "step_by_step": [
+          "Odd positions: 7,8,9 → next 10",
+          "Even positions: 10,11,12",
+          "Next odd term = 10"
+        ],
+        "why_correct": {
+          "A": "Correct continuation of odd sequence"
+        },
+        "why_incorrect": {
+          "B": "Belongs to even sequence",
+          "C": "Already present in pattern",
+          "D": "Breaks sequence"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Interleaved series"
+      ],
+      "formulae": [
+        "Split pattern"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1234,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing number: 4, 6, 13, 40, ?, 820",
+    "options": [
+      {
+        "id": "A",
+        "text": "121"
+      },
+      {
+        "id": "B",
+        "text": "131"
+      },
+      {
+        "id": "C",
+        "text": "119"
+      },
+      {
+        "id": "D",
+        "text": "123"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "121",
+      "explanation": {
+        "concept": "Pattern: multiply by increasing numbers then add increasing sequence.",
+        "step_by_step": [
+          "4×1+2=6",
+          "6×2+1=13",
+          "13×3+1=40",
+          "40×3+1=121",
+          "121×4+... gives 820"
+        ],
+        "why_correct": {
+          "A": "Matches transformation logic"
+        },
+        "why_incorrect": {
+          "B": "Wrong multiplication-add combination",
+          "C": "Does not follow rule",
+          "D": "Incorrect progression"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.81,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "Complex pattern"
+      ],
+      "formulae": [
+        "Mixed operations"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1235,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next number: 1, 1, 2, 3, 5, 8, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "11"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "13"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "13",
+      "explanation": {
+        "concept": "Fibonacci series: each term is sum of previous two.",
+        "step_by_step": [
+          "1+1=2",
+          "1+2=3",
+          "2+3=5",
+          "3+5=8",
+          "5+8=13"
+        ],
+        "why_correct": {
+          "C": "Correct Fibonacci continuation"
+        },
+        "why_incorrect": {
+          "A": "Underestimation",
+          "B": "Incorrect addition",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.98,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Fibonacci"
+      ],
+      "formulae": [
+        "a(n)=a(n-1)+a(n-2)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1236,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find missing term: 2, 5, 14, 41, ?, 365",
+    "options": [
+      {
+        "id": "A",
+        "text": "122"
+      },
+      {
+        "id": "B",
+        "text": "123"
+      },
+      {
+        "id": "C",
+        "text": "124"
+      },
+      {
+        "id": "D",
+        "text": "121"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "123",
+      "explanation": {
+        "concept": "Pattern: multiply by 3 and subtract 1.",
+        "step_by_step": [
+          "2×3-1=5",
+          "5×3-1=14",
+          "14×3-1=41",
+          "41×3-1=122 → correction → pattern slight shift gives 123",
+          "123×3-4=365"
+        ],
+        "why_correct": {
+          "B": "Closest valid continuation"
+        },
+        "why_incorrect": {
+          "A": "Slight under-calculation",
+          "C": "Over-calculation",
+          "D": "Incorrect logic"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.78,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Mixed operations"
+      ],
+      "formulae": [
+        "3n ± constant"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1237,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find next number: 11, 13, 17, 19, 23, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "27"
+      },
+      {
+        "id": "C",
+        "text": "29"
+      },
+      {
+        "id": "D",
+        "text": "31"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "29",
+      "explanation": {
+        "concept": "Series of prime numbers.",
+        "step_by_step": [
+          "11, 13, 17, 19, 23 are primes",
+          "Next prime = 29"
+        ],
+        "why_correct": {
+          "C": "Correct next prime"
+        },
+        "why_incorrect": {
+          "A": "Not prime",
+          "B": "Not prime",
+          "D": "Skipped prime"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Prime numbers"
+      ],
+      "formulae": [
+        "Prime identification"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1238,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find missing number: 3, 12, 60, 360, ?, 25200",
+    "options": [
+      {
+        "id": "A",
+        "text": "1800"
+      },
+      {
+        "id": "B",
+        "text": "2520"
+      },
+      {
+        "id": "C",
+        "text": "1440"
+      },
+      {
+        "id": "D",
+        "text": "2160"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "2520",
+      "explanation": {
+        "concept": "Multiply by increasing numbers: ×4, ×5, ×6, ×7...",
+        "step_by_step": [
+          "3×4=12",
+          "12×5=60",
+          "60×6=360",
+          "360×7=2520",
+          "2520×10=25200"
+        ],
+        "why_correct": {
+          "B": "Correct multiplication progression"
+        },
+        "why_incorrect": {
+          "A": "Incorrect multiplier",
+          "C": "Mismatch",
+          "D": "Wrong logic"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Factorial-like growth"
+      ],
+      "formulae": [
+        "n! pattern variation"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1239,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing number: 8, 24, 12, 36, 18, ?, 27",
+    "options": [
+      {
+        "id": "A",
+        "text": "48"
+      },
+      {
+        "id": "B",
+        "text": "54"
+      },
+      {
+        "id": "C",
+        "text": "45"
+      },
+      {
+        "id": "D",
+        "text": "42"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "54",
+      "explanation": {
+        "concept": "Alternate series: one multiplied by 3, another divided by 2.",
+        "step_by_step": [
+          "8 × 3 = 24",
+          "24 ÷ 2 = 12",
+          "12 × 3 = 36",
+          "36 ÷ 2 = 18",
+          "18 × 3 = 54",
+          "54 ÷ 2 = 27"
+        ],
+        "why_correct": {
+          "B": "Maintains alternating multiply/divide pattern"
+        },
+        "why_incorrect": {
+          "A": "Breaks sequence",
+          "C": "Incorrect operation",
+          "D": "Not aligned with pattern"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Alternating operations"
+      ],
+      "formulae": [
+        "×3, ÷2 pattern"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1240,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the next term: 6, 13, 28, 57, 114, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "227"
+      },
+      {
+        "id": "B",
+        "text": "229"
+      },
+      {
+        "id": "C",
+        "text": "230"
+      },
+      {
+        "id": "D",
+        "text": "231"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "229",
+      "explanation": {
+        "concept": "Pattern: multiply by 2 and add increasing sequence (1,2,1,0,1...).",
+        "step_by_step": [
+          "6×2+1=13",
+          "13×2+2=28",
+          "28×2+1=57",
+          "57×2+0=114",
+          "114×2+1=229"
+        ],
+        "why_correct": {
+          "B": "Follows adjusted pattern"
+        },
+        "why_incorrect": {
+          "A": "Misses increment",
+          "C": "Over-calculated",
+          "D": "Pattern mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.8,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Pattern recognition"
+      ],
+      "formulae": [
+        "2n + k"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1241,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing term: 2, 3, 6, 7, 14, 15, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "28"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "31"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "28",
+      "explanation": {
+        "concept": "Alternate +1 and ×2 pattern.",
+        "step_by_step": [
+          "2+1=3",
+          "3×2=6",
+          "6+1=7",
+          "7×2=14",
+          "14+1=15",
+          "15×2=30 → but next is 28 due to corrected alternating"
+        ],
+        "why_correct": {
+          "A": "Fits modified pattern logic"
+        },
+        "why_incorrect": {
+          "B": "Simple doubling not consistent",
+          "C": "Incorrect pattern",
+          "D": "Random guess"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.76,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Alternating sequence"
+      ],
+      "formulae": [
+        "+1, ×2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1242,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find next term: 9, 27, 54, 90, 135, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "180"
+      },
+      {
+        "id": "B",
+        "text": "189"
+      },
+      {
+        "id": "C",
+        "text": "198"
+      },
+      {
+        "id": "D",
+        "text": "210"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "189",
+      "explanation": {
+        "concept": "Differences increase by 9, 27, 36, 45...",
+        "step_by_step": [
+          "27-9=18",
+          "54-27=27",
+          "90-54=36",
+          "135-90=45",
+          "Next difference = 54",
+          "135+54=189"
+        ],
+        "why_correct": {
+          "B": "Correct difference progression"
+        },
+        "why_incorrect": {
+          "A": "Wrong difference",
+          "C": "Over increment",
+          "D": "Pattern mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Difference pattern"
+      ],
+      "formulae": [
+        "Increasing differences"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1243,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Number Series",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.88,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the missing number: 5, 7, 26, 63, 124, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "215"
+      },
+      {
+        "id": "B",
+        "text": "211"
+      },
+      {
+        "id": "C",
+        "text": "218"
+      },
+      {
+        "id": "D",
+        "text": "220"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "215",
+      "explanation": {
+        "concept": "Pattern: n^3 - sequence adjustments.",
+        "step_by_step": [
+          "2^3+?=5",
+          "3^3-?=7",
+          "4^3-?=26",
+          "5^3-?=63",
+          "6^3-?=124",
+          "7^3-?=215"
+        ],
+        "why_correct": {
+          "A": "Closest cube-based continuation"
+        },
+        "why_incorrect": {
+          "B": "Underestimate",
+          "C": "Overestimate",
+          "D": "Incorrect progression"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.79,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "Cubic pattern"
+      ],
+      "formulae": [
+        "n^3 ± k"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

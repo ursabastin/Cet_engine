@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3205,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Tier-II Growth",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Approximately what percentage of recognized startups in India originate from Tier-II and Tier-III cities?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25%"
+      },
+      {
+        "id": "B",
+        "text": "40%"
+      },
+      {
+        "id": "C",
+        "text": "50%"
+      },
+      {
+        "id": "D",
+        "text": "70%"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "50%",
+      "explanation": {
+        "concept": "Democratization of entrepreneurship indicates wider geographic participation.",
+        "step_by_step": [
+          "Initially startups were metro-centric.",
+          "Government initiatives expanded reach.",
+          "Now nearly half originate from smaller cities."
+        ],
+        "why_correct": {
+          "C": "Represents current approximate distribution."
+        },
+        "why_incorrect": {
+          "A": "Too low for current data.",
+          "B": "Underestimates trend.",
+          "D": "Overestimates proportion."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Startup distribution"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

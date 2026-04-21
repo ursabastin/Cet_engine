@@ -1,0 +1,266 @@
+[
+  {
+    "id": 2409,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Shortcuts",
+    "difficulty": { "level": 3, "label": "basic", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty_weight": 0.4,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which keyboard shortcut is used to save an Excel workbook?",
+    "options": [
+      { "id": "A", "text": "Ctrl + S" },
+      { "id": "B", "text": "Ctrl + P" },
+      { "id": "C", "text": "Ctrl + C" },
+      { "id": "D", "text": "Ctrl + X" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Ctrl + S",
+      "explanation": {
+        "concept": "Keyboard shortcuts improve efficiency.",
+        "step_by_step": ["Ctrl+S saves file.", "Ctrl+P prints.", "Ctrl+C copies.", "Ctrl+X cuts."],
+        "why_correct": { "A": "Correct because it saves workbook." }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.98,
+    "metadata": { "estimated_time_sec": 25, "concepts": ["shortcuts"], "formulae": [] },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2419,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Shortcuts",
+    "difficulty": { "level": 4, "label": "moderate", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which shortcut inserts a new worksheet in Excel?",
+    "options": [
+      { "id": "A", "text": "Shift + F11" },
+      { "id": "B", "text": "Ctrl + N" },
+      { "id": "C", "text": "Ctrl + Shift + L" },
+      { "id": "D", "text": "Alt + Enter" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Shift + F11",
+      "explanation": {
+        "concept": "Excel provides dedicated shortcuts for sheet operations.",
+        "step_by_step": ["Shift+F11 inserts new worksheet.", "Ctrl+N creates new workbook."],
+        "why_correct": { "A": "Correct for inserting worksheet." }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.96,
+    "metadata": { "estimated_time_sec": 40, "concepts": ["shortcuts"], "formulae": [] },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2429,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Shortcuts",
+    "difficulty": { "level": 4, "label": "moderate", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which shortcut applies AutoFilter to a selected range?",
+    "options": [
+      { "id": "A", "text": "Ctrl + Shift + L" },
+      { "id": "B", "text": "Ctrl + T" },
+      { "id": "C", "text": "Alt + F1" },
+      { "id": "D", "text": "Ctrl + Shift + F" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Ctrl + Shift + L",
+      "explanation": {
+        "concept": "AutoFilter shortcut toggles filtering on a dataset.",
+        "step_by_step": ["Select data range.", "Press Ctrl+Shift+L."],
+        "why_correct": { "A": "Correct shortcut for AutoFilter." }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.96,
+    "metadata": { "estimated_time_sec": 45, "concepts": ["shortcuts"], "formulae": [] },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 5001,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Shortcuts",
+    "difficulty": { "level": 3, "label": "basic", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty_weight": 0.35,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the shortcut key to 'Undo' the last action in Windows?",
+    "options": [
+      { "id": "A", "text": "Ctrl + Y" },
+      { "id": "B", "text": "Ctrl + Z" },
+      { "id": "C", "text": "Ctrl + U" },
+      { "id": "D", "text": "Ctrl + W" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ctrl + Z",
+      "explanation": {
+        "concept": "Undo reverses the most recent change.",
+        "step_by_step": ["Ctrl+Z is the global shortcut for undo.", "Ctrl+Y is for redo.", "Ctrl+U often underlines text."],
+        "why_correct": { "B": "Correct as Ctrl+Z is the standard undo shortcut." }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_5001",
+    "confidence_score": 0.99,
+    "metadata": { "estimated_time_sec": 15, "concepts": ["shortcuts"], "formulae": [] },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 5002,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Shortcuts",
+    "difficulty": { "level": 3, "label": "basic", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty_weight": 0.35,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which keyboard shortcut is used to 'Select All' content in a document or folder?",
+    "options": [
+      { "id": "A", "text": "Ctrl + S" },
+      { "id": "B", "text": "Ctrl + L" },
+      { "id": "C", "text": "Ctrl + A" },
+      { "id": "D", "text": "Ctrl + Alt + A" }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Ctrl + A",
+      "explanation": {
+        "concept": "Select All highlights everything in the active window.",
+        "step_by_step": ["Ctrl+A selects everything.", "Ctrl+S saves.", "Ctrl+L often aligns left."],
+        "why_correct": { "C": "Correct as Ctrl+A stands for 'All'." }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_5002",
+    "confidence_score": 0.99,
+    "metadata": { "estimated_time_sec": 15, "concepts": ["shortcuts"], "formulae": [] },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 5003,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Shortcuts",
+    "difficulty": { "level": 3, "label": "basic", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty_weight": 0.35,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which shortcut is used to 'Redo' an action that was undone?",
+    "options": [
+      { "id": "A", "text": "Ctrl + R" },
+      { "id": "B", "text": "Ctrl + Shift + Z" },
+      { "id": "C", "text": "Ctrl + Y" },
+      { "id": "D", "text": "Both B and C" }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Both B and C",
+      "explanation": {
+        "concept": "Redo reapplies an action.",
+        "step_by_step": ["Ctrl+Y is the standard redo.", "Ctrl+Shift+Z is also used in many modern apps.", "Ctrl+R often refreshes a page."],
+        "why_correct": { "D": "Correct as both shortcuts are commonly used for Redo." }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_5003",
+    "confidence_score": 0.98,
+    "metadata": { "estimated_time_sec": 20, "concepts": ["shortcuts"], "formulae": [] },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 5004,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Shortcuts",
+    "difficulty": { "level": 4, "label": "moderate", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty_weight": 0.45,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which keyboard shortcut opens the 'Find' dialog in most applications?",
+    "options": [
+      { "id": "A", "text": "Ctrl + H" },
+      { "id": "B", "text": "Ctrl + F" },
+      { "id": "C", "text": "Ctrl + G" },
+      { "id": "D", "text": "Ctrl + K" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ctrl + F",
+      "explanation": {
+        "concept": "The Find command searches for specific text.",
+        "step_by_step": ["Ctrl+F is for Find.", "Ctrl+H is for Replace.", "Ctrl+K is for Hyperlink."],
+        "why_correct": { "B": "Correct as Ctrl+F stands for 'Find'." }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_5004",
+    "confidence_score": 0.99,
+    "metadata": { "estimated_time_sec": 15, "concepts": ["shortcuts"], "formulae": [] },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 5005,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Shortcuts",
+    "difficulty": { "level": 4, "label": "moderate", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty_weight": 0.4,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which shortcut is used to switch between open applications in Windows?",
+    "options": [
+      { "id": "A", "text": "Alt + F4" },
+      { "id": "B", "text": "Alt + Tab" },
+      { "id": "C", "text": "Ctrl + Tab" },
+      { "id": "D", "text": "Win + D" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Alt + Tab",
+      "explanation": {
+        "concept": "Task switching allows rapid navigation between apps.",
+        "step_by_step": ["Alt+Tab shows the app switcher.", "Alt+F4 closes the app.", "Win+D shows desktop."],
+        "why_correct": { "B": "Correct as Alt+Tab is the standard task switcher." }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_5005",
+    "confidence_score": 0.99,
+    "metadata": { "estimated_time_sec": 20, "concepts": ["shortcuts"], "formulae": [] },
+    "subtopic": "IT & Programming"
+  }
+]

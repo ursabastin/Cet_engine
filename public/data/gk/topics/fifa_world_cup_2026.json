@@ -1,0 +1,224 @@
+[
+  {
+    "id": 2869,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "FIFA World Cup 2026",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following countries is NOT a host of the FIFA World Cup 2026?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Canada"
+      },
+      {
+        "id": "B",
+        "text": "Mexico"
+      },
+      {
+        "id": "C",
+        "text": "USA"
+      },
+      {
+        "id": "D",
+        "text": "Brazil"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Brazil",
+      "explanation": {
+        "concept": "Understanding multi-country hosting formats in FIFA World Cup.",
+        "step_by_step": [
+          "Recall hosts for 2026 FIFA World Cup.",
+          "Hosts are USA, Canada, Mexico.",
+          "Brazil is not a host."
+        ],
+        "why_correct": {
+          "D": "Brazil is not part of the hosting trio."
+        },
+        "why_incorrect": {
+          "A": "Canada is a host.",
+          "B": "Mexico is a host.",
+          "C": "USA is a host."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Football tournaments"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2877,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "FIFA World Cup 2026",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which unique feature distinguishes the FIFA World Cup 2026 from previous editions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "First tournament with VAR technology"
+      },
+      {
+        "id": "B",
+        "text": "First to be hosted in Asia"
+      },
+      {
+        "id": "C",
+        "text": "Expanded to 48 teams"
+      },
+      {
+        "id": "D",
+        "text": "First winter World Cup"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Expanded to 48 teams",
+      "explanation": {
+        "concept": "Understanding structural changes in FIFA tournaments.",
+        "step_by_step": [
+          "Recall format changes in FIFA 2026.",
+          "Team count increased.",
+          "Expanded from 32 to 48 teams."
+        ],
+        "why_correct": {
+          "C": "2026 marks expansion to 48 teams."
+        },
+        "why_incorrect": {
+          "A": "VAR was introduced earlier.",
+          "B": "Asia hosted 2002 WC.",
+          "D": "Winter WC was Qatar 2022."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "FIFA format"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2889,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "FIFA World Cup 2026",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which structural change in FIFA World Cup 2026 will most significantly impact group stage dynamics?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Introduction of knockout-only format"
+      },
+      {
+        "id": "B",
+        "text": "Increase to 48 teams altering group composition"
+      },
+      {
+        "id": "C",
+        "text": "Removal of extra time"
+      },
+      {
+        "id": "D",
+        "text": "Limiting matches per team to two"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Increase to 48 teams altering group composition",
+      "explanation": {
+        "concept": "Analyzing how tournament expansion affects structure.",
+        "step_by_step": [
+          "Teams increased from 32 to 48.",
+          "This changes group size and qualification.",
+          "Hence impacts group stage most."
+        ],
+        "why_correct": {
+          "B": "Expansion directly alters group dynamics."
+        },
+        "why_incorrect": {
+          "A": "Knockout-only not implemented.",
+          "C": "Extra time still exists.",
+          "D": "Match count not reduced like that."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Tournament structure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": 2921,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "UNESCO World Heritage Sites",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The 'Moidams' recently recognized in UNESCO World Heritage discussions (2024–25) are associated with which historical dynasty of India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maurya Dynasty"
+      },
+      {
+        "id": "B",
+        "text": "Ahom Dynasty"
+      },
+      {
+        "id": "C",
+        "text": "Gupta Dynasty"
+      },
+      {
+        "id": "D",
+        "text": "Chola Dynasty"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ahom Dynasty",
+      "explanation": {
+        "concept": "Moidams are burial mounds linked to the Ahom rulers of Assam and represent a unique funerary tradition.",
+        "step_by_step": [
+          "Identify Moidams as burial structures.",
+          "Recall they are located in Assam.",
+          "Associate Assam medieval rule with Ahom Dynasty.",
+          "Thus Moidams belong to Ahom rulers."
+        ],
+        "why_correct": {
+          "A": "Incorrect historically unrelated dynasty.",
+          "B": "Correct: Moidams are Ahom royal burial sites.",
+          "C": "Gupta had no such burial tradition.",
+          "D": "Cholas followed different temple-based architecture."
+        },
+        "why_incorrect": {
+          "A": "Mauryas used stupas, not Moidams.",
+          "C": "Gupta era focused on temples and sculptures.",
+          "D": "Chola architecture was Dravidian temple style."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "UNESCO heritage",
+        "Ahom history"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2931,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "UNESCO World Heritage Sites",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following sites is an example of rock-cut architecture and is also a UNESCO World Heritage Site in Maharashtra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sanchi Stupa"
+      },
+      {
+        "id": "B",
+        "text": "Ajanta Caves"
+      },
+      {
+        "id": "C",
+        "text": "Khajuraho Temples"
+      },
+      {
+        "id": "D",
+        "text": "Mahabalipuram"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ajanta Caves",
+      "explanation": {
+        "concept": "Ajanta Caves are rock-cut Buddhist cave monuments carved into basalt cliffs.",
+        "step_by_step": [
+          "Identify rock-cut architecture examples.",
+          "Recall UNESCO sites in Maharashtra.",
+          "Ajanta fits both criteria."
+        ],
+        "why_correct": {
+          "B": "Ajanta is a classic rock-cut UNESCO site."
+        },
+        "why_incorrect": {
+          "A": "Sanchi is a structural stupa.",
+          "C": "Khajuraho are structural temples.",
+          "D": "Mahabalipuram is in Tamil Nadu."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "rock-cut architecture"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2941,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "UNESCO World Heritage Sites",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following caves in the Ellora complex is particularly known for representing a synthesis of Hindu, Buddhist, and Jain traditions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kailasa Temple (Cave 16)"
+      },
+      {
+        "id": "B",
+        "text": "Ajanta Cave 1"
+      },
+      {
+        "id": "C",
+        "text": "Barabar Caves"
+      },
+      {
+        "id": "D",
+        "text": "Udayagiri Caves"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Kailasa Temple (Cave 16)",
+      "explanation": {
+        "concept": "Ellora represents coexistence of multiple religions; Kailasa Temple is its most iconic monolithic structure.",
+        "step_by_step": [
+          "Identify Ellora caves as multi-religious.",
+          "Recognize Kailasa temple as central monument.",
+          "Select Cave 16."
+        ],
+        "why_correct": {
+          "A": "Correct: represents pinnacle of Ellora’s synthesis."
+        },
+        "why_incorrect": {
+          "B": "Ajanta is separate Buddhist site.",
+          "C": "Barabar caves are Mauryan.",
+          "D": "Udayagiri is Gupta period."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Ellora caves"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2951,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "UNESCO World Heritage Sites",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature primarily distinguishes the Ajanta Caves from the Ellora Caves in terms of religious composition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ajanta includes Hindu temples while Ellora is purely Buddhist"
+      },
+      {
+        "id": "B",
+        "text": "Ajanta is exclusively Buddhist, while Ellora includes Hindu, Buddhist, and Jain caves"
+      },
+      {
+        "id": "C",
+        "text": "Ajanta is Jain while Ellora is Hindu"
+      },
+      {
+        "id": "D",
+        "text": "Both are exclusively Buddhist"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ajanta is exclusively Buddhist, while Ellora includes Hindu, Buddhist, and Jain caves",
+      "explanation": {
+        "concept": "Ajanta caves are primarily Buddhist, whereas Ellora represents religious diversity.",
+        "step_by_step": [
+          "Recall Ajanta's Buddhist murals.",
+          "Recall Ellora's multi-religious caves.",
+          "Compare both sites."
+        ],
+        "why_correct": {
+          "B": "Correct distinction."
+        },
+        "why_incorrect": {
+          "A": "Incorrect religious classification.",
+          "C": "Ajanta is not Jain.",
+          "D": "Ellora is not exclusively Buddhist."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_31",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Ajanta vs Ellora"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2961,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "UNESCO World Heritage Sites",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following UNESCO World Heritage Sites is known for its mural paintings depicting Jataka tales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ellora Caves"
+      },
+      {
+        "id": "B",
+        "text": "Ajanta Caves"
+      },
+      {
+        "id": "C",
+        "text": "Hampi"
+      },
+      {
+        "id": "D",
+        "text": "Konark Temple"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ajanta Caves",
+      "explanation": {
+        "concept": "Ajanta caves contain ancient Buddhist murals illustrating Jataka tales.",
+        "step_by_step": [
+          "Identify site with paintings.",
+          "Recall Ajanta murals.",
+          "Select Ajanta."
+        ],
+        "why_correct": {
+          "B": "Correct site."
+        },
+        "why_incorrect": {
+          "A": "Ellora focuses on sculptures.",
+          "C": "Hampi is architectural ruins.",
+          "D": "Konark is a temple."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_41",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Ajanta paintings"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

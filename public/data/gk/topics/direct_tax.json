@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3049,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Direct Tax",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which characteristic best defines a direct tax?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tax burden can be shifted"
+      },
+      {
+        "id": "B",
+        "text": "Levied on goods and services"
+      },
+      {
+        "id": "C",
+        "text": "Paid directly by the person on whom it is imposed"
+      },
+      {
+        "id": "D",
+        "text": "Collected by intermediaries"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Paid directly by the person on whom it is imposed",
+      "explanation": {
+        "concept": "Direct tax incidence cannot be shifted.",
+        "step_by_step": [
+          "Recall definition of direct tax.",
+          "Identify payer bears burden.",
+          "Choose matching option."
+        ],
+        "why_correct": {
+          "C": "Correct definition."
+        },
+        "why_incorrect": {
+          "A": "Applies to indirect taxes.",
+          "B": "Indirect tax feature.",
+          "D": "Not direct tax."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "direct tax"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,1488 @@
+[
+  {
+    "id": 2261,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which protocol is primarily responsible for transferring web pages on the World Wide Web?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FTP"
+      },
+      {
+        "id": "B",
+        "text": "HTTP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "TCP"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "HTTP",
+      "explanation": {
+        "concept": "HTTP (HyperText Transfer Protocol) is the foundational protocol used for communication between web browsers and web servers in the [WWW](http://WWW).",
+        "step_by_step": [
+          "Identify the function: transferring web pages.",
+          "Recognize HTTP is designed for web communication.",
+          "Eliminate FTP (file transfer), SMTP (email), TCP (transport layer)."
+        ],
+        "why_correct": {
+          "A": "Incorrect protocol for web pages",
+          "B": "Correct protocol used for web communication",
+          "C": "Used for email transmission",
+          "D": "Transport protocol, not application-level for web"
+        },
+        "why_incorrect": {
+          "A": "FTP is for file transfer, not web page rendering",
+          "C": "SMTP handles email, not web browsing",
+          "D": "TCP supports HTTP but does not directly transfer web pages"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "HTTP protocol"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2262,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which component of a URL specifies the protocol used to access a resource?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domain name"
+      },
+      {
+        "id": "B",
+        "text": "Path"
+      },
+      {
+        "id": "C",
+        "text": "Scheme"
+      },
+      {
+        "id": "D",
+        "text": "Query string"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Scheme",
+      "explanation": {
+        "concept": "The scheme (e.g., http, https) indicates the protocol used to access a resource on the web.",
+        "step_by_step": [
+          "Understand URL structure.",
+          "Identify 'http://' or 'https://' as scheme.",
+          "Recognize it defines protocol."
+        ],
+        "why_correct": {
+          "C": "Scheme defines protocol used in URL"
+        },
+        "why_incorrect": {
+          "A": "Domain identifies server, not protocol",
+          "B": "Path specifies location on server",
+          "D": "Query string carries parameters"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "URL structure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2263,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary role of a web browser in the WWW?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hosting websites"
+      },
+      {
+        "id": "B",
+        "text": "Rendering and displaying web pages"
+      },
+      {
+        "id": "C",
+        "text": "Managing DNS records"
+      },
+      {
+        "id": "D",
+        "text": "Encrypting data packets"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Rendering and displaying web pages",
+      "explanation": {
+        "concept": "Web browsers retrieve, interpret, and display web content using protocols like HTTP and languages like HTML.",
+        "step_by_step": [
+          "Identify role of browser.",
+          "Understand it fetches and renders pages.",
+          "Eliminate server-side or network roles."
+        ],
+        "why_correct": {
+          "B": "Browser displays web pages to users"
+        },
+        "why_incorrect": {
+          "A": "Hosting is done by servers",
+          "C": "DNS handled by DNS servers",
+          "D": "Encryption handled by HTTPS/SSL layers"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Web browser function"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2264,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which technology enables linking of documents across the WWW?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FTP"
+      },
+      {
+        "id": "B",
+        "text": "Hypertext"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "IP Addressing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hypertext",
+      "explanation": {
+        "concept": "Hypertext allows documents to be interconnected through hyperlinks, forming the basis of navigation on the [WWW](http://WWW).",
+        "step_by_step": [
+          "Understand linking mechanism.",
+          "Identify hyperlinks concept.",
+          "Recognize hypertext as enabling feature."
+        ],
+        "why_correct": {
+          "B": "Hypertext enables linking between documents"
+        },
+        "why_incorrect": {
+          "A": "FTP transfers files only",
+          "C": "SMTP handles email",
+          "D": "IP addressing identifies devices"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Hypertext"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2265,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What does DNS primarily do in the context of WWW?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Encrypts web traffic"
+      },
+      {
+        "id": "B",
+        "text": "Translates domain names into IP addresses"
+      },
+      {
+        "id": "C",
+        "text": "Hosts web pages"
+      },
+      {
+        "id": "D",
+        "text": "Transfers files between servers"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Translates domain names into IP addresses",
+      "explanation": {
+        "concept": "DNS resolves human-readable domain names into machine-readable IP addresses required for communication.",
+        "step_by_step": [
+          "User enters domain name.",
+          "DNS lookup converts to IP.",
+          "Browser connects to server using IP."
+        ],
+        "why_correct": {
+          "B": "DNS performs name resolution"
+        },
+        "why_incorrect": {
+          "A": "Encryption done by HTTPS",
+          "C": "Hosting done by servers",
+          "D": "File transfer is FTP"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "DNS"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2266,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which layer of the TCP/IP model does HTTP operate in?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transport layer"
+      },
+      {
+        "id": "B",
+        "text": "Application layer"
+      },
+      {
+        "id": "C",
+        "text": "Internet layer"
+      },
+      {
+        "id": "D",
+        "text": "Network interface layer"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Application layer",
+      "explanation": {
+        "concept": "HTTP is an application-layer protocol in the TCP/IP model responsible for web communication.",
+        "step_by_step": [
+          "Identify HTTP function.",
+          "Map to TCP/IP layers.",
+          "Recognize application-level communication."
+        ],
+        "why_correct": {
+          "B": "HTTP is an application layer protocol"
+        },
+        "why_incorrect": {
+          "A": "Transport layer uses TCP/UDP",
+          "C": "Internet layer uses IP",
+          "D": "Network interface handles hardware communication"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "TCP/IP model"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2267,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes a web server?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A client application for browsing web pages"
+      },
+      {
+        "id": "B",
+        "text": "A system that stores and delivers web content"
+      },
+      {
+        "id": "C",
+        "text": "A protocol for sending emails"
+      },
+      {
+        "id": "D",
+        "text": "A tool for domain name resolution"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A system that stores and delivers web content",
+      "explanation": {
+        "concept": "A web server hosts websites and responds to client requests by serving web pages.",
+        "step_by_step": [
+          "Identify server role.",
+          "Understand request-response model.",
+          "Match correct function."
+        ],
+        "why_correct": {
+          "B": "Web server stores and delivers web content"
+        },
+        "why_incorrect": {
+          "A": "That is a browser",
+          "C": "SMTP handles email",
+          "D": "DNS resolves names"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Web server"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2268,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "HTTPS differs from HTTP mainly because it:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uses UDP instead of TCP"
+      },
+      {
+        "id": "B",
+        "text": "Encrypts communication using SSL/TLS"
+      },
+      {
+        "id": "C",
+        "text": "Transfers larger files"
+      },
+      {
+        "id": "D",
+        "text": "Eliminates need for DNS"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Encrypts communication using SSL/TLS",
+      "explanation": {
+        "concept": "HTTPS adds a security layer via SSL/TLS to encrypt data exchanged between browser and server.",
+        "step_by_step": [
+          "Compare HTTP vs HTTPS.",
+          "Identify security feature.",
+          "Recognize encryption mechanism."
+        ],
+        "why_correct": {
+          "B": "HTTPS encrypts communication"
+        },
+        "why_incorrect": {
+          "A": "Both use TCP",
+          "C": "Not the defining difference",
+          "D": "DNS still required"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "HTTPS security"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2269,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following correctly represents the sequence in accessing a webpage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Browser → DNS → Server → HTTP request"
+      },
+      {
+        "id": "B",
+        "text": "Browser → DNS → IP → Server → HTTP request → Response"
+      },
+      {
+        "id": "C",
+        "text": "DNS → Browser → Server → HTTP response"
+      },
+      {
+        "id": "D",
+        "text": "Server → DNS → Browser → Response"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Browser → DNS → IP → Server → HTTP request → Response",
+      "explanation": {
+        "concept": "Accessing a webpage involves DNS resolution, establishing connection, sending HTTP request, and receiving response.",
+        "step_by_step": [
+          "User enters URL.",
+          "DNS resolves domain to IP.",
+          "Browser connects to server.",
+          "HTTP request sent.",
+          "Server sends response."
+        ],
+        "why_correct": {
+          "B": "Correct sequence of events"
+        },
+        "why_incorrect": {
+          "A": "Incorrect ordering",
+          "C": "DNS does not initiate process",
+          "D": "Server does not start interaction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Web request flow"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2270,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which markup language is primarily used to structure content on the World Wide Web?",
+    "options": [
+      {
+        "id": "A",
+        "text": "XML"
+      },
+      {
+        "id": "B",
+        "text": "HTML"
+      },
+      {
+        "id": "C",
+        "text": "JSON"
+      },
+      {
+        "id": "D",
+        "text": "CSS"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "HTML",
+      "explanation": {
+        "concept": "HTML (HyperText Markup Language) is used to structure and present content on web pages.",
+        "step_by_step": [
+          "Identify web structure language.",
+          "Recognize HTML defines elements like headings, paragraphs.",
+          "Differentiate from styling and data formats."
+        ],
+        "why_correct": {
+          "B": "HTML structures web content"
+        },
+        "why_incorrect": {
+          "A": "XML is for data representation",
+          "C": "JSON is data format",
+          "D": "CSS is for styling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "HTML"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2271,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best explains the role of cookies in the World Wide Web?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They store static web pages on the server"
+      },
+      {
+        "id": "B",
+        "text": "They maintain state information between HTTP requests"
+      },
+      {
+        "id": "C",
+        "text": "They encrypt communication between client and server"
+      },
+      {
+        "id": "D",
+        "text": "They resolve domain names to IP addresses"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "They maintain state information between HTTP requests",
+      "explanation": {
+        "concept": "Cookies are small data stored on the client side to preserve user state (e.g., login sessions) across stateless HTTP requests.",
+        "step_by_step": [
+          "Recognize HTTP is stateless.",
+          "Understand need for session persistence.",
+          "Identify cookies as state-maintaining mechanism."
+        ],
+        "why_correct": {
+          "B": "Cookies store session data enabling continuity"
+        },
+        "why_incorrect": {
+          "A": "Servers store pages, not cookies",
+          "C": "Encryption is handled by HTTPS",
+          "D": "DNS resolves domain names"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Cookies",
+        "HTTP statelessness"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2272,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary function of a search engine in the context of WWW?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hosting websites"
+      },
+      {
+        "id": "B",
+        "text": "Indexing and retrieving web pages based on queries"
+      },
+      {
+        "id": "C",
+        "text": "Encrypting web data"
+      },
+      {
+        "id": "D",
+        "text": "Managing IP routing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Indexing and retrieving web pages based on queries",
+      "explanation": {
+        "concept": "Search engines crawl, index, and rank web pages to retrieve relevant results based on user queries.",
+        "step_by_step": [
+          "Understand search engine workflow.",
+          "Recognize indexing and ranking.",
+          "Identify retrieval as core function."
+        ],
+        "why_correct": {
+          "B": "Search engines retrieve relevant indexed pages"
+        },
+        "why_incorrect": {
+          "A": "Hosting is server role",
+          "C": "Encryption is HTTPS role",
+          "D": "Routing handled by network layer"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Search engines"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2273,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which HTTP method is idempotent and primarily used to retrieve data without modifying server state?",
+    "options": [
+      {
+        "id": "A",
+        "text": "POST"
+      },
+      {
+        "id": "B",
+        "text": "GET"
+      },
+      {
+        "id": "C",
+        "text": "PUT"
+      },
+      {
+        "id": "D",
+        "text": "DELETE"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "GET",
+      "explanation": {
+        "concept": "GET is an idempotent HTTP method used for retrieving resources without side effects on server data.",
+        "step_by_step": [
+          "Understand idempotency.",
+          "Identify safe methods.",
+          "Recognize GET as retrieval-only method."
+        ],
+        "why_correct": {
+          "B": "GET retrieves data without changing state"
+        },
+        "why_incorrect": {
+          "A": "POST modifies server state",
+          "C": "PUT updates resources",
+          "D": "DELETE removes resources"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "HTTP methods"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2274,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which mechanism ensures that data transmitted over HTTPS cannot be read or altered by intermediaries?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNS caching"
+      },
+      {
+        "id": "B",
+        "text": "SSL/TLS encryption and authentication"
+      },
+      {
+        "id": "C",
+        "text": "IP routing"
+      },
+      {
+        "id": "D",
+        "text": "HTML parsing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "SSL/TLS encryption and authentication",
+      "explanation": {
+        "concept": "SSL/TLS provides encryption, integrity, and authentication, ensuring secure communication over HTTPS.",
+        "step_by_step": [
+          "Identify HTTPS security layer.",
+          "Understand encryption and certificates.",
+          "Recognize prevention of interception."
+        ],
+        "why_correct": {
+          "B": "SSL/TLS ensures confidentiality and integrity"
+        },
+        "why_incorrect": {
+          "A": "DNS caching unrelated to security",
+          "C": "Routing does not secure data",
+          "D": "HTML parsing is client-side rendering"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "SSL/TLS"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2275,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary purpose of hyperlinks in the WWW?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To encrypt web data"
+      },
+      {
+        "id": "B",
+        "text": "To connect documents and enable navigation"
+      },
+      {
+        "id": "C",
+        "text": "To store cookies"
+      },
+      {
+        "id": "D",
+        "text": "To resolve IP addresses"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To connect documents and enable navigation",
+      "explanation": {
+        "concept": "Hyperlinks allow users to navigate between documents by linking resources together.",
+        "step_by_step": [
+          "Identify hyperlink function.",
+          "Recognize navigation capability.",
+          "Eliminate unrelated options."
+        ],
+        "why_correct": {
+          "B": "Hyperlinks connect web resources"
+        },
+        "why_incorrect": {
+          "A": "Encryption is HTTPS role",
+          "C": "Cookies unrelated",
+          "D": "DNS handles IP resolution"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Hyperlinks"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2276,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes a client-server model in the WWW?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Servers request data from clients"
+      },
+      {
+        "id": "B",
+        "text": "Clients and servers share equal responsibilities"
+      },
+      {
+        "id": "C",
+        "text": "Clients request services and servers respond with resources"
+      },
+      {
+        "id": "D",
+        "text": "Clients store and manage all web data"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Clients request services and servers respond with resources",
+      "explanation": {
+        "concept": "In the client-server model, clients initiate requests and servers process them and send responses.",
+        "step_by_step": [
+          "Identify roles of client and server.",
+          "Understand request-response cycle.",
+          "Match correct relationship."
+        ],
+        "why_correct": {
+          "C": "Correct description of client-server interaction"
+        },
+        "why_incorrect": {
+          "A": "Servers do not initiate requests",
+          "B": "Responsibilities are not equal",
+          "D": "Servers store web data"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Client-server model"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2277,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following components ensures uniqueness of web resource addresses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "URL"
+      },
+      {
+        "id": "B",
+        "text": "HTML"
+      },
+      {
+        "id": "C",
+        "text": "HTTP"
+      },
+      {
+        "id": "D",
+        "text": "Browser cache"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "URL",
+      "explanation": {
+        "concept": "A URL uniquely identifies a resource on the WWW by specifying protocol, domain, and path.",
+        "step_by_step": [
+          "Identify resource identification mechanism.",
+          "Understand uniqueness requirement.",
+          "Recognize URL structure."
+        ],
+        "why_correct": {
+          "A": "URL uniquely identifies web resources"
+        },
+        "why_incorrect": {
+          "B": "HTML structures content",
+          "C": "HTTP transfers data",
+          "D": "Cache stores local copies"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "URL"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2278,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which factor primarily affects latency when loading a webpage over the WWW?",
+    "options": [
+      {
+        "id": "A",
+        "text": "HTML syntax correctness"
+      },
+      {
+        "id": "B",
+        "text": "DNS resolution time and network delays"
+      },
+      {
+        "id": "C",
+        "text": "Font size in CSS"
+      },
+      {
+        "id": "D",
+        "text": "Browser theme settings"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "DNS resolution time and network delays",
+      "explanation": {
+        "concept": "Latency is mainly influenced by DNS lookup time, network transmission delays, and server response time.",
+        "step_by_step": [
+          "Define latency.",
+          "Identify network-related delays.",
+          "Recognize DNS lookup impact."
+        ],
+        "why_correct": {
+          "B": "Network and DNS delays determine latency"
+        },
+        "why_incorrect": {
+          "A": "Syntax does not affect latency significantly",
+          "C": "CSS styling irrelevant",
+          "D": "UI settings irrelevant"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Latency"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2279,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which component of the WWW architecture is responsible for interpreting HTML and CSS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Web server"
+      },
+      {
+        "id": "B",
+        "text": "DNS server"
+      },
+      {
+        "id": "C",
+        "text": "Web browser rendering engine"
+      },
+      {
+        "id": "D",
+        "text": "TCP protocol"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Web browser rendering engine",
+      "explanation": {
+        "concept": "The rendering engine of a browser parses HTML and CSS to display web pages visually.",
+        "step_by_step": [
+          "Identify parsing component.",
+          "Understand rendering process.",
+          "Recognize browser engine role."
+        ],
+        "why_correct": {
+          "C": "Rendering engine interprets HTML/CSS"
+        },
+        "why_incorrect": {
+          "A": "Server only sends content",
+          "B": "DNS resolves names",
+          "D": "TCP transports data"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Rendering engine"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2280,
+    "subject": "Computer Basics",
+    "chapter": "Core Essentials",
+    "topic": "WWW",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is NOT a core component of the World Wide Web?",
+    "options": [
+      {
+        "id": "A",
+        "text": "HTTP"
+      },
+      {
+        "id": "B",
+        "text": "HTML"
+      },
+      {
+        "id": "C",
+        "text": "Web browser"
+      },
+      {
+        "id": "D",
+        "text": "Compiler"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Compiler",
+      "explanation": {
+        "concept": "Core WWW components include HTTP, HTML, and web browsers. Compilers are unrelated to web architecture.",
+        "step_by_step": [
+          "Identify core web technologies.",
+          "Compare options.",
+          "Eliminate unrelated components."
+        ],
+        "why_correct": {
+          "D": "Compiler is not part of WWW"
+        },
+        "why_incorrect": {
+          "A": "HTTP is core protocol",
+          "B": "HTML is core markup language",
+          "C": "Browser is essential client component"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "WWW components"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

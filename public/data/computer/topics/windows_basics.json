@@ -1,0 +1,1505 @@
+[
+  {
+    "id": 2241,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which component of Windows is primarily responsible for managing hardware resources and providing services to application software?",
+    "options": [
+      {
+        "id": "A",
+        "text": "File Explorer"
+      },
+      {
+        "id": "B",
+        "text": "Kernel"
+      },
+      {
+        "id": "C",
+        "text": "Control Panel"
+      },
+      {
+        "id": "D",
+        "text": "Taskbar"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Kernel",
+      "explanation": {
+        "concept": "The kernel is the core component of an operating system that directly interacts with hardware and manages system resources such as CPU, memory, and I/O devices.",
+        "step_by_step": [
+          "The operating system consists of different components like UI, services, and kernel.",
+          "The kernel sits at the core and directly communicates with hardware.",
+          "It controls memory, processes, and device communication.",
+          "Thus, kernel is the correct answer."
+        ],
+        "why_correct": {
+          "A": "Incorrect; File Explorer is used for file management, not hardware control.",
+          "B": "Correct; Kernel manages hardware resources and system operations.",
+          "C": "Incorrect; Control Panel is used for system settings configuration.",
+          "D": "Incorrect; Taskbar is part of the user interface."
+        },
+        "why_incorrect": {
+          "A": "Only provides file navigation functionality.",
+          "C": "Used for user-level configurations, not system control.",
+          "D": "A UI element, not a system-level component."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Operating system kernel"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2242,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.45,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In Windows OS, which feature allows users to run multiple applications simultaneously by sharing CPU time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Multithreading"
+      },
+      {
+        "id": "B",
+        "text": "Multiprocessing"
+      },
+      {
+        "id": "C",
+        "text": "Multitasking"
+      },
+      {
+        "id": "D",
+        "text": "Virtualization"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Multitasking",
+      "explanation": {
+        "concept": "Multitasking allows multiple applications to execute concurrently by rapidly switching CPU time between them.",
+        "step_by_step": [
+          "Windows OS supports multiple running applications.",
+          "CPU switches rapidly between processes.",
+          "This creates the illusion of simultaneous execution.",
+          "This concept is called multitasking."
+        ],
+        "why_correct": {
+          "C": "Correct; multitasking allows simultaneous execution of multiple programs."
+        },
+        "why_incorrect": {
+          "A": "Multithreading refers to multiple threads within a single process.",
+          "B": "Multiprocessing refers to using multiple CPUs.",
+          "D": "Virtualization refers to running multiple OS environments."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Multitasking"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2243,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 2,
+      "label": "easy",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.25,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows utility is used to manage installed programs and system settings?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Task Manager"
+      },
+      {
+        "id": "B",
+        "text": "Control Panel"
+      },
+      {
+        "id": "C",
+        "text": "Recycle Bin"
+      },
+      {
+        "id": "D",
+        "text": "Command Prompt"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Control Panel",
+      "explanation": {
+        "concept": "Control Panel provides access to system configuration options such as programs, devices, and system settings.",
+        "step_by_step": [
+          "Users need a centralized interface to change system settings.",
+          "Control Panel provides options for programs, hardware, and user accounts.",
+          "Other tools serve specific functions.",
+          "Thus, Control Panel is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; it allows configuration of system settings and installed programs."
+        },
+        "why_incorrect": {
+          "A": "Used to monitor processes and performance.",
+          "C": "Stores deleted files temporarily.",
+          "D": "Used for command-line operations."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "System configuration"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2244,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which file system is commonly used by modern Windows operating systems for improved security and large file support?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FAT16"
+      },
+      {
+        "id": "B",
+        "text": "FAT32"
+      },
+      {
+        "id": "C",
+        "text": "NTFS"
+      },
+      {
+        "id": "D",
+        "text": "exFAT"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "NTFS",
+      "explanation": {
+        "concept": "NTFS (New Technology File System) supports file permissions, encryption, and large storage capacities, making it standard for modern Windows systems.",
+        "step_by_step": [
+          "Older file systems like FAT16/32 have limitations.",
+          "Modern systems require security and large file handling.",
+          "NTFS provides permissions and journaling.",
+          "Thus, NTFS is used."
+        ],
+        "why_correct": {
+          "C": "Correct; NTFS supports advanced features and large files."
+        },
+        "why_incorrect": {
+          "A": "Limited file size and outdated.",
+          "B": "Limited to 4GB file size.",
+          "D": "Used mainly for removable storage."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "File systems"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2245,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary function of the Task Manager in Windows?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Managing files and folders"
+      },
+      {
+        "id": "B",
+        "text": "Monitoring system performance and processes"
+      },
+      {
+        "id": "C",
+        "text": "Installing software"
+      },
+      {
+        "id": "D",
+        "text": "Editing registry settings"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Monitoring system performance and processes",
+      "explanation": {
+        "concept": "Task Manager provides real-time information about system performance and running processes.",
+        "step_by_step": [
+          "Users need to track running applications.",
+          "Task Manager shows CPU, memory, and processes.",
+          "It can terminate tasks if needed.",
+          "Thus, monitoring performance is its primary function."
+        ],
+        "why_correct": {
+          "B": "Correct; it monitors and controls processes and performance."
+        },
+        "why_incorrect": {
+          "A": "Handled by File Explorer.",
+          "C": "Handled by installers.",
+          "D": "Done via Registry Editor."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Task Manager"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2246,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows feature allows users to restore system files to an earlier state without affecting personal files?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Disk Cleanup"
+      },
+      {
+        "id": "B",
+        "text": "System Restore"
+      },
+      {
+        "id": "C",
+        "text": "Backup and Restore"
+      },
+      {
+        "id": "D",
+        "text": "Defragmentation"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "System Restore",
+      "explanation": {
+        "concept": "System Restore reverts system files and settings to a previous state while preserving personal data.",
+        "step_by_step": [
+          "System errors may require rollback.",
+          "System Restore uses restore points.",
+          "It restores system configuration only.",
+          "Personal files remain unchanged."
+        ],
+        "why_correct": {
+          "B": "Correct; it restores system files without affecting personal data."
+        },
+        "why_incorrect": {
+          "A": "Removes unnecessary files.",
+          "C": "Creates backups of data.",
+          "D": "Optimizes disk storage."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "System Restore"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2247,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which shortcut key combination opens Task Manager directly in most Windows systems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ctrl + Alt + Del"
+      },
+      {
+        "id": "B",
+        "text": "Ctrl + Shift + Esc"
+      },
+      {
+        "id": "C",
+        "text": "Alt + Tab"
+      },
+      {
+        "id": "D",
+        "text": "Windows + R"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ctrl + Shift + Esc",
+      "explanation": {
+        "concept": "Keyboard shortcuts improve efficiency. Ctrl+Shift+Esc directly launches Task Manager without intermediate menus.",
+        "step_by_step": [
+          "Ctrl+Alt+Del opens a menu first.",
+          "Ctrl+Shift+Esc directly opens Task Manager.",
+          "Other shortcuts serve different purposes.",
+          "Hence option B is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; directly opens Task Manager."
+        },
+        "why_incorrect": {
+          "A": "Opens security options screen.",
+          "C": "Switches between applications.",
+          "D": "Opens Run dialog."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Keyboard shortcuts"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2248,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the purpose of the Windows Registry?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Store user documents"
+      },
+      {
+        "id": "B",
+        "text": "Maintain system and application configuration settings"
+      },
+      {
+        "id": "C",
+        "text": "Manage disk partitions"
+      },
+      {
+        "id": "D",
+        "text": "Execute system commands"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Maintain system and application configuration settings",
+      "explanation": {
+        "concept": "The Windows Registry is a hierarchical database storing low-level settings for the OS and applications.",
+        "step_by_step": [
+          "Windows needs centralized configuration storage.",
+          "Registry stores hardware, software, and user settings.",
+          "It is not used for files or commands.",
+          "Hence option B is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; registry stores configuration settings."
+        },
+        "why_incorrect": {
+          "A": "Documents are stored in file system.",
+          "C": "Disk management tools handle partitions.",
+          "D": "Command Prompt executes commands."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Windows Registry"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2249,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows feature allows multiple users to access the same system with different profiles and settings?",
+    "options": [
+      {
+        "id": "A",
+        "text": "User Accounts"
+      },
+      {
+        "id": "B",
+        "text": "Disk Management"
+      },
+      {
+        "id": "C",
+        "text": "Device Manager"
+      },
+      {
+        "id": "D",
+        "text": "Windows Defender"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "User Accounts",
+      "explanation": {
+        "concept": "User Accounts enable personalized settings and access control for different users on the same system.",
+        "step_by_step": [
+          "Multiple users may share a system.",
+          "Each needs separate settings and permissions.",
+          "User Accounts provide this functionality.",
+          "Hence option A is correct."
+        ],
+        "why_correct": {
+          "A": "Correct; manages multiple user profiles."
+        },
+        "why_incorrect": {
+          "B": "Handles disk operations.",
+          "C": "Manages hardware devices.",
+          "D": "Provides security against threats."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "User management"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2250,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows component is responsible for managing and prioritizing process execution in the CPU?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scheduler"
+      },
+      {
+        "id": "B",
+        "text": "Explorer"
+      },
+      {
+        "id": "C",
+        "text": "Driver"
+      },
+      {
+        "id": "D",
+        "text": "Clipboard"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Scheduler",
+      "explanation": {
+        "concept": "The scheduler is part of the OS kernel that decides which process gets CPU time and in what order.",
+        "step_by_step": [
+          "Multiple processes compete for CPU.",
+          "Scheduler assigns time slices.",
+          "It ensures efficient execution.",
+          "Hence scheduler is responsible."
+        ],
+        "why_correct": {
+          "A": "Correct; scheduler controls process execution order."
+        },
+        "why_incorrect": {
+          "B": "Handles file navigation.",
+          "C": "Enables hardware communication.",
+          "D": "Temporarily stores copied data."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Process scheduling"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2251,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.48,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows utility is primarily used to manage hardware devices and update drivers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Device Manager"
+      },
+      {
+        "id": "B",
+        "text": "Disk Cleanup"
+      },
+      {
+        "id": "C",
+        "text": "System Configuration"
+      },
+      {
+        "id": "D",
+        "text": "Resource Monitor"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Device Manager",
+      "explanation": {
+        "concept": "Device Manager allows users to view and control hardware devices, update drivers, and troubleshoot hardware issues.",
+        "step_by_step": [
+          "Hardware requires drivers to function properly.",
+          "Windows provides a centralized tool to manage devices.",
+          "Device Manager lists all hardware components.",
+          "It allows updating and troubleshooting drivers."
+        ],
+        "why_correct": {
+          "A": "Correct; it manages hardware devices and drivers."
+        },
+        "why_incorrect": {
+          "B": "Used for removing temporary files.",
+          "C": "Used for startup and boot configuration.",
+          "D": "Used for monitoring system resources."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Device management"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2252,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the function of the 'msconfig' utility in Windows?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Manage disk partitions"
+      },
+      {
+        "id": "B",
+        "text": "Configure startup processes and boot settings"
+      },
+      {
+        "id": "C",
+        "text": "Edit registry entries"
+      },
+      {
+        "id": "D",
+        "text": "Monitor CPU usage"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Configure startup processes and boot settings",
+      "explanation": {
+        "concept": "msconfig (System Configuration) is used to manage startup programs, services, and boot options.",
+        "step_by_step": [
+          "Windows allows customization of startup behavior.",
+          "msconfig provides a graphical interface for this.",
+          "It controls boot modes and startup services.",
+          "Hence option B is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; msconfig is used for startup and boot configuration."
+        },
+        "why_incorrect": {
+          "A": "Handled by Disk Management.",
+          "C": "Registry Editor is used for registry changes.",
+          "D": "Task Manager or Resource Monitor handles CPU monitoring."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "System configuration"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2253,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows feature allows temporary storage of copied or cut data for later use?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Buffer"
+      },
+      {
+        "id": "B",
+        "text": "Clipboard"
+      },
+      {
+        "id": "C",
+        "text": "Cache"
+      },
+      {
+        "id": "D",
+        "text": "Registry"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Clipboard",
+      "explanation": {
+        "concept": "Clipboard is a temporary storage area that holds data during copy and paste operations.",
+        "step_by_step": [
+          "When data is copied or cut, it needs temporary storage.",
+          "Clipboard holds this data until pasted.",
+          "It supports text, images, and files.",
+          "Thus, Clipboard is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; Clipboard stores copied or cut data temporarily."
+        },
+        "why_incorrect": {
+          "A": "Buffer is a general temporary storage concept, not specific here.",
+          "C": "Cache stores frequently accessed data.",
+          "D": "Registry stores configuration settings."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Clipboard"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2254,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows service is responsible for managing background services and processes that start automatically with the system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Windows Shell"
+      },
+      {
+        "id": "B",
+        "text": "Service Control Manager"
+      },
+      {
+        "id": "C",
+        "text": "Task Scheduler"
+      },
+      {
+        "id": "D",
+        "text": "Windows Explorer"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Service Control Manager",
+      "explanation": {
+        "concept": "Service Control Manager (SCM) manages Windows services, including starting, stopping, and interacting with background processes.",
+        "step_by_step": [
+          "Windows services run in the background.",
+          "They need centralized control.",
+          "SCM manages service lifecycle.",
+          "Hence SCM is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; SCM manages background services."
+        },
+        "why_incorrect": {
+          "A": "Shell provides user interface.",
+          "C": "Schedules tasks but doesn't manage services.",
+          "D": "Handles file browsing."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Windows services"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2255,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature in Windows allows users to search files, applications, and settings quickly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Run Dialog"
+      },
+      {
+        "id": "B",
+        "text": "Search Bar"
+      },
+      {
+        "id": "C",
+        "text": "Quick Access"
+      },
+      {
+        "id": "D",
+        "text": "File History"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Search Bar",
+      "explanation": {
+        "concept": "The Search Bar in Windows enables quick retrieval of files, apps, and system settings using indexed search.",
+        "step_by_step": [
+          "Users need quick access to files and apps.",
+          "Windows provides a search indexing system.",
+          "Search Bar queries this index efficiently.",
+          "Hence option B is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; it provides fast system-wide search."
+        },
+        "why_incorrect": {
+          "A": "Executes commands, not general search.",
+          "C": "Shows frequently used folders.",
+          "D": "Used for backups."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Search functionality"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2256,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows component is responsible for graphical user interaction with files and applications?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Command Interpreter"
+      },
+      {
+        "id": "B",
+        "text": "Shell"
+      },
+      {
+        "id": "C",
+        "text": "Kernel"
+      },
+      {
+        "id": "D",
+        "text": "Scheduler"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Shell",
+      "explanation": {
+        "concept": "The shell provides the graphical user interface (GUI) that allows users to interact with the operating system.",
+        "step_by_step": [
+          "Users interact via GUI or CLI.",
+          "Windows primarily uses GUI.",
+          "The shell manages this interaction.",
+          "Thus, shell is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; shell provides user interface."
+        },
+        "why_incorrect": {
+          "A": "Command interpreter is CLI-based.",
+          "C": "Kernel handles hardware interaction.",
+          "D": "Scheduler manages CPU time."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Shell"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2257,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows feature ensures that frequently accessed files load faster by storing temporary data in memory?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paging"
+      },
+      {
+        "id": "B",
+        "text": "Caching"
+      },
+      {
+        "id": "C",
+        "text": "Defragmentation"
+      },
+      {
+        "id": "D",
+        "text": "Indexing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Caching",
+      "explanation": {
+        "concept": "Caching improves performance by storing frequently accessed data in faster memory locations.",
+        "step_by_step": [
+          "Frequent file access needs optimization.",
+          "System stores data in cache memory.",
+          "Retrieval becomes faster.",
+          "Hence caching is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; caching speeds up access using temporary storage."
+        },
+        "why_incorrect": {
+          "A": "Paging manages virtual memory.",
+          "C": "Defragmentation reorganizes disk data.",
+          "D": "Indexing improves search speed."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Caching"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2258,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows utility helps in analyzing disk space usage by showing file and folder sizes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Disk Cleanup"
+      },
+      {
+        "id": "B",
+        "text": "Storage Settings"
+      },
+      {
+        "id": "C",
+        "text": "Disk Management"
+      },
+      {
+        "id": "D",
+        "text": "Event Viewer"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Storage Settings",
+      "explanation": {
+        "concept": "Storage Settings provides a visual breakdown of disk usage, helping users identify large files and optimize space.",
+        "step_by_step": [
+          "Users need to monitor storage usage.",
+          "Windows provides storage visualization.",
+          "It shows file categories and sizes.",
+          "Hence Storage Settings is correct."
+        ],
+        "why_correct": {
+          "B": "Correct; it shows detailed disk usage."
+        },
+        "why_incorrect": {
+          "A": "Removes unnecessary files only.",
+          "C": "Manages partitions.",
+          "D": "Logs system events."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Storage management"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2259,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows feature allows scheduling of automatic tasks such as backups or updates?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Task Scheduler"
+      },
+      {
+        "id": "B",
+        "text": "Event Viewer"
+      },
+      {
+        "id": "C",
+        "text": "Performance Monitor"
+      },
+      {
+        "id": "D",
+        "text": "Group Policy Editor"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Task Scheduler",
+      "explanation": {
+        "concept": "Task Scheduler automates execution of tasks at predefined times or events.",
+        "step_by_step": [
+          "Automation improves efficiency.",
+          "Windows provides scheduling tool.",
+          "It executes tasks based on triggers.",
+          "Hence Task Scheduler is correct."
+        ],
+        "why_correct": {
+          "A": "Correct; schedules automated tasks."
+        },
+        "why_incorrect": {
+          "B": "Used for viewing logs.",
+          "C": "Monitors system performance.",
+          "D": "Controls system policies."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Task scheduling"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2260,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Windows basics",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Windows mechanism allows applications to run in isolated environments to prevent system-wide impact?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sandboxing"
+      },
+      {
+        "id": "B",
+        "text": "Threading"
+      },
+      {
+        "id": "C",
+        "text": "Paging"
+      },
+      {
+        "id": "D",
+        "text": "Buffering"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Sandboxing",
+      "explanation": {
+        "concept": "Sandboxing isolates applications to prevent them from affecting the system or other applications.",
+        "step_by_step": [
+          "Security requires isolation of processes.",
+          "Sandbox creates controlled environments.",
+          "It restricts access to system resources.",
+          "Hence sandboxing is correct."
+        ],
+        "why_correct": {
+          "A": "Correct; provides isolated execution environment."
+        },
+        "why_incorrect": {
+          "B": "Threading improves concurrency.",
+          "C": "Paging manages memory.",
+          "D": "Buffering handles data transfer."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Security isolation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  }
+]

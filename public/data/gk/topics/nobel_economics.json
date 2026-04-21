@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2850,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Nobel Economics",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.88,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Nobel Prize in Economic Sciences is officially awarded by which institution?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Swedish Academy"
+      },
+      {
+        "id": "B",
+        "text": "Royal Swedish Academy of Sciences"
+      },
+      {
+        "id": "C",
+        "text": "Norwegian Nobel Committee"
+      },
+      {
+        "id": "D",
+        "text": "World Bank"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Royal Swedish Academy of Sciences",
+      "explanation": {
+        "concept": "The Nobel Prize in Economic Sciences is awarded by the Royal Swedish Academy of Sciences.",
+        "step_by_step": [
+          "Recall awarding bodies of Nobel categories",
+          "Identify Economics Prize authority",
+          "Select correct institution"
+        ],
+        "why_correct": {
+          "B": "Correct as it awards Economics, Physics, and Chemistry prizes."
+        },
+        "why_incorrect": {
+          "A": "Literature only",
+          "C": "Peace Prize",
+          "D": "No role in Nobel awards"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Nobel Economics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,1144 @@
+[
+  {
+    "id": 1071,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum of ₹8000 is invested at 10% per annum compound interest, compounded annually. What will be the amount after 2 years?",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹9680"
+      },
+      {
+        "id": "B",
+        "text": "₹9600"
+      },
+      {
+        "id": "C",
+        "text": "₹9720"
+      },
+      {
+        "id": "D",
+        "text": "₹9800"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "₹9680",
+      "explanation": {
+        "concept": "Compound Interest formula: A = P(1 + r/100)^n",
+        "step_by_step": [
+          "P = 8000, r = 10%, n = 2",
+          "A = 8000 × (1.1)^2",
+          "A = 8000 × 1.21 = 9680"
+        ],
+        "why_correct": {
+          "A": "Correct application of compound interest formula"
+        },
+        "why_incorrect": {
+          "B": "Simple interest result, not compound",
+          "C": "Incorrect multiplication",
+          "D": "Overestimation of growth"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1071",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "compound interest"
+      ],
+      "formulae": [
+        "A = P(1 + r/100)^n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1072,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The difference between compound interest and simple interest on ₹5000 for 2 years at 8% per annum is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹32"
+      },
+      {
+        "id": "B",
+        "text": "₹40"
+      },
+      {
+        "id": "C",
+        "text": "₹64"
+      },
+      {
+        "id": "D",
+        "text": "₹80"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "₹32",
+      "explanation": {
+        "concept": "Difference = P × (r/100)^2 for 2 years",
+        "step_by_step": [
+          "Difference = 5000 × (8/100)^2",
+          "= 5000 × 64/10000",
+          "= 32"
+        ],
+        "why_correct": {
+          "A": "Correct application of formula"
+        },
+        "why_incorrect": {
+          "B": "Calculation error",
+          "C": "Incorrect squaring",
+          "D": "Incorrect scaling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1072",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "difference SI CI"
+      ],
+      "formulae": [
+        "Difference = P(r/100)^2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1073,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum amounts to ₹1210 in 2 years at compound interest. If the rate is 10% per annum, find the principal.",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹1000"
+      },
+      {
+        "id": "B",
+        "text": "₹1100"
+      },
+      {
+        "id": "C",
+        "text": "₹900"
+      },
+      {
+        "id": "D",
+        "text": "₹1050"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "₹1000",
+      "explanation": {
+        "concept": "Reverse compound interest: P = A / (1 + r/100)^n",
+        "step_by_step": [
+          "P = 1210 / (1.1)^2",
+          "P = 1210 / 1.21",
+          "P = 1000"
+        ],
+        "why_correct": {
+          "A": "Correct reverse calculation"
+        },
+        "why_incorrect": {
+          "B": "Overestimated principal",
+          "C": "Underestimated principal",
+          "D": "Incorrect division"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1073",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "reverse CI"
+      ],
+      "formulae": [
+        "P = A/(1+r/100)^n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1074,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.45,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the simple interest on ₹6000 at 5% per annum for 3 years.",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹900"
+      },
+      {
+        "id": "B",
+        "text": "₹800"
+      },
+      {
+        "id": "C",
+        "text": "₹750"
+      },
+      {
+        "id": "D",
+        "text": "₹850"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "₹900",
+      "explanation": {
+        "concept": "Simple Interest formula: SI = PRT/100",
+        "step_by_step": [
+          "SI = (6000 × 5 × 3)/100",
+          "= 900"
+        ],
+        "why_correct": {
+          "A": "Correct substitution"
+        },
+        "why_incorrect": {
+          "B": "Incorrect multiplication",
+          "C": "Wrong calculation",
+          "D": "Random error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1074",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "simple interest"
+      ],
+      "formulae": [
+        "SI = PRT/100"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1075,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum doubles itself in 5 years at compound interest. In how many years will it become four times?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 years"
+      },
+      {
+        "id": "B",
+        "text": "8 years"
+      },
+      {
+        "id": "C",
+        "text": "6 years"
+      },
+      {
+        "id": "D",
+        "text": "12 years"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10 years",
+      "explanation": {
+        "concept": "Exponential growth: doubling twice gives quadruple",
+        "step_by_step": [
+          "Double in 5 years → 2P",
+          "Another 5 years → 4P",
+          "Total = 10 years"
+        ],
+        "why_correct": {
+          "A": "Correct doubling logic"
+        },
+        "why_incorrect": {
+          "B": "Too short",
+          "C": "Incorrect assumption",
+          "D": "Too long"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1075",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "growth pattern"
+      ],
+      "formulae": [
+        "A = P(1+r)^n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1076,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "At what rate percent per annum will ₹2000 become ₹2420 in 2 years at compound interest?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%"
+      },
+      {
+        "id": "B",
+        "text": "8%"
+      },
+      {
+        "id": "C",
+        "text": "12%"
+      },
+      {
+        "id": "D",
+        "text": "9%"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10%",
+      "explanation": {
+        "concept": "Use A = P(1 + r/100)^n",
+        "step_by_step": [
+          "2420 = 2000(1+r/100)^2",
+          "1.21 = (1+r/100)^2",
+          "1+r/100 = 1.1 → r = 10%"
+        ],
+        "why_correct": {
+          "A": "Correct extraction of square root"
+        },
+        "why_incorrect": {
+          "B": "Lower than required growth",
+          "C": "Too high",
+          "D": "Approximation error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1076",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "rate finding"
+      ],
+      "formulae": [
+        "A = P(1+r/100)^n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1077,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the compound interest on ₹10000 for 2 years at 10% per annum, compounded half-yearly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹2100"
+      },
+      {
+        "id": "B",
+        "text": "₹2200"
+      },
+      {
+        "id": "C",
+        "text": "₹2155"
+      },
+      {
+        "id": "D",
+        "text": "₹2050"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "₹2155",
+      "explanation": {
+        "concept": "Half-yearly compounding: rate/2 and time×2",
+        "step_by_step": [
+          "Rate = 5%, periods = 4",
+          "A = 10000(1.05)^4 ≈ 12155",
+          "CI = 2155"
+        ],
+        "why_correct": {
+          "C": "Correct compounding adjustment"
+        },
+        "why_incorrect": {
+          "A": "Approximation error",
+          "B": "Overestimate",
+          "D": "Underestimate"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1077",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "compound frequency"
+      ],
+      "formulae": [
+        "A = P(1+r/2)^{2n}"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1078,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The simple interest on a sum for 3 years at 6% is ₹540. Find the principal.",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹3000"
+      },
+      {
+        "id": "B",
+        "text": "₹2500"
+      },
+      {
+        "id": "C",
+        "text": "₹2800"
+      },
+      {
+        "id": "D",
+        "text": "₹3200"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "₹3000",
+      "explanation": {
+        "concept": "Rearranging SI formula",
+        "step_by_step": [
+          "P = (SI × 100)/(R × T)",
+          "P = (540 × 100)/(6 × 3)",
+          "P = 3000"
+        ],
+        "why_correct": {
+          "A": "Correct calculation"
+        },
+        "why_incorrect": {
+          "B": "Underestimated",
+          "C": "Wrong division",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1078",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "principal finding"
+      ],
+      "formulae": [
+        "P = SI×100/(RT)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1079,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the difference between CI and SI for 3 years on a sum at 10% is ₹31, find the principal.",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹1000"
+      },
+      {
+        "id": "B",
+        "text": "₹1200"
+      },
+      {
+        "id": "C",
+        "text": "₹900"
+      },
+      {
+        "id": "D",
+        "text": "₹800"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "₹1000",
+      "explanation": {
+        "concept": "Difference formula for 3 years",
+        "step_by_step": [
+          "Difference ≈ P × (r/100)^2 × (3 + r/100)",
+          "31 ≈ P × (0.1)^2 × 3.1",
+          "P ≈ 1000"
+        ],
+        "why_correct": {
+          "A": "Correct approximation"
+        },
+        "why_incorrect": {
+          "B": "Higher estimate",
+          "C": "Lower estimate",
+          "D": "Incorrect scaling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1079",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "advanced CI-SI difference"
+      ],
+      "formulae": [
+        "Difference approx formula"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1080,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum becomes ₹1331 in 3 years at compound interest. Find the rate percent per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%"
+      },
+      {
+        "id": "B",
+        "text": "12%"
+      },
+      {
+        "id": "C",
+        "text": "8%"
+      },
+      {
+        "id": "D",
+        "text": "9%"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10%",
+      "explanation": {
+        "concept": "Recognizing cube pattern",
+        "step_by_step": [
+          "1331 = 11^3",
+          "So (1+r/100)^3 = 1.331",
+          "1+r/100 = 1.1 → r = 10%"
+        ],
+        "why_correct": {
+          "A": "Correct identification"
+        },
+        "why_incorrect": {
+          "B": "Too high",
+          "C": "Too low",
+          "D": "Incorrect assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1080",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "pattern recognition"
+      ],
+      "formulae": [
+        "A = P(1+r/100)^n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1081,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum of money at compound interest amounts to ₹9261 in 3 years and ₹10201 in 4 years. Find the rate of interest per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%"
+      },
+      {
+        "id": "B",
+        "text": "8%"
+      },
+      {
+        "id": "C",
+        "text": "12%"
+      },
+      {
+        "id": "D",
+        "text": "9%"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10%",
+      "explanation": {
+        "concept": "Rate can be found using ratio of consecutive amounts: A(4)/A(3) = (1 + r/100)",
+        "step_by_step": [
+          "A(4)/A(3) = 10201 / 9261",
+          "= 1.102 ≈ 1.1",
+          "So r ≈ 10%"
+        ],
+        "why_correct": {
+          "A": "Correct ratio method"
+        },
+        "why_incorrect": {
+          "B": "Lower ratio mismatch",
+          "C": "Higher than actual",
+          "D": "Approximation error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1081",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "successive ratio"
+      ],
+      "formulae": [
+        "A(n+1)/A(n) = 1+r/100"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1082,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The compound interest on a certain sum for 2 years is ₹210 and the simple interest for the same period is ₹200. Find the rate percent per annum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%"
+      },
+      {
+        "id": "B",
+        "text": "12%"
+      },
+      {
+        "id": "C",
+        "text": "8%"
+      },
+      {
+        "id": "D",
+        "text": "15%"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10%",
+      "explanation": {
+        "concept": "Difference between CI and SI for 2 years = P(r/100)^2",
+        "step_by_step": [
+          "Difference = 210 - 200 = 10",
+          "10 = P(r/100)^2",
+          "Also SI = P × r × 2 /100 = 200",
+          "So Pr = 10000",
+          "Substitute → P(r^2/10000)=10",
+          "Solve → r = 10%"
+        ],
+        "why_correct": {
+          "A": "Correct algebraic solving"
+        },
+        "why_incorrect": {
+          "B": "Overestimated rate",
+          "C": "Underestimated",
+          "D": "Incorrect assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1082",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 120,
+      "concepts": [
+        "CI-SI relation"
+      ],
+      "formulae": [
+        "Difference = P(r/100)^2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1083,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "At what rate percent per annum will a sum of money double itself in 8 years under simple interest?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12.5%"
+      },
+      {
+        "id": "B",
+        "text": "10%"
+      },
+      {
+        "id": "C",
+        "text": "8%"
+      },
+      {
+        "id": "D",
+        "text": "15%"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "12.5%",
+      "explanation": {
+        "concept": "For doubling under SI: SI = P → PRT/100 = P",
+        "step_by_step": [
+          "(P × r × 8)/100 = P",
+          "r × 8 = 100",
+          "r = 12.5%"
+        ],
+        "why_correct": {
+          "A": "Correct direct relation"
+        },
+        "why_incorrect": {
+          "B": "Too low",
+          "C": "Incorrect calculation",
+          "D": "Too high"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1083",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "doubling SI"
+      ],
+      "formulae": [
+        "PRT/100 = P"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1084,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum of ₹5000 is invested at 10% compound interest. Find the interest earned in the third year.",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹605"
+      },
+      {
+        "id": "B",
+        "text": "₹550"
+      },
+      {
+        "id": "C",
+        "text": "₹500"
+      },
+      {
+        "id": "D",
+        "text": "₹650"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "₹605",
+      "explanation": {
+        "concept": "Interest in nth year = Amount at end of (n-1) × rate",
+        "step_by_step": [
+          "After 2 years: 5000 × (1.1)^2 = 6050",
+          "Interest in 3rd year = 6050 × 10% = 605"
+        ],
+        "why_correct": {
+          "A": "Correct nth year calculation"
+        },
+        "why_incorrect": {
+          "B": "Lower estimate",
+          "C": "Simple interest assumption",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1084",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "nth year CI"
+      ],
+      "formulae": [
+        "Interest_n = A(n-1)×r"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1085,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Simple Interest / Compound Interest",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A sum becomes ₹1760 in 2 years and ₹1936 in 3 years at compound interest. Find the principal.",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹1600"
+      },
+      {
+        "id": "B",
+        "text": "₹1500"
+      },
+      {
+        "id": "C",
+        "text": "₹1400"
+      },
+      {
+        "id": "D",
+        "text": "₹1700"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "₹1600",
+      "explanation": {
+        "concept": "Find rate from ratio, then reverse",
+        "step_by_step": [
+          "Ratio = 1936 / 1760 = 1.1 → r = 10%",
+          "P = 1760 / (1.1)^2",
+          "P = 1760 / 1.21 = 1600"
+        ],
+        "why_correct": {
+          "A": "Correct back-calculation"
+        },
+        "why_incorrect": {
+          "B": "Underestimated",
+          "C": "Too low",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1085",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "reverse CI multi-step"
+      ],
+      "formulae": [
+        "A(n+1)/A(n)",
+        "P = A/(1+r)^n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

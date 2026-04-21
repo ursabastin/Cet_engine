@@ -1,0 +1,3703 @@
+[
+  {
+    "id": 1786,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct meaning of the idiom: “spill the beans”.",
+    "options": [
+      {
+        "id": "A",
+        "text": "To waste food"
+      },
+      {
+        "id": "B",
+        "text": "To reveal a secret"
+      },
+      {
+        "id": "C",
+        "text": "To make a mistake"
+      },
+      {
+        "id": "D",
+        "text": "To cook improperly"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To reveal a secret",
+      "explanation": {
+        "concept": "Idioms convey figurative meanings different from literal interpretation.",
+        "step_by_step": [
+          "Identify the idiom’s contextual usage.",
+          "Recall that 'spill' metaphorically implies revealing unintentionally.",
+          "'Beans' represent hidden information."
+        ],
+        "why_correct": {
+          "A": "Incorrect",
+          "B": "Correct — it means revealing confidential information"
+        },
+        "why_incorrect": {
+          "A": "Literal misinterpretation",
+          "C": "Refers to error, not disclosure",
+          "D": "Irrelevant to meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "idiomatic meaning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1787,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The phrase “burn the midnight oil” most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Working late into the night"
+      },
+      {
+        "id": "B",
+        "text": "Wasting electricity"
+      },
+      {
+        "id": "C",
+        "text": "Sleeping late"
+      },
+      {
+        "id": "D",
+        "text": "Lighting lamps for ritual"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Working late into the night",
+      "explanation": {
+        "concept": "Historical idioms often originate from older practices like using oil lamps.",
+        "step_by_step": [
+          "Interpret 'midnight oil' as lamp usage at night.",
+          "Understand metaphor implies staying awake for work/study.",
+          "Eliminate literal interpretations."
+        ],
+        "why_correct": {
+          "A": "Correct — indicates late-night work or study"
+        },
+        "why_incorrect": {
+          "B": "Too literal",
+          "C": "Opposite meaning",
+          "D": "Cultural but unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "figurative language"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1788,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Kick the bucket” is an idiom best interpreted as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To start something new"
+      },
+      {
+        "id": "B",
+        "text": "To become angry"
+      },
+      {
+        "id": "C",
+        "text": "To die"
+      },
+      {
+        "id": "D",
+        "text": "To fail badly"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "To die",
+      "explanation": {
+        "concept": "Some idioms are euphemistic expressions for sensitive topics.",
+        "step_by_step": [
+          "Recognize idiom is non-literal.",
+          "Recall usage in informal speech.",
+          "Associate with euphemistic meaning."
+        ],
+        "why_correct": {
+          "C": "Correct — commonly used euphemism for death"
+        },
+        "why_incorrect": {
+          "A": "Unrelated meaning",
+          "B": "Emotion-based misinterpretation",
+          "D": "Failure meaning, not death"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "euphemism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1789,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the meaning of “once in a blue moon”.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Regularly"
+      },
+      {
+        "id": "B",
+        "text": "Very rarely"
+      },
+      {
+        "id": "C",
+        "text": "Twice a year"
+      },
+      {
+        "id": "D",
+        "text": "Unexpectedly often"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Very rarely",
+      "explanation": {
+        "concept": "Idioms often exaggerate rarity using unusual imagery.",
+        "step_by_step": [
+          "Interpret 'blue moon' as rare event.",
+          "Combine with 'once' to indicate infrequency.",
+          "Reject literal frequency options."
+        ],
+        "why_correct": {
+          "B": "Correct — indicates rare occurrence"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Specific frequency incorrect",
+          "D": "Contradicts rarity"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "frequency idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1790,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The idiom “hit the nail on the head” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To do carpentry work"
+      },
+      {
+        "id": "B",
+        "text": "To describe exactly what is causing a situation"
+      },
+      {
+        "id": "C",
+        "text": "To miss an opportunity"
+      },
+      {
+        "id": "D",
+        "text": "To make a rough estimate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To describe exactly what is causing a situation",
+      "explanation": {
+        "concept": "Precision-based idioms emphasize exact correctness.",
+        "step_by_step": [
+          "Interpret 'nail on the head' as perfect accuracy.",
+          "Map to metaphorical correctness.",
+          "Eliminate literal and approximate meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — indicates exact correctness"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Unrelated",
+          "D": "Opposite of precision"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "precision idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1791,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Bite the bullet” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To face a painful situation bravely"
+      },
+      {
+        "id": "B",
+        "text": "To eat quickly"
+      },
+      {
+        "id": "C",
+        "text": "To argue aggressively"
+      },
+      {
+        "id": "D",
+        "text": "To avoid responsibility"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To face a painful situation bravely",
+      "explanation": {
+        "concept": "Historical idioms often derive from wartime practices.",
+        "step_by_step": [
+          "Understand soldiers biting bullets during surgery.",
+          "Interpret as enduring pain.",
+          "Apply metaphor to courage."
+        ],
+        "why_correct": {
+          "A": "Correct — implies courage under difficulty"
+        },
+        "why_incorrect": {
+          "B": "Literal misreading",
+          "C": "Aggression not implied",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "historical idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1792,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“A blessing in disguise” refers to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "An obvious advantage"
+      },
+      {
+        "id": "B",
+        "text": "Something initially bad but ultimately beneficial"
+      },
+      {
+        "id": "C",
+        "text": "A hidden danger"
+      },
+      {
+        "id": "D",
+        "text": "A predictable outcome"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Something initially bad but ultimately beneficial",
+      "explanation": {
+        "concept": "Idioms often express paradoxical ideas.",
+        "step_by_step": [
+          "Interpret 'disguise' as hidden form.",
+          "Understand contrast between appearance and reality.",
+          "Apply reversal logic."
+        ],
+        "why_correct": {
+          "B": "Correct — benefit hidden behind difficulty"
+        },
+        "why_incorrect": {
+          "A": "Not hidden",
+          "C": "Opposite direction",
+          "D": "No element of surprise"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "paradox idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1793,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Throw in the towel” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To clean up"
+      },
+      {
+        "id": "B",
+        "text": "To surrender or give up"
+      },
+      {
+        "id": "C",
+        "text": "To celebrate victory"
+      },
+      {
+        "id": "D",
+        "text": "To delay a task"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To surrender or give up",
+      "explanation": {
+        "concept": "Sports-based idioms often symbolize defeat or victory.",
+        "step_by_step": [
+          "Recognize boxing origin.",
+          "Towel thrown indicates surrender.",
+          "Map to general usage."
+        ],
+        "why_correct": {
+          "B": "Correct — means giving up"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Opposite context",
+          "D": "Irrelevant"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "sports idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1794,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Under the weather” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Traveling abroad"
+      },
+      {
+        "id": "B",
+        "text": "Feeling slightly ill"
+      },
+      {
+        "id": "C",
+        "text": "Enjoying the climate"
+      },
+      {
+        "id": "D",
+        "text": "Working outdoors"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Feeling slightly ill",
+      "explanation": {
+        "concept": "Idioms may describe physical states metaphorically.",
+        "step_by_step": [
+          "Interpret weather metaphorically affecting condition.",
+          "Associate with mild illness.",
+          "Reject literal environmental interpretations."
+        ],
+        "why_correct": {
+          "B": "Correct — indicates not feeling well"
+        },
+        "why_incorrect": {
+          "A": "Unrelated",
+          "C": "Opposite meaning",
+          "D": "Literal interpretation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "health idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1795,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Cost an arm and a leg” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Very inexpensive"
+      },
+      {
+        "id": "B",
+        "text": "Extremely costly"
+      },
+      {
+        "id": "C",
+        "text": "Physically demanding"
+      },
+      {
+        "id": "D",
+        "text": "Illegal to buy"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Extremely costly",
+      "explanation": {
+        "concept": "Hyperbolic idioms exaggerate to emphasize intensity.",
+        "step_by_step": [
+          "Recognize exaggeration of losing limbs.",
+          "Interpret as very high cost.",
+          "Eliminate literal meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes high expense"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Refers to effort, not cost",
+          "D": "Irrelevant"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "hyperbole idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1796,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The idiom “break the ice” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To destroy something frozen"
+      },
+      {
+        "id": "B",
+        "text": "To initiate conversation in a social setting"
+      },
+      {
+        "id": "C",
+        "text": "To cause conflict"
+      },
+      {
+        "id": "D",
+        "text": "To complete a difficult task"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To initiate conversation in a social setting",
+      "explanation": {
+        "concept": "Social interaction idioms often refer to easing tension.",
+        "step_by_step": [
+          "Recognize 'ice' as metaphor for social awkwardness.",
+          "Breaking it implies removing stiffness.",
+          "Apply to conversation initiation."
+        ],
+        "why_correct": {
+          "B": "Correct — means starting interaction comfortably"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Opposite implication",
+          "D": "Unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "social idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1797,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Let the cat out of the bag” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To free an animal"
+      },
+      {
+        "id": "B",
+        "text": "To reveal a hidden secret unintentionally"
+      },
+      {
+        "id": "C",
+        "text": "To create confusion"
+      },
+      {
+        "id": "D",
+        "text": "To deceive someone"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To reveal a hidden secret unintentionally",
+      "explanation": {
+        "concept": "Idioms often involve accidental disclosure.",
+        "step_by_step": [
+          "Understand 'cat in bag' as hidden item.",
+          "Letting it out implies exposure.",
+          "Recognize element of unintentional action."
+        ],
+        "why_correct": {
+          "B": "Correct — refers to accidental revelation"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Not specific to secrecy",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "secrecy idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1798,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“In hot water” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Taking a bath"
+      },
+      {
+        "id": "B",
+        "text": "In trouble or difficulty"
+      },
+      {
+        "id": "C",
+        "text": "Feeling relaxed"
+      },
+      {
+        "id": "D",
+        "text": "Working hard"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "In trouble or difficulty",
+      "explanation": {
+        "concept": "Idioms describing situations often use physical discomfort metaphorically.",
+        "step_by_step": [
+          "Hot water implies discomfort.",
+          "Translate discomfort to trouble.",
+          "Eliminate literal meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes being in difficulty"
+        },
+        "why_incorrect": {
+          "A": "Literal interpretation",
+          "C": "Opposite feeling",
+          "D": "Unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "situation idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1799,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Go the extra mile” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Travel unnecessarily"
+      },
+      {
+        "id": "B",
+        "text": "Put in more effort than required"
+      },
+      {
+        "id": "C",
+        "text": "Take a long journey"
+      },
+      {
+        "id": "D",
+        "text": "Avoid responsibility"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Put in more effort than required",
+      "explanation": {
+        "concept": "Effort-based idioms emphasize exceeding expectations.",
+        "step_by_step": [
+          "Extra mile signifies additional effort.",
+          "Interpret beyond minimum requirement.",
+          "Reject literal travel meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — indicates exceeding effort"
+        },
+        "why_incorrect": {
+          "A": "Literal interpretation",
+          "C": "Travel-focused meaning",
+          "D": "Opposite implication"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "effort idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1800,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“On cloud nine” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Feeling extremely happy"
+      },
+      {
+        "id": "B",
+        "text": "Feeling confused"
+      },
+      {
+        "id": "C",
+        "text": "Being lost"
+      },
+      {
+        "id": "D",
+        "text": "Thinking deeply"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Feeling extremely happy",
+      "explanation": {
+        "concept": "Emotion idioms often exaggerate feelings metaphorically.",
+        "step_by_step": [
+          "Cloud imagery suggests elevation.",
+          "High position implies joy.",
+          "Match to happiness expression."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes extreme happiness"
+        },
+        "why_incorrect": {
+          "B": "No confusion implied",
+          "C": "Irrelevant",
+          "D": "Unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "emotion idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1801,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Cry over spilled milk” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To regret a past mistake unnecessarily"
+      },
+      {
+        "id": "B",
+        "text": "To complain about food"
+      },
+      {
+        "id": "C",
+        "text": "To express sadness loudly"
+      },
+      {
+        "id": "D",
+        "text": "To waste resources"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To regret a past mistake unnecessarily",
+      "explanation": {
+        "concept": "Idioms often warn against unproductive behavior.",
+        "step_by_step": [
+          "Spilled milk cannot be recovered.",
+          "Crying is futile action.",
+          "Interpret as useless regret."
+        ],
+        "why_correct": {
+          "A": "Correct — indicates pointless regret"
+        },
+        "why_incorrect": {
+          "B": "Literal meaning",
+          "C": "Partial but incomplete",
+          "D": "Different concept"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "advisory idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1802,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Piece of cake” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A dessert item"
+      },
+      {
+        "id": "B",
+        "text": "Something very easy"
+      },
+      {
+        "id": "C",
+        "text": "A rare opportunity"
+      },
+      {
+        "id": "D",
+        "text": "A difficult challenge"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Something very easy",
+      "explanation": {
+        "concept": "Ease-based idioms simplify effort metaphorically.",
+        "step_by_step": [
+          "Cake implies enjoyment and simplicity.",
+          "Map to easy task.",
+          "Eliminate literal and opposite meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes ease"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Unrelated",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "ease idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1803,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Burn bridges” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Destroy physical structures"
+      },
+      {
+        "id": "B",
+        "text": "Damage relationships permanently"
+      },
+      {
+        "id": "C",
+        "text": "Start a new journey"
+      },
+      {
+        "id": "D",
+        "text": "Complete a task quickly"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Damage relationships permanently",
+      "explanation": {
+        "concept": "Irreversible action idioms highlight permanent consequences.",
+        "step_by_step": [
+          "Bridge symbolizes connection.",
+          "Burning implies destruction.",
+          "Interpret as ending relationships."
+        ],
+        "why_correct": {
+          "B": "Correct — indicates irreversible damage"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Opposite implication",
+          "D": "Unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "relationship idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1804,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“The ball is in your court” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "You are playing a game"
+      },
+      {
+        "id": "B",
+        "text": "It is your responsibility to take action"
+      },
+      {
+        "id": "C",
+        "text": "You have lost the opportunity"
+      },
+      {
+        "id": "D",
+        "text": "You must wait for others"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "It is your responsibility to take action",
+      "explanation": {
+        "concept": "Sports idioms often indicate responsibility or turn-taking.",
+        "step_by_step": [
+          "Ball in court indicates your turn.",
+          "Interpret responsibility shift.",
+          "Eliminate literal sports context."
+        ],
+        "why_correct": {
+          "B": "Correct — means it's your turn to act"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Incorrect implication",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "responsibility idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1805,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Cut corners” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To take shortcuts and do something poorly"
+      },
+      {
+        "id": "B",
+        "text": "To design something efficiently"
+      },
+      {
+        "id": "C",
+        "text": "To reduce expenses legally"
+      },
+      {
+        "id": "D",
+        "text": "To complete work perfectly"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To take shortcuts and do something poorly",
+      "explanation": {
+        "concept": "Negative effort idioms highlight lack of quality due to shortcuts.",
+        "step_by_step": [
+          "Corners symbolize boundaries.",
+          "Cutting implies skipping steps.",
+          "Interpret as compromising quality."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes careless shortcuts"
+        },
+        "why_incorrect": {
+          "B": "Positive interpretation incorrect",
+          "C": "Different context",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "efficiency idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1806,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The idiom “call it a day” most nearly means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To celebrate an event"
+      },
+      {
+        "id": "B",
+        "text": "To stop working for the day"
+      },
+      {
+        "id": "C",
+        "text": "To postpone a meeting"
+      },
+      {
+        "id": "D",
+        "text": "To begin a new task"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To stop working for the day",
+      "explanation": {
+        "concept": "Time-based idioms often indicate completion of an activity.",
+        "step_by_step": [
+          "Interpret 'day' as work duration.",
+          "'Call it' suggests decision to end.",
+          "Combine to infer stopping work."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes ending the work session"
+        },
+        "why_incorrect": {
+          "A": "Unrelated meaning",
+          "C": "Not necessarily temporary delay",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "time idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1807,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Jump on the bandwagon” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To start a musical career"
+      },
+      {
+        "id": "B",
+        "text": "To support something because it is popular"
+      },
+      {
+        "id": "C",
+        "text": "To travel quickly"
+      },
+      {
+        "id": "D",
+        "text": "To oppose a trend"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To support something because it is popular",
+      "explanation": {
+        "concept": "Trend-based idioms relate to following popular opinion.",
+        "step_by_step": [
+          "Bandwagon represents a popular movement.",
+          "Jumping on implies joining.",
+          "Interpret as trend-following behavior."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes following popularity"
+        },
+        "why_incorrect": {
+          "A": "Literal misinterpretation",
+          "C": "Irrelevant meaning",
+          "D": "Opposite implication"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "trend idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1808,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Hit the sack” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To pack belongings"
+      },
+      {
+        "id": "B",
+        "text": "To go to bed"
+      },
+      {
+        "id": "C",
+        "text": "To start working"
+      },
+      {
+        "id": "D",
+        "text": "To strike something"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To go to bed",
+      "explanation": {
+        "concept": "Daily routine idioms often refer to sleeping or resting.",
+        "step_by_step": [
+          "Sack historically refers to bed.",
+          "Hit implies action of going.",
+          "Interpret as sleeping."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes going to sleep"
+        },
+        "why_incorrect": {
+          "A": "Unrelated",
+          "C": "Opposite meaning",
+          "D": "Literal interpretation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "routine idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1809,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Barking up the wrong tree” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Making noise unnecessarily"
+      },
+      {
+        "id": "B",
+        "text": "Pursuing a mistaken or misguided course"
+      },
+      {
+        "id": "C",
+        "text": "Climbing trees"
+      },
+      {
+        "id": "D",
+        "text": "Searching thoroughly"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Pursuing a mistaken or misguided course",
+      "explanation": {
+        "concept": "Idioms often derive from hunting metaphors.",
+        "step_by_step": [
+          "Dog barking at wrong tree implies wrong target.",
+          "Interpret as misdirected effort.",
+          "Eliminate literal meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — indicates wrong approach"
+        },
+        "why_incorrect": {
+          "A": "Partial but not accurate",
+          "C": "Literal meaning",
+          "D": "Opposite implication"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "error idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1810,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“A dime a dozen” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Very valuable"
+      },
+      {
+        "id": "B",
+        "text": "Very common and inexpensive"
+      },
+      {
+        "id": "C",
+        "text": "Rare and costly"
+      },
+      {
+        "id": "D",
+        "text": "Hard to obtain"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Very common and inexpensive",
+      "explanation": {
+        "concept": "Quantity-based idioms reflect abundance.",
+        "step_by_step": [
+          "Dime indicates low cost.",
+          "Dozen indicates quantity.",
+          "Combine to infer cheap and common."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes abundance and low value"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Incorrect",
+          "D": "Contradicts abundance"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "quantity idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1811,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“By the skin of your teeth” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Easily succeeding"
+      },
+      {
+        "id": "B",
+        "text": "Barely succeeding"
+      },
+      {
+        "id": "C",
+        "text": "Failing completely"
+      },
+      {
+        "id": "D",
+        "text": "Working hard"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Barely succeeding",
+      "explanation": {
+        "concept": "Idioms of narrow margin indicate minimal success.",
+        "step_by_step": [
+          "Skin of teeth implies extremely thin margin.",
+          "Interpret as barely making it.",
+          "Reject opposite meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes narrow success"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Failure not implied",
+          "D": "Effort not focus"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "margin idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1812,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Pull someone’s leg” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To trip someone"
+      },
+      {
+        "id": "B",
+        "text": "To joke or tease someone"
+      },
+      {
+        "id": "C",
+        "text": "To help someone walk"
+      },
+      {
+        "id": "D",
+        "text": "To punish someone"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To joke or tease someone",
+      "explanation": {
+        "concept": "Humor-based idioms refer to playful actions.",
+        "step_by_step": [
+          "Leg pulling is metaphorical teasing.",
+          "Used in informal contexts.",
+          "Eliminate literal interpretations."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes teasing"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Incorrect context",
+          "D": "Opposite intent"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "humor idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1813,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Face the music” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enjoy a performance"
+      },
+      {
+        "id": "B",
+        "text": "Accept consequences bravely"
+      },
+      {
+        "id": "C",
+        "text": "Avoid criticism"
+      },
+      {
+        "id": "D",
+        "text": "Start dancing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Accept consequences bravely",
+      "explanation": {
+        "concept": "Responsibility idioms often imply accountability.",
+        "step_by_step": [
+          "Facing music implies confronting situation.",
+          "Interpret as accepting outcomes.",
+          "Reject entertainment-based meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes accepting consequences"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Opposite implication",
+          "D": "Irrelevant"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "responsibility idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1814,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Get cold feet” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Feel physically cold"
+      },
+      {
+        "id": "B",
+        "text": "Lose courage or confidence"
+      },
+      {
+        "id": "C",
+        "text": "Run quickly"
+      },
+      {
+        "id": "D",
+        "text": "Become ill"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Lose courage or confidence",
+      "explanation": {
+        "concept": "Fear-based idioms describe emotional hesitation.",
+        "step_by_step": [
+          "Cold feet metaphorically indicates fear.",
+          "Used before important actions.",
+          "Eliminate literal meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes nervousness or hesitation"
+        },
+        "why_incorrect": {
+          "A": "Literal interpretation",
+          "C": "Unrelated",
+          "D": "Incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "fear idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1815,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Hit the books” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To damage books"
+      },
+      {
+        "id": "B",
+        "text": "To study seriously"
+      },
+      {
+        "id": "C",
+        "text": "To write a book"
+      },
+      {
+        "id": "D",
+        "text": "To organize books"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To study seriously",
+      "explanation": {
+        "concept": "Academic idioms relate to study habits.",
+        "step_by_step": [
+          "Books represent study materials.",
+          "Hit implies starting activity.",
+          "Interpret as studying."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes studying seriously"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Different activity",
+          "D": "Unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "academic idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1816,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The idiom “add fuel to the fire” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To calm a situation"
+      },
+      {
+        "id": "B",
+        "text": "To worsen an already tense situation"
+      },
+      {
+        "id": "C",
+        "text": "To start something new"
+      },
+      {
+        "id": "D",
+        "text": "To solve a problem quickly"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To worsen an already tense situation",
+      "explanation": {
+        "concept": "Escalation idioms describe intensifying existing situations.",
+        "step_by_step": [
+          "Fuel increases intensity of fire.",
+          "Metaphorically implies aggravation.",
+          "Apply to conflict or tension."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes escalation"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Unrelated",
+          "D": "Incorrect implication"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_31",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "escalation idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1817,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Back to the drawing board” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To start over after failure"
+      },
+      {
+        "id": "B",
+        "text": "To begin drawing"
+      },
+      {
+        "id": "C",
+        "text": "To finish a project"
+      },
+      {
+        "id": "D",
+        "text": "To improve slightly"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To start over after failure",
+      "explanation": {
+        "concept": "Failure-related idioms indicate restarting processes.",
+        "step_by_step": [
+          "Drawing board symbolizes planning stage.",
+          "Going back implies restarting.",
+          "Apply after unsuccessful attempt."
+        ],
+        "why_correct": {
+          "A": "Correct — indicates restarting due to failure"
+        },
+        "why_incorrect": {
+          "B": "Literal meaning",
+          "C": "Opposite implication",
+          "D": "Not strong enough"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_32",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "failure idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1818,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Beat around the bush” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To avoid the main topic"
+      },
+      {
+        "id": "B",
+        "text": "To search carefully"
+      },
+      {
+        "id": "C",
+        "text": "To speak loudly"
+      },
+      {
+        "id": "D",
+        "text": "To criticize openly"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To avoid the main topic",
+      "explanation": {
+        "concept": "Communication idioms often relate to indirectness.",
+        "step_by_step": [
+          "Bush metaphor suggests circling around.",
+          "Not directly addressing issue.",
+          "Interpret as avoidance."
+        ],
+        "why_correct": {
+          "A": "Correct — indicates indirect communication"
+        },
+        "why_incorrect": {
+          "B": "Different context",
+          "C": "Not implied",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_33",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "communication idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1819,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Burn the candle at both ends” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To waste time"
+      },
+      {
+        "id": "B",
+        "text": "To overwork oneself"
+      },
+      {
+        "id": "C",
+        "text": "To relax fully"
+      },
+      {
+        "id": "D",
+        "text": "To celebrate an event"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To overwork oneself",
+      "explanation": {
+        "concept": "Energy-related idioms describe excessive effort.",
+        "step_by_step": [
+          "Candle burning both ends reduces duration.",
+          "Symbolizes overuse of energy.",
+          "Apply to overworking."
+        ],
+        "why_correct": {
+          "B": "Correct — indicates exhaustion due to overwork"
+        },
+        "why_incorrect": {
+          "A": "Not implied",
+          "C": "Opposite meaning",
+          "D": "Unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_34",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "effort idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1820,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“A storm in a teacup” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A very serious issue"
+      },
+      {
+        "id": "B",
+        "text": "A lot of fuss about a small matter"
+      },
+      {
+        "id": "C",
+        "text": "A weather-related event"
+      },
+      {
+        "id": "D",
+        "text": "A dangerous situation"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A lot of fuss about a small matter",
+      "explanation": {
+        "concept": "Exaggeration idioms highlight disproportionate reactions.",
+        "step_by_step": [
+          "Storm implies intensity.",
+          "Teacup implies small scale.",
+          "Combine to show exaggeration."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes overreaction"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Literal meaning",
+          "D": "Incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_35",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "exaggeration idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1821,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“The tip of the iceberg” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A small visible part of a much larger issue"
+      },
+      {
+        "id": "B",
+        "text": "A complete problem"
+      },
+      {
+        "id": "C",
+        "text": "A minor success"
+      },
+      {
+        "id": "D",
+        "text": "A cold situation"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A small visible part of a much larger issue",
+      "explanation": {
+        "concept": "Partial visibility idioms indicate hidden complexity.",
+        "step_by_step": [
+          "Iceberg mostly hidden underwater.",
+          "Tip is visible portion.",
+          "Apply to unseen larger problem."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes partial understanding"
+        },
+        "why_incorrect": {
+          "B": "Incorrect",
+          "C": "Unrelated",
+          "D": "Literal meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_36",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "hidden meaning idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1822,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Pull the plug” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To stop something from continuing"
+      },
+      {
+        "id": "B",
+        "text": "To fix a device"
+      },
+      {
+        "id": "C",
+        "text": "To increase effort"
+      },
+      {
+        "id": "D",
+        "text": "To start a process"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To stop something from continuing",
+      "explanation": {
+        "concept": "Termination idioms indicate ending processes.",
+        "step_by_step": [
+          "Plug removal stops function.",
+          "Interpret metaphorically as stopping activity.",
+          "Eliminate literal-only meanings."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes termination"
+        },
+        "why_incorrect": {
+          "B": "Opposite meaning",
+          "C": "Unrelated",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_37",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "termination idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1823,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Sit on the fence” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To avoid taking a clear position"
+      },
+      {
+        "id": "B",
+        "text": "To relax outdoors"
+      },
+      {
+        "id": "C",
+        "text": "To make a quick decision"
+      },
+      {
+        "id": "D",
+        "text": "To support both sides actively"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To avoid taking a clear position",
+      "explanation": {
+        "concept": "Decision-making idioms reflect neutrality or indecision.",
+        "step_by_step": [
+          "Fence represents boundary between sides.",
+          "Sitting implies not choosing.",
+          "Interpret as indecision."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes neutrality"
+        },
+        "why_incorrect": {
+          "B": "Literal meaning",
+          "C": "Opposite implication",
+          "D": "Different meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_38",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "decision idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1824,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Throw caution to the wind” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To act carelessly without thinking of risks"
+      },
+      {
+        "id": "B",
+        "text": "To plan carefully"
+      },
+      {
+        "id": "C",
+        "text": "To avoid danger"
+      },
+      {
+        "id": "D",
+        "text": "To seek advice"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To act carelessly without thinking of risks",
+      "explanation": {
+        "concept": "Risk-related idioms indicate reckless behavior.",
+        "step_by_step": [
+          "Caution means carefulness.",
+          "Throwing it away implies ignoring.",
+          "Interpret as reckless action."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes recklessness"
+        },
+        "why_incorrect": {
+          "B": "Opposite meaning",
+          "C": "Contradicts meaning",
+          "D": "Unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_39",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "risk idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1825,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“In the same boat” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Traveling together"
+      },
+      {
+        "id": "B",
+        "text": "Facing the same situation or problem"
+      },
+      {
+        "id": "C",
+        "text": "Working in a team"
+      },
+      {
+        "id": "D",
+        "text": "Competing with each other"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Facing the same situation or problem",
+      "explanation": {
+        "concept": "Shared experience idioms indicate common conditions.",
+        "step_by_step": [
+          "Boat symbolizes situation.",
+          "Same boat implies shared condition.",
+          "Apply to problems or circumstances."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes shared situation"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Different concept",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_40",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "shared situation idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1826,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The idiom “keep an eye on” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To stare continuously"
+      },
+      {
+        "id": "B",
+        "text": "To watch or monitor carefully"
+      },
+      {
+        "id": "C",
+        "text": "To ignore something"
+      },
+      {
+        "id": "D",
+        "text": "To admire someone"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To watch or monitor carefully",
+      "explanation": {
+        "concept": "Observation idioms indicate vigilance or supervision.",
+        "step_by_step": [
+          "Eye symbolizes attention.",
+          "Keeping implies maintaining focus.",
+          "Interpret as monitoring."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes careful observation"
+        },
+        "why_incorrect": {
+          "A": "Too literal and exaggerated",
+          "C": "Opposite meaning",
+          "D": "Incorrect context"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_41",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "observation idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1827,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Make ends meet” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To finish work quickly"
+      },
+      {
+        "id": "B",
+        "text": "To manage finances with difficulty"
+      },
+      {
+        "id": "C",
+        "text": "To connect two ideas"
+      },
+      {
+        "id": "D",
+        "text": "To achieve success easily"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To manage finances with difficulty",
+      "explanation": {
+        "concept": "Financial idioms relate to income and expenses.",
+        "step_by_step": [
+          "Ends refer to income and expenditure.",
+          "Meeting them implies balancing.",
+          "Interpret as financial struggle."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes financial management difficulty"
+        },
+        "why_incorrect": {
+          "A": "Unrelated",
+          "C": "Different context",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_42",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "financial idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1828,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Go down in flames” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To succeed brilliantly"
+      },
+      {
+        "id": "B",
+        "text": "To fail spectacularly"
+      },
+      {
+        "id": "C",
+        "text": "To start something new"
+      },
+      {
+        "id": "D",
+        "text": "To travel by air"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To fail spectacularly",
+      "explanation": {
+        "concept": "Failure idioms often use dramatic imagery.",
+        "step_by_step": [
+          "Flames imply destruction.",
+          "Going down suggests downfall.",
+          "Interpret as major failure."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes dramatic failure"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Unrelated",
+          "D": "Literal meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_43",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "failure idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1829,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“At the drop of a hat” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "After careful planning"
+      },
+      {
+        "id": "B",
+        "text": "Immediately or without hesitation"
+      },
+      {
+        "id": "C",
+        "text": "Reluctantly"
+      },
+      {
+        "id": "D",
+        "text": "After a long delay"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Immediately or without hesitation",
+      "explanation": {
+        "concept": "Speed-related idioms indicate quick action.",
+        "step_by_step": [
+          "Drop of a hat is quick event.",
+          "Implies immediate response.",
+          "Reject delay-based meanings."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes immediacy"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Incorrect",
+          "D": "Contradicts meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_44",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "speed idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1830,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Put all your eggs in one basket” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To invest all resources in one plan"
+      },
+      {
+        "id": "B",
+        "text": "To manage multiple tasks"
+      },
+      {
+        "id": "C",
+        "text": "To distribute risk equally"
+      },
+      {
+        "id": "D",
+        "text": "To save resources carefully"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To invest all resources in one plan",
+      "explanation": {
+        "concept": "Risk concentration idioms highlight vulnerability.",
+        "step_by_step": [
+          "Eggs represent valuable items.",
+          "One basket implies single point of failure.",
+          "Interpret as risky concentration."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes risky dependency"
+        },
+        "why_incorrect": {
+          "B": "Opposite concept",
+          "C": "Incorrect",
+          "D": "Different meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_45",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "risk idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1831,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Break a leg” is commonly used to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wish someone bad luck"
+      },
+      {
+        "id": "B",
+        "text": "Wish someone good luck"
+      },
+      {
+        "id": "C",
+        "text": "Warn someone of danger"
+      },
+      {
+        "id": "D",
+        "text": "Express sympathy"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Wish someone good luck",
+      "explanation": {
+        "concept": "Contradictory idioms express opposite literal meaning.",
+        "step_by_step": [
+          "Phrase sounds negative.",
+          "But used in theatre for good luck.",
+          "Interpret contextually."
+        ],
+        "why_correct": {
+          "B": "Correct — paradoxical good luck expression"
+        },
+        "why_incorrect": {
+          "A": "Literal misinterpretation",
+          "C": "Incorrect",
+          "D": "Unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_46",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "paradox idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1832,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“The last straw” implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "The final problem that causes collapse"
+      },
+      {
+        "id": "B",
+        "text": "A minor issue"
+      },
+      {
+        "id": "C",
+        "text": "The first mistake"
+      },
+      {
+        "id": "D",
+        "text": "A small success"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "The final problem that causes collapse",
+      "explanation": {
+        "concept": "Accumulation idioms show buildup leading to breaking point.",
+        "step_by_step": [
+          "Straw adds to load.",
+          "Last straw causes breakdown.",
+          "Interpret as tipping point."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes final triggering issue"
+        },
+        "why_incorrect": {
+          "B": "Too weak",
+          "C": "Opposite meaning",
+          "D": "Incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_47",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "threshold idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1833,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Hit the nail on the head” (used again in context) implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To miss the point"
+      },
+      {
+        "id": "B",
+        "text": "To state something exactly right"
+      },
+      {
+        "id": "C",
+        "text": "To work physically"
+      },
+      {
+        "id": "D",
+        "text": "To guess randomly"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To state something exactly right",
+      "explanation": {
+        "concept": "Precision idioms emphasize exact correctness.",
+        "step_by_step": [
+          "Nail head is precise target.",
+          "Hitting it implies accuracy.",
+          "Interpret as exact statement."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes precision"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Literal meaning",
+          "D": "Incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_48",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "precision idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1834,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Let sleeping dogs lie” means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To ignore a problem instead of restarting conflict"
+      },
+      {
+        "id": "B",
+        "text": "To take care of animals"
+      },
+      {
+        "id": "C",
+        "text": "To act quickly"
+      },
+      {
+        "id": "D",
+        "text": "To solve problems immediately"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "To ignore a problem instead of restarting conflict",
+      "explanation": {
+        "concept": "Caution idioms advise against unnecessary disturbance.",
+        "step_by_step": [
+          "Sleeping dogs symbolize inactive issues.",
+          "Waking them causes trouble.",
+          "Interpret as avoiding conflict."
+        ],
+        "why_correct": {
+          "A": "Correct — denotes avoiding unnecessary trouble"
+        },
+        "why_incorrect": {
+          "B": "Literal meaning",
+          "C": "Unrelated",
+          "D": "Opposite meaning"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_49",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "caution idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1835,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Idioms & phrases",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "“Spill the beans” (contextual variant) implies:",
+    "options": [
+      {
+        "id": "A",
+        "text": "To waste resources"
+      },
+      {
+        "id": "B",
+        "text": "To reveal confidential information"
+      },
+      {
+        "id": "C",
+        "text": "To cook improperly"
+      },
+      {
+        "id": "D",
+        "text": "To make noise"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To reveal confidential information",
+      "explanation": {
+        "concept": "Disclosure idioms emphasize revealing secrets.",
+        "step_by_step": [
+          "Beans symbolize hidden information.",
+          "Spilling implies exposure.",
+          "Interpret as revealing secrets."
+        ],
+        "why_correct": {
+          "B": "Correct — denotes disclosure"
+        },
+        "why_incorrect": {
+          "A": "Literal meaning",
+          "C": "Irrelevant",
+          "D": "Incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_50",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "secrecy idioms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  }
+]

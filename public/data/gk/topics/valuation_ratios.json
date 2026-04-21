@@ -1,0 +1,78 @@
+[
+  {
+    "id": 3166,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Valuation Ratios",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Price-to-Earnings (P/E) ratio of a stock is primarily used to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Measure company liquidity"
+      },
+      {
+        "id": "B",
+        "text": "Assess stock valuation relative to earnings"
+      },
+      {
+        "id": "C",
+        "text": "Determine dividend yield"
+      },
+      {
+        "id": "D",
+        "text": "Evaluate debt levels"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Assess stock valuation relative to earnings",
+      "explanation": {
+        "concept": "P/E ratio compares stock price with earnings per share.",
+        "step_by_step": [
+          "Identify formula: Price / Earnings",
+          "Shows how much investors pay per unit earnings",
+          "Used for valuation comparison"
+        ],
+        "why_correct": {
+          "B": "P/E ratio indicates valuation level"
+        },
+        "why_incorrect": {
+          "A": "Liquidity is measured by current ratio",
+          "C": "Dividend yield is separate metric",
+          "D": "Debt is assessed via leverage ratios"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3166",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "P/E ratio"
+      ],
+      "formulae": [
+        "P/E = Price / EPS"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  }
+]

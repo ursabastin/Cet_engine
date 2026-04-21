@@ -1,0 +1,2223 @@
+[
+  {
+    "id": 2035,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Despite the heavy rainfall, the match continued ______ interruption.",
+    "options": [
+      {
+        "id": "A",
+        "text": "without"
+      },
+      {
+        "id": "B",
+        "text": "with"
+      },
+      {
+        "id": "C",
+        "text": "under"
+      },
+      {
+        "id": "D",
+        "text": "over"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "without",
+      "explanation": {
+        "concept": "Correct preposition usage based on contextual meaning.",
+        "step_by_step": [
+          "Sentence implies no interruption occurred.",
+          "'Without' indicates absence.",
+          "Other options do not fit logical meaning."
+        ],
+        "why_correct": {
+          "A": "'Without interruption' correctly expresses continuity."
+        },
+        "why_incorrect": {
+          "B": "'With' contradicts meaning.",
+          "C": "'Under interruption' is incorrect usage.",
+          "D": "'Over interruption' is meaningless here."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "prepositions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2036,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His explanation was so ______ that everyone easily understood the concept.",
+    "options": [
+      {
+        "id": "A",
+        "text": "ambiguous"
+      },
+      {
+        "id": "B",
+        "text": "lucid"
+      },
+      {
+        "id": "C",
+        "text": "vague"
+      },
+      {
+        "id": "D",
+        "text": "confusing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "lucid",
+      "explanation": {
+        "concept": "Vocabulary selection based on contextual clarity.",
+        "step_by_step": [
+          "Sentence implies clear explanation.",
+          "'Lucid' means clear and easy to understand.",
+          "Other options imply confusion."
+        ],
+        "why_correct": {
+          "B": "'Lucid' fits meaning of clarity."
+        },
+        "why_incorrect": {
+          "A": "Ambiguous means unclear.",
+          "C": "Vague means not precise.",
+          "D": "Confusing contradicts sentence."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2037,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "She has been working here ______ five years.",
+    "options": [
+      {
+        "id": "A",
+        "text": "since"
+      },
+      {
+        "id": "B",
+        "text": "for"
+      },
+      {
+        "id": "C",
+        "text": "from"
+      },
+      {
+        "id": "D",
+        "text": "during"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "for",
+      "explanation": {
+        "concept": "Use of 'for' vs 'since' in time expressions.",
+        "step_by_step": [
+          "'Five years' indicates duration.",
+          "'For' is used with duration.",
+          "'Since' is used with starting point."
+        ],
+        "why_correct": {
+          "B": "'For five years' is grammatically correct."
+        },
+        "why_incorrect": {
+          "A": "Since needs a specific point.",
+          "C": "Incorrect usage.",
+          "D": "Does not fit context."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "tenses",
+        "prepositions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2038,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Hardly had he reached the station ______ the train departed.",
+    "options": [
+      {
+        "id": "A",
+        "text": "than"
+      },
+      {
+        "id": "B",
+        "text": "when"
+      },
+      {
+        "id": "C",
+        "text": "then"
+      },
+      {
+        "id": "D",
+        "text": "after"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "when",
+      "explanation": {
+        "concept": "Inversion structures with 'hardly'.",
+        "step_by_step": [
+          "'Hardly...when' is standard structure.",
+          "Indicates immediate sequence of events.",
+          "Other conjunctions are incorrect."
+        ],
+        "why_correct": {
+          "B": "'When' completes correct grammatical pair."
+        },
+        "why_incorrect": {
+          "A": "Than used with 'no sooner'.",
+          "C": "Incorrect structure.",
+          "D": "Does not fit inversion rule."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "inversion",
+        "conjunctions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2039,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The manager's decision was widely ______ by the employees.",
+    "options": [
+      {
+        "id": "A",
+        "text": "applauded"
+      },
+      {
+        "id": "B",
+        "text": "condemned"
+      },
+      {
+        "id": "C",
+        "text": "ignored"
+      },
+      {
+        "id": "D",
+        "text": "opposed"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "applauded",
+      "explanation": {
+        "concept": "Contextual vocabulary selection based on positive tone.",
+        "step_by_step": [
+          "Sentence implies positive reception.",
+          "'Applauded' means praised.",
+          "Other options are negative."
+        ],
+        "why_correct": {
+          "A": "Matches positive context."
+        },
+        "why_incorrect": {
+          "B": "Condemned is negative.",
+          "C": "Ignored shows no reaction.",
+          "D": "Opposed contradicts tone."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2040,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Neither the teacher nor the students ______ present in the classroom.",
+    "options": [
+      {
+        "id": "A",
+        "text": "was"
+      },
+      {
+        "id": "B",
+        "text": "were"
+      },
+      {
+        "id": "C",
+        "text": "is"
+      },
+      {
+        "id": "D",
+        "text": "has"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "were",
+      "explanation": {
+        "concept": "Subject-verb agreement with 'neither...nor'.",
+        "step_by_step": [
+          "Verb agrees with nearest subject.",
+          "'Students' is plural.",
+          "Hence plural verb 'were'."
+        ],
+        "why_correct": {
+          "B": "Correct plural agreement."
+        },
+        "why_incorrect": {
+          "A": "Singular verb incorrect.",
+          "C": "Wrong tense.",
+          "D": "Incorrect auxiliary."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "subject verb agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2041,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The scientist’s theory was initially met with ______ but later gained acceptance.",
+    "options": [
+      {
+        "id": "A",
+        "text": "enthusiasm"
+      },
+      {
+        "id": "B",
+        "text": "skepticism"
+      },
+      {
+        "id": "C",
+        "text": "approval"
+      },
+      {
+        "id": "D",
+        "text": "support"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "skepticism",
+      "explanation": {
+        "concept": "Contrast-based vocabulary selection.",
+        "step_by_step": [
+          "'But later gained acceptance' implies initial doubt.",
+          "'Skepticism' means doubt.",
+          "Other options imply positive response."
+        ],
+        "why_correct": {
+          "B": "Matches contrast logic."
+        },
+        "why_incorrect": {
+          "A": "Enthusiasm is positive.",
+          "C": "Approval contradicts contrast.",
+          "D": "Support contradicts logic."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2042,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "He prefers tea ______ coffee in the morning.",
+    "options": [
+      {
+        "id": "A",
+        "text": "than"
+      },
+      {
+        "id": "B",
+        "text": "over"
+      },
+      {
+        "id": "C",
+        "text": "to"
+      },
+      {
+        "id": "D",
+        "text": "against"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "to",
+      "explanation": {
+        "concept": "Correct preposition with 'prefer'.",
+        "step_by_step": [
+          "Standard structure: prefer A to B.",
+          "Hence 'tea to coffee'."
+        ],
+        "why_correct": {
+          "C": "Grammatically correct usage."
+        },
+        "why_incorrect": {
+          "A": "Incorrect comparison.",
+          "B": "Not standard usage.",
+          "D": "Incorrect context."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "prepositions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2043,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "By the time we arrived, the movie ______ already started.",
+    "options": [
+      {
+        "id": "A",
+        "text": "has"
+      },
+      {
+        "id": "B",
+        "text": "had"
+      },
+      {
+        "id": "C",
+        "text": "was"
+      },
+      {
+        "id": "D",
+        "text": "is"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "had",
+      "explanation": {
+        "concept": "Past perfect tense usage.",
+        "step_by_step": [
+          "Two past events.",
+          "Earlier event uses past perfect.",
+          "Hence 'had started'."
+        ],
+        "why_correct": {
+          "B": "Correct tense sequence."
+        },
+        "why_incorrect": {
+          "A": "Wrong tense.",
+          "C": "Incorrect structure.",
+          "D": "Present tense incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "tenses"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2044,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The politician’s speech was filled with ______ promises that lacked practical feasibility.",
+    "options": [
+      {
+        "id": "A",
+        "text": "pragmatic"
+      },
+      {
+        "id": "B",
+        "text": "realistic"
+      },
+      {
+        "id": "C",
+        "text": "utopian"
+      },
+      {
+        "id": "D",
+        "text": "feasible"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "utopian",
+      "explanation": {
+        "concept": "Vocabulary indicating impractical ideals.",
+        "step_by_step": [
+          "'Lacked practical feasibility' implies unrealistic.",
+          "'Utopian' means ideal but impractical.",
+          "Other options imply practicality."
+        ],
+        "why_correct": {
+          "C": "Matches meaning of impractical promises."
+        },
+        "why_incorrect": {
+          "A": "Pragmatic means practical.",
+          "B": "Realistic contradicts context.",
+          "D": "Feasible contradicts meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2045,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Scarcely had the announcement been made ______ the crowd erupted in cheers.",
+    "options": [
+      {
+        "id": "A",
+        "text": "than"
+      },
+      {
+        "id": "B",
+        "text": "when"
+      },
+      {
+        "id": "C",
+        "text": "then"
+      },
+      {
+        "id": "D",
+        "text": "after"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "when",
+      "explanation": {
+        "concept": "Use of correlative conjunctions in inversion structures.",
+        "step_by_step": [
+          "'Scarcely...when' is the correct grammatical structure.",
+          "It indicates immediate sequence.",
+          "Other options break standard pairing."
+        ],
+        "why_correct": {
+          "B": "Correct conjunction with 'scarcely'."
+        },
+        "why_incorrect": {
+          "A": "Used with 'no sooner'.",
+          "C": "Incorrect structure.",
+          "D": "Does not fit inversion usage."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "inversion",
+        "conjunctions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2046,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Her remarks were so ______ that they offended several members of the audience.",
+    "options": [
+      {
+        "id": "A",
+        "text": "tactful"
+      },
+      {
+        "id": "B",
+        "text": "diplomatic"
+      },
+      {
+        "id": "C",
+        "text": "abrasive"
+      },
+      {
+        "id": "D",
+        "text": "courteous"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "abrasive",
+      "explanation": {
+        "concept": "Vocabulary selection based on negative tone.",
+        "step_by_step": [
+          "Sentence implies offensive nature.",
+          "'Abrasive' means harsh or rude.",
+          "Other options imply politeness."
+        ],
+        "why_correct": {
+          "C": "Matches context of causing offense."
+        },
+        "why_incorrect": {
+          "A": "Tactful means careful.",
+          "B": "Diplomatic means polite.",
+          "D": "Courteous means respectful."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2047,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Each of the players ______ given a certificate after the match.",
+    "options": [
+      {
+        "id": "A",
+        "text": "were"
+      },
+      {
+        "id": "B",
+        "text": "was"
+      },
+      {
+        "id": "C",
+        "text": "are"
+      },
+      {
+        "id": "D",
+        "text": "have"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "was",
+      "explanation": {
+        "concept": "Subject-verb agreement with 'each'.",
+        "step_by_step": [
+          "'Each' is singular subject.",
+          "Verb must be singular.",
+          "Hence 'was given'."
+        ],
+        "why_correct": {
+          "B": "Correct singular agreement."
+        },
+        "why_incorrect": {
+          "A": "Plural verb incorrect.",
+          "C": "Wrong tense.",
+          "D": "Incorrect auxiliary."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "subject verb agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2048,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The evidence presented in court was too ______ to be ignored.",
+    "options": [
+      {
+        "id": "A",
+        "text": "trivial"
+      },
+      {
+        "id": "B",
+        "text": "compelling"
+      },
+      {
+        "id": "C",
+        "text": "insignificant"
+      },
+      {
+        "id": "D",
+        "text": "weak"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "compelling",
+      "explanation": {
+        "concept": "Vocabulary selection based on logical emphasis.",
+        "step_by_step": [
+          "Sentence implies strong evidence.",
+          "'Compelling' means convincing.",
+          "Other options imply weakness."
+        ],
+        "why_correct": {
+          "B": "Matches strong persuasive meaning."
+        },
+        "why_incorrect": {
+          "A": "Trivial means unimportant.",
+          "C": "Insignificant contradicts context.",
+          "D": "Weak contradicts meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2049,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "No sooner ______ he entered the room than everyone fell silent.",
+    "options": [
+      {
+        "id": "A",
+        "text": "did"
+      },
+      {
+        "id": "B",
+        "text": "had"
+      },
+      {
+        "id": "C",
+        "text": "has"
+      },
+      {
+        "id": "D",
+        "text": "was"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "had",
+      "explanation": {
+        "concept": "Inversion with 'no sooner'.",
+        "step_by_step": [
+          "Structure: 'No sooner had + subject + past participle'.",
+          "Hence 'had he entered'."
+        ],
+        "why_correct": {
+          "B": "Correct inversion usage."
+        },
+        "why_incorrect": {
+          "A": "Incorrect auxiliary.",
+          "C": "Wrong tense.",
+          "D": "Incorrect structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "inversion",
+        "tenses"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2050,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The manager remained ______ despite the mounting pressure from stakeholders.",
+    "options": [
+      {
+        "id": "A",
+        "text": "composed"
+      },
+      {
+        "id": "B",
+        "text": "agitated"
+      },
+      {
+        "id": "C",
+        "text": "disturbed"
+      },
+      {
+        "id": "D",
+        "text": "nervous"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "composed",
+      "explanation": {
+        "concept": "Contrast-based vocabulary selection.",
+        "step_by_step": [
+          "Despite pressure implies calmness.",
+          "'Composed' means calm.",
+          "Other options imply stress."
+        ],
+        "why_correct": {
+          "A": "Matches contrast in sentence."
+        },
+        "why_incorrect": {
+          "B": "Agitated is opposite.",
+          "C": "Disturbed contradicts.",
+          "D": "Nervous contradicts."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2051,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "He is one of the best players who ______ ever represented the country.",
+    "options": [
+      {
+        "id": "A",
+        "text": "has"
+      },
+      {
+        "id": "B",
+        "text": "have"
+      },
+      {
+        "id": "C",
+        "text": "had"
+      },
+      {
+        "id": "D",
+        "text": "was"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "have",
+      "explanation": {
+        "concept": "Agreement with relative clause antecedents.",
+        "step_by_step": [
+          "'Players' is plural antecedent.",
+          "Verb agrees with 'players'.",
+          "Hence 'have represented'."
+        ],
+        "why_correct": {
+          "B": "Correct plural agreement."
+        },
+        "why_incorrect": {
+          "A": "Singular verb incorrect.",
+          "C": "Wrong tense.",
+          "D": "Incorrect structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "subject verb agreement",
+        "relative clauses"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2052,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His argument was so ______ that it dismantled all opposing viewpoints effortlessly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "tenuous"
+      },
+      {
+        "id": "B",
+        "text": "cogent"
+      },
+      {
+        "id": "C",
+        "text": "flimsy"
+      },
+      {
+        "id": "D",
+        "text": "weak"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "cogent",
+      "explanation": {
+        "concept": "Advanced vocabulary selection based on strength of argument.",
+        "step_by_step": [
+          "Sentence implies strong reasoning.",
+          "'Cogent' means convincing and logical.",
+          "Other options imply weakness."
+        ],
+        "why_correct": {
+          "B": "Perfectly fits strong argument context."
+        },
+        "why_incorrect": {
+          "A": "Tenuous means weak.",
+          "C": "Flimsy means weak.",
+          "D": "Weak contradicts context."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2053,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If he ______ earlier, he would have caught the train.",
+    "options": [
+      {
+        "id": "A",
+        "text": "left"
+      },
+      {
+        "id": "B",
+        "text": "leaves"
+      },
+      {
+        "id": "C",
+        "text": "had left"
+      },
+      {
+        "id": "D",
+        "text": "was leaving"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "had left",
+      "explanation": {
+        "concept": "Third conditional sentence structure.",
+        "step_by_step": [
+          "Structure: If + past perfect, would have + past participle.",
+          "Hence 'had left'."
+        ],
+        "why_correct": {
+          "C": "Correct conditional structure."
+        },
+        "why_incorrect": {
+          "A": "Simple past incorrect.",
+          "B": "Present tense incorrect.",
+          "D": "Incorrect tense usage."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "conditionals"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2054,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The CEO’s decision was seen as a ______ move that prioritized long-term stability over short-term gains.",
+    "options": [
+      {
+        "id": "A",
+        "text": "reckless"
+      },
+      {
+        "id": "B",
+        "text": "prudent"
+      },
+      {
+        "id": "C",
+        "text": "impulsive"
+      },
+      {
+        "id": "D",
+        "text": "rash"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "prudent",
+      "explanation": {
+        "concept": "Vocabulary indicating careful and wise decision-making.",
+        "step_by_step": [
+          "Sentence implies thoughtful decision.",
+          "'Prudent' means wise and careful.",
+          "Other options imply carelessness."
+        ],
+        "why_correct": {
+          "B": "Matches long-term strategic thinking."
+        },
+        "why_incorrect": {
+          "A": "Reckless is opposite.",
+          "C": "Impulsive contradicts.",
+          "D": "Rash contradicts."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2055,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Not only ______ he complete the task on time, but he also exceeded expectations.",
+    "options": [
+      {
+        "id": "A",
+        "text": "did"
+      },
+      {
+        "id": "B",
+        "text": "he did"
+      },
+      {
+        "id": "C",
+        "text": "has"
+      },
+      {
+        "id": "D",
+        "text": "was"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "did",
+      "explanation": {
+        "concept": "Inversion after 'not only' at the beginning of a sentence.",
+        "step_by_step": [
+          "When 'not only' starts a sentence, auxiliary verb precedes subject.",
+          "Correct form: 'Not only did he...'",
+          "Other options violate inversion rule."
+        ],
+        "why_correct": {
+          "A": "Follows correct inversion structure."
+        },
+        "why_incorrect": {
+          "B": "No inversion.",
+          "C": "Incorrect auxiliary.",
+          "D": "Incorrect tense and structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "inversion"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2056,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The witness gave a ______ account of the incident, leaving no room for doubt.",
+    "options": [
+      {
+        "id": "A",
+        "text": "sketchy"
+      },
+      {
+        "id": "B",
+        "text": "comprehensive"
+      },
+      {
+        "id": "C",
+        "text": "vague"
+      },
+      {
+        "id": "D",
+        "text": "partial"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "comprehensive",
+      "explanation": {
+        "concept": "Vocabulary selection based on completeness of information.",
+        "step_by_step": [
+          "Sentence implies detailed and complete account.",
+          "'Comprehensive' means thorough.",
+          "Other options imply incompleteness."
+        ],
+        "why_correct": {
+          "B": "Matches complete and detailed description."
+        },
+        "why_incorrect": {
+          "A": "Sketchy means lacking detail.",
+          "C": "Vague means unclear.",
+          "D": "Partial means incomplete."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2057,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "He would rather ______ at home than go out in such weather.",
+    "options": [
+      {
+        "id": "A",
+        "text": "stay"
+      },
+      {
+        "id": "B",
+        "text": "stayed"
+      },
+      {
+        "id": "C",
+        "text": "staying"
+      },
+      {
+        "id": "D",
+        "text": "to stay"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "stay",
+      "explanation": {
+        "concept": "Use of base verb after 'would rather'.",
+        "step_by_step": [
+          "Structure: would rather + base form.",
+          "Hence 'stay'."
+        ],
+        "why_correct": {
+          "A": "Correct base verb usage."
+        },
+        "why_incorrect": {
+          "B": "Past form incorrect.",
+          "C": "Gerund incorrect.",
+          "D": "Infinitive incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "verb forms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2058,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.86,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The committee’s response was ______, reflecting a lack of decisive leadership.",
+    "options": [
+      {
+        "id": "A",
+        "text": "resolute"
+      },
+      {
+        "id": "B",
+        "text": "equivocal"
+      },
+      {
+        "id": "C",
+        "text": "firm"
+      },
+      {
+        "id": "D",
+        "text": "decisive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "equivocal",
+      "explanation": {
+        "concept": "Advanced vocabulary indicating ambiguity.",
+        "step_by_step": [
+          "Sentence implies lack of decisiveness.",
+          "'Equivocal' means ambiguous or unclear.",
+          "Other options imply firmness."
+        ],
+        "why_correct": {
+          "B": "Matches indecisive tone."
+        },
+        "why_incorrect": {
+          "A": "Resolute means firm.",
+          "C": "Firm contradicts context.",
+          "D": "Decisive contradicts meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2059,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Had she known about the issue earlier, she ______ appropriate measures.",
+    "options": [
+      {
+        "id": "A",
+        "text": "would take"
+      },
+      {
+        "id": "B",
+        "text": "would have taken"
+      },
+      {
+        "id": "C",
+        "text": "will take"
+      },
+      {
+        "id": "D",
+        "text": "takes"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "would have taken",
+      "explanation": {
+        "concept": "Inverted third conditional structure.",
+        "step_by_step": [
+          "'Had she known' implies past unreal condition.",
+          "Result uses 'would have + past participle'."
+        ],
+        "why_correct": {
+          "B": "Correct conditional structure."
+        },
+        "why_incorrect": {
+          "A": "Incorrect tense.",
+          "C": "Future tense incorrect.",
+          "D": "Present tense incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "conditionals",
+        "inversion"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2060,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author’s writing style is remarkably ______, making complex ideas accessible to readers.",
+    "options": [
+      {
+        "id": "A",
+        "text": "opaque"
+      },
+      {
+        "id": "B",
+        "text": "lucid"
+      },
+      {
+        "id": "C",
+        "text": "convoluted"
+      },
+      {
+        "id": "D",
+        "text": "obscure"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "lucid",
+      "explanation": {
+        "concept": "Vocabulary selection based on clarity.",
+        "step_by_step": [
+          "Sentence implies easy understanding.",
+          "'Lucid' means clear.",
+          "Other options imply complexity."
+        ],
+        "why_correct": {
+          "B": "Matches accessibility."
+        },
+        "why_incorrect": {
+          "A": "Opaque means unclear.",
+          "C": "Convoluted means complex.",
+          "D": "Obscure means unclear."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2061,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "There is hardly ______ milk left in the refrigerator.",
+    "options": [
+      {
+        "id": "A",
+        "text": "some"
+      },
+      {
+        "id": "B",
+        "text": "any"
+      },
+      {
+        "id": "C",
+        "text": "many"
+      },
+      {
+        "id": "D",
+        "text": "few"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "any",
+      "explanation": {
+        "concept": "Use of 'any' in negative contexts.",
+        "step_by_step": [
+          "'Hardly' creates a negative meaning.",
+          "'Any' is used in negative sentences.",
+          "Other options are incorrect."
+        ],
+        "why_correct": {
+          "B": "Correct negative usage."
+        },
+        "why_incorrect": {
+          "A": "Used in positive context.",
+          "C": "Incorrect for uncountable noun.",
+          "D": "Incorrect usage."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "determiners"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2062,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.87,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The leader’s ______ approach helped unify the divided groups and restore harmony.",
+    "options": [
+      {
+        "id": "A",
+        "text": "divisive"
+      },
+      {
+        "id": "B",
+        "text": "conciliatory"
+      },
+      {
+        "id": "C",
+        "text": "hostile"
+      },
+      {
+        "id": "D",
+        "text": "aggressive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "conciliatory",
+      "explanation": {
+        "concept": "Advanced vocabulary indicating peacemaking behavior.",
+        "step_by_step": [
+          "Sentence implies bringing unity.",
+          "'Conciliatory' means promoting peace.",
+          "Other options imply conflict."
+        ],
+        "why_correct": {
+          "B": "Matches harmony context."
+        },
+        "why_incorrect": {
+          "A": "Divisive is opposite.",
+          "C": "Hostile contradicts.",
+          "D": "Aggressive contradicts."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2063,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The number of applicants ______ increasing every year.",
+    "options": [
+      {
+        "id": "A",
+        "text": "are"
+      },
+      {
+        "id": "B",
+        "text": "were"
+      },
+      {
+        "id": "C",
+        "text": "is"
+      },
+      {
+        "id": "D",
+        "text": "have"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "is",
+      "explanation": {
+        "concept": "Subject-verb agreement with 'the number of'.",
+        "step_by_step": [
+          "'The number' is singular.",
+          "Hence singular verb.",
+          "Correct form is 'is increasing'."
+        ],
+        "why_correct": {
+          "C": "Correct singular agreement."
+        },
+        "why_incorrect": {
+          "A": "Plural incorrect.",
+          "B": "Wrong tense.",
+          "D": "Incorrect auxiliary."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "subject verb agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2064,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fill in the blanks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His constant interruptions were ______ and disrupted the flow of the meeting.",
+    "options": [
+      {
+        "id": "A",
+        "text": "constructive"
+      },
+      {
+        "id": "B",
+        "text": "intrusive"
+      },
+      {
+        "id": "C",
+        "text": "helpful"
+      },
+      {
+        "id": "D",
+        "text": "productive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "intrusive",
+      "explanation": {
+        "concept": "Vocabulary selection based on negative behavior.",
+        "step_by_step": [
+          "Interruptions imply disturbance.",
+          "'Intrusive' means unwelcome interference.",
+          "Other options imply positive contribution."
+        ],
+        "why_correct": {
+          "B": "Matches disruptive behavior."
+        },
+        "why_incorrect": {
+          "A": "Constructive is positive.",
+          "C": "Helpful contradicts.",
+          "D": "Productive contradicts."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "vocabulary in context"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

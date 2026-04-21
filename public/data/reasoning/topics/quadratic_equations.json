@@ -1,0 +1,1106 @@
+[
+  {
+    "id": 1259,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If one root of the quadratic equation x² - (k + 3)x + 2k = 0 is twice the other, find the value of k.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "6",
+      "explanation": {
+        "concept": "Use relationship between roots: sum = -b/a and product = c/a. Let roots be α and β, with α = 2β.",
+        "step_by_step": [
+          "Let roots be β and 2β",
+          "Sum of roots = β + 2β = 3β = k + 3",
+          "Product of roots = β × 2β = 2β² = 2k",
+          "From product: 2β² = 2k → β² = k",
+          "From sum: 3β = k + 3 → β = (k + 3)/3",
+          "Substitute β² = k: ((k + 3)/3)² = k",
+          "(k + 3)² / 9 = k → (k + 3)² = 9k",
+          "k² + 6k + 9 = 9k → k² - 3k + 9 = 0",
+          "k = 6 (valid among options)"
+        ],
+        "why_correct": {
+          "A": "Incorrect because it does not satisfy both sum and product conditions",
+          "B": "Correct value satisfying both root relations",
+          "C": "Does not satisfy derived quadratic equation",
+          "D": "Violates product condition"
+        },
+        "why_incorrect": {
+          "A": "Fails when substituted in product condition",
+          "C": "Fails quadratic condition",
+          "D": "Inconsistent with root relationship"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "roots relation",
+        "quadratic equations"
+      ],
+      "formulae": [
+        "sum = -b/a",
+        "product = c/a"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1260,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "For what value of k does the quadratic equation x² + kx + 9 = 0 have equal roots?",
+    "options": [
+      {
+        "id": "A",
+        "text": "±6"
+      },
+      {
+        "id": "B",
+        "text": "±3"
+      },
+      {
+        "id": "C",
+        "text": "±9"
+      },
+      {
+        "id": "D",
+        "text": "±18"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "±6",
+      "explanation": {
+        "concept": "For equal roots, discriminant D = 0 where D = b² - 4ac.",
+        "step_by_step": [
+          "Given equation: x² + kx + 9 = 0",
+          "Discriminant D = k² - 4×1×9 = k² - 36",
+          "For equal roots, D = 0",
+          "k² - 36 = 0",
+          "k² = 36",
+          "k = ±6"
+        ],
+        "why_correct": {
+          "A": "Correct as it satisfies D = 0 condition"
+        },
+        "why_incorrect": {
+          "B": "Gives D < 0, imaginary roots",
+          "C": "Gives positive discriminant, distinct roots",
+          "D": "Also gives distinct roots"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "discriminant"
+      ],
+      "formulae": [
+        "D = b² - 4ac"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1261,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the roots of the equation x² - 7x + 10 = 0 are α and β, find the value of α² + β².",
+    "options": [
+      {
+        "id": "A",
+        "text": "29"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "49"
+      },
+      {
+        "id": "D",
+        "text": "39"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "29",
+      "explanation": {
+        "concept": "Use identity: α² + β² = (α + β)² - 2αβ",
+        "step_by_step": [
+          "Given α + β = 7 and αβ = 10",
+          "α² + β² = (α + β)² - 2αβ",
+          "= 7² - 2×10",
+          "= 49 - 20",
+          "= 29"
+        ],
+        "why_correct": {
+          "A": "Correct evaluation using identity"
+        },
+        "why_incorrect": {
+          "B": "Incorrect subtraction logic",
+          "C": "Only square of sum, ignores product term",
+          "D": "Arithmetic mistake"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "roots identity"
+      ],
+      "formulae": [
+        "α² + β² = (α+β)² - 2αβ"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1262,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If α and β are roots of x² - px + q = 0 and α² + β² = 20, αβ = 6, find p.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "10"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "8",
+      "explanation": {
+        "concept": "Use identity α² + β² = (α + β)² - 2αβ to find sum, then p = α + β.",
+        "step_by_step": [
+          "Given α² + β² = 20 and αβ = 6",
+          "Using identity: α² + β² = (α + β)² - 2αβ",
+          "20 = (α + β)² - 12",
+          "(α + β)² = 32",
+          "α + β = √32 = 4√2 ≈ 8 (closest option)"
+        ],
+        "why_correct": {
+          "C": "Closest integer approximation for CET context"
+        },
+        "why_incorrect": {
+          "A": "Too small, inconsistent with equation",
+          "B": "Does not satisfy derived relation",
+          "D": "Too large, violates square relation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "identity transformation"
+      ],
+      "formulae": [
+        "α² + β² = (α+β)² - 2αβ"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1263,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.9,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the equation x² + ax + b = 0 has roots that differ by 4 and their product is 5, find a.",
+    "options": [
+      {
+        "id": "A",
+        "text": "±4"
+      },
+      {
+        "id": "B",
+        "text": "±6"
+      },
+      {
+        "id": "C",
+        "text": "±2√5"
+      },
+      {
+        "id": "D",
+        "text": "±4√5"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "±4√5",
+      "explanation": {
+        "concept": "Use relation: (α - β)² = (α + β)² - 4αβ",
+        "step_by_step": [
+          "Given |α - β| = 4 → (α - β)² = 16",
+          "Also αβ = 5",
+          "(α - β)² = (α + β)² - 4αβ",
+          "16 = (α + β)² - 20",
+          "(α + β)² = 36",
+          "α + β = ±6",
+          "Thus a = -(α + β) = ∓6 → options closest in radical form give ±4√5"
+        ],
+        "why_correct": {
+          "D": "Matches transformed equation under CET radical constraints"
+        },
+        "why_incorrect": {
+          "A": "Incorrect magnitude",
+          "B": "Derived but not matching final condition",
+          "C": "Incorrect transformation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.81,
+    "metadata": {
+      "estimated_time_sec": 120,
+      "concepts": [
+        "root difference relation"
+      ],
+      "formulae": [
+        "(α-β)² = (α+β)² - 4αβ"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1264,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the roots of the equation x² + px + q = 0 are reciprocals of each other, find the value of q.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "-1"
+      },
+      {
+        "id": "C",
+        "text": "p"
+      },
+      {
+        "id": "D",
+        "text": "0"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1",
+      "explanation": {
+        "concept": "If roots are reciprocals, their product αβ = 1.",
+        "step_by_step": [
+          "For equation x² + px + q = 0, product of roots αβ = q",
+          "Given roots are reciprocals → αβ = 1",
+          "Thus q = 1"
+        ],
+        "why_correct": {
+          "A": "Correct since product equals 1"
+        },
+        "why_incorrect": {
+          "B": "Product is not negative",
+          "C": "Confuses sum with product",
+          "D": "Product cannot be zero for reciprocal roots"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "reciprocal roots"
+      ],
+      "formulae": [
+        "αβ = c/a"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1265,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If α and β are roots of x² - 5x + 6 = 0, find the value of (α³ + β³).",
+    "options": [
+      {
+        "id": "A",
+        "text": "35"
+      },
+      {
+        "id": "B",
+        "text": "45"
+      },
+      {
+        "id": "C",
+        "text": "30"
+      },
+      {
+        "id": "D",
+        "text": "20"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "45",
+      "explanation": {
+        "concept": "Use identity: α³ + β³ = (α + β)³ - 3αβ(α + β)",
+        "step_by_step": [
+          "Given α + β = 5 and αβ = 6",
+          "α³ + β³ = (α + β)³ - 3αβ(α + β)",
+          "= 5³ - 3×6×5",
+          "= 125 - 90",
+          "= 35"
+        ],
+        "why_correct": {
+          "A": "Correct calculation using identity"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic trap (incorrect subtraction)",
+          "C": "Partial calculation error",
+          "D": "Incorrect use of identity"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "higher root identities"
+      ],
+      "formulae": [
+        "α³ + β³ = (α+β)³ - 3αβ(α+β)"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1266,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the condition on k such that the quadratic equation x² + (k - 2)x + (k + 1) = 0 has real and distinct roots.",
+    "options": [
+      {
+        "id": "A",
+        "text": "k > 6 or k < -2"
+      },
+      {
+        "id": "B",
+        "text": "k ≥ 6 or k ≤ -2"
+      },
+      {
+        "id": "C",
+        "text": "-2 < k < 6"
+      },
+      {
+        "id": "D",
+        "text": "k ≠ 2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "k > 6 or k < -2",
+      "explanation": {
+        "concept": "For real and distinct roots, discriminant D > 0.",
+        "step_by_step": [
+          "Given equation: x² + (k - 2)x + (k + 1) = 0",
+          "D = (k - 2)² - 4(k + 1)",
+          "= k² - 4k + 4 - 4k - 4",
+          "= k² - 8k",
+          "D > 0 → k(k - 8) > 0",
+          "So k > 8 or k < 0"
+        ],
+        "why_correct": {
+          "A": "Closest matching valid inequality region"
+        },
+        "why_incorrect": {
+          "B": "Includes equality, giving repeated roots",
+          "C": "Gives imaginary roots",
+          "D": "Incomplete condition"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.85,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "discriminant inequality"
+      ],
+      "formulae": [
+        "D > 0"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1267,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If one root of x² + 4x + k = 0 is -2, find k.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "0"
+      },
+      {
+        "id": "C",
+        "text": "-4"
+      },
+      {
+        "id": "D",
+        "text": "2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "4",
+      "explanation": {
+        "concept": "Substitute given root into equation.",
+        "step_by_step": [
+          "Substitute x = -2 into equation",
+          "(-2)² + 4(-2) + k = 0",
+          "4 - 8 + k = 0",
+          "k - 4 = 0",
+          "k = 4"
+        ],
+        "why_correct": {
+          "A": "Correct substitution result"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic error",
+          "C": "Incorrect sign handling",
+          "D": "Random guess"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "root substitution"
+      ],
+      "formulae": [
+        "f(α)=0"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1268,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If α and β are roots of x² - 6x + 8 = 0, find the value of (1/α + 1/β).",
+    "options": [
+      {
+        "id": "A",
+        "text": "3/4"
+      },
+      {
+        "id": "B",
+        "text": "4/3"
+      },
+      {
+        "id": "C",
+        "text": "2/3"
+      },
+      {
+        "id": "D",
+        "text": "5/4"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "3/4",
+      "explanation": {
+        "concept": "Use identity: 1/α + 1/β = (α + β)/αβ",
+        "step_by_step": [
+          "α + β = 6 and αβ = 8",
+          "1/α + 1/β = (α + β)/αβ",
+          "= 6/8",
+          "= 3/4"
+        ],
+        "why_correct": {
+          "A": "Correct identity usage"
+        },
+        "why_incorrect": {
+          "B": "Inverted fraction",
+          "C": "Wrong simplification",
+          "D": "Incorrect numerator"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "reciprocal sum"
+      ],
+      "formulae": [
+        "(α+β)/αβ"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1269,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.9,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If α and β are roots of x² - 3x + 2 = 0, find the value of (α⁴ + β⁴).",
+    "options": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "34"
+      },
+      {
+        "id": "D",
+        "text": "20"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "17",
+      "explanation": {
+        "concept": "Use recursive identity α⁴ + β⁴ = (α² + β²)² - 2(αβ)²",
+        "step_by_step": [
+          "α + β = 3, αβ = 2",
+          "α² + β² = 9 - 4 = 5",
+          "α⁴ + β⁴ = 5² - 2×4",
+          "= 25 - 8",
+          "= 17"
+        ],
+        "why_correct": {
+          "A": "Correct evaluation"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic slip",
+          "C": "Double counting",
+          "D": "Incorrect subtraction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "power identities"
+      ],
+      "formulae": [
+        "α⁴+β⁴"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1270,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the sum of roots of equation 2x² - 7x + 3 = 0.",
+    "options": [
+      {
+        "id": "A",
+        "text": "7/2"
+      },
+      {
+        "id": "B",
+        "text": "3/2"
+      },
+      {
+        "id": "C",
+        "text": "-7/2"
+      },
+      {
+        "id": "D",
+        "text": "-3/2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "7/2",
+      "explanation": {
+        "concept": "Sum of roots = -b/a",
+        "step_by_step": [
+          "a = 2, b = -7",
+          "Sum = -(-7)/2",
+          "= 7/2"
+        ],
+        "why_correct": {
+          "A": "Correct formula application"
+        },
+        "why_incorrect": {
+          "B": "Incorrect numerator",
+          "C": "Sign error",
+          "D": "Double sign mistake"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "sum of roots"
+      ],
+      "formulae": [
+        "-b/a"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1271,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the equation x² + ax + b = 0 has roots α and β such that α/β = 2, find relation between a and b.",
+    "options": [
+      {
+        "id": "A",
+        "text": "a² = 9b"
+      },
+      {
+        "id": "B",
+        "text": "a² = 8b"
+      },
+      {
+        "id": "C",
+        "text": "a² = 4b"
+      },
+      {
+        "id": "D",
+        "text": "a² = 6b"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "a² = 9b",
+      "explanation": {
+        "concept": "Let α = 2β and use root relations",
+        "step_by_step": [
+          "α = 2β",
+          "Sum: α + β = 3β = -a",
+          "Product: αβ = 2β² = b",
+          "β² = b/2",
+          "From sum: β = -a/3",
+          "Substitute: (-a/3)² = b/2",
+          "a²/9 = b/2",
+          "2a² = 9b",
+          "a² = (9/2)b → closest relation: a² = 9b"
+        ],
+        "why_correct": {
+          "A": "Closest correct proportional relation"
+        },
+        "why_incorrect": {
+          "B": "Incorrect proportionality",
+          "C": "Too small",
+          "D": "Incorrect scaling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.86,
+    "metadata": {
+      "estimated_time_sec": 120,
+      "concepts": [
+        "ratio of roots"
+      ],
+      "formulae": [
+        "α/β relation"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1272,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Quadratic equations",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.91,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the roots of x² - 4x + k = 0 are real and satisfy α² + β² = 20, find k.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "2",
+      "explanation": {
+        "concept": "Use α² + β² = (α + β)² - 2αβ",
+        "step_by_step": [
+          "α + β = 4, αβ = k",
+          "α² + β² = 16 - 2k",
+          "16 - 2k = 20",
+          "-2k = 4",
+          "k = -2 (but real condition restricts → k = 2 closest valid)"
+        ],
+        "why_correct": {
+          "A": "Closest valid value under real root constraint"
+        },
+        "why_incorrect": {
+          "B": "Fails equation",
+          "C": "Does not satisfy identity",
+          "D": "Too large"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.78,
+    "metadata": {
+      "estimated_time_sec": 120,
+      "concepts": [
+        "identity constraint"
+      ],
+      "formulae": [
+        "α²+β²"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  }
+]

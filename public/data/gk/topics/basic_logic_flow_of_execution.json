@@ -1,0 +1,3746 @@
+[
+  {
+    "id": 2501,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.3,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Arrange the following events in chronological order: (1) Non-Cooperation Movement (2) Dandi March (3) Quit India Movement (4) Partition of Bengal",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 → 1 → 2 → 3"
+      },
+      {
+        "id": "B",
+        "text": "1 → 4 → 2 → 3"
+      },
+      {
+        "id": "C",
+        "text": "4 → 2 → 1 → 3"
+      },
+      {
+        "id": "D",
+        "text": "1 → 2 → 4 → 3"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "4 → 1 → 2 → 3",
+      "explanation": {
+        "concept": "Chronological sequencing requires understanding the timeline of major historical events.",
+        "step_by_step": [
+          "Partition of Bengal occurred in 1905.",
+          "Non-Cooperation Movement started in 1920.",
+          "Dandi March took place in 1930.",
+          "Quit India Movement started in 1942."
+        ],
+        "why_correct": {
+          "A": "Correct chronological order based on years: 1905 → 1920 → 1930 → 1942."
+        },
+        "why_incorrect": {
+          "B": "Places Non-Cooperation before Partition, which is incorrect.",
+          "C": "Incorrect sequence between Non-Cooperation and Dandi March.",
+          "D": "Partition of Bengal is wrongly placed after later movements."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "chronology",
+        "independence movement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2502,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.45,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If Event A led to Event B and Event B led to Event C, which of the following correctly represents the flow? A: Dandi March, B: Civil Disobedience Movement, C: Round Table Conferences",
+    "options": [
+      {
+        "id": "A",
+        "text": "A → B → C"
+      },
+      {
+        "id": "B",
+        "text": "B → A → C"
+      },
+      {
+        "id": "C",
+        "text": "C → B → A"
+      },
+      {
+        "id": "D",
+        "text": "A → C → B"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A → B → C",
+      "explanation": {
+        "concept": "Cause-effect flow in historical movements reflects how one event triggers another.",
+        "step_by_step": [
+          "Dandi March (1930) initiated mass civil resistance.",
+          "It led to the Civil Disobedience Movement.",
+          "This pressure resulted in Round Table Conferences."
+        ],
+        "why_correct": {
+          "A": "Correct causal flow from protest to movement to negotiations."
+        },
+        "why_incorrect": {
+          "B": "Reverses cause and effect.",
+          "C": "Completely reversed sequence.",
+          "D": "Incorrect placement of conferences before movement."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "cause-effect",
+        "movement sequence"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2503,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct logical sequence of administrative reforms: (1) Regulating Act (2) Government of India Act 1935 (3) Indian Councils Act (4) Charter Act",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 → 4 → 3 → 2"
+      },
+      {
+        "id": "B",
+        "text": "4 → 1 → 3 → 2"
+      },
+      {
+        "id": "C",
+        "text": "1 → 3 → 4 → 2"
+      },
+      {
+        "id": "D",
+        "text": "4 → 3 → 1 → 2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1 → 4 → 3 → 2",
+      "explanation": {
+        "concept": "Understanding progressive administrative reforms by British rule requires chronological reasoning.",
+        "step_by_step": [
+          "Regulating Act was passed in 1773.",
+          "Charter Act came after (1813/1833 versions).",
+          "Indian Councils Act came later (1861/1892).",
+          "Government of India Act 1935 was the latest."
+        ],
+        "why_correct": {
+          "A": "Correct historical progression of British administrative reforms."
+        },
+        "why_incorrect": {
+          "B": "Incorrectly places Charter Act before Regulating Act.",
+          "C": "Mixes sequence of Charter and Councils Act.",
+          "D": "Wrong initial ordering."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "british acts",
+        "chronology"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2504,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which sequence correctly shows the logical progression of India's independence events?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Revolt of 1857 → Formation of INC → Non-Cooperation → Independence"
+      },
+      {
+        "id": "B",
+        "text": "Formation of INC → Revolt of 1857 → Independence → Non-Cooperation"
+      },
+      {
+        "id": "C",
+        "text": "Non-Cooperation → Revolt of 1857 → INC → Independence"
+      },
+      {
+        "id": "D",
+        "text": "Independence → Revolt of 1857 → INC → Non-Cooperation"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Revolt of 1857 → Formation of INC → Non-Cooperation → Independence",
+      "explanation": {
+        "concept": "Major historical milestones must be placed in chronological and logical flow.",
+        "step_by_step": [
+          "Revolt of 1857 was the first major uprising.",
+          "INC was formed in 1885.",
+          "Non-Cooperation Movement began in 1920.",
+          "India gained independence in 1947."
+        ],
+        "why_correct": {
+          "A": "Correct timeline and logical flow."
+        },
+        "why_incorrect": {
+          "B": "Places INC before 1857 revolt.",
+          "C": "Incorrect sequence of early events.",
+          "D": "Starts with independence incorrectly."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "timeline",
+        "independence movement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2505,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If X is the first Prime Minister, Y is the first President, and Z is the first satellite, which is the correct order of occurrence?",
+    "options": [
+      {
+        "id": "A",
+        "text": "X → Y → Z"
+      },
+      {
+        "id": "B",
+        "text": "Y → X → Z"
+      },
+      {
+        "id": "C",
+        "text": "Z → X → Y"
+      },
+      {
+        "id": "D",
+        "text": "X → Z → Y"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "X → Y → Z",
+      "explanation": {
+        "concept": "Understanding post-independence milestones requires sequencing by year.",
+        "step_by_step": [
+          "First Prime Minister (1947).",
+          "First President (1950).",
+          "First satellite Aryabhata (1975)."
+        ],
+        "why_correct": {
+          "A": "Correct chronological order based on years."
+        },
+        "why_incorrect": {
+          "B": "Swaps President and PM order.",
+          "C": "Places satellite first incorrectly.",
+          "D": "Incorrect positioning of satellite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "modern india",
+        "firsts"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2506,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Arrange the following leaders based on their major role timeline: (1) Bhagat Singh (2) Mahatma Gandhi (3) B.R. Ambedkar (4) Sardar Patel",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 → 2 → 4 → 3"
+      },
+      {
+        "id": "B",
+        "text": "2 → 1 → 4 → 3"
+      },
+      {
+        "id": "C",
+        "text": "1 → 2 → 3 → 4"
+      },
+      {
+        "id": "D",
+        "text": "2 → 4 → 1 → 3"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "1 → 2 → 3 → 4",
+      "explanation": {
+        "concept": "Timeline of influence based on peak activity periods.",
+        "step_by_step": [
+          "Bhagat Singh active in late 1920s.",
+          "Gandhi led movements from 1920s–40s.",
+          "Ambedkar’s major role peaked around constitution framing (1940s).",
+          "Patel’s role peaked during integration post-1947."
+        ],
+        "why_correct": {
+          "C": "Correct chronological influence sequence."
+        },
+        "why_incorrect": {
+          "A": "Places Patel before Ambedkar incorrectly.",
+          "B": "Incorrect ordering of Gandhi and Bhagat Singh.",
+          "D": "Misplaces Bhagat Singh later."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "leader timeline",
+        "historical flow"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2507,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.3,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which sequence best represents the logical cause-effect chain? Partition of Bengal → Swadeshi Movement → Rise of nationalism → Independence",
+    "options": [
+      {
+        "id": "A",
+        "text": "Correct sequence"
+      },
+      {
+        "id": "B",
+        "text": "Swadeshi → Partition → Independence → Nationalism"
+      },
+      {
+        "id": "C",
+        "text": "Nationalism → Partition → Swadeshi → Independence"
+      },
+      {
+        "id": "D",
+        "text": "Independence → Partition → Swadeshi → Nationalism"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Correct sequence",
+      "explanation": {
+        "concept": "Cause-effect chain in historical movements.",
+        "step_by_step": [
+          "Partition triggered Swadeshi Movement.",
+          "Swadeshi increased nationalism.",
+          "Nationalism led to independence."
+        ],
+        "why_correct": {
+          "A": "Proper cause-effect chain."
+        },
+        "why_incorrect": {
+          "B": "Incorrect order of cause and effect.",
+          "C": "Starts with outcome instead of cause.",
+          "D": "Completely reversed flow."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "cause-effect",
+        "nationalism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2508,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct sequence for railway, census, and satellite development in India.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Railway → Census → Satellite"
+      },
+      {
+        "id": "B",
+        "text": "Census → Railway → Satellite"
+      },
+      {
+        "id": "C",
+        "text": "Satellite → Railway → Census"
+      },
+      {
+        "id": "D",
+        "text": "Railway → Satellite → Census"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Railway → Census → Satellite",
+      "explanation": {
+        "concept": "Chronology of development milestones.",
+        "step_by_step": [
+          "First railway (1853).",
+          "First census (1872).",
+          "First satellite (1975)."
+        ],
+        "why_correct": {
+          "A": "Correct chronological order."
+        },
+        "why_incorrect": {
+          "B": "Swaps census and railway.",
+          "C": "Satellite wrongly placed first.",
+          "D": "Satellite wrongly placed before census."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "timeline",
+        "development"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2509,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which sequence correctly represents the escalation of movements under Gandhi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Non-Cooperation → Civil Disobedience → Quit India"
+      },
+      {
+        "id": "B",
+        "text": "Quit India → Civil Disobedience → Non-Cooperation"
+      },
+      {
+        "id": "C",
+        "text": "Civil Disobedience → Non-Cooperation → Quit India"
+      },
+      {
+        "id": "D",
+        "text": "Non-Cooperation → Quit India → Civil Disobedience"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Non-Cooperation → Civil Disobedience → Quit India",
+      "explanation": {
+        "concept": "Escalation of national movements under Gandhi followed chronological intensity.",
+        "step_by_step": [
+          "Non-Cooperation (1920).",
+          "Civil Disobedience (1930).",
+          "Quit India (1942)."
+        ],
+        "why_correct": {
+          "A": "Correct escalation timeline."
+        },
+        "why_incorrect": {
+          "B": "Reverse order.",
+          "C": "Incorrect swapping.",
+          "D": "Quit India placed too early."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "movement escalation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2510,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If A (Revolt of 1857) influenced B (rise of political organizations), and B influenced C (mass movements), which represents the correct logical abstraction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A → B → C"
+      },
+      {
+        "id": "B",
+        "text": "B → C → A"
+      },
+      {
+        "id": "C",
+        "text": "C → A → B"
+      },
+      {
+        "id": "D",
+        "text": "A → C → B"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A → B → C",
+      "explanation": {
+        "concept": "Abstract reasoning based on cause-effect relationships in historical development.",
+        "step_by_step": [
+          "Revolt of 1857 triggered political awareness.",
+          "This led to formation of organizations like INC.",
+          "These organizations led to mass movements."
+        ],
+        "why_correct": {
+          "A": "Correct logical abstraction."
+        },
+        "why_incorrect": {
+          "B": "Incorrect starting point.",
+          "C": "Reverses logical order.",
+          "D": "Skips intermediate step."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "abstract reasoning",
+        "cause-effect"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2511,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Arrange the following in the correct logical sequence of events: (1) Jallianwala Bagh Massacre (2) Non-Cooperation Movement (3) Rowlatt Act (4) Formation of INC",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 → 3 → 1 → 2"
+      },
+      {
+        "id": "B",
+        "text": "3 → 4 → 1 → 2"
+      },
+      {
+        "id": "C",
+        "text": "4 → 1 → 3 → 2"
+      },
+      {
+        "id": "D",
+        "text": "3 → 1 → 4 → 2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "4 → 3 → 1 → 2",
+      "explanation": {
+        "concept": "Chronological and cause-effect reasoning among major nationalist events.",
+        "step_by_step": [
+          "INC was formed in 1885.",
+          "Rowlatt Act passed in 1919.",
+          "Jallianwala Bagh Massacre occurred in 1919.",
+          "Non-Cooperation Movement began in 1920."
+        ],
+        "why_correct": {
+          "A": "Correct chronological and causal sequence."
+        },
+        "why_incorrect": {
+          "B": "INC cannot come after Rowlatt Act.",
+          "C": "Incorrect placement of massacre before act.",
+          "D": "Incorrect ordering of early events."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "timeline",
+        "cause-effect"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2512,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which logical sequence best explains the transition from protest to independence?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Local protests → Mass movements → Political negotiations → Independence"
+      },
+      {
+        "id": "B",
+        "text": "Mass movements → Local protests → Independence → Negotiations"
+      },
+      {
+        "id": "C",
+        "text": "Negotiations → Protests → Independence → Movements"
+      },
+      {
+        "id": "D",
+        "text": "Independence → Movements → Protests → Negotiations"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Local protests → Mass movements → Political negotiations → Independence",
+      "explanation": {
+        "concept": "Macro-level flow of independence struggle phases.",
+        "step_by_step": [
+          "Initial protests were localized.",
+          "They expanded into nationwide movements.",
+          "Negotiations followed due to pressure.",
+          "Finally, independence was achieved."
+        ],
+        "why_correct": {
+          "A": "Correct structural progression."
+        },
+        "why_incorrect": {
+          "B": "Incorrect ordering of phases.",
+          "C": "Negotiations cannot precede protests.",
+          "D": "Reverse logic."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "movement phases"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2513,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct dependency chain: Government of India Act 1935 → Provincial Autonomy → Elections of 1937 → Congress Ministries",
+    "options": [
+      {
+        "id": "A",
+        "text": "Correct sequence"
+      },
+      {
+        "id": "B",
+        "text": "Elections → Act → Autonomy → Ministries"
+      },
+      {
+        "id": "C",
+        "text": "Autonomy → Act → Elections → Ministries"
+      },
+      {
+        "id": "D",
+        "text": "Act → Elections → Autonomy → Ministries"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Correct sequence",
+      "explanation": {
+        "concept": "Policy implementation follows legislative enactment → structural change → execution → governance.",
+        "step_by_step": [
+          "1935 Act introduced provincial autonomy.",
+          "Elections were held in 1937.",
+          "Congress formed ministries afterward."
+        ],
+        "why_correct": {
+          "A": "Matches real administrative flow."
+        },
+        "why_incorrect": {
+          "B": "Act must precede elections.",
+          "C": "Autonomy comes from Act, not before.",
+          "D": "Autonomy must precede elections."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "administrative flow"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2514,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Arrange the sequence of Maharashtra social reform movements: (1) Jyotiba Phule reforms (2) Savitribai Phule education initiatives (3) Expansion of women's education (4) Social awareness",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 → 2 → 3 → 4"
+      },
+      {
+        "id": "B",
+        "text": "2 → 1 → 4 → 3"
+      },
+      {
+        "id": "C",
+        "text": "1 → 3 → 2 → 4"
+      },
+      {
+        "id": "D",
+        "text": "4 → 1 → 2 → 3"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1 → 2 → 3 → 4",
+      "explanation": {
+        "concept": "Reforms begin with leaders, followed by initiatives, expansion, and awareness.",
+        "step_by_step": [
+          "Jyotiba initiated reforms.",
+          "Savitribai implemented education initiatives.",
+          "These expanded women's education.",
+          "Which led to broader social awareness."
+        ],
+        "why_correct": {
+          "A": "Logical reform progression."
+        },
+        "why_incorrect": {
+          "B": "Reverses leadership sequence.",
+          "C": "Misplaces expansion stage.",
+          "D": "Starts with outcome."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "social reform flow"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2515,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which option correctly represents escalation of British control leading to resistance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acts → Control → Discontent → Revolt"
+      },
+      {
+        "id": "B",
+        "text": "Revolt → Control → Acts → Discontent"
+      },
+      {
+        "id": "C",
+        "text": "Discontent → Acts → Revolt → Control"
+      },
+      {
+        "id": "D",
+        "text": "Control → Revolt → Acts → Discontent"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Acts → Control → Discontent → Revolt",
+      "explanation": {
+        "concept": "Colonial policies created increasing control leading to resistance.",
+        "step_by_step": [
+          "Acts established authority.",
+          "Control increased over time.",
+          "People developed discontent.",
+          "This resulted in revolts."
+        ],
+        "why_correct": {
+          "A": "Correct cause-effect chain."
+        },
+        "why_incorrect": {
+          "B": "Revolt cannot precede control.",
+          "C": "Acts precede discontent.",
+          "D": "Incorrect sequencing."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "colonial policies"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2516,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which sequence correctly represents infrastructure development in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Railways → Administrative expansion → Industrial growth"
+      },
+      {
+        "id": "B",
+        "text": "Industrial growth → Railways → Administration"
+      },
+      {
+        "id": "C",
+        "text": "Administration → Railways → Industrial growth"
+      },
+      {
+        "id": "D",
+        "text": "Industrial growth → Administration → Railways"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Railways → Administrative expansion → Industrial growth",
+      "explanation": {
+        "concept": "Infrastructure drives administrative and industrial growth.",
+        "step_by_step": [
+          "Railways introduced connectivity.",
+          "Administration expanded control.",
+          "Industrial growth followed."
+        ],
+        "why_correct": {
+          "A": "Logical development flow."
+        },
+        "why_incorrect": {
+          "B": "Industrial growth cannot precede infrastructure.",
+          "C": "Administration depends on infrastructure.",
+          "D": "Incorrect sequence."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "infrastructure flow"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2517,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct logical abstraction: Education reforms → Awareness → Political participation → Self-governance",
+    "options": [
+      {
+        "id": "A",
+        "text": "Correct sequence"
+      },
+      {
+        "id": "B",
+        "text": "Awareness → Education → Participation → Governance"
+      },
+      {
+        "id": "C",
+        "text": "Participation → Education → Awareness → Governance"
+      },
+      {
+        "id": "D",
+        "text": "Governance → Awareness → Education → Participation"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Correct sequence",
+      "explanation": {
+        "concept": "Education leads to awareness, which enables participation and governance.",
+        "step_by_step": [
+          "Education reforms improve literacy.",
+          "Awareness increases.",
+          "People participate politically.",
+          "Leads to self-governance."
+        ],
+        "why_correct": {
+          "A": "Correct logical chain."
+        },
+        "why_incorrect": {
+          "B": "Awareness depends on education.",
+          "C": "Participation cannot precede awareness.",
+          "D": "Reverse order."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "social progression"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2518,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct sequence in formation of Indian Constitution: (1) Constituent Assembly (2) Drafting Committee (3) Constitution adoption (4) Implementation",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 → 2 → 3 → 4"
+      },
+      {
+        "id": "B",
+        "text": "2 → 1 → 3 → 4"
+      },
+      {
+        "id": "C",
+        "text": "1 → 3 → 2 → 4"
+      },
+      {
+        "id": "D",
+        "text": "1 → 2 → 4 → 3"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1 → 2 → 3 → 4",
+      "explanation": {
+        "concept": "Constitution formation follows structured legislative stages.",
+        "step_by_step": [
+          "Constituent Assembly formed first.",
+          "Drafting Committee created draft.",
+          "Constitution adopted in 1949.",
+          "Implemented in 1950."
+        ],
+        "why_correct": {
+          "A": "Correct procedural flow."
+        },
+        "why_incorrect": {
+          "B": "Drafting cannot precede assembly.",
+          "C": "Adoption before drafting is wrong.",
+          "D": "Implementation comes last."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "constitution process"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2519,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Arrange the sequence: Simon Commission → Protests → Nehru Report → Constitutional reforms",
+    "options": [
+      {
+        "id": "A",
+        "text": "Correct sequence"
+      },
+      {
+        "id": "B",
+        "text": "Protests → Commission → Report → Reforms"
+      },
+      {
+        "id": "C",
+        "text": "Report → Commission → Protests → Reforms"
+      },
+      {
+        "id": "D",
+        "text": "Reforms → Report → Commission → Protests"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Correct sequence",
+      "explanation": {
+        "concept": "Political events often follow commission → reaction → report → reform.",
+        "step_by_step": [
+          "Simon Commission arrived.",
+          "Protests followed.",
+          "Nehru Report created.",
+          "Led to reforms."
+        ],
+        "why_correct": {
+          "A": "Matches historical sequence."
+        },
+        "why_incorrect": {
+          "B": "Commission must precede protests.",
+          "C": "Report cannot come before commission.",
+          "D": "Reforms occur last."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "political process"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2520,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which sequence best represents the logical chain leading to Partition of India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Communal tensions → Political demands → Negotiations failure → Partition"
+      },
+      {
+        "id": "B",
+        "text": "Partition → Negotiations → Tensions → Demands"
+      },
+      {
+        "id": "C",
+        "text": "Demands → Partition → Tensions → Negotiations"
+      },
+      {
+        "id": "D",
+        "text": "Negotiations → Demands → Tensions → Partition"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Communal tensions → Political demands → Negotiations failure → Partition",
+      "explanation": {
+        "concept": "Partition resulted from escalating tensions and failed negotiations.",
+        "step_by_step": [
+          "Communal tensions increased.",
+          "Political demands arose.",
+          "Negotiations failed.",
+          "Partition occurred."
+        ],
+        "why_correct": {
+          "A": "Accurate causal progression."
+        },
+        "why_incorrect": {
+          "B": "Reverse logic.",
+          "C": "Incorrect intermediate flow.",
+          "D": "Negotiations cannot precede tensions."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "partition reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2521,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "multi_correct",
+    "question_text": "Which of the following events directly contributed to the launch of the Non-Cooperation Movement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rowlatt Act"
+      },
+      {
+        "id": "B",
+        "text": "Jallianwala Bagh Massacre"
+      },
+      {
+        "id": "C",
+        "text": "Simon Commission"
+      },
+      {
+        "id": "D",
+        "text": "Khilafat Movement"
+      }
+    ],
+    "correct_option": "A,B,D",
+    "solution": {
+      "final_answer": "A,B,D",
+      "explanation": {
+        "concept": "Multiple factors triggered the Non-Cooperation Movement.",
+        "step_by_step": [
+          "Rowlatt Act created widespread anger.",
+          "Jallianwala Bagh Massacre intensified resentment.",
+          "Khilafat Movement aligned with Gandhi’s strategy.",
+          "Simon Commission came later and was unrelated to its launch."
+        ],
+        "why_correct": {
+          "A": "Direct cause of unrest.",
+          "B": "Major triggering incident.",
+          "D": "Political alliance factor."
+        },
+        "why_incorrect": {
+          "C": "Occurred later in 1928."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "non-cooperation causes"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2522,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "assertion_reason",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): The Civil Disobedience Movement followed the Dandi March. Reason (R): The Dandi March was a protest against the salt tax which triggered mass participation.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R is the correct explanation of A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R is not the correct explanation of A"
+      },
+      {
+        "id": "C",
+        "text": "A is true but R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false but R is true"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": {
+        "concept": "Assertion-reason tests causal understanding.",
+        "step_by_step": [
+          "Civil Disobedience Movement started after Dandi March in 1930.",
+          "Dandi March challenged salt tax.",
+          "This sparked nationwide participation."
+        ],
+        "why_correct": {
+          "A": "Reason correctly explains assertion."
+        },
+        "why_incorrect": {
+          "B": "Reason directly explains assertion.",
+          "C": "Reason is true.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "assertion-reason",
+        "civil disobedience"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2523,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "match_the_following",
+    "answer_type": "single_correct",
+    "question_text": "Match the following:\nList I: (A) Mahatma Gandhi (B) B.R. Ambedkar (C) Sardar Patel (D) Bhagat Singh\nList II: (1) Constitution (2) Non-violence (3) Integration of states (4) Revolutionary activities",
+    "options": [
+      {
+        "id": "A",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "id": "B",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "id": "C",
+        "text": "A-2, B-3, C-1, D-4"
+      },
+      {
+        "id": "D",
+        "text": "A-2, B-1, C-4, D-3"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A-2, B-1, C-3, D-4",
+      "explanation": {
+        "concept": "Matching key personalities with contributions.",
+        "step_by_step": [
+          "Gandhi → Non-violence.",
+          "Ambedkar → Constitution.",
+          "Patel → Integration.",
+          "Bhagat Singh → Revolutionary."
+        ],
+        "why_correct": {
+          "A": "All matches correct."
+        },
+        "why_incorrect": {
+          "B": "Incorrect Gandhi-Ambedkar mapping.",
+          "C": "Wrong assignments.",
+          "D": "Swapped Patel and Bhagat Singh."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "leaders roles"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2524,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "statement_based",
+    "answer_type": "single_correct",
+    "question_text": "Consider the following statements:\n1. The Quit India Movement was launched before the Civil Disobedience Movement.\n2. The Non-Cooperation Movement was the first mass movement under Gandhi.\nWhich of the statements is/are correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only 1"
+      },
+      {
+        "id": "B",
+        "text": "Only 2"
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only 2",
+      "explanation": {
+        "concept": "Statement-based evaluation requires verifying each claim.",
+        "step_by_step": [
+          "Quit India (1942) came after Civil Disobedience (1930).",
+          "Non-Cooperation (1920) was first mass movement."
+        ],
+        "why_correct": {
+          "B": "Only statement 2 is correct."
+        },
+        "why_incorrect": {
+          "A": "Statement 1 is incorrect.",
+          "C": "Statement 1 is false.",
+          "D": "Statement 2 is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "movement order"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2525,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "multi_correct",
+    "answer_type": "multi_select",
+    "question_text": "Which of the following were outcomes of the Government of India Act 1935?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Provincial autonomy"
+      },
+      {
+        "id": "B",
+        "text": "Federal structure proposal"
+      },
+      {
+        "id": "C",
+        "text": "Complete independence"
+      },
+      {
+        "id": "D",
+        "text": "Expansion of electorate"
+      }
+    ],
+    "correct_option": "A,B,D",
+    "solution": {
+      "final_answer": "A,B,D",
+      "explanation": {
+        "concept": "Understanding provisions of major British acts.",
+        "step_by_step": [
+          "Act introduced provincial autonomy.",
+          "Proposed federal structure.",
+          "Expanded electorate.",
+          "Did not grant independence."
+        ],
+        "why_correct": {
+          "A": "Key provision.",
+          "B": "Included in act.",
+          "D": "Expanded voting base."
+        },
+        "why_incorrect": {
+          "C": "Independence was not granted."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "GOI Act 1935"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2526,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "sequence_based",
+    "answer_type": "single_correct",
+    "question_text": "Arrange the following events correctly: (1) Simon Commission (2) Nehru Report (3) Civil Disobedience Movement (4) Round Table Conferences",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 → 2 → 3 → 4"
+      },
+      {
+        "id": "B",
+        "text": "2 → 1 → 3 → 4"
+      },
+      {
+        "id": "C",
+        "text": "1 → 3 → 2 → 4"
+      },
+      {
+        "id": "D",
+        "text": "2 → 3 → 1 → 4"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1 → 2 → 3 → 4",
+      "explanation": {
+        "concept": "Chronological ordering of late colonial events.",
+        "step_by_step": [
+          "Simon Commission (1928).",
+          "Nehru Report (1928).",
+          "Civil Disobedience (1930).",
+          "Round Table Conferences (1930–32)."
+        ],
+        "why_correct": {
+          "A": "Correct order."
+        },
+        "why_incorrect": {
+          "B": "Reverses first two.",
+          "C": "Misplaces Nehru Report.",
+          "D": "Incorrect sequence."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "chronology"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2527,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "assertion_reason",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): Partition of Bengal led to rise of Swadeshi Movement.\nReason (R): British aimed to weaken nationalism by dividing Bengal.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R explains A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R does not explain A"
+      },
+      {
+        "id": "C",
+        "text": "A is true, R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false, R is true"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Both A and R are true and R explains A",
+      "explanation": {
+        "concept": "Understanding colonial strategy and nationalist response.",
+        "step_by_step": [
+          "Partition of Bengal (1905) triggered protests.",
+          "Swadeshi Movement emerged.",
+          "British used divide-and-rule policy."
+        ],
+        "why_correct": {
+          "A": "Reason explains cause."
+        },
+        "why_incorrect": {
+          "B": "Reason directly explains.",
+          "C": "Reason is true.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "swadeshi movement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2528,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "true_false",
+    "answer_type": "single_correct",
+    "question_text": "The Dandi March was conducted before the Non-Cooperation Movement.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Cannot be determined"
+      },
+      {
+        "id": "D",
+        "text": "Partially true"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "False",
+      "explanation": {
+        "concept": "Chronological comparison of major movements.",
+        "step_by_step": [
+          "Non-Cooperation (1920).",
+          "Dandi March (1930).",
+          "Hence statement is false."
+        ],
+        "why_correct": {
+          "B": "Correct evaluation."
+        },
+        "why_incorrect": {
+          "A": "Incorrect chronology.",
+          "C": "Clearly determinable.",
+          "D": "No partial truth."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "timeline"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2529,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "multi_correct",
+    "answer_type": "multi_select",
+    "question_text": "Which of the following contributed to the rise of nationalism in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Spread of education"
+      },
+      {
+        "id": "B",
+        "text": "Railways and communication"
+      },
+      {
+        "id": "C",
+        "text": "British economic policies"
+      },
+      {
+        "id": "D",
+        "text": "Decline of Mughal Empire"
+      }
+    ],
+    "correct_option": "A,B,C",
+    "solution": {
+      "final_answer": "A,B,C",
+      "explanation": {
+        "concept": "Factors contributing to nationalism.",
+        "step_by_step": [
+          "Education spread awareness.",
+          "Railways connected people.",
+          "Economic exploitation caused discontent.",
+          "Mughal decline is earlier period."
+        ],
+        "why_correct": {
+          "A": "Raised awareness.",
+          "B": "Enabled unity.",
+          "C": "Created resentment."
+        },
+        "why_incorrect": {
+          "D": "Not part of modern nationalism phase."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "nationalism factors"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2530,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "case_based",
+    "answer_type": "single_correct",
+    "question_text": "A protest begins locally, spreads nationwide, leads to negotiations, and finally results in independence. Which historical model does this represent?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Indian Independence Movement"
+      },
+      {
+        "id": "B",
+        "text": "Industrial Revolution"
+      },
+      {
+        "id": "C",
+        "text": "French Revolution"
+      },
+      {
+        "id": "D",
+        "text": "Cold War"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Indian Independence Movement",
+      "explanation": {
+        "concept": "Pattern recognition in historical processes.",
+        "step_by_step": [
+          "Local protests → mass movements.",
+          "Negotiations with British.",
+          "Leads to independence."
+        ],
+        "why_correct": {
+          "A": "Matches Indian freedom struggle."
+        },
+        "why_incorrect": {
+          "B": "Industrial focus.",
+          "C": "Different structure.",
+          "D": "Not a freedom movement."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "pattern recognition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2531,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "matrix_match",
+    "answer_type": "single_correct",
+    "question_text": "Match the following sequences logically:\nColumn I: (A) Revolt of 1857 (B) INC Formation (C) Mass Movements (D) Independence\nColumn II: (1) Political Awakening (2) Organized Leadership (3) Nationwide Mobilization (4) Final Outcome",
+    "options": [
+      {
+        "id": "A",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "id": "B",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "id": "C",
+        "text": "A-1, B-3, C-2, D-4"
+      },
+      {
+        "id": "D",
+        "text": "A-3, B-2, C-1, D-4"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A-1, B-2, C-3, D-4",
+      "explanation": {
+        "concept": "Mapping historical stages to their logical roles.",
+        "step_by_step": [
+          "1857 created political awakening.",
+          "INC provided organized leadership.",
+          "Mass movements mobilized people.",
+          "Independence was final outcome."
+        ],
+        "why_correct": {
+          "A": "Correct mapping of stages."
+        },
+        "why_incorrect": {
+          "B": "Incorrect mapping of INC.",
+          "C": "Wrong mapping of stages.",
+          "D": "Incorrect ordering."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_31",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "stage mapping"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2532,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "assertion_reason",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): The Quit India Movement was more radical than earlier movements.\nReason (R): It demanded immediate independence without negotiation.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R explains A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R does not explain A"
+      },
+      {
+        "id": "C",
+        "text": "A is true, R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false, R is true"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Both A and R are true and R explains A",
+      "explanation": {
+        "concept": "Radicalization of movements based on demands.",
+        "step_by_step": [
+          "Quit India (1942) demanded immediate independence.",
+          "No compromise or gradual reform.",
+          "Hence more radical than earlier movements."
+        ],
+        "why_correct": {
+          "A": "Reason directly explains assertion."
+        },
+        "why_incorrect": {
+          "B": "Reason explains assertion.",
+          "C": "Reason is true.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_32",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "movement radicalization"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2533,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "statement_based",
+    "answer_type": "single_correct",
+    "question_text": "Consider the statements:\n1. Dandi March led to Civil Disobedience Movement.\n2. Civil Disobedience Movement led to Round Table Conferences.\nWhich is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only 1"
+      },
+      {
+        "id": "B",
+        "text": "Only 2"
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both 1 and 2",
+      "explanation": {
+        "concept": "Sequential cause-effect in movements.",
+        "step_by_step": [
+          "Dandi March triggered Civil Disobedience.",
+          "Civil Disobedience led to negotiations (Round Table)."
+        ],
+        "why_correct": {
+          "C": "Both statements correct."
+        },
+        "why_incorrect": {
+          "A": "Second is also correct.",
+          "B": "First is also correct.",
+          "D": "Both are correct."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_33",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "cause-effect"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2534,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "multi_correct",
+    "answer_type": "multi_select",
+    "question_text": "Which of the following represent logical stages of freedom struggle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Initial resistance"
+      },
+      {
+        "id": "B",
+        "text": "Organized political action"
+      },
+      {
+        "id": "C",
+        "text": "Mass movements"
+      },
+      {
+        "id": "D",
+        "text": "Immediate independence in 1857"
+      }
+    ],
+    "correct_option": "A,B,C",
+    "solution": {
+      "final_answer": "A,B,C",
+      "explanation": {
+        "concept": "Stages of independence movement.",
+        "step_by_step": [
+          "Initial resistance (1857).",
+          "Political organization (INC).",
+          "Mass movements (Gandhi era).",
+          "Independence came much later."
+        ],
+        "why_correct": {
+          "A": "Correct stage.",
+          "B": "Correct stage.",
+          "C": "Correct stage."
+        },
+        "why_incorrect": {
+          "D": "Incorrect historically."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_34",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "movement stages"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2535,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "case_based",
+    "answer_type": "single_correct",
+    "question_text": "A policy increases control, causes dissatisfaction, leads to protests, and results in reform. Which historical pattern does this represent?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Colonial governance cycle"
+      },
+      {
+        "id": "B",
+        "text": "Industrial development cycle"
+      },
+      {
+        "id": "C",
+        "text": "Agricultural revolution"
+      },
+      {
+        "id": "D",
+        "text": "Cold War diplomacy"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Colonial governance cycle",
+      "explanation": {
+        "concept": "Pattern recognition in colonial administration.",
+        "step_by_step": [
+          "Policies increased control.",
+          "People protested.",
+          "Led to reforms."
+        ],
+        "why_correct": {
+          "A": "Matches colonial pattern."
+        },
+        "why_incorrect": {
+          "B": "Not related.",
+          "C": "Not political.",
+          "D": "Different context."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_35",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "pattern recognition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2536,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "true_false",
+    "answer_type": "single_correct",
+    "question_text": "The Non-Cooperation Movement started after the Civil Disobedience Movement.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Partially true"
+      },
+      {
+        "id": "D",
+        "text": "Cannot be determined"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "False",
+      "explanation": {
+        "concept": "Chronology of movements.",
+        "step_by_step": [
+          "Non-Cooperation (1920).",
+          "Civil Disobedience (1930)."
+        ],
+        "why_correct": {
+          "B": "Correct evaluation."
+        },
+        "why_incorrect": {
+          "A": "Incorrect.",
+          "C": "No partial truth.",
+          "D": "Clearly determinable."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_36",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "timeline"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2537,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "sequence_based",
+    "answer_type": "single_correct",
+    "question_text": "Arrange the following logically: (1) Education reforms (2) Political awareness (3) Nationalism (4) Independence",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 → 2 → 3 → 4"
+      },
+      {
+        "id": "B",
+        "text": "2 → 1 → 3 → 4"
+      },
+      {
+        "id": "C",
+        "text": "1 → 3 → 2 → 4"
+      },
+      {
+        "id": "D",
+        "text": "2 → 3 → 1 → 4"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1 → 2 → 3 → 4",
+      "explanation": {
+        "concept": "Logical development of political consciousness.",
+        "step_by_step": [
+          "Education creates awareness.",
+          "Awareness leads to nationalism.",
+          "Nationalism leads to independence."
+        ],
+        "why_correct": {
+          "A": "Correct logical flow."
+        },
+        "why_incorrect": {
+          "B": "Incorrect starting point.",
+          "C": "Wrong sequence.",
+          "D": "Misplaced education."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_37",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "logical progression"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2538,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "multi_correct",
+    "answer_type": "multi_select",
+    "question_text": "Which of the following were direct consequences of the Partition of Bengal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Swadeshi Movement"
+      },
+      {
+        "id": "B",
+        "text": "Boycott of British goods"
+      },
+      {
+        "id": "C",
+        "text": "Immediate independence"
+      },
+      {
+        "id": "D",
+        "text": "Rise in nationalism"
+      }
+    ],
+    "correct_option": "A,B,D",
+    "solution": {
+      "final_answer": "A,B,D",
+      "explanation": {
+        "concept": "Consequences of colonial policies.",
+        "step_by_step": [
+          "Swadeshi Movement began.",
+          "Boycott of goods followed.",
+          "Nationalism increased.",
+          "No immediate independence."
+        ],
+        "why_correct": {
+          "A": "Direct consequence.",
+          "B": "Part of Swadeshi.",
+          "D": "Long-term effect."
+        },
+        "why_incorrect": {
+          "C": "Incorrect historically."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_38",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "partition effects"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2539,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "statement_based",
+    "answer_type": "single_correct",
+    "question_text": "Consider the statements:\n1. Railways helped unify India.\n2. Railways reduced communication between regions.\nWhich is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only 1"
+      },
+      {
+        "id": "B",
+        "text": "Only 2"
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only 1",
+      "explanation": {
+        "concept": "Impact of infrastructure.",
+        "step_by_step": [
+          "Railways improved connectivity.",
+          "They increased communication."
+        ],
+        "why_correct": {
+          "A": "Only statement 1 is true."
+        },
+        "why_incorrect": {
+          "B": "Statement 2 is false.",
+          "C": "Statement 2 incorrect.",
+          "D": "Statement 1 correct."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_39",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "infrastructure impact"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2540,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "case_based",
+    "answer_type": "single_correct",
+    "question_text": "A sequence shows: Policy → Protest → Negotiation → Reform → Renewed Protest. What does this cyclical pattern indicate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Continuous resistance cycle under colonial rule"
+      },
+      {
+        "id": "B",
+        "text": "Linear independence process"
+      },
+      {
+        "id": "C",
+        "text": "Economic development model"
+      },
+      {
+        "id": "D",
+        "text": "Technological growth pattern"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Continuous resistance cycle under colonial rule",
+      "explanation": {
+        "concept": "Cyclical nature of colonial resistance.",
+        "step_by_step": [
+          "Policies imposed control.",
+          "Protests followed.",
+          "Negotiations led to reforms.",
+          "Cycle repeated."
+        ],
+        "why_correct": {
+          "A": "Correct interpretation."
+        },
+        "why_incorrect": {
+          "B": "Not linear.",
+          "C": "Not economic.",
+          "D": "Not technological."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_40",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "cyclical pattern"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2541,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "assertion_reason",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): The Non-Cooperation Movement marked a shift from elite politics to mass participation.\nReason (R): It involved students, peasants, and workers across India.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R explains A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R does not explain A"
+      },
+      {
+        "id": "C",
+        "text": "A is true, R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false, R is true"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Both A and R are true and R explains A",
+      "explanation": {
+        "concept": "Shift in nature of nationalist movements.",
+        "step_by_step": [
+          "Earlier politics was limited to elites.",
+          "Non-Cooperation involved masses.",
+          "Participation of multiple social groups explains the shift."
+        ],
+        "why_correct": {
+          "A": "Reason directly explains assertion."
+        },
+        "why_incorrect": {
+          "B": "Reason explains assertion.",
+          "C": "Reason is true.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_41",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "mass participation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2542,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "multi_correct",
+    "answer_type": "multi_select",
+    "question_text": "Which of the following represent logical consequences of the Jallianwala Bagh Massacre?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rise in anti-British sentiment"
+      },
+      {
+        "id": "B",
+        "text": "Launch of Non-Cooperation Movement"
+      },
+      {
+        "id": "C",
+        "text": "Immediate independence"
+      },
+      {
+        "id": "D",
+        "text": "Loss of faith in British justice"
+      }
+    ],
+    "correct_option": "A,B,D",
+    "solution": {
+      "final_answer": "A,B,D",
+      "explanation": {
+        "concept": "Impact analysis of major events.",
+        "step_by_step": [
+          "Massacre increased anger.",
+          "Triggered Non-Cooperation.",
+          "People lost trust in British rule.",
+          "No immediate independence."
+        ],
+        "why_correct": {
+          "A": "Direct consequence.",
+          "B": "Triggered movement.",
+          "D": "Psychological impact."
+        },
+        "why_incorrect": {
+          "C": "Incorrect historically."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_42",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "event impact"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2543,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "case_based",
+    "answer_type": "single_correct",
+    "question_text": "A sequence shows: Reform → Expectation → Disappointment → Protest → Stronger reform demand. What does this pattern reflect in Indian history?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Escalation of nationalist demands"
+      },
+      {
+        "id": "B",
+        "text": "Decline of nationalism"
+      },
+      {
+        "id": "C",
+        "text": "Industrial revolution cycle"
+      },
+      {
+        "id": "D",
+        "text": "Agrarian reforms"
+      },
+      {
+        "id": "E",
+        "text": "Judicial evolution"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Escalation of nationalist demands",
+      "explanation": {
+        "concept": "Feedback loop in political movements.",
+        "step_by_step": [
+          "Reforms created expectations.",
+          "Unmet expectations caused protests.",
+          "Demands intensified over time."
+        ],
+        "why_correct": {
+          "A": "Matches escalation pattern."
+        },
+        "why_incorrect": {
+          "B": "Opposite trend.",
+          "C": "Not relevant.",
+          "D": "Different domain.",
+          "E": "Unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_43",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "feedback loop"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2544,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "true_false",
+    "answer_type": "single_correct",
+    "question_text": "The Quit India Movement was launched after the Civil Disobedience Movement.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Partially true"
+      },
+      {
+        "id": "D",
+        "text": "Cannot be determined"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "True",
+      "explanation": {
+        "concept": "Chronology of movements.",
+        "step_by_step": [
+          "Civil Disobedience (1930).",
+          "Quit India (1942)."
+        ],
+        "why_correct": {
+          "A": "Correct chronological order."
+        },
+        "why_incorrect": {
+          "B": "Incorrect.",
+          "C": "Fully true.",
+          "D": "Determinable."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_44",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "timeline"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2545,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "sequence_based",
+    "answer_type": "single_correct",
+    "question_text": "Arrange the following logically: (1) British economic policies (2) Economic exploitation (3) Public discontent (4) Nationalist movements",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 → 2 → 3 → 4"
+      },
+      {
+        "id": "B",
+        "text": "2 → 1 → 3 → 4"
+      },
+      {
+        "id": "C",
+        "text": "1 → 3 → 2 → 4"
+      },
+      {
+        "id": "D",
+        "text": "3 → 1 → 2 → 4"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "1 → 2 → 3 → 4",
+      "explanation": {
+        "concept": "Economic cause-effect chain.",
+        "step_by_step": [
+          "Policies led to exploitation.",
+          "Exploitation caused discontent.",
+          "Discontent led to movements."
+        ],
+        "why_correct": {
+          "A": "Correct causal sequence."
+        },
+        "why_incorrect": {
+          "B": "Reverses cause.",
+          "C": "Incorrect order.",
+          "D": "Starts with outcome."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_45",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "economic causation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2546,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "multi_correct",
+    "answer_type": "multi_select",
+    "question_text": "Which of the following were logical outcomes of the Non-Cooperation Movement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Boycott of foreign goods"
+      },
+      {
+        "id": "B",
+        "text": "Resignation from government jobs"
+      },
+      {
+        "id": "C",
+        "text": "Immediate independence"
+      },
+      {
+        "id": "D",
+        "text": "Spread of nationalist consciousness"
+      }
+    ],
+    "correct_option": "A,B,D",
+    "solution": {
+      "final_answer": "A,B,D",
+      "explanation": {
+        "concept": "Outcomes of mass movements.",
+        "step_by_step": [
+          "Boycott was a key strategy.",
+          "Officials resigned.",
+          "Nationalism spread.",
+          "No immediate independence."
+        ],
+        "why_correct": {
+          "A": "Movement strategy.",
+          "B": "Participation form.",
+          "D": "Major impact."
+        },
+        "why_incorrect": {
+          "C": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_46",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "movement outcomes"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2547,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "statement_based",
+    "answer_type": "single_correct",
+    "question_text": "Consider the statements:\n1. Swadeshi Movement promoted indigenous goods.\n2. Swadeshi Movement discouraged British goods.\nWhich is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only 1"
+      },
+      {
+        "id": "B",
+        "text": "Only 2"
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both 1 and 2",
+      "explanation": {
+        "concept": "Dual strategy of Swadeshi Movement.",
+        "step_by_step": [
+          "Promoted Indian goods.",
+          "Boycotted British goods."
+        ],
+        "why_correct": {
+          "C": "Both statements correct."
+        },
+        "why_incorrect": {
+          "A": "Second also true.",
+          "B": "First also true.",
+          "D": "Both are correct."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_47",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "swadeshi strategy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2548,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "case_based",
+    "answer_type": "single_correct",
+    "question_text": "A pattern shows: Event → Emotional reaction → Organized response → Mass mobilization → Policy change. Which historical process does this best represent?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Freedom struggle dynamics"
+      },
+      {
+        "id": "B",
+        "text": "Industrial revolution"
+      },
+      {
+        "id": "C",
+        "text": "Technological adoption"
+      },
+      {
+        "id": "D",
+        "text": "Agricultural reform"
+      },
+      {
+        "id": "E",
+        "text": "Trade cycle"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Freedom struggle dynamics",
+      "explanation": {
+        "concept": "Emotional triggers leading to organized movements.",
+        "step_by_step": [
+          "Events like Jallianwala triggered emotions.",
+          "Leaders organized responses.",
+          "Masses mobilized.",
+          "Policy changes followed."
+        ],
+        "why_correct": {
+          "A": "Matches independence movement pattern."
+        },
+        "why_incorrect": {
+          "B": "Not relevant.",
+          "C": "Different domain.",
+          "D": "Not political.",
+          "E": "Economic cycle."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_48",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "movement dynamics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2549,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "assertion_reason",
+    "answer_type": "single_correct",
+    "question_text": "Assertion (A): Railways played a role in unifying India.\nReason (R): They facilitated movement of people and ideas across regions.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both A and R are true and R explains A"
+      },
+      {
+        "id": "B",
+        "text": "Both A and R are true but R does not explain A"
+      },
+      {
+        "id": "C",
+        "text": "A is true, R is false"
+      },
+      {
+        "id": "D",
+        "text": "A is false, R is true"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Both A and R are true and R explains A",
+      "explanation": {
+        "concept": "Role of infrastructure in nationalism.",
+        "step_by_step": [
+          "Railways connected regions.",
+          "Enabled exchange of ideas.",
+          "Strengthened unity."
+        ],
+        "why_correct": {
+          "A": "Reason explains assertion."
+        },
+        "why_incorrect": {
+          "B": "Explanation is valid.",
+          "C": "Reason is true.",
+          "D": "Assertion is true."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_49",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "railways impact"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2550,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Basic logic / flow of execution",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "case_based",
+    "answer_type": "single_correct",
+    "question_text": "A repeated pattern of reform followed by protest indicates which structural weakness in colonial governance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inability to address root causes"
+      },
+      {
+        "id": "B",
+        "text": "Strong administrative control"
+      },
+      {
+        "id": "C",
+        "text": "Efficient governance"
+      },
+      {
+        "id": "D",
+        "text": "Stable political system"
+      },
+      {
+        "id": "E",
+        "text": "Technological backwardness"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Inability to address root causes",
+      "explanation": {
+        "concept": "Systemic failure leads to recurring unrest.",
+        "step_by_step": [
+          "Reforms failed to solve issues.",
+          "Protests reoccurred.",
+          "Indicates structural weakness."
+        ],
+        "why_correct": {
+          "A": "Correct interpretation."
+        },
+        "why_incorrect": {
+          "B": "Opposite meaning.",
+          "C": "Contradicts pattern.",
+          "D": "System not stable.",
+          "E": "Irrelevant."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_50",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "system analysis"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

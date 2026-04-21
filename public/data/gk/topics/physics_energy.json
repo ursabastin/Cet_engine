@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3028,
+    "subject": "General Awareness",
+    "chapter": "Science & Tech",
+    "topic": "Physics & Energy",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which principle is fundamentally used in solar cells to convert sunlight into electricity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Photoelectric effect"
+      },
+      {
+        "id": "B",
+        "text": "Thermoelectric effect"
+      },
+      {
+        "id": "C",
+        "text": "Piezoelectric effect"
+      },
+      {
+        "id": "D",
+        "text": "Hall effect"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Photoelectric effect",
+      "explanation": {
+        "concept": "Solar cells convert light energy into electrical energy using the photoelectric effect.",
+        "step_by_step": [
+          "Sunlight hits semiconductor.",
+          "Electrons are ejected.",
+          "Electric current is generated."
+        ],
+        "why_correct": {
+          "A": "Correct: Photoelectric effect drives solar cells."
+        },
+        "why_incorrect": {
+          "B": "Thermoelectric relates to heat.",
+          "C": "Piezoelectric relates to pressure.",
+          "D": "Hall effect measures magnetic fields."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Solar energy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Science & Tech"
+  }
+]

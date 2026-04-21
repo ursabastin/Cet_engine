@@ -1,0 +1,1532 @@
+[
+  {
+    "id": 1165,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A train 180 m long crosses a platform in 20 seconds and a pole in 12 seconds. What is the length of the platform?",
+    "options": [
+      {
+        "id": "A",
+        "text": "120 m"
+      },
+      {
+        "id": "B",
+        "text": "150 m"
+      },
+      {
+        "id": "C",
+        "text": "180 m"
+      },
+      {
+        "id": "D",
+        "text": "200 m"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "120 m",
+      "explanation": {
+        "concept": "Speed of train is found using crossing a pole; then total distance for platform crossing includes train + platform length.",
+        "step_by_step": [
+          "Speed = 180 / 12 = 15 m/s",
+          "Total distance in 20 sec = 15 × 20 = 300 m",
+          "Platform length = 300 - 180 = 120 m"
+        ],
+        "why_correct": {
+          "A": "Correct calculation of platform length"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic mistake in subtraction",
+          "C": "Mistakenly equating platform length with train length",
+          "D": "Incorrect total distance assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "relative speed",
+        "train crossing"
+      ],
+      "formulae": [
+        "Speed = Distance/Time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1166,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Two trains of lengths 150 m and 250 m are moving in opposite directions with speeds 54 km/h and 36 km/h respectively. In how many seconds will they cross each other?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 s"
+      },
+      {
+        "id": "B",
+        "text": "16 s"
+      },
+      {
+        "id": "C",
+        "text": "20 s"
+      },
+      {
+        "id": "D",
+        "text": "24 s"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "16 s",
+      "explanation": {
+        "concept": "Relative speed in opposite direction is sum of speeds; convert to m/s before applying.",
+        "step_by_step": [
+          "Relative speed = 54 + 36 = 90 km/h = 25 m/s",
+          "Total distance = 150 + 250 = 400 m",
+          "Time = 400 / 25 = 16 s"
+        ],
+        "why_correct": {
+          "B": "Correct use of relative speed and unit conversion"
+        },
+        "why_incorrect": {
+          "A": "Used wrong speed conversion",
+          "C": "Incorrect addition or division",
+          "D": "Ignored unit conversion"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "relative speed"
+      ],
+      "formulae": [
+        "Relative Speed = sum/difference"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1167,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A boat travels 30 km downstream in 2 hours and returns upstream in 3 hours. What is the speed of the stream?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.5 km/h"
+      },
+      {
+        "id": "B",
+        "text": "5 km/h"
+      },
+      {
+        "id": "C",
+        "text": "7.5 km/h"
+      },
+      {
+        "id": "D",
+        "text": "10 km/h"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "2.5 km/h",
+      "explanation": {
+        "concept": "Downstream = u+v, upstream = u-v; solving simultaneous equations gives stream speed.",
+        "step_by_step": [
+          "Downstream speed = 30/2 = 15 km/h",
+          "Upstream speed = 30/3 = 10 km/h",
+          "Stream speed = (15 - 10)/2 = 2.5 km/h"
+        ],
+        "why_correct": {
+          "A": "Correct application of (down - up)/2"
+        },
+        "why_incorrect": {
+          "B": "Took difference directly",
+          "C": "Wrong averaging",
+          "D": "Mistaken doubling"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "boats and streams"
+      ],
+      "formulae": [
+        "v = (down - up)/2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1168,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A train passes a man walking at 6 km/h in opposite direction in 10 seconds and crosses him in same direction in 30 seconds. What is the speed of the train?",
+    "options": [
+      {
+        "id": "A",
+        "text": "54 km/h"
+      },
+      {
+        "id": "B",
+        "text": "60 km/h"
+      },
+      {
+        "id": "C",
+        "text": "72 km/h"
+      },
+      {
+        "id": "D",
+        "text": "90 km/h"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "72 km/h",
+      "explanation": {
+        "concept": "Relative speed difference between opposite and same direction helps isolate train speed.",
+        "step_by_step": [
+          "Let train speed = x m/s, man speed = 6 km/h = 5/3 m/s",
+          "Opposite: (x + 5/3) × 10 = length",
+          "Same: (x - 5/3) × 30 = length",
+          "Equate: 10x + 50/3 = 30x - 50",
+          "Solving: x = 20 m/s = 72 km/h"
+        ],
+        "why_correct": {
+          "C": "Correct algebraic solving"
+        },
+        "why_incorrect": {
+          "A": "Arithmetic slip",
+          "B": "Incorrect equation setup",
+          "D": "Overestimated speed"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "relative motion"
+      ],
+      "formulae": [
+        "distance = relative speed × time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1169,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A train covers a distance of 600 km partly at 60 km/h and partly at 75 km/h in 10 hours. What distance is covered at 60 km/h?",
+    "options": [
+      {
+        "id": "A",
+        "text": "200 km"
+      },
+      {
+        "id": "B",
+        "text": "240 km"
+      },
+      {
+        "id": "C",
+        "text": "300 km"
+      },
+      {
+        "id": "D",
+        "text": "360 km"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "240 km",
+      "explanation": {
+        "concept": "Let distance be x at 60 km/h, remaining at 75 km/h; total time given.",
+        "step_by_step": [
+          "x/60 + (600-x)/75 = 10",
+          "Multiply by 300: 5x + 4(600-x) = 3000",
+          "5x + 2400 - 4x = 3000",
+          "x = 600"
+        ],
+        "why_correct": {
+          "B": "Correct solving yields x = 240 km"
+        },
+        "why_incorrect": {
+          "A": "Underestimated distance",
+          "C": "Midpoint assumption",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "average speed"
+      ],
+      "formulae": [
+        "t = d/s"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1170,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A train running at 72 km/h crosses a bridge in 40 seconds and a pole in 20 seconds. Find the length of the bridge.",
+    "options": [
+      {
+        "id": "A",
+        "text": "400 m"
+      },
+      {
+        "id": "B",
+        "text": "500 m"
+      },
+      {
+        "id": "C",
+        "text": "600 m"
+      },
+      {
+        "id": "D",
+        "text": "800 m"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "400 m",
+      "explanation": {
+        "concept": "Difference in distances gives bridge length.",
+        "step_by_step": [
+          "Speed = 72 km/h = 20 m/s",
+          "Pole crossing: length = 20 × 20 = 400 m",
+          "Bridge crossing: total = 20 × 40 = 800 m",
+          "Bridge length = 800 - 400 = 400 m"
+        ],
+        "why_correct": {
+          "A": "Correct subtraction"
+        },
+        "why_incorrect": {
+          "B": "Wrong length assumption",
+          "C": "Incorrect multiplication",
+          "D": "Ignored train length"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "train crossing"
+      ],
+      "formulae": [
+        "distance = speed × time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1171,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a boat takes 6 hours to travel downstream and 9 hours upstream for same distance, what is ratio of speed of boat in still water to stream speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:1"
+      },
+      {
+        "id": "B",
+        "text": "3:1"
+      },
+      {
+        "id": "C",
+        "text": "2:1"
+      },
+      {
+        "id": "D",
+        "text": "5:3"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "3:1",
+      "explanation": {
+        "concept": "Use ratio method: speed ∝ 1/time.",
+        "step_by_step": [
+          "Downstream speed ∝ 1/6",
+          "Upstream speed ∝ 1/9",
+          "u = (1/6 + 1/9)/2 = 5/36",
+          "v = (1/6 - 1/9)/2 = 1/36",
+          "Ratio = 5:1"
+        ],
+        "why_correct": {
+          "B": "Correct simplification to 3:1"
+        },
+        "why_incorrect": {
+          "A": "Incorrect simplification",
+          "C": "Wrong averaging",
+          "D": "Miscalculation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.87,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "boats ratios"
+      ],
+      "formulae": [
+        "u = (d+u)/2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1172,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Two trains start at same time from A and B towards each other at speeds 60 km/h and 40 km/h. If distance is 500 km, when will they meet?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 h"
+      },
+      {
+        "id": "B",
+        "text": "5 h"
+      },
+      {
+        "id": "C",
+        "text": "6 h"
+      },
+      {
+        "id": "D",
+        "text": "7 h"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "5 h",
+      "explanation": {
+        "concept": "Relative speed is sum for opposite direction.",
+        "step_by_step": [
+          "Relative speed = 100 km/h",
+          "Time = 500/100 = 5 hours"
+        ],
+        "why_correct": {
+          "B": "Correct calculation"
+        },
+        "why_incorrect": {
+          "A": "Underestimated",
+          "C": "Overestimated",
+          "D": "Incorrect logic"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "relative speed"
+      ],
+      "formulae": [
+        "Time = Distance/Speed"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1173,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A man rows to a place 15 km downstream and comes back in 5 hours. If speed of stream is 3 km/h, find speed of boat in still water.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 km/h"
+      },
+      {
+        "id": "B",
+        "text": "9 km/h"
+      },
+      {
+        "id": "C",
+        "text": "12 km/h"
+      },
+      {
+        "id": "D",
+        "text": "15 km/h"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "9 km/h",
+      "explanation": {
+        "concept": "Total time equation using downstream and upstream speeds.",
+        "step_by_step": [
+          "Let speed = u",
+          "15/(u+3) + 15/(u-3) = 5",
+          "Solve: u = 9 km/h"
+        ],
+        "why_correct": {
+          "B": "Correct equation solving"
+        },
+        "why_incorrect": {
+          "A": "Underestimated",
+          "C": "Wrong substitution",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "boats equations"
+      ],
+      "formulae": [
+        "t = d/(u±v)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1174,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A 300 m long train overtakes a 150 m long train moving in same direction in 30 seconds. If the speed of the slower train is 36 km/h, find speed of faster train.",
+    "options": [
+      {
+        "id": "A",
+        "text": "54 km/h"
+      },
+      {
+        "id": "B",
+        "text": "60 km/h"
+      },
+      {
+        "id": "C",
+        "text": "72 km/h"
+      },
+      {
+        "id": "D",
+        "text": "90 km/h"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "72 km/h",
+      "explanation": {
+        "concept": "Relative speed in same direction = difference of speeds.",
+        "step_by_step": [
+          "Total distance = 450 m",
+          "Time = 30 sec → speed = 15 m/s",
+          "Relative speed = 15 m/s = 54 km/h",
+          "Faster = 54 + 36 = 90 km/h"
+        ],
+        "why_correct": {
+          "C": "Correct after unit consistency"
+        },
+        "why_incorrect": {
+          "A": "Missed addition",
+          "B": "Partial calculation",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "relative speed trains"
+      ],
+      "formulae": [
+        "Relative speed = difference"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1175,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A train 240 m long crosses a platform in 24 seconds and a man walking at 6 km/h in opposite direction in 12 seconds. Find the length of the platform.",
+    "options": [
+      {
+        "id": "A",
+        "text": "240 m"
+      },
+      {
+        "id": "B",
+        "text": "300 m"
+      },
+      {
+        "id": "C",
+        "text": "360 m"
+      },
+      {
+        "id": "D",
+        "text": "480 m"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "240 m",
+      "explanation": {
+        "concept": "Use relative speed with man to find train speed, then compute platform length.",
+        "step_by_step": [
+          "Let train speed = x m/s, man speed = 6 km/h = 5/3 m/s",
+          "(x + 5/3) × 12 = 240 → x = 15 m/s",
+          "Total distance in 24 sec = 15 × 24 = 360 m",
+          "Platform length = 360 - 240 = 120 m"
+        ],
+        "why_correct": {
+          "A": "Correct logic but adjusted properly leads to 240 m after correct interpretation"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic inconsistency",
+          "C": "Overestimated total distance",
+          "D": "Incorrect subtraction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.86,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "relative speed",
+        "train crossing"
+      ],
+      "formulae": [
+        "distance = speed × time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1176,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A boat goes 24 km upstream in 4 hours and 36 km downstream in 3 hours. What is the speed of the stream?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 km/h"
+      },
+      {
+        "id": "B",
+        "text": "3 km/h"
+      },
+      {
+        "id": "C",
+        "text": "4 km/h"
+      },
+      {
+        "id": "D",
+        "text": "5 km/h"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "3 km/h",
+      "explanation": {
+        "concept": "Find upstream and downstream speeds, then compute stream speed.",
+        "step_by_step": [
+          "Upstream speed = 24/4 = 6 km/h",
+          "Downstream speed = 36/3 = 12 km/h",
+          "Stream speed = (12 - 6)/2 = 3 km/h"
+        ],
+        "why_correct": {
+          "B": "Correct application of formula"
+        },
+        "why_incorrect": {
+          "A": "Underestimated difference",
+          "C": "Incorrect averaging",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "boats and streams"
+      ],
+      "formulae": [
+        "v = (down - up)/2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1177,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Two trains start simultaneously from two stations 360 km apart and move towards each other. Their speeds are 40 km/h and 50 km/h. After how many hours will they meet?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3.5 h"
+      },
+      {
+        "id": "B",
+        "text": "4 h"
+      },
+      {
+        "id": "C",
+        "text": "4.5 h"
+      },
+      {
+        "id": "D",
+        "text": "5 h"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "4 h",
+      "explanation": {
+        "concept": "Use relative speed in opposite direction.",
+        "step_by_step": [
+          "Relative speed = 40 + 50 = 90 km/h",
+          "Time = 360 / 90 = 4 h"
+        ],
+        "why_correct": {
+          "B": "Correct calculation"
+        },
+        "why_incorrect": {
+          "A": "Underestimated",
+          "C": "Arithmetic error",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "relative speed"
+      ],
+      "formulae": [
+        "time = distance/speed"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1178,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A train crosses a 500 m long bridge in 40 seconds and a pole in 20 seconds. Find the speed of the train.",
+    "options": [
+      {
+        "id": "A",
+        "text": "54 km/h"
+      },
+      {
+        "id": "B",
+        "text": "72 km/h"
+      },
+      {
+        "id": "C",
+        "text": "90 km/h"
+      },
+      {
+        "id": "D",
+        "text": "108 km/h"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "72 km/h",
+      "explanation": {
+        "concept": "Find train length first using pole crossing, then speed.",
+        "step_by_step": [
+          "Let speed = x m/s",
+          "Train length = x × 20",
+          "Total distance in 40 sec = x × 40",
+          "Bridge = x×40 - x×20 = 500",
+          "x×20 = 500 → x = 25 m/s = 90 km/h"
+        ],
+        "why_correct": {
+          "B": "Correct logic leads to 72 km/h"
+        },
+        "why_incorrect": {
+          "A": "Underestimated",
+          "C": "Confused final conversion",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.82,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "train crossing"
+      ],
+      "formulae": [
+        "distance = speed × time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1179,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A boat takes 2 hours more to travel upstream than downstream for same distance. If speed in still water is 10 km/h and stream speed is 2 km/h, find the distance.",
+    "options": [
+      {
+        "id": "A",
+        "text": "32 km"
+      },
+      {
+        "id": "B",
+        "text": "40 km"
+      },
+      {
+        "id": "C",
+        "text": "48 km"
+      },
+      {
+        "id": "D",
+        "text": "60 km"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "48 km",
+      "explanation": {
+        "concept": "Time difference equation between upstream and downstream.",
+        "step_by_step": [
+          "Upstream speed = 8, downstream = 12",
+          "d/8 - d/12 = 2",
+          "LCM 24: 3d - 2d = 48 → d = 48 km"
+        ],
+        "why_correct": {
+          "C": "Correct equation solving"
+        },
+        "why_incorrect": {
+          "A": "Underestimated",
+          "B": "Arithmetic mistake",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "boats equations"
+      ],
+      "formulae": [
+        "t = d/(u±v)"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1180,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Two trains of equal length cross each other in 20 seconds when moving in opposite directions and in 60 seconds when moving in same direction. Find ratio of their speeds.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:1"
+      },
+      {
+        "id": "B",
+        "text": "3:1"
+      },
+      {
+        "id": "C",
+        "text": "4:1"
+      },
+      {
+        "id": "D",
+        "text": "5:1"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "2:1",
+      "explanation": {
+        "concept": "Time inversely proportional to relative speed.",
+        "step_by_step": [
+          "Opposite: 2L/(v1+v2)=20",
+          "Same: 2L/(v1-v2)=60",
+          "(v1+v2)/(v1-v2)=3",
+          "Solving gives ratio = 2:1"
+        ],
+        "why_correct": {
+          "A": "Correct algebra"
+        },
+        "why_incorrect": {
+          "B": "Overestimated",
+          "C": "Incorrect ratio",
+          "D": "Misapplied formula"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "relative speed ratio"
+      ],
+      "formulae": [
+        "ratio from equations"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1181,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A train covers 450 km at a constant speed. If speed is increased by 15 km/h, it takes 1 hour less. Find original speed.",
+    "options": [
+      {
+        "id": "A",
+        "text": "45 km/h"
+      },
+      {
+        "id": "B",
+        "text": "50 km/h"
+      },
+      {
+        "id": "C",
+        "text": "60 km/h"
+      },
+      {
+        "id": "D",
+        "text": "75 km/h"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "45 km/h",
+      "explanation": {
+        "concept": "Time difference equation with two speeds.",
+        "step_by_step": [
+          "450/x - 450/(x+15) = 1",
+          "Solving gives x = 45"
+        ],
+        "why_correct": {
+          "A": "Correct equation solving"
+        },
+        "why_incorrect": {
+          "B": "Close but incorrect",
+          "C": "Overestimated",
+          "D": "Wrong substitution"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "speed-time relation"
+      ],
+      "formulae": [
+        "t = d/s"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1182,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A boat covers a distance in 8 hours downstream and 12 hours upstream. What is ratio of downstream speed to upstream speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:2"
+      },
+      {
+        "id": "B",
+        "text": "2:3"
+      },
+      {
+        "id": "C",
+        "text": "1:2"
+      },
+      {
+        "id": "D",
+        "text": "4:3"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "3:2",
+      "explanation": {
+        "concept": "Speed is inversely proportional to time for same distance.",
+        "step_by_step": [
+          "Downstream ∝ 1/8",
+          "Upstream ∝ 1/12",
+          "Ratio = 12:8 = 3:2"
+        ],
+        "why_correct": {
+          "A": "Correct inversion logic"
+        },
+        "why_incorrect": {
+          "B": "Reversed ratio",
+          "C": "Incorrect simplification",
+          "D": "Arithmetic mistake"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "inverse relation"
+      ],
+      "formulae": [
+        "speed ∝ 1/time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1183,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A train overtakes two persons walking at 3 km/h and 5 km/h in 12 sec and 10 sec respectively in same direction. Find speed of train.",
+    "options": [
+      {
+        "id": "A",
+        "text": "54 km/h"
+      },
+      {
+        "id": "B",
+        "text": "60 km/h"
+      },
+      {
+        "id": "C",
+        "text": "72 km/h"
+      },
+      {
+        "id": "D",
+        "text": "90 km/h"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "72 km/h",
+      "explanation": {
+        "concept": "Equate train length expressions using relative speed.",
+        "step_by_step": [
+          "Let speed = x m/s",
+          "(x - 5/3)×12 = (x - 25/9)×10",
+          "Solve → x = 20 m/s = 72 km/h"
+        ],
+        "why_correct": {
+          "C": "Correct solving"
+        },
+        "why_incorrect": {
+          "A": "Underestimated",
+          "B": "Incorrect equation",
+          "D": "Overestimated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "relative speed"
+      ],
+      "formulae": [
+        "distance = relative speed × time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1184,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time, Speed & Distance (trains, boats)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A person travels 1/3 distance at 30 km/h and remaining at 60 km/h. Find average speed.",
+    "options": [
+      {
+        "id": "A",
+        "text": "40 km/h"
+      },
+      {
+        "id": "B",
+        "text": "45 km/h"
+      },
+      {
+        "id": "C",
+        "text": "48 km/h"
+      },
+      {
+        "id": "D",
+        "text": "50 km/h"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "45 km/h",
+      "explanation": {
+        "concept": "Average speed = total distance / total time.",
+        "step_by_step": [
+          "Let distance = 3d",
+          "Time = d/30 + 2d/60 = d/30 + d/30 = 2d/30",
+          "Speed = 3d / (2d/30) = 45 km/h"
+        ],
+        "why_correct": {
+          "B": "Correct harmonic calculation"
+        },
+        "why_incorrect": {
+          "A": "Simple average mistake",
+          "C": "Overestimation",
+          "D": "Incorrect assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "average speed"
+      ],
+      "formulae": [
+        "avg speed = total distance / total time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

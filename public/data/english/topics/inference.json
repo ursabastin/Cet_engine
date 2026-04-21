@@ -1,0 +1,2223 @@
+[
+  {
+    "id": 1935,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author notes that 'despite repeated policy revisions, implementation gaps persist at the grassroots level.' What can be most logically inferred from this statement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Policies are poorly designed at the central level"
+      },
+      {
+        "id": "B",
+        "text": "Execution mechanisms are weaker than policy formulation"
+      },
+      {
+        "id": "C",
+        "text": "Grassroots workers are unwilling to cooperate"
+      },
+      {
+        "id": "D",
+        "text": "Policy revisions are unnecessary"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Execution mechanisms are weaker than policy formulation",
+      "explanation": {
+        "concept": "Inference requires deriving implicit meaning without overextending beyond given information.",
+        "step_by_step": [
+          "Statement highlights repeated revisions but continued gaps",
+          "Indicates issue lies not in revision but in implementation",
+          "Thus, execution is weaker than planning"
+        ],
+        "why_correct": {
+          "A": "Not directly stated that policies are poorly designed; issue is implementation"
+        },
+        "why_incorrect": {
+          "B": "Correct inference: gap persists due to weak execution",
+          "C": "No evidence of unwillingness",
+          "D": "Does not logically follow"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1935",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "implicit reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1936,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A report states that 'urban consumers are increasingly prioritizing sustainability, even at higher costs.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "All consumers prefer sustainability over price"
+      },
+      {
+        "id": "B",
+        "text": "Price sensitivity is declining among urban buyers"
+      },
+      {
+        "id": "C",
+        "text": "Sustainable products are always expensive"
+      },
+      {
+        "id": "D",
+        "text": "Rural consumers reject sustainability"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Price sensitivity is declining among urban buyers",
+      "explanation": {
+        "concept": "Inference focuses on trends implied, not absolute generalizations.",
+        "step_by_step": [
+          "Urban consumers accept higher costs",
+          "Implies reduced price sensitivity",
+          "No universal or rural comparison made"
+        ],
+        "why_correct": {
+          "B": "Captures implied reduced importance of price"
+        },
+        "why_incorrect": {
+          "A": "Overgeneralization",
+          "C": "Not stated",
+          "D": "Irrelevant comparison"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1936",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "trend inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1937,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The passage states that 'the scientist remained skeptical despite widespread acceptance of the theory.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The theory is incorrect"
+      },
+      {
+        "id": "B",
+        "text": "The scientist values independent reasoning"
+      },
+      {
+        "id": "C",
+        "text": "Most scientists rejected the theory"
+      },
+      {
+        "id": "D",
+        "text": "The scientist lacked knowledge"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The scientist values independent reasoning",
+      "explanation": {
+        "concept": "Inference often reflects attitude or mindset.",
+        "step_by_step": [
+          "Skepticism despite popularity",
+          "Shows independence in thinking",
+          "No evidence about correctness of theory"
+        ],
+        "why_correct": {
+          "B": "Reflects independent critical thinking"
+        },
+        "why_incorrect": {
+          "A": "No conclusion about theory correctness",
+          "C": "Contradicts 'widespread acceptance'",
+          "D": "Unsupported assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1937",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "attitude inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1938,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author remarks, 'data alone cannot drive decisions without contextual understanding.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data is useless in decision-making"
+      },
+      {
+        "id": "B",
+        "text": "Context enhances the utility of data"
+      },
+      {
+        "id": "C",
+        "text": "Decisions should ignore data"
+      },
+      {
+        "id": "D",
+        "text": "Context is always sufficient"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Context enhances the utility of data",
+      "explanation": {
+        "concept": "Inference combines stated limitation with implied necessity.",
+        "step_by_step": [
+          "Data alone insufficient",
+          "Requires context",
+          "Thus, context improves data usefulness"
+        ],
+        "why_correct": {
+          "B": "Logical implication"
+        },
+        "why_incorrect": {
+          "A": "Extreme misinterpretation",
+          "C": "Contradicts statement",
+          "D": "Overgeneralization"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1938",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "logical implication"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1939,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'Although profits declined, the company increased investment in research.' What is the best inference?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The company is ignoring losses"
+      },
+      {
+        "id": "B",
+        "text": "The company prioritizes long-term growth over short-term profit"
+      },
+      {
+        "id": "C",
+        "text": "Research guarantees profit"
+      },
+      {
+        "id": "D",
+        "text": "The company is financially unstable"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The company prioritizes long-term growth over short-term profit",
+      "explanation": {
+        "concept": "Inference about strategic priorities from contrasting actions.",
+        "step_by_step": [
+          "Profit declined (short-term issue)",
+          "Investment increased (future focus)",
+          "Indicates long-term vision"
+        ],
+        "why_correct": {
+          "B": "Captures strategic intent"
+        },
+        "why_incorrect": {
+          "A": "Too extreme",
+          "C": "Not stated",
+          "D": "No direct evidence"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1939",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "strategy inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1940,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The writer says, 'few attended the seminar, yet discussions were highly engaging.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Attendance determines engagement"
+      },
+      {
+        "id": "B",
+        "text": "Smaller groups may foster deeper interaction"
+      },
+      {
+        "id": "C",
+        "text": "Seminars are generally ineffective"
+      },
+      {
+        "id": "D",
+        "text": "The seminar topic was unpopular"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Smaller groups may foster deeper interaction",
+      "explanation": {
+        "concept": "Inference connects contrast to underlying reason.",
+        "step_by_step": [
+          "Low attendance but high engagement",
+          "Suggests small group benefit",
+          "No claim about topic popularity"
+        ],
+        "why_correct": {
+          "B": "Logical inference"
+        },
+        "why_incorrect": {
+          "A": "Contradicted",
+          "C": "Unsupported",
+          "D": "Not implied"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1940",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "contrast inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1941,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The policy received criticism for its ambiguity.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The policy was too detailed"
+      },
+      {
+        "id": "B",
+        "text": "Lack of clarity caused dissatisfaction"
+      },
+      {
+        "id": "C",
+        "text": "Criticism was unjustified"
+      },
+      {
+        "id": "D",
+        "text": "Ambiguity is always negative"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Lack of clarity caused dissatisfaction",
+      "explanation": {
+        "concept": "Inference derives cause from descriptive criticism.",
+        "step_by_step": [
+          "Ambiguity mentioned",
+          "Linked to criticism",
+          "Thus clarity issue caused dissatisfaction"
+        ],
+        "why_correct": {
+          "B": "Direct logical inference"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "Unsupported",
+          "D": "Overgeneralization"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1941",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "cause inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1942,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'Despite access to resources, outcomes remained poor.' What is the best inference?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Resources were insufficient"
+      },
+      {
+        "id": "B",
+        "text": "Resource utilization may have been ineffective"
+      },
+      {
+        "id": "C",
+        "text": "Outcomes are unrelated to resources"
+      },
+      {
+        "id": "D",
+        "text": "Access guarantees success"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Resource utilization may have been ineffective",
+      "explanation": {
+        "concept": "Inference distinguishes between availability and usage.",
+        "step_by_step": [
+          "Resources available",
+          "Outcomes still poor",
+          "Implies ineffective usage"
+        ],
+        "why_correct": {
+          "B": "Logical conclusion"
+        },
+        "why_incorrect": {
+          "A": "Contradicts statement",
+          "C": "Extreme claim",
+          "D": "Incorrect assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1942",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "efficiency inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1943,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The team adapted quickly to unexpected changes.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The team anticipated all changes"
+      },
+      {
+        "id": "B",
+        "text": "The team is flexible and responsive"
+      },
+      {
+        "id": "C",
+        "text": "Changes were minor"
+      },
+      {
+        "id": "D",
+        "text": "The team resisted change"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The team is flexible and responsive",
+      "explanation": {
+        "concept": "Inference about characteristics from actions.",
+        "step_by_step": [
+          "Adapted quickly",
+          "Shows flexibility",
+          "No info about anticipation or magnitude"
+        ],
+        "why_correct": {
+          "B": "Accurate trait inference"
+        },
+        "why_incorrect": {
+          "A": "Contradicts 'unexpected'",
+          "C": "Not stated",
+          "D": "Opposite"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1943",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "character inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1944,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'He declined the offer, citing ethical concerns rather than financial reasons.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The offer was financially unattractive"
+      },
+      {
+        "id": "B",
+        "text": "Ethics were prioritized over monetary gain"
+      },
+      {
+        "id": "C",
+        "text": "The offer lacked credibility"
+      },
+      {
+        "id": "D",
+        "text": "He did not need money"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ethics were prioritized over monetary gain",
+      "explanation": {
+        "concept": "Inference identifies value prioritization.",
+        "step_by_step": [
+          "Explicit mention of ethical concerns",
+          "Financial reasons ruled out",
+          "Shows ethical priority"
+        ],
+        "why_correct": {
+          "B": "Direct logical inference"
+        },
+        "why_incorrect": {
+          "A": "Contradicted",
+          "C": "Not implied",
+          "D": "Assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1944",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "value inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1945,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The initiative failed to gain traction despite extensive marketing efforts.' What can be most logically inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Marketing strategies were ineffective or misaligned"
+      },
+      {
+        "id": "B",
+        "text": "The initiative lacked any promotional support"
+      },
+      {
+        "id": "C",
+        "text": "Consumers were unaware of the initiative"
+      },
+      {
+        "id": "D",
+        "text": "Marketing guarantees success"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Marketing strategies were ineffective or misaligned",
+      "explanation": {
+        "concept": "Inference from contradiction between effort and outcome.",
+        "step_by_step": [
+          "Extensive marketing done",
+          "Still no traction",
+          "Implies marketing ineffective or misaligned"
+        ],
+        "why_correct": {
+          "A": "Best explanation for mismatch"
+        },
+        "why_incorrect": {
+          "B": "Contradicts 'extensive marketing'",
+          "C": "Unlikely given marketing",
+          "D": "False generalization"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1945",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "cause-effect inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1946,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'Although the data appeared promising, the researchers refrained from drawing conclusions.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data was unreliable"
+      },
+      {
+        "id": "B",
+        "text": "Researchers exercised caution due to possible limitations"
+      },
+      {
+        "id": "C",
+        "text": "The results were insignificant"
+      },
+      {
+        "id": "D",
+        "text": "Researchers did not understand the data"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Researchers exercised caution due to possible limitations",
+      "explanation": {
+        "concept": "Inference about cautious reasoning in research context.",
+        "step_by_step": [
+          "Data promising",
+          "No conclusions drawn",
+          "Indicates cautious approach"
+        ],
+        "why_correct": {
+          "B": "Reflects scientific caution"
+        },
+        "why_incorrect": {
+          "A": "Not stated",
+          "C": "Contradicts 'promising'",
+          "D": "Unsupported"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1946",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "scientific reasoning inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1947,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'He continued working late into the night, even after completing his assigned tasks.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "He was inefficient in his work"
+      },
+      {
+        "id": "B",
+        "text": "He is highly dedicated or proactive"
+      },
+      {
+        "id": "C",
+        "text": "He was forced to work overtime"
+      },
+      {
+        "id": "D",
+        "text": "He disliked leaving work unfinished"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He is highly dedicated or proactive",
+      "explanation": {
+        "concept": "Inference about motivation based on extra effort.",
+        "step_by_step": [
+          "Work completed",
+          "Still continues working",
+          "Indicates dedication or initiative"
+        ],
+        "why_correct": {
+          "B": "Logical trait inference"
+        },
+        "why_incorrect": {
+          "A": "Contradicted",
+          "C": "Not stated",
+          "D": "Task already completed"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1947",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "behavior inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1948,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The proposal was neither accepted outright nor rejected entirely.' What is the most reasonable inference?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The proposal was approved"
+      },
+      {
+        "id": "B",
+        "text": "The proposal is under conditional consideration"
+      },
+      {
+        "id": "C",
+        "text": "The proposal was ignored"
+      },
+      {
+        "id": "D",
+        "text": "The proposal lacked merit"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The proposal is under conditional consideration",
+      "explanation": {
+        "concept": "Inference from intermediate stance.",
+        "step_by_step": [
+          "Not accepted fully",
+          "Not rejected fully",
+          "Implies conditional evaluation"
+        ],
+        "why_correct": {
+          "B": "Best logical midpoint"
+        },
+        "why_incorrect": {
+          "A": "Not fully accepted",
+          "C": "Not implied",
+          "D": "Unsupported"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1948",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "neutral inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1949,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The manager emphasized process improvement rather than blaming individuals.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Individuals were not responsible for errors"
+      },
+      {
+        "id": "B",
+        "text": "The manager focuses on systemic solutions"
+      },
+      {
+        "id": "C",
+        "text": "Errors were insignificant"
+      },
+      {
+        "id": "D",
+        "text": "Blame is ineffective in all cases"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The manager focuses on systemic solutions",
+      "explanation": {
+        "concept": "Inference about leadership style.",
+        "step_by_step": [
+          "Focus on process",
+          "Avoids blame",
+          "Indicates systemic thinking"
+        ],
+        "why_correct": {
+          "B": "Accurate interpretation"
+        },
+        "why_incorrect": {
+          "A": "Not stated",
+          "C": "Unsupported",
+          "D": "Overgeneralization"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1949",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "leadership inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1950,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'She reviewed the document multiple times before submission.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The document was poorly written"
+      },
+      {
+        "id": "B",
+        "text": "She is detail-oriented and careful"
+      },
+      {
+        "id": "C",
+        "text": "She lacked confidence in her skills"
+      },
+      {
+        "id": "D",
+        "text": "Submission deadlines were flexible"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "She is detail-oriented and careful",
+      "explanation": {
+        "concept": "Inference about personality from repeated action.",
+        "step_by_step": [
+          "Multiple reviews",
+          "Shows care and attention",
+          "No evidence of insecurity"
+        ],
+        "why_correct": {
+          "B": "Logical trait inference"
+        },
+        "why_incorrect": {
+          "A": "Not stated",
+          "C": "Assumption",
+          "D": "Irrelevant"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1950",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "trait inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1951,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The policy aims to reduce dependency on imports by boosting domestic production.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Imports are completely unnecessary"
+      },
+      {
+        "id": "B",
+        "text": "The policy promotes self-reliance"
+      },
+      {
+        "id": "C",
+        "text": "Domestic production is currently higher than imports"
+      },
+      {
+        "id": "D",
+        "text": "Imports will be banned"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The policy promotes self-reliance",
+      "explanation": {
+        "concept": "Inference from stated objective.",
+        "step_by_step": [
+          "Reduce imports",
+          "Increase domestic production",
+          "Implies self-reliance"
+        ],
+        "why_correct": {
+          "B": "Accurate inference"
+        },
+        "why_incorrect": {
+          "A": "Extreme",
+          "C": "Not stated",
+          "D": "Unsupported"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1951",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "policy inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1952,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'Despite initial resistance, the new system was eventually adopted.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The system was flawed"
+      },
+      {
+        "id": "B",
+        "text": "Acceptance improved over time"
+      },
+      {
+        "id": "C",
+        "text": "Resistance continued indefinitely"
+      },
+      {
+        "id": "D",
+        "text": "Adoption was forced immediately"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Acceptance improved over time",
+      "explanation": {
+        "concept": "Inference from temporal contrast.",
+        "step_by_step": [
+          "Initial resistance",
+          "Later adoption",
+          "Shows gradual acceptance"
+        ],
+        "why_correct": {
+          "B": "Logical progression"
+        },
+        "why_incorrect": {
+          "A": "Not implied",
+          "C": "Contradicted",
+          "D": "Incorrect timing"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1952",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "temporal inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1953,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The study highlights correlation but stops short of establishing causation.' What is the most accurate inference?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Correlation always implies causation"
+      },
+      {
+        "id": "B",
+        "text": "A relationship exists, but cause-effect is unproven"
+      },
+      {
+        "id": "C",
+        "text": "The study is invalid"
+      },
+      {
+        "id": "D",
+        "text": "No relationship exists"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A relationship exists, but cause-effect is unproven",
+      "explanation": {
+        "concept": "Distinguishing correlation from causation.",
+        "step_by_step": [
+          "Correlation identified",
+          "No causation proven",
+          "Implies limited conclusion"
+        ],
+        "why_correct": {
+          "B": "Accurate interpretation"
+        },
+        "why_incorrect": {
+          "A": "Incorrect concept",
+          "C": "Too extreme",
+          "D": "Contradicted"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1953",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "statistical inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1954,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'He chose not to respond to the criticism publicly.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "He accepted the criticism completely"
+      },
+      {
+        "id": "B",
+        "text": "He preferred a restrained or strategic response"
+      },
+      {
+        "id": "C",
+        "text": "He had no response to give"
+      },
+      {
+        "id": "D",
+        "text": "The criticism was false"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He preferred a restrained or strategic response",
+      "explanation": {
+        "concept": "Inference about intent from non-action.",
+        "step_by_step": [
+          "No public response",
+          "Implies controlled or strategic silence",
+          "No evidence about truth of criticism"
+        ],
+        "why_correct": {
+          "B": "Best inference"
+        },
+        "why_incorrect": {
+          "A": "Not implied",
+          "C": "Assumption",
+          "D": "Unsupported"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1954",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "intent inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1955,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'While the technology is widely available, its adoption remains limited due to user hesitation.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The technology is expensive"
+      },
+      {
+        "id": "B",
+        "text": "Psychological or behavioral factors hinder adoption"
+      },
+      {
+        "id": "C",
+        "text": "Availability ensures usage"
+      },
+      {
+        "id": "D",
+        "text": "The technology lacks functionality"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Psychological or behavioral factors hinder adoption",
+      "explanation": {
+        "concept": "Inference separates availability from adoption drivers.",
+        "step_by_step": [
+          "Technology available",
+          "Adoption limited",
+          "Cause given: hesitation",
+          "Implies behavioral barrier"
+        ],
+        "why_correct": {
+          "B": "Direct logical inference"
+        },
+        "why_incorrect": {
+          "A": "Not stated",
+          "C": "Contradicted",
+          "D": "Unsupported"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1955",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "behavioral inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1956,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The company reduced costs without compromising product quality.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cost reduction always affects quality"
+      },
+      {
+        "id": "B",
+        "text": "Efficiency improvements were implemented"
+      },
+      {
+        "id": "C",
+        "text": "Product quality is irrelevant"
+      },
+      {
+        "id": "D",
+        "text": "Costs were previously unnecessary"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Efficiency improvements were implemented",
+      "explanation": {
+        "concept": "Inference from maintaining quality despite cost reduction.",
+        "step_by_step": [
+          "Costs reduced",
+          "Quality maintained",
+          "Implies improved efficiency"
+        ],
+        "why_correct": {
+          "B": "Best logical explanation"
+        },
+        "why_incorrect": {
+          "A": "Contradicted",
+          "C": "Unsupported",
+          "D": "Assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1956",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "efficiency inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1957,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'She questioned the assumptions underlying the model.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "She fully accepted the model"
+      },
+      {
+        "id": "B",
+        "text": "She engaged in critical evaluation"
+      },
+      {
+        "id": "C",
+        "text": "The model is incorrect"
+      },
+      {
+        "id": "D",
+        "text": "Assumptions are unnecessary"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "She engaged in critical evaluation",
+      "explanation": {
+        "concept": "Inference about analytical thinking.",
+        "step_by_step": [
+          "Questioning assumptions",
+          "Indicates critical thinking",
+          "No conclusion about correctness"
+        ],
+        "why_correct": {
+          "B": "Accurate inference"
+        },
+        "why_incorrect": {
+          "A": "Opposite",
+          "C": "Not proven",
+          "D": "Invalid generalization"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1957",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "critical thinking inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1958,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The agreement was reached after prolonged negotiations and several compromises.' What is the most logical inference?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both parties were unwilling to cooperate"
+      },
+      {
+        "id": "B",
+        "text": "The final agreement involved mutual concessions"
+      },
+      {
+        "id": "C",
+        "text": "The agreement favors only one side"
+      },
+      {
+        "id": "D",
+        "text": "Negotiations were unnecessary"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The final agreement involved mutual concessions",
+      "explanation": {
+        "concept": "Inference from negotiation dynamics.",
+        "step_by_step": [
+          "Prolonged negotiations",
+          "Several compromises",
+          "Implies both sides adjusted positions"
+        ],
+        "why_correct": {
+          "B": "Logical outcome"
+        },
+        "why_incorrect": {
+          "A": "Contradicted",
+          "C": "Unsupported",
+          "D": "Illogical"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1958",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "negotiation inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1959,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The experiment yielded inconsistent results across trials.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The experiment was perfectly controlled"
+      },
+      {
+        "id": "B",
+        "text": "There may be issues with reliability or variables"
+      },
+      {
+        "id": "C",
+        "text": "The results are universally valid"
+      },
+      {
+        "id": "D",
+        "text": "Trials were unnecessary"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "There may be issues with reliability or variables",
+      "explanation": {
+        "concept": "Inference about reliability from inconsistency.",
+        "step_by_step": [
+          "Inconsistent results",
+          "Suggests variability or lack of control",
+          "Implies reliability concerns"
+        ],
+        "why_correct": {
+          "B": "Accurate inference"
+        },
+        "why_incorrect": {
+          "A": "Contradicted",
+          "C": "Opposite",
+          "D": "Illogical"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1959",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "experimental inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1960,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'He avoided making definitive statements during the discussion.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "He lacked knowledge"
+      },
+      {
+        "id": "B",
+        "text": "He preferred cautious or non-committal communication"
+      },
+      {
+        "id": "C",
+        "text": "He agreed with everything"
+      },
+      {
+        "id": "D",
+        "text": "He was uninterested in the discussion"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He preferred cautious or non-committal communication",
+      "explanation": {
+        "concept": "Inference from communication style.",
+        "step_by_step": [
+          "Avoided definitive statements",
+          "Indicates caution",
+          "No proof of ignorance"
+        ],
+        "why_correct": {
+          "B": "Best inference"
+        },
+        "why_incorrect": {
+          "A": "Assumption",
+          "C": "Not implied",
+          "D": "Unsupported"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1960",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "communication inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1961,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The project exceeded expectations despite limited initial resources.' What is the most reasonable inference?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Resources determine outcomes entirely"
+      },
+      {
+        "id": "B",
+        "text": "Effective utilization can compensate for resource constraints"
+      },
+      {
+        "id": "C",
+        "text": "The expectations were low"
+      },
+      {
+        "id": "D",
+        "text": "Resources were actually abundant"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Effective utilization can compensate for resource constraints",
+      "explanation": {
+        "concept": "Inference from outcome exceeding constraints.",
+        "step_by_step": [
+          "Limited resources",
+          "High performance",
+          "Implies efficiency/utilization"
+        ],
+        "why_correct": {
+          "B": "Logical inference"
+        },
+        "why_incorrect": {
+          "A": "Contradicted",
+          "C": "Not necessary",
+          "D": "Contradicts statement"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1961",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "performance inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1962,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The article presents multiple perspectives without endorsing any.' What can be inferred?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The author is biased"
+      },
+      {
+        "id": "B",
+        "text": "The author aims for neutrality"
+      },
+      {
+        "id": "C",
+        "text": "The perspectives are invalid"
+      },
+      {
+        "id": "D",
+        "text": "The article lacks information"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The author aims for neutrality",
+      "explanation": {
+        "concept": "Inference about author’s stance.",
+        "step_by_step": [
+          "Multiple perspectives",
+          "No endorsement",
+          "Implies neutrality"
+        ],
+        "why_correct": {
+          "B": "Accurate inference"
+        },
+        "why_incorrect": {
+          "A": "Opposite",
+          "C": "Not implied",
+          "D": "Unsupported"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1962",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "author intent inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1963,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'She declined the invitation, preferring to focus on her studies.' What is implied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "She dislikes social events"
+      },
+      {
+        "id": "B",
+        "text": "She prioritizes academic commitments"
+      },
+      {
+        "id": "C",
+        "text": "The invitation was unimportant"
+      },
+      {
+        "id": "D",
+        "text": "She was unavailable due to illness"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "She prioritizes academic commitments",
+      "explanation": {
+        "concept": "Inference about priorities.",
+        "step_by_step": [
+          "Declined invitation",
+          "Reason: studies",
+          "Shows academic priority"
+        ],
+        "why_correct": {
+          "B": "Direct inference"
+        },
+        "why_incorrect": {
+          "A": "Overgeneralization",
+          "C": "Not implied",
+          "D": "Unsupported"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1963",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "priority inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1964,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Inference",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "'The findings challenge long-held assumptions in the field.' What is the most logical inference?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The assumptions were recently formed"
+      },
+      {
+        "id": "B",
+        "text": "Existing beliefs may require reevaluation"
+      },
+      {
+        "id": "C",
+        "text": "The findings are incorrect"
+      },
+      {
+        "id": "D",
+        "text": "The field lacks credibility"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Existing beliefs may require reevaluation",
+      "explanation": {
+        "concept": "Inference from challenge to established ideas.",
+        "step_by_step": [
+          "Long-held assumptions challenged",
+          "Implies reconsideration",
+          "No claim of invalidity"
+        ],
+        "why_correct": {
+          "B": "Accurate implication"
+        },
+        "why_incorrect": {
+          "A": "Contradicted",
+          "C": "Not implied",
+          "D": "Extreme"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1964",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "paradigm inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

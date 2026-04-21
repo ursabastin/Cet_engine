@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1902,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Logical Structure",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: Although electric vehicles reduce emissions during operation, their manufacturing process still contributes significantly to environmental degradation.\n\nWhich logical relationship is highlighted?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cause-effect"
+      },
+      {
+        "id": "B",
+        "text": "Comparison"
+      },
+      {
+        "id": "C",
+        "text": "Contrast"
+      },
+      {
+        "id": "D",
+        "text": "Sequence"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Contrast",
+      "explanation": {
+        "concept": "Contrast involves presenting opposing ideas using connectors like 'although'.",
+        "step_by_step": [
+          "Identify keyword: 'although'",
+          "Recognize opposing ideas",
+          "Determine relationship type"
+        ],
+        "why_correct": {
+          "C": "Shows contradiction between benefits and drawbacks"
+        },
+        "why_incorrect": {
+          "A": "Not cause-effect",
+          "B": "Not comparing two entities",
+          "D": "No sequence of events"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "logical structure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1911,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Logical Structure",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The implementation of strict environmental regulations has led to a noticeable reduction in industrial pollution levels. As a result, air and water quality have improved significantly in affected regions, benefiting both ecosystems and public health.\n\nWhat logical relationship is primarily demonstrated?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Contrast"
+      },
+      {
+        "id": "B",
+        "text": "Cause and effect"
+      },
+      {
+        "id": "C",
+        "text": "Comparison"
+      },
+      {
+        "id": "D",
+        "text": "Chronological sequence"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Cause and effect",
+      "explanation": {
+        "concept": "Cause-effect shows direct consequence relationships.",
+        "step_by_step": [
+          "Identify cause: regulations",
+          "Identify effects: reduced pollution, improved quality",
+          "Establish direct link"
+        ],
+        "why_correct": {
+          "B": "Clear causal chain"
+        },
+        "why_incorrect": {
+          "A": "No contrast",
+          "C": "No comparison",
+          "D": "Not timeline-focused"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "cause-effect"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1921,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Logical Structure",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: While globalization has facilitated economic integration and cultural exchange, it has simultaneously intensified competition among nations and contributed to the erosion of local industries. This dual impact has led policymakers to reconsider the extent and nature of their engagement in global markets.\n\nWhich logical relationship best characterizes the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Comparison"
+      },
+      {
+        "id": "B",
+        "text": "Contrast"
+      },
+      {
+        "id": "C",
+        "text": "Cause-effect only"
+      },
+      {
+        "id": "D",
+        "text": "Chronological progression"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Contrast",
+      "explanation": {
+        "concept": "Contrast highlights opposing outcomes of same phenomenon.",
+        "step_by_step": [
+          "Identify positive effects",
+          "Identify negative effects",
+          "Recognize opposition"
+        ],
+        "why_correct": {
+          "B": "Dual impact indicates contrast"
+        },
+        "why_incorrect": {
+          "A": "Not comparison",
+          "C": "Includes contrast, not just cause",
+          "D": "No time sequence"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "logical relations"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1931,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Logical Structure",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.86,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: Although technological innovation has streamlined many industrial processes, it has simultaneously rendered certain skill sets obsolete, forcing workers to adapt or risk unemployment.\n\nWhich logical relationship is present?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cause and effect with contrast"
+      },
+      {
+        "id": "B",
+        "text": "Pure comparison"
+      },
+      {
+        "id": "C",
+        "text": "Chronological order"
+      },
+      {
+        "id": "D",
+        "text": "Definition"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Cause and effect with contrast",
+      "explanation": {
+        "concept": "Sentence shows both consequence and contrast.",
+        "step_by_step": [
+          "Identify cause: innovation",
+          "Effect: job loss risk",
+          "Contrast: benefits vs drawbacks"
+        ],
+        "why_correct": {
+          "A": "Includes both elements"
+        },
+        "why_incorrect": {
+          "B": "No comparison",
+          "C": "No timeline",
+          "D": "Not defining"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_36",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

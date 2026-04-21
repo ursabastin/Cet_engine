@@ -1,0 +1,154 @@
+[
+  {
+    "id": 3114,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Elasticity",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following goods is most likely to have inelastic demand?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luxury cars"
+      },
+      {
+        "id": "B",
+        "text": "Designer clothes"
+      },
+      {
+        "id": "C",
+        "text": "Life-saving medicines"
+      },
+      {
+        "id": "D",
+        "text": "Smartphones"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Life-saving medicines",
+      "explanation": {
+        "concept": "Inelastic demand means quantity demanded changes very little with price changes.",
+        "step_by_step": [
+          "Identify necessity vs luxury",
+          "Essential goods have low responsiveness",
+          "Thus medicines are inelastic"
+        ],
+        "why_correct": {
+          "C": "Consumers must buy regardless of price"
+        },
+        "why_incorrect": {
+          "A": "Luxury goods are elastic",
+          "B": "Highly price sensitive",
+          "D": "Substitutes available"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "elasticity"
+      ],
+      "formulae": [
+        "Ed < 1"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3123,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Elasticity",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a 10% increase in price leads to a 5% decrease in quantity demanded, the demand is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perfectly elastic"
+      },
+      {
+        "id": "B",
+        "text": "Elastic"
+      },
+      {
+        "id": "C",
+        "text": "Inelastic"
+      },
+      {
+        "id": "D",
+        "text": "Unitary elastic"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Inelastic",
+      "explanation": {
+        "concept": "Elasticity of demand = % change in quantity / % change in price.",
+        "step_by_step": [
+          "Calculate elasticity = 5/10 = 0.5",
+          "Compare with 1",
+          "Less than 1 implies inelastic"
+        ],
+        "why_correct": {
+          "C": "Elasticity < 1 indicates inelastic demand"
+        },
+        "why_incorrect": {
+          "A": "Requires infinite elasticity",
+          "B": "Elasticity > 1",
+          "D": "Elasticity = 1"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "price elasticity"
+      ],
+      "formulae": [
+        "Ed = %ΔQ / %ΔP"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1321,
+    "subject": "<subject>",
+    "chapter": "Mathematical Logic",
+    "topic": "<topic>",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x + 1/x = 3, find the value of x^3 + 1/x^3.",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "21"
+      },
+      {
+        "id": "C",
+        "text": "24"
+      },
+      {
+        "id": "D",
+        "text": "27"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "18",
+      "explanation": {
+        "concept": "Use identity: (x + 1/x)^3 = x^3 + 1/x^3 + 3(x + 1/x)",
+        "step_by_step": [
+          "Given x + 1/x = 3",
+          "Cube both sides: (x + 1/x)^3 = 27",
+          "Use identity: x^3 + 1/x^3 + 3(x + 1/x) = 27",
+          "Substitute: x^3 + 1/x^3 + 3(3) = 27",
+          "x^3 + 1/x^3 + 9 = 27",
+          "x^3 + 1/x^3 = 18"
+        ],
+        "why_correct": {
+          "A": "Correct application of identity gives 18"
+        },
+        "why_incorrect": {
+          "B": "Incorrect manipulation of identity",
+          "C": "Likely added instead of subtracting 9",
+          "D": "Ignored identity adjustment term"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "algebraic identities"
+      ],
+      "formulae": [
+        "(a+b)^3 identity"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1322,
+    "subject": "<subject>",
+    "chapter": "Mathematical Logic",
+    "topic": "<topic>",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The value of (√5 + √3)^2 - (√5 - √3)^2 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "4√15"
+      },
+      {
+        "id": "B",
+        "text": "2√15"
+      },
+      {
+        "id": "C",
+        "text": "8√15"
+      },
+      {
+        "id": "D",
+        "text": "0"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "4√15",
+      "explanation": {
+        "concept": "Use identity: (a+b)^2 - (a-b)^2 = 4ab",
+        "step_by_step": [
+          "Let a = √5 and b = √3",
+          "Apply identity: 4ab",
+          "Compute: 4 × √5 × √3",
+          "= 4√15"
+        ],
+        "why_correct": {
+          "A": "Direct application of identity gives 4√15"
+        },
+        "why_incorrect": {
+          "B": "Missed factor of 2",
+          "C": "Incorrect multiplication",
+          "D": "Expression not zero"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "identities"
+      ],
+      "formulae": [
+        "(a+b)^2 - (a-b)^2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1323,
+    "subject": "<subject>",
+    "chapter": "Mathematical Logic",
+    "topic": "<topic>",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a + b = 10 and ab = 21, find a^2 + b^2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "58"
+      },
+      {
+        "id": "B",
+        "text": "64"
+      },
+      {
+        "id": "C",
+        "text": "100"
+      },
+      {
+        "id": "D",
+        "text": "42"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "58",
+      "explanation": {
+        "concept": "Use identity: a^2 + b^2 = (a+b)^2 - 2ab",
+        "step_by_step": [
+          "(a+b)^2 = 100",
+          "2ab = 42",
+          "a^2 + b^2 = 100 - 42",
+          "= 58"
+        ],
+        "why_correct": {
+          "A": "Correct substitution in identity"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic mistake",
+          "C": "Ignored subtraction",
+          "D": "Confused with 2ab"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "sum and product"
+      ],
+      "formulae": [
+        "a^2+b^2 identity"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1324,
+    "subject": "<subject>",
+    "chapter": "Mathematical Logic",
+    "topic": "<topic>",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x - 1/x = 2, find x^2 + 1/x^2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "6",
+      "explanation": {
+        "concept": "Use identity: (x - 1/x)^2 = x^2 + 1/x^2 - 2",
+        "step_by_step": [
+          "(x - 1/x)^2 = 4",
+          "x^2 + 1/x^2 - 2 = 4",
+          "x^2 + 1/x^2 = 6"
+        ],
+        "why_correct": {
+          "A": "Correct identity usage"
+        },
+        "why_incorrect": {
+          "B": "Added instead of subtracting 2",
+          "C": "Missed identity shift",
+          "D": "Incorrect simplification"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "quadratic identities"
+      ],
+      "formulae": [
+        "(x-1/x)^2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1325,
+    "subject": "<subject>",
+    "chapter": "Mathematical Logic",
+    "topic": "<topic>",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the value of (2x + 3)^2 - (2x - 3)^2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "24x"
+      },
+      {
+        "id": "B",
+        "text": "12x"
+      },
+      {
+        "id": "C",
+        "text": "6x"
+      },
+      {
+        "id": "D",
+        "text": "0"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "24x",
+      "explanation": {
+        "concept": "Use identity: (a+b)^2 - (a-b)^2 = 4ab",
+        "step_by_step": [
+          "a = 2x, b = 3",
+          "Apply identity: 4 × 2x × 3",
+          "= 24x"
+        ],
+        "why_correct": {
+          "A": "Correct identity substitution"
+        },
+        "why_incorrect": {
+          "B": "Missed factor of 2",
+          "C": "Incorrect simplification",
+          "D": "Expression not zero"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "algebraic simplification"
+      ],
+      "formulae": [
+        "difference of squares"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1326,
+    "subject": "<subject>",
+    "chapter": "Mathematical Logic",
+    "topic": "<topic>",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.9,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x + y = 7 and x^2 + y^2 = 29, find xy.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10",
+      "explanation": {
+        "concept": "Use identity: x^2 + y^2 = (x+y)^2 - 2xy",
+        "step_by_step": [
+          "(x+y)^2 = 49",
+          "49 - 2xy = 29",
+          "2xy = 20",
+          "xy = 10"
+        ],
+        "why_correct": {
+          "A": "Correct rearrangement"
+        },
+        "why_incorrect": {
+          "B": "Calculation error",
+          "C": "Missed division by 2",
+          "D": "Incorrect algebra"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "identity manipulation"
+      ],
+      "formulae": [
+        "(x+y)^2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1327,
+    "subject": "<subject>",
+    "chapter": "Mathematical Logic",
+    "topic": "<topic>",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate (1/2 + 1/3)^2 - (1/2 - 1/3)^2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2/3"
+      },
+      {
+        "id": "B",
+        "text": "4/3"
+      },
+      {
+        "id": "C",
+        "text": "1/3"
+      },
+      {
+        "id": "D",
+        "text": "0"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "2/3",
+      "explanation": {
+        "concept": "Use identity: (a+b)^2 - (a-b)^2 = 4ab",
+        "step_by_step": [
+          "a = 1/2, b = 1/3",
+          "4 × (1/2 × 1/3) = 4 × 1/6",
+          "= 2/3"
+        ],
+        "why_correct": {
+          "A": "Correct evaluation"
+        },
+        "why_incorrect": {
+          "B": "Doubled result",
+          "C": "Missed factor 4",
+          "D": "Not zero"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "fractions + identities"
+      ],
+      "formulae": [
+        "(a+b)^2 - (a-b)^2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1328,
+    "subject": "<subject>",
+    "chapter": "Mathematical Logic",
+    "topic": "<topic>",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x + y + z = 6 and xy + yz + zx = 11, find x^2 + y^2 + z^2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "14"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "10"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "14",
+      "explanation": {
+        "concept": "Use identity: x^2+y^2+z^2 = (x+y+z)^2 - 2(xy+yz+zx)",
+        "step_by_step": [
+          "(x+y+z)^2 = 36",
+          "2(xy+yz+zx) = 22",
+          "Subtract: 36 - 22 = 14"
+        ],
+        "why_correct": {
+          "A": "Correct substitution"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic mistake",
+          "C": "Wrong subtraction",
+          "D": "Incorrect identity use"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "three-variable identities"
+      ],
+      "formulae": [
+        "(x+y+z)^2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

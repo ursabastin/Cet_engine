@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3008,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Medical Discoveries",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The discovery of which antibiotic by Alexander Fleming revolutionized modern medicine?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aspirin"
+      },
+      {
+        "id": "B",
+        "text": "Penicillin"
+      },
+      {
+        "id": "C",
+        "text": "Insulin"
+      },
+      {
+        "id": "D",
+        "text": "Morphine"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Penicillin",
+      "explanation": {
+        "concept": "Penicillin was the first widely used antibiotic and marked the beginning of modern antibacterial treatment.",
+        "step_by_step": [
+          "Fleming discovered mold inhibiting bacteria.",
+          "This led to penicillin.",
+          "It became first antibiotic."
+        ],
+        "why_correct": {
+          "B": "Correct: Penicillin revolutionized medicine."
+        },
+        "why_incorrect": {
+          "A": "Aspirin is a pain reliever.",
+          "C": "Insulin regulates blood sugar.",
+          "D": "Morphine is a painkiller."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Antibiotics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

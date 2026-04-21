@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1897,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Main Idea Identification",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: Renewable energy sources like solar and wind are gaining traction due to environmental concerns. However, challenges such as storage limitations and high initial costs continue to hinder widespread adoption.\n\nWhat is the central idea of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Renewable energy is entirely efficient"
+      },
+      {
+        "id": "B",
+        "text": "Environmental concerns are exaggerated"
+      },
+      {
+        "id": "C",
+        "text": "Renewable energy is promising but faces obstacles"
+      },
+      {
+        "id": "D",
+        "text": "Solar energy is superior to wind energy"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Renewable energy is promising but faces obstacles",
+      "explanation": {
+        "concept": "Main idea combines all major points into one coherent summary.",
+        "step_by_step": [
+          "Identify positive aspect: growing popularity",
+          "Identify limitations: storage and cost",
+          "Combine both into balanced summary"
+        ],
+        "why_correct": {
+          "C": "Captures both opportunity and limitation"
+        },
+        "why_incorrect": {
+          "A": "Overgeneralization",
+          "B": "Contradicts passage",
+          "D": "Too specific"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "main idea",
+        "summarization"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1907,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Main Idea Identification",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: Climate change has emerged as one of the most pressing global challenges of the 21st century. Rising temperatures, melting polar ice caps, and increasing frequency of extreme weather events are clear indicators of environmental imbalance. While international agreements such as the Paris Accord aim to mitigate these effects, their success largely depends on the commitment and cooperation of participating nations. Furthermore, transitioning to sustainable energy sources requires substantial economic investment and technological innovation. Despite these challenges, experts emphasize that immediate and coordinated action is essential to prevent irreversible damage to the planet.\n\nWhat is the primary focus of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The history of climate agreements"
+      },
+      {
+        "id": "B",
+        "text": "Economic benefits of industrialization"
+      },
+      {
+        "id": "C",
+        "text": "The urgency and challenges of addressing climate change"
+      },
+      {
+        "id": "D",
+        "text": "Technological advancements in energy"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "The urgency and challenges of addressing climate change",
+      "explanation": {
+        "concept": "Main idea requires integrating multiple supporting points into a unified theme.",
+        "step_by_step": [
+          "Identify central issue: climate change",
+          "Note challenges: agreements, investment",
+          "Recognize urgency emphasized"
+        ],
+        "why_correct": {
+          "C": "Captures both urgency and complexity"
+        },
+        "why_incorrect": {
+          "A": "Too narrow",
+          "B": "Irrelevant",
+          "D": "Partial aspect only"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "main idea",
+        "global issues"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1917,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Main Idea Identification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The evolution of artificial intelligence has significantly reshaped modern industries, enabling automation of complex processes and enhancing decision-making capabilities. However, alongside these advancements, ethical concerns surrounding data privacy, algorithmic bias, and accountability have gained prominence. Regulatory frameworks are gradually being developed, yet they often struggle to keep pace with the rapid technological changes. As a result, there is an ongoing debate about how to harness the benefits of AI while mitigating its potential risks.\n\nWhat is the most appropriate main idea of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The history of artificial intelligence development"
+      },
+      {
+        "id": "B",
+        "text": "Artificial intelligence as a purely beneficial technology"
+      },
+      {
+        "id": "C",
+        "text": "The dual impact of AI advancements and associated ethical challenges"
+      },
+      {
+        "id": "D",
+        "text": "Government regulations are ineffective in all cases"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "The dual impact of AI advancements and associated ethical challenges",
+      "explanation": {
+        "concept": "Main idea integrates both positive and negative aspects presented.",
+        "step_by_step": [
+          "Identify benefits: automation, decision-making",
+          "Identify concerns: ethics, regulation",
+          "Combine into balanced statement"
+        ],
+        "why_correct": {
+          "C": "Captures both benefits and concerns"
+        },
+        "why_incorrect": {
+          "A": "Too narrow",
+          "B": "Ignores risks",
+          "D": "Overgeneralization"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "main idea",
+        "technology ethics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1927,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Main Idea Identification",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The globalization of education has enabled students to access diverse learning opportunities across geographical boundaries. Online platforms, international collaborations, and exchange programs have contributed to this transformation. However, disparities in digital access and economic resources continue to limit participation for many. As institutions adapt to these changes, ensuring inclusivity remains a key challenge.\n\nWhat is the central idea of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Education is becoming less important globally"
+      },
+      {
+        "id": "B",
+        "text": "Globalization has made education universally accessible"
+      },
+      {
+        "id": "C",
+        "text": "Globalized education offers opportunities but faces inclusivity challenges"
+      },
+      {
+        "id": "D",
+        "text": "Online education is superior to traditional learning"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Globalized education offers opportunities but faces inclusivity challenges",
+      "explanation": {
+        "concept": "Main idea integrates both opportunities and limitations.",
+        "step_by_step": [
+          "Identify global opportunities",
+          "Note barriers like access and resources",
+          "Combine into balanced theme"
+        ],
+        "why_correct": {
+          "C": "Captures both aspects"
+        },
+        "why_incorrect": {
+          "A": "Incorrect",
+          "B": "Overgeneralization",
+          "D": "Too narrow"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_32",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "main idea",
+        "education"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3177,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indices Interpretation",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If both Sensex and Nifty 50 are rising consistently over a period, it most likely indicates:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bearish market sentiment"
+      },
+      {
+        "id": "B",
+        "text": "Bullish market sentiment across sectors"
+      },
+      {
+        "id": "C",
+        "text": "Sector-specific growth only"
+      },
+      {
+        "id": "D",
+        "text": "Decline in investor participation"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Bullish market sentiment across sectors",
+      "explanation": {
+        "concept": "Rising broad indices indicate overall market optimism.",
+        "step_by_step": [
+          "Sensex and Nifty cover major companies",
+          "Both rising implies broad participation",
+          "Indicates bullish sentiment"
+        ],
+        "why_correct": {
+          "B": "Broad rise indicates overall bullish trend"
+        },
+        "why_incorrect": {
+          "A": "Bearish means falling prices",
+          "C": "Indices represent multiple sectors",
+          "D": "Rising indices imply participation increase"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3177",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "market sentiment"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

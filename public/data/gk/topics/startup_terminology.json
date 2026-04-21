@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3216,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Startup Terminology",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What term is used to describe high-growth startups that are expected to achieve unicorn status within a short period?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dragons"
+      },
+      {
+        "id": "B",
+        "text": "Gazelles"
+      },
+      {
+        "id": "C",
+        "text": "Decacorns"
+      },
+      {
+        "id": "D",
+        "text": "Minicorns"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Gazelles",
+      "explanation": {
+        "concept": "Gazelles are startups with rapid growth potential and high scalability.",
+        "step_by_step": [
+          "Gazelles grow quickly in revenue.",
+          "They often scale faster than average startups.",
+          "They are likely future unicorns."
+        ],
+        "why_correct": {
+          "B": "Correct term for fast-growing startups."
+        },
+        "why_incorrect": {
+          "A": "Not standard term.",
+          "C": "Valuation above $10 billion.",
+          "D": "Smaller valuation startups."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Startup terminology"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  }
+]

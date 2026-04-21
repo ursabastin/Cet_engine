@@ -1,0 +1,446 @@
+[
+  {
+    "id": 2602,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Indian Rivers",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Brahmaputra River originates from which of the following locations?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangotri Glacier"
+      },
+      {
+        "id": "B",
+        "text": "Mansarovar region in Tibet"
+      },
+      {
+        "id": "C",
+        "text": "Satpura Hills"
+      },
+      {
+        "id": "D",
+        "text": "Western Ghats"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Mansarovar region in Tibet",
+      "explanation": {
+        "concept": "The Brahmaputra originates in Tibet near Lake Mansarovar and flows into India through Arunachal Pradesh.",
+        "step_by_step": [
+          "Recall origins of major rivers",
+          "Ganga originates from Gangotri",
+          "Brahmaputra originates in Tibet near Mansarovar"
+        ],
+        "why_correct": {
+          "B": "Correct origin region of Brahmaputra"
+        },
+        "why_incorrect": {
+          "A": "Origin of Ganga",
+          "C": "Not related to Brahmaputra",
+          "D": "Origin of many peninsular rivers, not Brahmaputra"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2602",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "River origins"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2612,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Indian Rivers",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which river is known as the 'Dakshin Ganga' due to its length and importance in peninsular India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Krishna"
+      },
+      {
+        "id": "B",
+        "text": "Godavari"
+      },
+      {
+        "id": "C",
+        "text": "Cauvery"
+      },
+      {
+        "id": "D",
+        "text": "Mahanadi"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Godavari",
+      "explanation": {
+        "concept": "Godavari is the longest river in peninsular India and is called Dakshin Ganga.",
+        "step_by_step": [
+          "Recall longest peninsular river",
+          "Godavari flows across multiple states",
+          "Hence called Dakshin Ganga"
+        ],
+        "why_correct": {
+          "B": "Correct nickname and longest river"
+        },
+        "why_incorrect": {
+          "A": "Second longest",
+          "C": "Shorter river",
+          "D": "Important but not longest"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2612",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "River systems"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2622,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Indian Rivers",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following rivers does NOT originate in the Himalayas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ganga"
+      },
+      {
+        "id": "B",
+        "text": "Brahmaputra"
+      },
+      {
+        "id": "C",
+        "text": "Indus"
+      },
+      {
+        "id": "D",
+        "text": "Godavari"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Godavari",
+      "explanation": {
+        "concept": "Himalayan rivers originate from glaciers, whereas peninsular rivers like Godavari originate from plateaus.",
+        "step_by_step": [
+          "Identify Himalayan rivers",
+          "Ganga, Brahmaputra, Indus originate in Himalayas",
+          "Godavari originates in Western Ghats"
+        ],
+        "why_correct": {
+          "D": "Peninsular river"
+        },
+        "why_incorrect": {
+          "A": "Himalayan origin",
+          "B": "Himalayan origin",
+          "C": "Himalayan origin"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2622",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "River classification"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2632,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Indian Rivers",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which river is known for forming the Sundarbans delta along with another major river?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brahmaputra"
+      },
+      {
+        "id": "B",
+        "text": "Godavari"
+      },
+      {
+        "id": "C",
+        "text": "Narmada"
+      },
+      {
+        "id": "D",
+        "text": "Mahanadi"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Brahmaputra",
+      "explanation": {
+        "concept": "The Sundarbans delta is formed by the combined flow of the Ganga and Brahmaputra rivers.",
+        "step_by_step": [
+          "Identify largest delta",
+          "Sundarbans formed by Ganga-Brahmaputra",
+          "Choose correct river among options"
+        ],
+        "why_correct": {
+          "A": "Part of delta formation"
+        },
+        "why_incorrect": {
+          "B": "Forms its own delta",
+          "C": "Forms estuary",
+          "D": "Independent delta"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2632",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Delta formation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2642,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Indian Rivers",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following rivers flows through a rift valley in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ganga"
+      },
+      {
+        "id": "B",
+        "text": "Brahmaputra"
+      },
+      {
+        "id": "C",
+        "text": "Narmada"
+      },
+      {
+        "id": "D",
+        "text": "Godavari"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Narmada",
+      "explanation": {
+        "concept": "Narmada flows through a rift valley between Vindhya and Satpura ranges.",
+        "step_by_step": [
+          "Identify rift valley rivers",
+          "Narmada flows west through rift",
+          "Unique geological feature"
+        ],
+        "why_correct": {
+          "C": "Correct river"
+        },
+        "why_incorrect": {
+          "A": "Alluvial plain river",
+          "B": "Braided river system",
+          "D": "Peninsular plateau river"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2642",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "River geomorphology"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  },
+  {
+    "id": 2652,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Indian Rivers",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which river is known for creating the world's largest river island, Majuli?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ganga"
+      },
+      {
+        "id": "B",
+        "text": "Brahmaputra"
+      },
+      {
+        "id": "C",
+        "text": "Indus"
+      },
+      {
+        "id": "D",
+        "text": "Mahanadi"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Brahmaputra",
+      "explanation": {
+        "concept": "Majuli, the world's largest river island, is located in the Brahmaputra River in Assam.",
+        "step_by_step": [
+          "Identify Majuli location",
+          "Located in Assam",
+          "Formed by Brahmaputra"
+        ],
+        "why_correct": {
+          "B": "Correct river"
+        },
+        "why_incorrect": {
+          "A": "Does not form Majuli",
+          "C": "Different basin",
+          "D": "Not associated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2652",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "River features"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Geography"
+  }
+]

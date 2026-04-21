@@ -1,0 +1,1915 @@
+[
+  {
+    "id": 1521,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Eight persons A, B, C, D, E, F, G, and H are seated in a straight line facing north. C is third to the left of H. B is second to the right of C. D is not at any extreme end. F is immediate right of D. G is second to the left of B. Who is sitting at the extreme left end?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "D"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "H"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A",
+      "explanation": {
+        "concept": "Solve linear arrangement using relative positioning and constraints stepwise.",
+        "step_by_step": [
+          "Place C and H such that C is 3 left of H.",
+          "Place B 2 right of C.",
+          "Place G 2 left of B.",
+          "Place D not at ends and F immediate right of D.",
+          "Fill remaining positions with A and E.",
+          "Final arrangement shows A at extreme left."
+        ],
+        "why_correct": {
+          "A": "A fits at the only remaining extreme left position after all constraints are satisfied."
+        },
+        "why_incorrect": {
+          "B": "D cannot be at extreme as per condition.",
+          "C": "G is placed relative to B, not at extreme.",
+          "D": "H is positioned based on C and not at extreme."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1521",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "linear seating",
+        "relative positioning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1522,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Seven persons are seated around a circular table facing the center. A sits opposite B. C is between A and D. E is immediate right of B. F is not adjacent to A. Who is sitting to the immediate left of C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D"
+      },
+      {
+        "id": "B",
+        "text": "E"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "B"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "D",
+      "explanation": {
+        "concept": "Circular seating requires fixing one position and arranging others relative to it.",
+        "step_by_step": [
+          "Fix A's position.",
+          "Place B opposite A.",
+          "Place E immediate right of B.",
+          "Place C between A and D.",
+          "Ensure F is not adjacent to A.",
+          "Check valid arrangement and identify left of C."
+        ],
+        "why_correct": {
+          "A": "D is correctly positioned to immediate left of C based on constraints."
+        },
+        "why_incorrect": {
+          "B": "E is adjacent to B, not C.",
+          "C": "F avoids adjacency to A, not linked to C.",
+          "D": "B is opposite A, not near C."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1522",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "circular seating",
+        "opposite positioning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1523,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Six people sit in a row facing north. A is at one end. B is second to the left of D. C is immediate right of A. E is not adjacent to B. Who sits between B and D?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "C"
+      },
+      {
+        "id": "C",
+        "text": "E"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "E",
+      "explanation": {
+        "concept": "Use positional constraints to fix extreme positions and derive internal positions.",
+        "step_by_step": [
+          "Place A at one end.",
+          "Place C to immediate right of A.",
+          "Use B and D condition.",
+          "Place E avoiding adjacency to B.",
+          "Determine remaining placements.",
+          "Identify person between B and D."
+        ],
+        "why_correct": {
+          "C": "E fits correctly between B and D after satisfying constraints."
+        },
+        "why_incorrect": {
+          "A": "A is fixed at extreme.",
+          "B": "C is near A.",
+          "D": "F occupies different position."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1523",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "linear constraints"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1524,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.88,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Nine persons sit around a circular table facing outward. A is second to the right of B. C is third to the left of A. D is adjacent to neither A nor B. E is between D and F. G is opposite C. Who is sitting opposite E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B"
+      },
+      {
+        "id": "B",
+        "text": "A"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "G",
+      "explanation": {
+        "concept": "Outward facing circular arrangement reverses left-right directions.",
+        "step_by_step": [
+          "Fix B and place A.",
+          "Place C relative to A.",
+          "Place G opposite C.",
+          "Place D avoiding adjacency.",
+          "Place E between D and F.",
+          "Check final arrangement to find opposite of E."
+        ],
+        "why_correct": {
+          "C": "G is correctly opposite E after full arrangement."
+        },
+        "why_incorrect": {
+          "A": "B not opposite E.",
+          "B": "A is positioned differently.",
+          "D": "F is adjacent, not opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1524",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 120,
+      "concepts": [
+        "circular outward seating"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1525,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Five persons sit in a row facing south. A is to the immediate left of B. C is second to the right of B. D is not at any end. Who is sitting at the extreme right?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "C"
+      },
+      {
+        "id": "C",
+        "text": "D"
+      },
+      {
+        "id": "D",
+        "text": "E"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "C",
+      "explanation": {
+        "concept": "Facing south reverses left-right direction logic.",
+        "step_by_step": [
+          "Adjust directions due to south facing.",
+          "Place B and A.",
+          "Place C second right of B.",
+          "Ensure D not at ends.",
+          "Determine final arrangement."
+        ],
+        "why_correct": {
+          "B": "C ends up at extreme right after adjusting direction."
+        },
+        "why_incorrect": {
+          "A": "A is next to B.",
+          "C": "D is central.",
+          "D": "E occupies different position."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1525",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "direction reversal"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1526,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Eight persons sit in a row. Two persons sit between A and B. C is immediate left of A. D is fourth to the right of C. Who is sitting between B and D?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "C"
+      },
+      {
+        "id": "C",
+        "text": "E"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "F",
+      "explanation": {
+        "concept": "Use fixed distances and immediate relations to build structure.",
+        "step_by_step": [
+          "Place A and B with 2 persons between.",
+          "Place C immediate left of A.",
+          "Place D relative to C.",
+          "Fill remaining positions logically.",
+          "Identify middle person between B and D."
+        ],
+        "why_correct": {
+          "D": "F satisfies all positional constraints between B and D."
+        },
+        "why_incorrect": {
+          "A": "A is already fixed near C.",
+          "B": "C is next to A.",
+          "C": "E is not correctly positioned."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1526",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 105,
+      "concepts": [
+        "distance constraints"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1527,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Seven persons sit around a circular table facing center. A is between B and C. D is opposite A. E is immediate left of D. Who is immediate right of B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C"
+      },
+      {
+        "id": "B",
+        "text": "A"
+      },
+      {
+        "id": "C",
+        "text": "E"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A",
+      "explanation": {
+        "concept": "Fix anchor points and use adjacency in circular arrangement.",
+        "step_by_step": [
+          "Fix A between B and C.",
+          "Place D opposite A.",
+          "Place E left of D.",
+          "Complete arrangement.",
+          "Find right of B."
+        ],
+        "why_correct": {
+          "B": "A is immediate right of B."
+        },
+        "why_incorrect": {
+          "A": "C is other side of A.",
+          "C": "E is near D.",
+          "D": "F not in required position."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1527",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "adjacency circular"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1528,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Six friends sit in a row. A is not at any end. B sits to the left of A. C is between A and D. Who sits at extreme right?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D"
+      },
+      {
+        "id": "B",
+        "text": "C"
+      },
+      {
+        "id": "C",
+        "text": "E"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "D",
+      "explanation": {
+        "concept": "Eliminate possibilities using end constraints.",
+        "step_by_step": [
+          "Place A not at ends.",
+          "Place B to left of A.",
+          "Place C between A and D.",
+          "Arrange remaining.",
+          "Identify extreme right."
+        ],
+        "why_correct": {
+          "A": "D fits extreme right based on constraints."
+        },
+        "why_incorrect": {
+          "B": "C is central.",
+          "C": "E not determined as extreme.",
+          "D": "F occupies different slot."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1528",
+    "confidence_score": 0.87,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "linear elimination"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1529,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Ten persons sit in two parallel rows of five each. In row 1 all face north, in row 2 all face south. A faces B. C is second to right of A. D is immediate left of B. Who faces C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D"
+      },
+      {
+        "id": "B",
+        "text": "E"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "G"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "F",
+      "explanation": {
+        "concept": "Parallel row arrangement requires mapping opposite seats.",
+        "step_by_step": [
+          "Place A and B facing each other.",
+          "Place C relative to A.",
+          "Place D relative to B.",
+          "Fill rows accordingly.",
+          "Find who faces C."
+        ],
+        "why_correct": {
+          "C": "F is correctly positioned opposite C."
+        },
+        "why_incorrect": {
+          "A": "D is adjacent to B.",
+          "B": "E not aligned with C.",
+          "D": "G in different column."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1529",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 120,
+      "concepts": [
+        "parallel seating"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1530,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Eight persons sit around a square table, two on each side. A is at a corner. B sits opposite A. C is immediate left of B. Who sits diagonally opposite C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "D"
+      },
+      {
+        "id": "C",
+        "text": "E"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "D",
+      "explanation": {
+        "concept": "Square seating introduces diagonal relationships in addition to adjacency.",
+        "step_by_step": [
+          "Fix A at corner.",
+          "Place B opposite.",
+          "Place C left of B.",
+          "Complete square arrangement.",
+          "Find diagonal opposite of C."
+        ],
+        "why_correct": {
+          "B": "D lies diagonally opposite C."
+        },
+        "why_incorrect": {
+          "A": "A is corner reference.",
+          "C": "E not diagonal.",
+          "D": "F adjacent, not diagonal."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1530",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "square seating"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1531,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Eight persons A, B, C, D, E, F, G and H are seated in a straight line facing north. A is third to the left of D. B is second to the right of A. C is immediate left of B. E is at one of the ends. F is not adjacent to A. Who is sitting at the extreme right end?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E"
+      },
+      {
+        "id": "B",
+        "text": "H"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "E",
+      "explanation": {
+        "concept": "Sequential placement using fixed distances and elimination of invalid positions.",
+        "step_by_step": [
+          "Place D and then A 3 places to its left.",
+          "Place B 2 places to the right of A.",
+          "Place C immediate left of B.",
+          "Assign E to one end and test valid configurations.",
+          "Ensure F is not adjacent to A.",
+          "Check remaining arrangement to determine extreme right."
+        ],
+        "why_correct": {
+          "A": "E fits at the only feasible extreme right after satisfying all constraints."
+        },
+        "why_incorrect": {
+          "B": "H cannot be at extreme after placements.",
+          "C": "G is restricted by other positions.",
+          "D": "F avoids adjacency to A and cannot be extreme."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1531",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "linear arrangement",
+        "constraint elimination"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1532,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Seven persons are sitting around a circular table facing the center. P sits second to the right of Q. R sits opposite P. S is immediate left of R. T is not adjacent to Q. Who sits immediate right of S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R"
+      },
+      {
+        "id": "B",
+        "text": "T"
+      },
+      {
+        "id": "C",
+        "text": "U"
+      },
+      {
+        "id": "D",
+        "text": "Q"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "U",
+      "explanation": {
+        "concept": "Circular arrangement using fixed anchors and adjacency.",
+        "step_by_step": [
+          "Fix Q and place P second to its right.",
+          "Place R opposite P.",
+          "Place S immediate left of R.",
+          "Place T ensuring it is not adjacent to Q.",
+          "Fill remaining position and determine right of S."
+        ],
+        "why_correct": {
+          "C": "U is positioned immediate right of S in the valid arrangement."
+        },
+        "why_incorrect": {
+          "A": "R is adjacent but not right of S.",
+          "B": "T avoids adjacency to Q.",
+          "D": "Q is already fixed elsewhere."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1532",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "circular seating",
+        "relative placement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1533,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.9,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Nine persons are seated in a row facing north. A sits fourth to the left of B. C sits third to the right of A. D is between B and E. F is not at any end. G is immediate right of F. Who sits at the extreme left end?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E"
+      },
+      {
+        "id": "B",
+        "text": "H"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      },
+      {
+        "id": "D",
+        "text": "A"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "H",
+      "explanation": {
+        "concept": "Combining distance constraints and adjacency in extended rows.",
+        "step_by_step": [
+          "Place B and A using 4-place gap.",
+          "Place C relative to A.",
+          "Position D between B and E.",
+          "Ensure F not at ends and place G right of F.",
+          "Fill remaining seats and identify extreme left."
+        ],
+        "why_correct": {
+          "B": "H occupies the only valid extreme left position."
+        },
+        "why_incorrect": {
+          "A": "E is constrained near D.",
+          "C": "C is fixed near A.",
+          "D": "A cannot be extreme."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1533",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 130,
+      "concepts": [
+        "multi-constraint arrangement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1534,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Six persons sit in a row facing south. A is second to the right of B. C is immediate left of A. D is not at any extreme. Who sits at the extreme left?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B"
+      },
+      {
+        "id": "B",
+        "text": "C"
+      },
+      {
+        "id": "C",
+        "text": "E"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "E",
+      "explanation": {
+        "concept": "South-facing reverses direction logic; apply carefully.",
+        "step_by_step": [
+          "Reverse left-right interpretation.",
+          "Place B and A accordingly.",
+          "Place C relative to A.",
+          "Ensure D not at ends.",
+          "Fill remaining and determine extreme left."
+        ],
+        "why_correct": {
+          "C": "E ends up at extreme left after correct orientation."
+        },
+        "why_incorrect": {
+          "A": "B is central.",
+          "B": "C is adjacent to A.",
+          "D": "F occupies another position."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1534",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "direction reversal"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1535,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Eight persons sit around a circular table facing outward. A is immediate right of B. C is second to the left of A. D is opposite C. E is not adjacent to A. Who sits immediate left of D?",
+    "options": [
+      {
+        "id": "A",
+        "text": "F"
+      },
+      {
+        "id": "B",
+        "text": "G"
+      },
+      {
+        "id": "C",
+        "text": "E"
+      },
+      {
+        "id": "D",
+        "text": "B"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "G",
+      "explanation": {
+        "concept": "Outward facing changes left-right mapping in circular seating.",
+        "step_by_step": [
+          "Place B and A.",
+          "Place C relative to A.",
+          "Place D opposite C.",
+          "Ensure E not adjacent to A.",
+          "Fill remaining and determine left of D."
+        ],
+        "why_correct": {
+          "B": "G is correctly positioned immediate left of D."
+        },
+        "why_incorrect": {
+          "A": "F is elsewhere.",
+          "C": "E avoids adjacency.",
+          "D": "B is fixed elsewhere."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1535",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 115,
+      "concepts": [
+        "outward circular logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1536,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Five persons sit in a row. A is to the left of B. C is between A and D. E is not at any end. Who sits at extreme right?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B"
+      },
+      {
+        "id": "B",
+        "text": "D"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      },
+      {
+        "id": "D",
+        "text": "A"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "B",
+      "explanation": {
+        "concept": "Use ordering constraints and eliminate invalid edge placements.",
+        "step_by_step": [
+          "Place A left of B.",
+          "Place C between A and D.",
+          "Ensure E not at ends.",
+          "Try valid placements and determine extreme right."
+        ],
+        "why_correct": {
+          "A": "B is the only valid extreme right candidate."
+        },
+        "why_incorrect": {
+          "B": "D is near C.",
+          "C": "C is internal.",
+          "D": "A is left of B."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1536",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "ordering constraints"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1537,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.91,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Ten persons sit in two parallel rows. Row 1 faces north, Row 2 faces south. A faces B. C is third to the right of A. D is second to the left of B. E is adjacent to neither A nor B. Who faces D?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C"
+      },
+      {
+        "id": "B",
+        "text": "F"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "H"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "F",
+      "explanation": {
+        "concept": "Parallel rows require mapping columns and respecting opposite facing directions.",
+        "step_by_step": [
+          "Place A and B facing each other.",
+          "Place C relative to A.",
+          "Place D relative to B.",
+          "Ensure E not adjacent.",
+          "Complete grid and identify who faces D."
+        ],
+        "why_correct": {
+          "B": "F is aligned directly opposite D."
+        },
+        "why_incorrect": {
+          "A": "C is in same row.",
+          "C": "G not aligned.",
+          "D": "H is in different column."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1537",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 130,
+      "concepts": [
+        "parallel arrangement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1538,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Seven persons sit around a circular table facing center. A is second to the left of B. C is immediate right of A. D is opposite B. Who is immediate left of C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "E"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "D"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "E",
+      "explanation": {
+        "concept": "Use directional movement and fixed opposite positions.",
+        "step_by_step": [
+          "Place B and then A.",
+          "Place C relative to A.",
+          "Place D opposite B.",
+          "Fill remaining positions.",
+          "Identify left of C."
+        ],
+        "why_correct": {
+          "B": "E is correctly placed immediate left of C."
+        },
+        "why_incorrect": {
+          "A": "A is near B.",
+          "C": "F is elsewhere.",
+          "D": "D is opposite B."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1538",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "circular positioning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1539,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Eight persons sit in a row. A sits third to the right of B. C sits second to the left of A. D is between B and C. Who sits at extreme left?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D"
+      },
+      {
+        "id": "B",
+        "text": "E"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "G"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "G",
+      "explanation": {
+        "concept": "Use relative distances and ordering constraints to fix extremes.",
+        "step_by_step": [
+          "Place B and A.",
+          "Place C relative to A.",
+          "Place D between B and C.",
+          "Fill remaining seats.",
+          "Identify extreme left."
+        ],
+        "why_correct": {
+          "D": "G is the only valid extreme left occupant."
+        },
+        "why_incorrect": {
+          "A": "D is internal.",
+          "B": "E is constrained elsewhere.",
+          "C": "F not extreme."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1539",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 105,
+      "concepts": [
+        "distance constraints"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1540,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Eight persons sit around a circular table facing center. A is opposite B. C is immediate left of A. D is second to the right of C. Who sits immediate right of B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E"
+      },
+      {
+        "id": "B",
+        "text": "F"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      },
+      {
+        "id": "D",
+        "text": "D"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "E",
+      "explanation": {
+        "concept": "Use opposite positioning and directional placement in circular setup.",
+        "step_by_step": [
+          "Fix A and B opposite.",
+          "Place C left of A.",
+          "Place D relative to C.",
+          "Complete arrangement.",
+          "Find right of B."
+        ],
+        "why_correct": {
+          "A": "E is immediate right of B in final configuration."
+        },
+        "why_incorrect": {
+          "B": "F is elsewhere.",
+          "C": "C near A.",
+          "D": "D positioned differently."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1540",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "circular logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1541,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Nine persons A, B, C, D, E, F, G, H and I are seated in a straight line facing north. A is fourth to the left of B. C is second to the right of A. D is between B and E. F is not adjacent to A. G is at one of the ends. Who is sitting at the extreme right end?",
+    "options": [
+      {
+        "id": "A",
+        "text": "G"
+      },
+      {
+        "id": "B",
+        "text": "H"
+      },
+      {
+        "id": "C",
+        "text": "I"
+      },
+      {
+        "id": "D",
+        "text": "E"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "I",
+      "explanation": {
+        "concept": "Use distance constraints, adjacency restrictions, and fixed end placement.",
+        "step_by_step": [
+          "Place B and A with 4-place gap.",
+          "Place C relative to A.",
+          "Position D between B and E.",
+          "Place G at one end and test possibilities.",
+          "Ensure F is not adjacent to A.",
+          "Complete arrangement and identify extreme right."
+        ],
+        "why_correct": {
+          "C": "I fits the only valid extreme right position after satisfying all constraints."
+        },
+        "why_incorrect": {
+          "A": "G is fixed at one end but not right end.",
+          "B": "H is positioned internally.",
+          "D": "E is constrained near D."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1541",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 120,
+      "concepts": [
+        "multi-constraint linear arrangement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1542,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Seven persons are seated around a circular table facing the center. A is third to the right of B. C is second to the left of A. D is opposite B. E is immediate right of D. Who sits immediate left of C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "F"
+      },
+      {
+        "id": "B",
+        "text": "G"
+      },
+      {
+        "id": "C",
+        "text": "A"
+      },
+      {
+        "id": "D",
+        "text": "E"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "F",
+      "explanation": {
+        "concept": "Circular arrangement with multiple directional relations and opposite constraints.",
+        "step_by_step": [
+          "Fix B and place A third to its right.",
+          "Place D opposite B.",
+          "Place E immediate right of D.",
+          "Place C relative to A.",
+          "Fill remaining positions and determine left of C."
+        ],
+        "why_correct": {
+          "A": "F occupies immediate left of C in the valid arrangement."
+        },
+        "why_incorrect": {
+          "B": "G is placed elsewhere.",
+          "C": "A is positioned relative to B.",
+          "D": "E is adjacent to D."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1542",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "circular positioning",
+        "opposite relation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1543,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.91,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Ten persons sit in two parallel rows of five each. In row 1, all face north; in row 2, all face south. A faces B. C is second to the right of A. D is third to the left of B. E is adjacent to neither A nor B. F sits at an extreme end in row 1. Who faces F?",
+    "options": [
+      {
+        "id": "A",
+        "text": "G"
+      },
+      {
+        "id": "B",
+        "text": "H"
+      },
+      {
+        "id": "C",
+        "text": "I"
+      },
+      {
+        "id": "D",
+        "text": "J"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "H",
+      "explanation": {
+        "concept": "Parallel row mapping with directional adjustments and extreme constraints.",
+        "step_by_step": [
+          "Place A and B facing each other.",
+          "Place C relative to A.",
+          "Place D relative to B.",
+          "Ensure E is not adjacent to A or B.",
+          "Place F at extreme end of row 1.",
+          "Complete grid and determine who faces F."
+        ],
+        "why_correct": {
+          "B": "H aligns directly opposite F."
+        },
+        "why_incorrect": {
+          "A": "G not aligned with F.",
+          "C": "I in different column.",
+          "D": "J is not facing F."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1543",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 130,
+      "concepts": [
+        "parallel arrangement",
+        "extreme positioning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1544,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Six persons sit in a row facing north. A is not at any end. B sits to the immediate right of A. C is between A and D. E is at one of the ends. Who sits at the extreme left?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E"
+      },
+      {
+        "id": "B",
+        "text": "D"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "C"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "E",
+      "explanation": {
+        "concept": "Use fixed end condition and adjacency rules to construct arrangement.",
+        "step_by_step": [
+          "Place E at one end.",
+          "Place A not at ends and B to its right.",
+          "Place C between A and D.",
+          "Fill remaining positions.",
+          "Identify extreme left."
+        ],
+        "why_correct": {
+          "A": "E must occupy extreme left based on valid configuration."
+        },
+        "why_incorrect": {
+          "B": "D is internal.",
+          "C": "F is not at extreme.",
+          "D": "C is between A and D."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1544",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "linear arrangement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  },
+  {
+    "id": 1545,
+    "subject": "Logical Reasoning",
+    "chapter": "Puzzles & Arrangements",
+    "topic": "Seating arrangement (linear/circular)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Eight persons sit around a circular table facing outward. A is second to the right of B. C is immediate left of A. D is opposite B. E is not adjacent to D. Who sits immediate right of C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "F"
+      },
+      {
+        "id": "B",
+        "text": "G"
+      },
+      {
+        "id": "C",
+        "text": "B"
+      },
+      {
+        "id": "D",
+        "text": "H"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "H",
+      "explanation": {
+        "concept": "Outward-facing circular arrangement with adjacency restriction.",
+        "step_by_step": [
+          "Place B and A.",
+          "Place C relative to A.",
+          "Place D opposite B.",
+          "Ensure E is not adjacent to D.",
+          "Fill remaining positions.",
+          "Determine immediate right of C."
+        ],
+        "why_correct": {
+          "D": "H is correctly positioned immediate right of C."
+        },
+        "why_incorrect": {
+          "A": "F is elsewhere.",
+          "B": "G not adjacent to C.",
+          "C": "B is anchor point."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1545",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "outward circular seating"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Puzzles & Arrangements"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": 2867,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Chess 2025",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Who became the youngest-ever World Chess Champion in January 2025?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R Praggnanandhaa"
+      },
+      {
+        "id": "B",
+        "text": "Magnus Carlsen"
+      },
+      {
+        "id": "C",
+        "text": "Gukesh D"
+      },
+      {
+        "id": "D",
+        "text": "Fabiano Caruana"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Gukesh D",
+      "explanation": {
+        "concept": "Recognizing milestones in international chess championships.",
+        "step_by_step": [
+          "Recall World Chess Championship 2025.",
+          "Gukesh D won the title.",
+          "He became the youngest champion ever."
+        ],
+        "why_correct": {
+          "C": "Gukesh D achieved this historic feat."
+        },
+        "why_incorrect": {
+          "A": "Praggnanandhaa has not won the title.",
+          "B": "Carlsen is a former champion but not youngest in 2025.",
+          "D": "Caruana did not win the championship."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Chess championship"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2887,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Chess 2025",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What made Gukesh D’s World Chess Championship 2025 victory particularly historic?",
+    "options": [
+      {
+        "id": "A",
+        "text": "First Indian to win the title"
+      },
+      {
+        "id": "B",
+        "text": "Youngest world champion ever"
+      },
+      {
+        "id": "C",
+        "text": "First to defeat Magnus Carlsen in final"
+      },
+      {
+        "id": "D",
+        "text": "First Asian champion"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Youngest world champion ever",
+      "explanation": {
+        "concept": "Recognizing historical milestones in chess championships.",
+        "step_by_step": [
+          "Identify what distinguishes Gukesh’s win.",
+          "He became youngest ever champion.",
+          "This sets a global record."
+        ],
+        "why_correct": {
+          "B": "Correct unique achievement."
+        },
+        "why_incorrect": {
+          "A": "Viswanathan Anand already won earlier.",
+          "C": "Carlsen was not the opponent.",
+          "D": "Asia had prior champions."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Chess records"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,751 @@
+[
+  {
+    "id": 1636,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the part of speech of the underlined word in the sentence She worked <u>hard</u> to achieve her goals.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adjective"
+      },
+      {
+        "id": "B",
+        "text": "Adverb"
+      },
+      {
+        "id": "C",
+        "text": "Verb"
+      },
+      {
+        "id": "D",
+        "text": "Noun"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Adverb",
+      "explanation": {
+        "concept": "An adverb modifies a verb, adjective, or another adverb and often indicates manner.",
+        "step_by_step": [
+          "Identify the word 'hard'.",
+          "It modifies the verb 'worked'.",
+          "It answers the question 'how'.",
+          "Therefore, it is an adverb."
+        ],
+        "why_correct": {
+          "B": "Correct — 'hard' modifies the verb 'worked'."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — adjectives modify nouns, not verbs.",
+          "C": "Incorrect — it does not express an action.",
+          "D": "Incorrect — it does not name anything."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1636",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "adverb usage"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1637,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In the sentence The rich are often misunderstood, the word 'rich' functions as a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adjective"
+      },
+      {
+        "id": "B",
+        "text": "Noun"
+      },
+      {
+        "id": "C",
+        "text": "Adverb"
+      },
+      {
+        "id": "D",
+        "text": "Pronoun"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Noun",
+      "explanation": {
+        "concept": "Adjectives can function as nouns when referring to a class of people with 'the'.",
+        "step_by_step": [
+          "Observe 'the rich'.",
+          "It refers to a group of people.",
+          "It acts as subject.",
+          "Hence, it functions as a noun."
+        ],
+        "why_correct": {
+          "B": "Correct — represents a group of people."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — though originally an adjective, here it functions as a noun.",
+          "C": "Incorrect — not modifying a verb.",
+          "D": "Incorrect — not replacing a noun."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1637",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "adjective as noun"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1638,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the part of speech of 'after' in the sentence: \"He arrived after the meeting.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conjunction"
+      },
+      {
+        "id": "B",
+        "text": "Preposition"
+      },
+      {
+        "id": "C",
+        "text": "Adverb"
+      },
+      {
+        "id": "D",
+        "text": "Interjection"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Preposition",
+      "explanation": {
+        "concept": "A preposition shows the relationship between a noun and another word.",
+        "step_by_step": [
+          "'after' is followed by 'the meeting'.",
+          "It connects verb and noun phrase.",
+          "It indicates time relation.",
+          "Thus, it is a preposition."
+        ],
+        "why_correct": {
+          "B": "Correct — links to a noun phrase."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — no clause connection.",
+          "C": "Incorrect — not standalone modifier.",
+          "D": "Incorrect — not emotional expression."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1638",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "prepositions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1639,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In the sentence What she said shocked everyone, the word 'What' functions as",
+    "options": [
+      {
+        "id": "A",
+        "text": "Interrogative pronoun"
+      },
+      {
+        "id": "B",
+        "text": "Relative pronoun"
+      },
+      {
+        "id": "C",
+        "text": "Conjunction"
+      },
+      {
+        "id": "D",
+        "text": "Determiner"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Relative pronoun",
+      "explanation": {
+        "concept": "Relative pronouns introduce noun clauses and refer to unspecified antecedents.",
+        "step_by_step": [
+          "'What she said' is a clause.",
+          "'What' introduces the clause.",
+          "It acts as subject within the clause.",
+          "Hence, it is a relative pronoun."
+        ],
+        "why_correct": {
+          "B": "Correct — introduces noun clause."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — not a question.",
+          "C": "Incorrect — not just joining.",
+          "D": "Incorrect — not modifying noun."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1639",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "relative pronoun"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1640,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the part of speech of 'only' in the sentence: She is the only candidate selected.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adverb"
+      },
+      {
+        "id": "B",
+        "text": "Adjective"
+      },
+      {
+        "id": "C",
+        "text": "Pronoun"
+      },
+      {
+        "id": "D",
+        "text": "Conjunction"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Adjective",
+      "explanation": {
+        "concept": "Adjectives describe or limit nouns.",
+        "step_by_step": [
+          "'only' modifies 'candidate'.",
+          "It restricts quantity to one.",
+          "Thus, it describes a noun.",
+          "Hence, adjective."
+        ],
+        "why_correct": {
+          "B": "Correct — modifies noun."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — not modifying verb.",
+          "C": "Incorrect — not replacing noun.",
+          "D": "Incorrect — not connecting clauses."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1640",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "adjective"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1641,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In the sentence He barely managed to finish the task, 'barely' functions as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adjective"
+      },
+      {
+        "id": "B",
+        "text": "Adverb"
+      },
+      {
+        "id": "C",
+        "text": "Preposition"
+      },
+      {
+        "id": "D",
+        "text": "Noun"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Adverb",
+      "explanation": {
+        "concept": "Adverbs modify verbs and express degree or manner.",
+        "step_by_step": [
+          "'barely' modifies 'managed'.",
+          "It indicates degree.",
+          "Thus modifies verb.",
+          "Hence adverb."
+        ],
+        "why_correct": {
+          "B": "Correct — modifies verb."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — does not describe noun.",
+          "C": "Incorrect — no object relation.",
+          "D": "Incorrect — not naming entity."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1641",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "adverb"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1642,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the part of speech of 'before' in: I have never seen such talent before.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Preposition"
+      },
+      {
+        "id": "B",
+        "text": "Adverb"
+      },
+      {
+        "id": "C",
+        "text": "Conjunction"
+      },
+      {
+        "id": "D",
+        "text": "Adjective"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Adverb",
+      "explanation": {
+        "concept": "A word acting without an object and modifying a verb is an adverb.",
+        "step_by_step": [
+          "'before' is not followed by noun.",
+          "It modifies 'seen'.",
+          "It expresses time.",
+          "Thus adverb."
+        ],
+        "why_correct": {
+          "B": "Correct — no object, modifies verb."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — prepositions require object.",
+          "C": "Incorrect — not joining clauses.",
+          "D": "Incorrect — not modifying noun."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1642",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "adverb vs preposition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1643,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the part of speech of 'yet' in: He tried hard, yet he failed.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adverb"
+      },
+      {
+        "id": "B",
+        "text": "Conjunction"
+      },
+      {
+        "id": "C",
+        "text": "Preposition"
+      },
+      {
+        "id": "D",
+        "text": "Interjection"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Conjunction",
+      "explanation": {
+        "concept": "Conjunctions connect clauses and show relationships.",
+        "step_by_step": [
+          "'yet' connects two clauses.",
+          "It shows contrast.",
+          "Thus it is conjunction."
+        ],
+        "why_correct": {
+          "B": "Correct — joins clauses."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — not modifying verb.",
+          "C": "Incorrect — no noun relation.",
+          "D": "Incorrect — no emotion."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1643",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "conjunction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1644,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In Swimming improves stamina, 'Swimming' functions as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Verb"
+      },
+      {
+        "id": "B",
+        "text": "Gerund"
+      },
+      {
+        "id": "C",
+        "text": "Participle"
+      },
+      {
+        "id": "D",
+        "text": "Adjective"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Gerund",
+      "explanation": {
+        "concept": "A gerund is a verb form ending in -ing acting as a noun.",
+        "step_by_step": [
+          "'Swimming' is subject.",
+          "It names an activity.",
+          "Acts as noun.",
+          "Hence gerund."
+        ],
+        "why_correct": {
+          "B": "Correct — acts as noun."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — not functioning as verb.",
+          "C": "Incorrect — not modifying noun.",
+          "D": "Incorrect — not describing noun."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1644",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "gerund"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1645,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Parts of Speech",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.86,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the function of 'that' in: The idea that he proposed was innovative.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conjunction"
+      },
+      {
+        "id": "B",
+        "text": "Relative pronoun"
+      },
+      {
+        "id": "C",
+        "text": "Demonstrative adjective"
+      },
+      {
+        "id": "D",
+        "text": "Adverb"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Relative pronoun",
+      "explanation": {
+        "concept": "Relative pronouns introduce clauses and refer to nouns.",
+        "step_by_step": [
+          "'that he proposed' modifies 'idea'.",
+          "It connects clause to noun.",
+          "Acts as subject/object inside clause.",
+          "Thus relative pronoun."
+        ],
+        "why_correct": {
+          "B": "Correct — introduces relative clause."
+        },
+        "why_incorrect": {
+          "A": "Incorrect — not merely joining clauses.",
+          "C": "Incorrect — not modifying directly.",
+          "D": "Incorrect — not modifying verb."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1645",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "relative pronoun"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

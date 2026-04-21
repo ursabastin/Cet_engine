@@ -1,0 +1,224 @@
+[
+  {
+    "id": 2926,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Festivals Maharashtra",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Narali Purnima, a festival celebrated by coastal communities of Maharashtra, is primarily associated with which occupation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Agriculture"
+      },
+      {
+        "id": "B",
+        "text": "Fishing"
+      },
+      {
+        "id": "C",
+        "text": "Weaving"
+      },
+      {
+        "id": "D",
+        "text": "Mining"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Fishing",
+      "explanation": {
+        "concept": "Narali Purnima marks the beginning of fishing season with offerings to the sea.",
+        "step_by_step": [
+          "Recognize coastal context.",
+          "Recall fishermen rituals.",
+          "Link festival to fishing occupation."
+        ],
+        "why_correct": {
+          "B": "Correct association."
+        },
+        "why_incorrect": {
+          "A": "Agriculture not coastal ritual.",
+          "C": "Weaving unrelated.",
+          "D": "Mining unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "regional festivals"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2935,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Festivals Maharashtra",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.41,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Gudi Padwa marks the beginning of the traditional New Year in which Indian state?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gujarat"
+      },
+      {
+        "id": "B",
+        "text": "Maharashtra"
+      },
+      {
+        "id": "C",
+        "text": "Karnataka"
+      },
+      {
+        "id": "D",
+        "text": "West Bengal"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Maharashtra",
+      "explanation": {
+        "concept": "Gudi Padwa is the Marathi New Year festival.",
+        "step_by_step": [
+          "Recall regional New Year festivals.",
+          "Identify Gudi Padwa.",
+          "Associate with Maharashtra."
+        ],
+        "why_correct": {
+          "B": "Correct state."
+        },
+        "why_incorrect": {
+          "A": "Gujarat celebrates Bestu Varas.",
+          "C": "Karnataka celebrates Ugadi.",
+          "D": "West Bengal celebrates Poila Boishakh."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 20,
+      "concepts": [
+        "regional festivals"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2943,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Festivals Maharashtra",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Ganeshotsav in Maharashtra was transformed into a public festival during the freedom struggle by which leader?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bal Gangadhar Tilak"
+      },
+      {
+        "id": "B",
+        "text": "Mahatma Gandhi"
+      },
+      {
+        "id": "C",
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": "D",
+        "text": "Subhas Chandra Bose"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Bal Gangadhar Tilak",
+      "explanation": {
+        "concept": "Tilak popularized Ganeshotsav to unite people against British rule.",
+        "step_by_step": [
+          "Recall nationalist leaders’ roles.",
+          "Identify festival mobilization strategy.",
+          "Associate with Tilak."
+        ],
+        "why_correct": {
+          "A": "Correct leader."
+        },
+        "why_incorrect": {
+          "B": "Focused on non-cooperation.",
+          "C": "Not linked to Ganeshotsav.",
+          "D": "Focused on INA."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "freedom movement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

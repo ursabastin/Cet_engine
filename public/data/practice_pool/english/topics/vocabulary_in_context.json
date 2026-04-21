@@ -1,0 +1,4731 @@
+[
+  {
+    "id": 1899,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in Context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The scientist's hypothesis was eventually repudiated after further experiments contradicted the initial findings.\n\nWhat does 'repudiated' mean in this context?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Confirmed"
+      },
+      {
+        "id": "B",
+        "text": "Rejected"
+      },
+      {
+        "id": "C",
+        "text": "Expanded"
+      },
+      {
+        "id": "D",
+        "text": "Published"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Rejected",
+      "explanation": {
+        "concept": "Contextual vocabulary relies on surrounding clues.",
+        "step_by_step": [
+          "Note contradiction of findings",
+          "Infer hypothesis was invalidated",
+          "Choose synonym matching rejection"
+        ],
+        "why_correct": {
+          "B": "Matches contradiction context"
+        },
+        "why_incorrect": {
+          "A": "Opposite meaning",
+          "C": "No expansion mentioned",
+          "D": "Irrelevant"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "vocabulary",
+        "context clues"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1909,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in Context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The manager's decision to implement the new policy was met with considerable resistance, as many employees found the changes to be arbitrary and lacking in clear justification.\n\nWhat does the word 'arbitrary' most nearly mean in the context?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Based on random choice or personal whim"
+      },
+      {
+        "id": "B",
+        "text": "Carefully planned and logical"
+      },
+      {
+        "id": "C",
+        "text": "Universally accepted"
+      },
+      {
+        "id": "D",
+        "text": "Legally binding"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Based on random choice or personal whim",
+      "explanation": {
+        "concept": "Context clues help determine meaning of unfamiliar words.",
+        "step_by_step": [
+          "Identify resistance from employees",
+          "Note lack of justification",
+          "Infer randomness or lack of reasoning"
+        ],
+        "why_correct": {
+          "A": "Matches lack of justification"
+        },
+        "why_incorrect": {
+          "B": "Opposite meaning",
+          "C": "Not implied",
+          "D": "Irrelevant"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "context vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1919,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in Context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The committee's response to the crisis was largely perfunctory, lacking the depth and urgency that the situation demanded.\n\nWhat does 'perfunctory' most nearly mean in this context?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Carried out with minimal effort or interest"
+      },
+      {
+        "id": "B",
+        "text": "Highly detailed and thorough"
+      },
+      {
+        "id": "C",
+        "text": "Emotionally intense"
+      },
+      {
+        "id": "D",
+        "text": "Legally binding"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Carried out with minimal effort or interest",
+      "explanation": {
+        "concept": "Context clues indicate lack of depth and urgency.",
+        "step_by_step": [
+          "Identify 'lacking depth and urgency'",
+          "Infer superficial action",
+          "Match meaning"
+        ],
+        "why_correct": {
+          "A": "Matches superficial response"
+        },
+        "why_incorrect": {
+          "B": "Opposite",
+          "C": "Irrelevant",
+          "D": "Not related"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1929,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in Context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The negotiations reached an impasse after both parties refused to make further concessions, resulting in a prolonged stalemate.\n\nWhat does 'impasse' most nearly mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A point where no progress is possible"
+      },
+      {
+        "id": "B",
+        "text": "A successful agreement"
+      },
+      {
+        "id": "C",
+        "text": "A temporary delay"
+      },
+      {
+        "id": "D",
+        "text": "A minor disagreement"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A point where no progress is possible",
+      "explanation": {
+        "concept": "Context shows refusal and stalemate.",
+        "step_by_step": [
+          "Identify refusal to concede",
+          "Note stalemate",
+          "Infer deadlock meaning"
+        ],
+        "why_correct": {
+          "A": "Matches deadlock context"
+        },
+        "why_incorrect": {
+          "B": "Opposite",
+          "C": "Not temporary",
+          "D": "Understates severity"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_34",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1836,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Despite initial skepticism, the scientist's theory gradually gained ______ among her peers as more evidence emerged.",
+    "options": [
+      {
+        "id": "A",
+        "text": "credence"
+      },
+      {
+        "id": "B",
+        "text": "deterrence"
+      },
+      {
+        "id": "C",
+        "text": "reluctance"
+      },
+      {
+        "id": "D",
+        "text": "apathy"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "credence",
+      "explanation": {
+        "concept": "Understanding word meaning through contextual clues such as 'gained' and 'evidence emerged'.",
+        "step_by_step": [
+          "The phrase 'gained ___ among her peers' suggests increasing acceptance or belief.",
+          "'Evidence emerged' implies validation of the theory.",
+          "Thus, the blank requires a word meaning 'belief' or 'acceptance'."
+        ],
+        "why_correct": {
+          "A": "'Credence' means belief or acceptance, fitting perfectly with the context of evidence supporting a theory."
+        },
+        "why_incorrect": {
+          "B": "'Deterrence' means discouragement, opposite in meaning.",
+          "C": "'Reluctance' means unwillingness, not fitting the idea of acceptance.",
+          "D": "'Apathy' means lack of interest, unrelated to belief in a theory."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "contextual vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1837,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His remarks were so ______ that they offended nearly everyone present, revealing his lack of sensitivity.",
+    "options": [
+      {
+        "id": "A",
+        "text": "tactful"
+      },
+      {
+        "id": "B",
+        "text": "blunt"
+      },
+      {
+        "id": "C",
+        "text": "eloquent"
+      },
+      {
+        "id": "D",
+        "text": "subtle"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "blunt",
+      "explanation": {
+        "concept": "Context clues like 'offended nearly everyone' indicate harsh or insensitive speech.",
+        "step_by_step": [
+          "The sentence indicates negative impact due to speech.",
+          "'Offended nearly everyone' suggests lack of diplomacy.",
+          "Thus, the correct word should imply directness without sensitivity."
+        ],
+        "why_correct": {
+          "B": "'Blunt' means direct and often insensitive, matching the context."
+        },
+        "why_incorrect": {
+          "A": "'Tactful' means careful and sensitive, opposite meaning.",
+          "C": "'Eloquent' refers to fluency, not offensiveness.",
+          "D": "'Subtle' implies indirectness, not causing offense."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "tone inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1838,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The manager's decision to delay the project was seen as a ______ move, allowing time to address potential risks.",
+    "options": [
+      {
+        "id": "A",
+        "text": "reckless"
+      },
+      {
+        "id": "B",
+        "text": "prudent"
+      },
+      {
+        "id": "C",
+        "text": "arbitrary"
+      },
+      {
+        "id": "D",
+        "text": "hasty"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "prudent",
+      "explanation": {
+        "concept": "Use of positive reasoning context involving risk management.",
+        "step_by_step": [
+          "Delay is associated with careful planning.",
+          "'Address potential risks' suggests wise decision-making.",
+          "Thus, the blank should mean cautious and sensible."
+        ],
+        "why_correct": {
+          "B": "'Prudent' means wise and cautious."
+        },
+        "why_incorrect": {
+          "A": "'Reckless' is careless, opposite meaning.",
+          "C": "'Arbitrary' means random, not relevant.",
+          "D": "'Hasty' implies rushed, not delayed."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "contextual reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1839,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Her explanation was so ______ that even complex ideas became easy to understand.",
+    "options": [
+      {
+        "id": "A",
+        "text": "obscure"
+      },
+      {
+        "id": "B",
+        "text": "lucid"
+      },
+      {
+        "id": "C",
+        "text": "ambiguous"
+      },
+      {
+        "id": "D",
+        "text": "vague"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "lucid",
+      "explanation": {
+        "concept": "Positive clarity context—easy understanding implies clarity.",
+        "step_by_step": [
+          "'Complex ideas became easy' signals clarity.",
+          "The required word should mean clear or understandable."
+        ],
+        "why_correct": {
+          "B": "'Lucid' means clear and easy to understand."
+        },
+        "why_incorrect": {
+          "A": "'Obscure' means unclear.",
+          "C": "'Ambiguous' means open to multiple meanings.",
+          "D": "'Vague' means not clear."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "word clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1840,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The politician tried to ______ the issue by avoiding direct answers during the debate.",
+    "options": [
+      {
+        "id": "A",
+        "text": "confront"
+      },
+      {
+        "id": "B",
+        "text": "evade"
+      },
+      {
+        "id": "C",
+        "text": "resolve"
+      },
+      {
+        "id": "D",
+        "text": "amplify"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "evade",
+      "explanation": {
+        "concept": "Context implies avoidance behavior.",
+        "step_by_step": [
+          "'Avoiding direct answers' is key context clue.",
+          "The blank should reflect escaping or dodging."
+        ],
+        "why_correct": {
+          "B": "'Evade' means to avoid or escape indirectly."
+        },
+        "why_incorrect": {
+          "A": "'Confront' is the opposite.",
+          "C": "'Resolve' means solve.",
+          "D": "'Amplify' means increase."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "context inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1841,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The ancient manuscript was so ______ that only a few scholars could interpret it correctly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "accessible"
+      },
+      {
+        "id": "B",
+        "text": "cryptic"
+      },
+      {
+        "id": "C",
+        "text": "modern"
+      },
+      {
+        "id": "D",
+        "text": "transparent"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "cryptic",
+      "explanation": {
+        "concept": "Limited understanding suggests hidden or obscure meaning.",
+        "step_by_step": [
+          "'Only a few scholars could interpret' implies difficulty.",
+          "Thus, word should indicate mysterious or unclear."
+        ],
+        "why_correct": {
+          "B": "'Cryptic' means having hidden meaning."
+        },
+        "why_incorrect": {
+          "A": "'Accessible' means easy to understand.",
+          "C": "'Modern' unrelated.",
+          "D": "'Transparent' means clear."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "context clues"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1842,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Her constant interruptions began to ______ the speaker, who struggled to maintain his train of thought.",
+    "options": [
+      {
+        "id": "A",
+        "text": "facilitate"
+      },
+      {
+        "id": "B",
+        "text": "irritate"
+      },
+      {
+        "id": "C",
+        "text": "motivate"
+      },
+      {
+        "id": "D",
+        "text": "assist"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "irritate",
+      "explanation": {
+        "concept": "Negative effect due to interruptions.",
+        "step_by_step": [
+          "'Struggled to maintain' indicates disturbance.",
+          "The effect is negative.",
+          "Thus, emotional disturbance like irritation."
+        ],
+        "why_correct": {
+          "B": "'Irritate' fits emotional disturbance."
+        },
+        "why_incorrect": {
+          "A": "Facilitate is positive.",
+          "C": "Motivate is unrelated.",
+          "D": "Assist is positive."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "tone-based vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1843,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The judge's decision was considered ______, as it was based strictly on evidence rather than emotions.",
+    "options": [
+      {
+        "id": "A",
+        "text": "biased"
+      },
+      {
+        "id": "B",
+        "text": "impartial"
+      },
+      {
+        "id": "C",
+        "text": "emotional"
+      },
+      {
+        "id": "D",
+        "text": "subjective"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "impartial",
+      "explanation": {
+        "concept": "Evidence-based decision implies neutrality.",
+        "step_by_step": [
+          "'Based strictly on evidence' implies fairness.",
+          "No emotional influence → neutrality.",
+          "Thus, impartial."
+        ],
+        "why_correct": {
+          "B": "'Impartial' means unbiased and fair."
+        },
+        "why_incorrect": {
+          "A": "Biased is opposite.",
+          "C": "Emotional contradicts context.",
+          "D": "Subjective is opinion-based."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "logical inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1844,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The company faced a ______ decline in profits after the sudden market crash.",
+    "options": [
+      {
+        "id": "A",
+        "text": "gradual"
+      },
+      {
+        "id": "B",
+        "text": "steady"
+      },
+      {
+        "id": "C",
+        "text": "abrupt"
+      },
+      {
+        "id": "D",
+        "text": "predictable"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "abrupt",
+      "explanation": {
+        "concept": "Sudden event implies immediate change.",
+        "step_by_step": [
+          "'Sudden market crash' is key clue.",
+          "Decline must be quick and sharp.",
+          "Thus, abrupt."
+        ],
+        "why_correct": {
+          "C": "'Abrupt' means sudden and unexpected."
+        },
+        "why_incorrect": {
+          "A": "Gradual is slow.",
+          "B": "Steady is consistent.",
+          "D": "Predictable contradicts sudden."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "contextual contrast"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1845,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author's writing style is often criticized as ______, as it includes excessive details that obscure the main argument.",
+    "options": [
+      {
+        "id": "A",
+        "text": "concise"
+      },
+      {
+        "id": "B",
+        "text": "verbose"
+      },
+      {
+        "id": "C",
+        "text": "lucid"
+      },
+      {
+        "id": "D",
+        "text": "succinct"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "verbose",
+      "explanation": {
+        "concept": "Excessive detail indicates wordiness.",
+        "step_by_step": [
+          "'Excessive details' is main clue.",
+          "'Obscure the main argument' suggests over-explanation.",
+          "Thus, verbose."
+        ],
+        "why_correct": {
+          "B": "'Verbose' means using more words than needed."
+        },
+        "why_incorrect": {
+          "A": "Concise is opposite.",
+          "C": "Lucid means clear.",
+          "D": "Succinct means brief."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1846,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The teacher's feedback was ______, pointing out both strengths and weaknesses in a balanced manner.",
+    "options": [
+      {
+        "id": "A",
+        "text": "biased"
+      },
+      {
+        "id": "B",
+        "text": "constructive"
+      },
+      {
+        "id": "C",
+        "text": "harsh"
+      },
+      {
+        "id": "D",
+        "text": "superficial"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "constructive",
+      "explanation": {
+        "concept": "Balanced feedback suggests helpful and improvement-oriented criticism.",
+        "step_by_step": [
+          "'Strengths and weaknesses' implies balanced evaluation.",
+          "Feedback intended to improve performance.",
+          "Thus, constructive."
+        ],
+        "why_correct": {
+          "B": "'Constructive' refers to feedback aimed at improvement."
+        },
+        "why_incorrect": {
+          "A": "Biased lacks balance.",
+          "C": "Harsh implies overly critical.",
+          "D": "Superficial means shallow."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "contextual tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1847,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The sudden silence in the room was ______, making everyone uneasy and apprehensive.",
+    "options": [
+      {
+        "id": "A",
+        "text": "comforting"
+      },
+      {
+        "id": "B",
+        "text": "ominous"
+      },
+      {
+        "id": "C",
+        "text": "casual"
+      },
+      {
+        "id": "D",
+        "text": "insignificant"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "ominous",
+      "explanation": {
+        "concept": "Negative emotional atmosphere suggesting something bad is about to happen.",
+        "step_by_step": [
+          "'Uneasy and apprehensive' are key clues.",
+          "Implies fear or anticipation of something bad.",
+          "Thus, ominous."
+        ],
+        "why_correct": {
+          "B": "'Ominous' means suggesting something unpleasant is likely."
+        },
+        "why_incorrect": {
+          "A": "Comforting is opposite.",
+          "C": "Casual lacks seriousness.",
+          "D": "Insignificant doesn't fit emotional intensity."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "emotional inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1848,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The instructions were so ______ that the students completed the task without any confusion.",
+    "options": [
+      {
+        "id": "A",
+        "text": "ambiguous"
+      },
+      {
+        "id": "B",
+        "text": "precise"
+      },
+      {
+        "id": "C",
+        "text": "complex"
+      },
+      {
+        "id": "D",
+        "text": "misleading"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "precise",
+      "explanation": {
+        "concept": "Clarity leading to no confusion.",
+        "step_by_step": [
+          "'Without any confusion' implies clarity.",
+          "Thus, instructions must be exact and clear."
+        ],
+        "why_correct": {
+          "B": "'Precise' means exact and clear."
+        },
+        "why_incorrect": {
+          "A": "Ambiguous causes confusion.",
+          "C": "Complex may confuse.",
+          "D": "Misleading is incorrect direction."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "clarity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1849,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His argument lacked ______, as it failed to present any logical connection between the points.",
+    "options": [
+      {
+        "id": "A",
+        "text": "clarity"
+      },
+      {
+        "id": "B",
+        "text": "coherence"
+      },
+      {
+        "id": "C",
+        "text": "brevity"
+      },
+      {
+        "id": "D",
+        "text": "fluency"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "coherence",
+      "explanation": {
+        "concept": "Logical connection between ideas.",
+        "step_by_step": [
+          "'Failed to present logical connection' is key.",
+          "Coherence refers to logical flow.",
+          "Thus, coherence."
+        ],
+        "why_correct": {
+          "B": "'Coherence' means logical consistency."
+        },
+        "why_incorrect": {
+          "A": "Clarity is general understanding.",
+          "C": "Brevity means shortness.",
+          "D": "Fluency refers to smoothness of speech."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "logical structure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1850,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The child showed a ______ curiosity, asking questions about everything around him.",
+    "options": [
+      {
+        "id": "A",
+        "text": "fleeting"
+      },
+      {
+        "id": "B",
+        "text": "keen"
+      },
+      {
+        "id": "C",
+        "text": "reluctant"
+      },
+      {
+        "id": "D",
+        "text": "limited"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "keen",
+      "explanation": {
+        "concept": "Frequent questioning implies strong interest.",
+        "step_by_step": [
+          "'Asking questions about everything' shows enthusiasm.",
+          "Thus, strong curiosity."
+        ],
+        "why_correct": {
+          "B": "'Keen' means eager or intense."
+        },
+        "why_incorrect": {
+          "A": "Fleeting is temporary.",
+          "C": "Reluctant means unwilling.",
+          "D": "Limited contradicts context."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "intensity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1851,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The CEO's speech was filled with ______ statements that avoided addressing the core issues directly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "candid"
+      },
+      {
+        "id": "B",
+        "text": "evasive"
+      },
+      {
+        "id": "C",
+        "text": "transparent"
+      },
+      {
+        "id": "D",
+        "text": "explicit"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "evasive",
+      "explanation": {
+        "concept": "Avoiding direct answers implies indirectness.",
+        "step_by_step": [
+          "'Avoided addressing core issues' is key clue.",
+          "Implies indirect or dodging statements.",
+          "Thus, evasive."
+        ],
+        "why_correct": {
+          "B": "'Evasive' means avoiding direct answers."
+        },
+        "why_incorrect": {
+          "A": "Candid is direct.",
+          "C": "Transparent is open.",
+          "D": "Explicit is clear."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1852,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The athlete remained ______ despite the intense pressure, delivering an outstanding performance.",
+    "options": [
+      {
+        "id": "A",
+        "text": "nervous"
+      },
+      {
+        "id": "B",
+        "text": "composed"
+      },
+      {
+        "id": "C",
+        "text": "agitated"
+      },
+      {
+        "id": "D",
+        "text": "fearful"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "composed",
+      "explanation": {
+        "concept": "Performance under pressure implies calmness.",
+        "step_by_step": [
+          "'Despite pressure' suggests contrast.",
+          "Outstanding performance implies control.",
+          "Thus, composed."
+        ],
+        "why_correct": {
+          "B": "'Composed' means calm and controlled."
+        },
+        "why_incorrect": {
+          "A": "Nervous contradicts performance.",
+          "C": "Agitated is disturbed.",
+          "D": "Fearful is negative."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "contrast clue"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1853,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The historian's account was criticized for being ______, as it favored one side while ignoring opposing perspectives.",
+    "options": [
+      {
+        "id": "A",
+        "text": "objective"
+      },
+      {
+        "id": "B",
+        "text": "biased"
+      },
+      {
+        "id": "C",
+        "text": "comprehensive"
+      },
+      {
+        "id": "D",
+        "text": "balanced"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "biased",
+      "explanation": {
+        "concept": "Favoring one side indicates lack of neutrality.",
+        "step_by_step": [
+          "'Favored one side' is key clue.",
+          "Implies partiality.",
+          "Thus, biased."
+        ],
+        "why_correct": {
+          "B": "'Biased' means unfairly favoring one side."
+        },
+        "why_incorrect": {
+          "A": "Objective is neutral.",
+          "C": "Comprehensive means detailed.",
+          "D": "Balanced is opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "critical reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1854,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The sudden revelation had a ______ impact on the team, drastically changing their strategy.",
+    "options": [
+      {
+        "id": "A",
+        "text": "minimal"
+      },
+      {
+        "id": "B",
+        "text": "profound"
+      },
+      {
+        "id": "C",
+        "text": "negligible"
+      },
+      {
+        "id": "D",
+        "text": "trivial"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "profound",
+      "explanation": {
+        "concept": "Drastic change implies deep impact.",
+        "step_by_step": [
+          "'Drastically changing strategy' implies strong effect.",
+          "Thus, profound."
+        ],
+        "why_correct": {
+          "B": "'Profound' means deep and significant."
+        },
+        "why_incorrect": {
+          "A": "Minimal is small.",
+          "C": "Negligible is insignificant.",
+          "D": "Trivial is unimportant."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "impact intensity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1855,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His explanation was deliberately ______, leaving out crucial details to mislead the audience.",
+    "options": [
+      {
+        "id": "A",
+        "text": "forthright"
+      },
+      {
+        "id": "B",
+        "text": "candid"
+      },
+      {
+        "id": "C",
+        "text": "deceptive"
+      },
+      {
+        "id": "D",
+        "text": "transparent"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "deceptive",
+      "explanation": {
+        "concept": "Misleading intent implies dishonesty.",
+        "step_by_step": [
+          "'Leaving out crucial details' suggests manipulation.",
+          "'Mislead the audience' confirms intention.",
+          "Thus, deceptive."
+        ],
+        "why_correct": {
+          "C": "'Deceptive' means intended to mislead."
+        },
+        "why_incorrect": {
+          "A": "Forthright is honest.",
+          "B": "Candid is truthful.",
+          "D": "Transparent is open."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "intent inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1856,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The committee found his proposal too ______, lacking any concrete plan or actionable steps.",
+    "options": [
+      {
+        "id": "A",
+        "text": "feasible"
+      },
+      {
+        "id": "B",
+        "text": "vague"
+      },
+      {
+        "id": "C",
+        "text": "detailed"
+      },
+      {
+        "id": "D",
+        "text": "practical"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "vague",
+      "explanation": {
+        "concept": "Absence of detail and clarity indicates vagueness.",
+        "step_by_step": [
+          "'Lacking concrete plan' is key clue.",
+          "Implies unclear or not well-defined.",
+          "Thus, vague."
+        ],
+        "why_correct": {
+          "B": "'Vague' means unclear or lacking detail."
+        },
+        "why_incorrect": {
+          "A": "Feasible means possible.",
+          "C": "Detailed is opposite.",
+          "D": "Practical implies usability."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "clarity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1857,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Her success can largely be attributed to her ______ approach, where she carefully analyzed every detail before making decisions.",
+    "options": [
+      {
+        "id": "A",
+        "text": "impulsive"
+      },
+      {
+        "id": "B",
+        "text": "methodical"
+      },
+      {
+        "id": "C",
+        "text": "careless"
+      },
+      {
+        "id": "D",
+        "text": "erratic"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "methodical",
+      "explanation": {
+        "concept": "Careful and systematic thinking indicates a methodical approach.",
+        "step_by_step": [
+          "'Carefully analyzed every detail' is key clue.",
+          "Implies systematic and organized thinking.",
+          "Thus, methodical."
+        ],
+        "why_correct": {
+          "B": "'Methodical' means orderly and systematic."
+        },
+        "why_incorrect": {
+          "A": "Impulsive is opposite.",
+          "C": "Careless lacks attention.",
+          "D": "Erratic is inconsistent."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "behavior inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1858,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The novel's plot was so ______ that readers found it difficult to predict what would happen next.",
+    "options": [
+      {
+        "id": "A",
+        "text": "predictable"
+      },
+      {
+        "id": "B",
+        "text": "intricate"
+      },
+      {
+        "id": "C",
+        "text": "monotonous"
+      },
+      {
+        "id": "D",
+        "text": "simple"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "intricate",
+      "explanation": {
+        "concept": "Difficulty in prediction suggests complexity.",
+        "step_by_step": [
+          "'Difficult to predict' indicates complexity.",
+          "Thus, plot must be detailed or complex."
+        ],
+        "why_correct": {
+          "B": "'Intricate' means complex and detailed."
+        },
+        "why_incorrect": {
+          "A": "Predictable contradicts context.",
+          "C": "Monotonous means boring.",
+          "D": "Simple is opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "complexity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1859,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The professor dismissed the argument as ______, claiming it lacked depth and critical insight.",
+    "options": [
+      {
+        "id": "A",
+        "text": "profound"
+      },
+      {
+        "id": "B",
+        "text": "superficial"
+      },
+      {
+        "id": "C",
+        "text": "insightful"
+      },
+      {
+        "id": "D",
+        "text": "rigorous"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "superficial",
+      "explanation": {
+        "concept": "Lack of depth indicates superficiality.",
+        "step_by_step": [
+          "'Lacked depth and critical insight' is key clue.",
+          "Thus, shallow argument.",
+          "Superficial fits best."
+        ],
+        "why_correct": {
+          "B": "'Superficial' means shallow and lacking depth."
+        },
+        "why_incorrect": {
+          "A": "Profound is opposite.",
+          "C": "Insightful is positive.",
+          "D": "Rigorous implies depth."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "depth inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1860,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The team's victory was ______, achieved after months of relentless effort and dedication.",
+    "options": [
+      {
+        "id": "A",
+        "text": "effortless"
+      },
+      {
+        "id": "B",
+        "text": "hard-earned"
+      },
+      {
+        "id": "C",
+        "text": "unexpected"
+      },
+      {
+        "id": "D",
+        "text": "accidental"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "hard-earned",
+      "explanation": {
+        "concept": "Long effort implies deserved success.",
+        "step_by_step": [
+          "'Months of relentless effort' indicates struggle.",
+          "Victory is result of effort.",
+          "Thus, hard-earned."
+        ],
+        "why_correct": {
+          "B": "'Hard-earned' means achieved with effort."
+        },
+        "why_incorrect": {
+          "A": "Effortless contradicts.",
+          "C": "Unexpected not implied.",
+          "D": "Accidental is incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "cause-effect inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1861,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His tone was ______, subtly expressing disapproval without being openly critical.",
+    "options": [
+      {
+        "id": "A",
+        "text": "hostile"
+      },
+      {
+        "id": "B",
+        "text": "sarcastic"
+      },
+      {
+        "id": "C",
+        "text": "blatant"
+      },
+      {
+        "id": "D",
+        "text": "overt"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "sarcastic",
+      "explanation": {
+        "concept": "Indirect disapproval often conveyed through sarcasm.",
+        "step_by_step": [
+          "'Subtly expressing disapproval' is key.",
+          "Not openly critical → indirect expression.",
+          "Sarcasm fits this tone."
+        ],
+        "why_correct": {
+          "B": "'Sarcastic' conveys indirect criticism."
+        },
+        "why_incorrect": {
+          "A": "Hostile is direct aggression.",
+          "C": "Blatant is obvious.",
+          "D": "Overt is explicit."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "tone nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1862,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The evidence presented was ______, leaving no room for doubt about the defendant's guilt.",
+    "options": [
+      {
+        "id": "A",
+        "text": "inconclusive"
+      },
+      {
+        "id": "B",
+        "text": "compelling"
+      },
+      {
+        "id": "C",
+        "text": "ambiguous"
+      },
+      {
+        "id": "D",
+        "text": "questionable"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "compelling",
+      "explanation": {
+        "concept": "Strong evidence eliminates doubt.",
+        "step_by_step": [
+          "'No room for doubt' is key.",
+          "Implies strong and convincing evidence.",
+          "Thus, compelling."
+        ],
+        "why_correct": {
+          "B": "'Compelling' means convincing."
+        },
+        "why_incorrect": {
+          "A": "Inconclusive creates doubt.",
+          "C": "Ambiguous unclear.",
+          "D": "Questionable doubtful."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "strength inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1863,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The artist's work is known for its ______ use of colors, creating a striking visual impact.",
+    "options": [
+      {
+        "id": "A",
+        "text": "dull"
+      },
+      {
+        "id": "B",
+        "text": "vivid"
+      },
+      {
+        "id": "C",
+        "text": "muted"
+      },
+      {
+        "id": "D",
+        "text": "faint"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "vivid",
+      "explanation": {
+        "concept": "Strong visual impact implies bright colors.",
+        "step_by_step": [
+          "'Striking visual impact' is key.",
+          "Implies bright and intense colors.",
+          "Thus, vivid."
+        ],
+        "why_correct": {
+          "B": "'Vivid' means bright and intense."
+        },
+        "why_incorrect": {
+          "A": "Dull lacks impact.",
+          "C": "Muted is soft.",
+          "D": "Faint is weak."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "visual inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1864,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The report was criticized for being ______, as it omitted key data that could have influenced the conclusions.",
+    "options": [
+      {
+        "id": "A",
+        "text": "comprehensive"
+      },
+      {
+        "id": "B",
+        "text": "incomplete"
+      },
+      {
+        "id": "C",
+        "text": "detailed"
+      },
+      {
+        "id": "D",
+        "text": "exhaustive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "incomplete",
+      "explanation": {
+        "concept": "Missing important data implies incompleteness.",
+        "step_by_step": [
+          "'Omitted key data' is main clue.",
+          "Thus, report lacks completeness.",
+          "Answer: incomplete."
+        ],
+        "why_correct": {
+          "B": "'Incomplete' means not containing all necessary parts."
+        },
+        "why_incorrect": {
+          "A": "Comprehensive is opposite.",
+          "C": "Detailed doesn't imply missing data.",
+          "D": "Exhaustive is complete."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "logical omission"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1865,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The diplomat's response was carefully ______ to avoid offending either party involved in the conflict.",
+    "options": [
+      {
+        "id": "A",
+        "text": "provocative"
+      },
+      {
+        "id": "B",
+        "text": "neutralized"
+      },
+      {
+        "id": "C",
+        "text": "worded"
+      },
+      {
+        "id": "D",
+        "text": "exaggerated"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "worded",
+      "explanation": {
+        "concept": "Diplomatic language requires careful phrasing.",
+        "step_by_step": [
+          "'Avoid offending either party' implies careful phrasing.",
+          "The correct collocation is 'carefully worded'."
+        ],
+        "why_correct": {
+          "C": "'Worded' correctly completes the phrase 'carefully worded'."
+        },
+        "why_incorrect": {
+          "A": "Provocative is opposite.",
+          "B": "Neutralized is incorrect usage here.",
+          "D": "Exaggerated contradicts diplomacy."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "collocation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1866,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The CEO's announcement was met with ______ reactions, as some employees welcomed it while others opposed it strongly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "uniform"
+      },
+      {
+        "id": "B",
+        "text": "mixed"
+      },
+      {
+        "id": "C",
+        "text": "indifferent"
+      },
+      {
+        "id": "D",
+        "text": "predictable"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "mixed",
+      "explanation": {
+        "concept": "Contrasting reactions indicate diversity of opinions.",
+        "step_by_step": [
+          "'Some welcomed' and 'others opposed' indicate contrast.",
+          "Thus, reactions are not same but varied.",
+          "Hence, mixed."
+        ],
+        "why_correct": {
+          "B": "'Mixed' means consisting of different types or opinions."
+        },
+        "why_incorrect": {
+          "A": "Uniform means same, contradicts context.",
+          "C": "Indifferent means no strong feelings.",
+          "D": "Predictable is unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_31",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "contrast inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1867,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The scientist remained ______ about the results, refusing to draw conclusions until further tests were conducted.",
+    "options": [
+      {
+        "id": "A",
+        "text": "enthusiastic"
+      },
+      {
+        "id": "B",
+        "text": "skeptical"
+      },
+      {
+        "id": "C",
+        "text": "certain"
+      },
+      {
+        "id": "D",
+        "text": "careless"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "skeptical",
+      "explanation": {
+        "concept": "Refusal to conclude implies doubt.",
+        "step_by_step": [
+          "'Refusing to draw conclusions' indicates doubt.",
+          "Thus, not fully convinced.",
+          "Hence, skeptical."
+        ],
+        "why_correct": {
+          "B": "'Skeptical' means doubtful or unconvinced."
+        },
+        "why_incorrect": {
+          "A": "Enthusiastic implies excitement.",
+          "C": "Certain is opposite.",
+          "D": "Careless is irrelevant."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_32",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "attitude inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1868,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The instructions were deliberately ______ to prevent unauthorized users from understanding the system.",
+    "options": [
+      {
+        "id": "A",
+        "text": "clear"
+      },
+      {
+        "id": "B",
+        "text": "obscure"
+      },
+      {
+        "id": "C",
+        "text": "simple"
+      },
+      {
+        "id": "D",
+        "text": "direct"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "obscure",
+      "explanation": {
+        "concept": "Intentional lack of clarity to restrict understanding.",
+        "step_by_step": [
+          "'Prevent understanding' is key.",
+          "Implies making something unclear.",
+          "Thus, obscure."
+        ],
+        "why_correct": {
+          "B": "'Obscure' means unclear or difficult to understand."
+        },
+        "why_incorrect": {
+          "A": "Clear is opposite.",
+          "C": "Simple is easy to understand.",
+          "D": "Direct implies clarity."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_33",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "intent-based vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1869,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His explanation was so ______ that it seemed intentionally designed to confuse rather than clarify.",
+    "options": [
+      {
+        "id": "A",
+        "text": "coherent"
+      },
+      {
+        "id": "B",
+        "text": "convoluted"
+      },
+      {
+        "id": "C",
+        "text": "lucid"
+      },
+      {
+        "id": "D",
+        "text": "concise"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "convoluted",
+      "explanation": {
+        "concept": "Overly complex and twisted explanations cause confusion.",
+        "step_by_step": [
+          "'Designed to confuse' is key clue.",
+          "Implies unnecessarily complex structure.",
+          "Thus, convoluted."
+        ],
+        "why_correct": {
+          "B": "'Convoluted' means complex and difficult to follow."
+        },
+        "why_incorrect": {
+          "A": "Coherent is logical.",
+          "C": "Lucid is clear.",
+          "D": "Concise is brief."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_34",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "complexity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1870,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The manager's approach was highly ______, focusing only on short-term gains rather than long-term sustainability.",
+    "options": [
+      {
+        "id": "A",
+        "text": "visionary"
+      },
+      {
+        "id": "B",
+        "text": "shortsighted"
+      },
+      {
+        "id": "C",
+        "text": "strategic"
+      },
+      {
+        "id": "D",
+        "text": "innovative"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "shortsighted",
+      "explanation": {
+        "concept": "Ignoring long-term effects indicates lack of foresight.",
+        "step_by_step": [
+          "'Only short-term gains' is key.",
+          "Implies lack of future planning.",
+          "Thus, shortsighted."
+        ],
+        "why_correct": {
+          "B": "'Shortsighted' means lacking foresight."
+        },
+        "why_incorrect": {
+          "A": "Visionary is opposite.",
+          "C": "Strategic implies planning.",
+          "D": "Innovative is unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_35",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "future orientation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1871,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The witness gave a ______ account of the incident, including every minor detail with precision.",
+    "options": [
+      {
+        "id": "A",
+        "text": "sketchy"
+      },
+      {
+        "id": "B",
+        "text": "meticulous"
+      },
+      {
+        "id": "C",
+        "text": "incomplete"
+      },
+      {
+        "id": "D",
+        "text": "approximate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "meticulous",
+      "explanation": {
+        "concept": "Attention to every detail implies thoroughness.",
+        "step_by_step": [
+          "'Every minor detail' is key clue.",
+          "Implies extreme care and precision.",
+          "Thus, meticulous."
+        ],
+        "why_correct": {
+          "B": "'Meticulous' means very careful and precise."
+        },
+        "why_incorrect": {
+          "A": "Sketchy lacks detail.",
+          "C": "Incomplete is missing parts.",
+          "D": "Approximate is not exact."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_36",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "detail inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1872,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.59,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The policy was widely criticized as ______, benefiting only a small group while ignoring the majority.",
+    "options": [
+      {
+        "id": "A",
+        "text": "equitable"
+      },
+      {
+        "id": "B",
+        "text": "unfair"
+      },
+      {
+        "id": "C",
+        "text": "inclusive"
+      },
+      {
+        "id": "D",
+        "text": "balanced"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "unfair",
+      "explanation": {
+        "concept": "Favoring a small group implies inequality.",
+        "step_by_step": [
+          "'Benefiting only a small group' is key.",
+          "Implies lack of fairness.",
+          "Thus, unfair."
+        ],
+        "why_correct": {
+          "B": "'Unfair' means not just or equitable."
+        },
+        "why_incorrect": {
+          "A": "Equitable is opposite.",
+          "C": "Inclusive is opposite.",
+          "D": "Balanced implies fairness."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_37",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "fairness inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1873,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The novel's ending was deliberately ______, leaving readers uncertain about the fate of the characters.",
+    "options": [
+      {
+        "id": "A",
+        "text": "conclusive"
+      },
+      {
+        "id": "B",
+        "text": "ambiguous"
+      },
+      {
+        "id": "C",
+        "text": "definitive"
+      },
+      {
+        "id": "D",
+        "text": "resolved"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "ambiguous",
+      "explanation": {
+        "concept": "Uncertainty implies multiple interpretations.",
+        "step_by_step": [
+          "'Leaving readers uncertain' is key.",
+          "Implies lack of clear resolution.",
+          "Thus, ambiguous."
+        ],
+        "why_correct": {
+          "B": "'Ambiguous' means open to multiple interpretations."
+        },
+        "why_incorrect": {
+          "A": "Conclusive gives clarity.",
+          "C": "Definitive is final.",
+          "D": "Resolved is settled."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_38",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "uncertainty inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1874,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "His apology seemed ______, as he failed to show any genuine remorse for his actions.",
+    "options": [
+      {
+        "id": "A",
+        "text": "sincere"
+      },
+      {
+        "id": "B",
+        "text": "genuine"
+      },
+      {
+        "id": "C",
+        "text": "insincere"
+      },
+      {
+        "id": "D",
+        "text": "heartfelt"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "insincere",
+      "explanation": {
+        "concept": "Lack of remorse implies lack of genuineness.",
+        "step_by_step": [
+          "'Failed to show genuine remorse' is key.",
+          "Implies apology not real.",
+          "Thus, insincere."
+        ],
+        "why_correct": {
+          "C": "'Insincere' means not genuine."
+        },
+        "why_incorrect": {
+          "A": "Sincere is opposite.",
+          "B": "Genuine is opposite.",
+          "D": "Heartfelt implies sincerity."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_39",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "emotion inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1875,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The analyst warned that the optimistic projections were ______, ignoring several underlying economic risks.",
+    "options": [
+      {
+        "id": "A",
+        "text": "realistic"
+      },
+      {
+        "id": "B",
+        "text": "grounded"
+      },
+      {
+        "id": "C",
+        "text": "overstated"
+      },
+      {
+        "id": "D",
+        "text": "accurate"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "overstated",
+      "explanation": {
+        "concept": "Ignoring risks suggests exaggeration of positive outcomes.",
+        "step_by_step": [
+          "'Ignoring risks' indicates incomplete optimism.",
+          "Implies projections too positive.",
+          "Thus, overstated."
+        ],
+        "why_correct": {
+          "C": "'Overstated' means exaggerated."
+        },
+        "why_incorrect": {
+          "A": "Realistic includes risks.",
+          "B": "Grounded implies accuracy.",
+          "D": "Accurate contradicts context."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_40",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "critical evaluation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1876,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The lawyer's argument was highly ______, presenting facts in a clear and convincing manner that influenced the jury.",
+    "options": [
+      {
+        "id": "A",
+        "text": "persuasive"
+      },
+      {
+        "id": "B",
+        "text": "confusing"
+      },
+      {
+        "id": "C",
+        "text": "irrelevant"
+      },
+      {
+        "id": "D",
+        "text": "weak"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "persuasive",
+      "explanation": {
+        "concept": "Convincing communication implies persuasive ability.",
+        "step_by_step": [
+          "'Clear and convincing manner' is key clue.",
+          "Implies ability to influence others.",
+          "Thus, persuasive."
+        ],
+        "why_correct": {
+          "A": "'Persuasive' means convincing or able to influence."
+        },
+        "why_incorrect": {
+          "B": "Confusing contradicts clarity.",
+          "C": "Irrelevant is unrelated.",
+          "D": "Weak is opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_41",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "argument strength"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1877,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The writer adopted a ______ tone, subtly criticizing societal norms through irony and humor.",
+    "options": [
+      {
+        "id": "A",
+        "text": "satirical"
+      },
+      {
+        "id": "B",
+        "text": "serious"
+      },
+      {
+        "id": "C",
+        "text": "neutral"
+      },
+      {
+        "id": "D",
+        "text": "formal"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "satirical",
+      "explanation": {
+        "concept": "Use of irony and humor to criticize is satire.",
+        "step_by_step": [
+          "'Criticizing through irony and humor' is key clue.",
+          "This directly defines satire.",
+          "Thus, satirical."
+        ],
+        "why_correct": {
+          "A": "'Satirical' refers to using humor or irony to criticize."
+        },
+        "why_incorrect": {
+          "B": "Serious lacks humor.",
+          "C": "Neutral lacks criticism.",
+          "D": "Formal is style, not tone of criticism."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_42",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "tone analysis"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1878,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.59,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The sudden change in policy created a sense of ______ among employees, who were unsure about their future roles.",
+    "options": [
+      {
+        "id": "A",
+        "text": "certainty"
+      },
+      {
+        "id": "B",
+        "text": "clarity"
+      },
+      {
+        "id": "C",
+        "text": "uncertainty"
+      },
+      {
+        "id": "D",
+        "text": "confidence"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "uncertainty",
+      "explanation": {
+        "concept": "Lack of clarity about future implies uncertainty.",
+        "step_by_step": [
+          "'Unsure about their future roles' is key clue.",
+          "Implies doubt or unpredictability.",
+          "Thus, uncertainty."
+        ],
+        "why_correct": {
+          "C": "'Uncertainty' means lack of certainty or predictability."
+        },
+        "why_incorrect": {
+          "A": "Certainty is opposite.",
+          "B": "Clarity is opposite.",
+          "D": "Confidence contradicts doubt."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_43",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "emotion inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1879,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author's argument was criticized as ______, relying heavily on assumptions rather than solid evidence.",
+    "options": [
+      {
+        "id": "A",
+        "text": "empirical"
+      },
+      {
+        "id": "B",
+        "text": "speculative"
+      },
+      {
+        "id": "C",
+        "text": "verified"
+      },
+      {
+        "id": "D",
+        "text": "conclusive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "speculative",
+      "explanation": {
+        "concept": "Arguments based on assumptions are speculative.",
+        "step_by_step": [
+          "'Relying on assumptions' is key.",
+          "Lack of solid evidence implies guesswork.",
+          "Thus, speculative."
+        ],
+        "why_correct": {
+          "B": "'Speculative' means based on guesses rather than evidence."
+        },
+        "why_incorrect": {
+          "A": "Empirical is evidence-based.",
+          "C": "Verified is confirmed.",
+          "D": "Conclusive is final."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_44",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "evidence evaluation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1880,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The team's strategy proved to be ______, successfully adapting to unexpected challenges during the project.",
+    "options": [
+      {
+        "id": "A",
+        "text": "rigid"
+      },
+      {
+        "id": "B",
+        "text": "flexible"
+      },
+      {
+        "id": "C",
+        "text": "ineffective"
+      },
+      {
+        "id": "D",
+        "text": "static"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "flexible",
+      "explanation": {
+        "concept": "Adaptability implies flexibility.",
+        "step_by_step": [
+          "'Adapting to unexpected challenges' is key.",
+          "Implies ability to change.",
+          "Thus, flexible."
+        ],
+        "why_correct": {
+          "B": "'Flexible' means able to adapt or change."
+        },
+        "why_incorrect": {
+          "A": "Rigid is opposite.",
+          "C": "Ineffective contradicts success.",
+          "D": "Static means unchanging."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_45",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "adaptability inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1881,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The critic described the film as ______, noting that it followed a predictable pattern without any originality.",
+    "options": [
+      {
+        "id": "A",
+        "text": "innovative"
+      },
+      {
+        "id": "B",
+        "text": "formulaic"
+      },
+      {
+        "id": "C",
+        "text": "groundbreaking"
+      },
+      {
+        "id": "D",
+        "text": "creative"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "formulaic",
+      "explanation": {
+        "concept": "Predictable structure implies formulaic nature.",
+        "step_by_step": [
+          "'Predictable pattern' is key clue.",
+          "Indicates lack of originality.",
+          "Thus, formulaic."
+        ],
+        "why_correct": {
+          "B": "'Formulaic' means following a fixed pattern."
+        },
+        "why_incorrect": {
+          "A": "Innovative is opposite.",
+          "C": "Groundbreaking implies originality.",
+          "D": "Creative contradicts predictability."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_46",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "pattern inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1882,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The speaker's message was ______, easily understood by people from diverse backgrounds.",
+    "options": [
+      {
+        "id": "A",
+        "text": "accessible"
+      },
+      {
+        "id": "B",
+        "text": "complex"
+      },
+      {
+        "id": "C",
+        "text": "technical"
+      },
+      {
+        "id": "D",
+        "text": "obscure"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "accessible",
+      "explanation": {
+        "concept": "Ease of understanding implies accessibility.",
+        "step_by_step": [
+          "'Easily understood' is key clue.",
+          "Implies simple and clear communication.",
+          "Thus, accessible."
+        ],
+        "why_correct": {
+          "A": "'Accessible' means easy to understand."
+        },
+        "why_incorrect": {
+          "B": "Complex contradicts.",
+          "C": "Technical limits audience.",
+          "D": "Obscure is unclear."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_47",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "clarity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1883,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The report was criticized for its ______ tone, as it exaggerated minor issues and created unnecessary alarm.",
+    "options": [
+      {
+        "id": "A",
+        "text": "measured"
+      },
+      {
+        "id": "B",
+        "text": "sensational"
+      },
+      {
+        "id": "C",
+        "text": "balanced"
+      },
+      {
+        "id": "D",
+        "text": "objective"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "sensational",
+      "explanation": {
+        "concept": "Exaggeration for effect indicates sensationalism.",
+        "step_by_step": [
+          "'Exaggerated minor issues' is key.",
+          "Implies dramatic overstatement.",
+          "Thus, sensational."
+        ],
+        "why_correct": {
+          "B": "'Sensational' means exaggerated for effect."
+        },
+        "why_incorrect": {
+          "A": "Measured is controlled.",
+          "C": "Balanced is fair.",
+          "D": "Objective is neutral."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_48",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "tone evaluation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1884,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The engineer proposed a ______ solution, combining multiple techniques to address the complex problem.",
+    "options": [
+      {
+        "id": "A",
+        "text": "simple"
+      },
+      {
+        "id": "B",
+        "text": "innovative"
+      },
+      {
+        "id": "C",
+        "text": "routine"
+      },
+      {
+        "id": "D",
+        "text": "conventional"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "innovative",
+      "explanation": {
+        "concept": "Combining techniques implies creativity and novelty.",
+        "step_by_step": [
+          "'Combining multiple techniques' is key.",
+          "Implies new or creative approach.",
+          "Thus, innovative."
+        ],
+        "why_correct": {
+          "B": "'Innovative' means introducing new ideas."
+        },
+        "why_incorrect": {
+          "A": "Simple doesn't imply complexity.",
+          "C": "Routine lacks creativity.",
+          "D": "Conventional is traditional."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_49",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "creativity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1885,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The manager's instructions were ______, leaving employees unsure about how to proceed with their tasks.",
+    "options": [
+      {
+        "id": "A",
+        "text": "explicit"
+      },
+      {
+        "id": "B",
+        "text": "ambiguous"
+      },
+      {
+        "id": "C",
+        "text": "clear"
+      },
+      {
+        "id": "D",
+        "text": "precise"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "ambiguous",
+      "explanation": {
+        "concept": "Uncertainty arises from lack of clarity.",
+        "step_by_step": [
+          "'Unsure about how to proceed' is key.",
+          "Implies unclear instructions.",
+          "Thus, ambiguous."
+        ],
+        "why_correct": {
+          "B": "'Ambiguous' means open to multiple interpretations."
+        },
+        "why_incorrect": {
+          "A": "Explicit is clear.",
+          "C": "Clear contradicts context.",
+          "D": "Precise is exact."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_50",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "clarity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1886,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The research findings were considered ______, as they were supported by extensive data and rigorous analysis.",
+    "options": [
+      {
+        "id": "A",
+        "text": "dubious"
+      },
+      {
+        "id": "B",
+        "text": "credible"
+      },
+      {
+        "id": "C",
+        "text": "questionable"
+      },
+      {
+        "id": "D",
+        "text": "uncertain"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "credible",
+      "explanation": {
+        "concept": "Strong evidence leads to trustworthiness.",
+        "step_by_step": [
+          "'Supported by extensive data' is key clue.",
+          "Implies reliability.",
+          "Thus, credible."
+        ],
+        "why_correct": {
+          "B": "'Credible' means believable or trustworthy."
+        },
+        "why_incorrect": {
+          "A": "Dubious means doubtful.",
+          "C": "Questionable implies doubt.",
+          "D": "Uncertain contradicts strong support."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_51",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "evidence inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1887,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The leader's speech was ______, inspiring the audience to take immediate action toward social change.",
+    "options": [
+      {
+        "id": "A",
+        "text": "apathetic"
+      },
+      {
+        "id": "B",
+        "text": "motivational"
+      },
+      {
+        "id": "C",
+        "text": "indifferent"
+      },
+      {
+        "id": "D",
+        "text": "passive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "motivational",
+      "explanation": {
+        "concept": "Encouraging action implies motivation.",
+        "step_by_step": [
+          "'Inspiring the audience to take action' is key.",
+          "Implies encouragement.",
+          "Thus, motivational."
+        ],
+        "why_correct": {
+          "B": "'Motivational' means inspiring action."
+        },
+        "why_incorrect": {
+          "A": "Apathetic lacks interest.",
+          "C": "Indifferent shows no concern.",
+          "D": "Passive lacks action."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_52",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "effect inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1888,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The explanation was so ______ that even beginners could grasp the concept quickly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "complex"
+      },
+      {
+        "id": "B",
+        "text": "lucid"
+      },
+      {
+        "id": "C",
+        "text": "technical"
+      },
+      {
+        "id": "D",
+        "text": "ambiguous"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "lucid",
+      "explanation": {
+        "concept": "Ease of understanding implies clarity.",
+        "step_by_step": [
+          "'Beginners could grasp quickly' is key.",
+          "Implies simplicity and clarity.",
+          "Thus, lucid."
+        ],
+        "why_correct": {
+          "B": "'Lucid' means clear and easy to understand."
+        },
+        "why_incorrect": {
+          "A": "Complex contradicts.",
+          "C": "Technical limits understanding.",
+          "D": "Ambiguous creates confusion."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_53",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "clarity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1889,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.86,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The policy was criticized as ______, as it appeared fair in theory but failed to deliver equitable outcomes in practice.",
+    "options": [
+      {
+        "id": "A",
+        "text": "effective"
+      },
+      {
+        "id": "B",
+        "text": "pragmatic"
+      },
+      {
+        "id": "C",
+        "text": "flawed"
+      },
+      {
+        "id": "D",
+        "text": "efficient"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "flawed",
+      "explanation": {
+        "concept": "Mismatch between theory and practice indicates defect.",
+        "step_by_step": [
+          "'Fair in theory but failed in practice' is key.",
+          "Implies inherent weakness.",
+          "Thus, flawed."
+        ],
+        "why_correct": {
+          "C": "'Flawed' means having defects or weaknesses."
+        },
+        "why_incorrect": {
+          "A": "Effective contradicts failure.",
+          "B": "Pragmatic implies practicality.",
+          "D": "Efficient relates to performance."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_54",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "critical reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1890,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The teacher encouraged ______ thinking, urging students to question assumptions and analyze arguments deeply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "rote"
+      },
+      {
+        "id": "B",
+        "text": "critical"
+      },
+      {
+        "id": "C",
+        "text": "passive"
+      },
+      {
+        "id": "D",
+        "text": "mechanical"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "critical",
+      "explanation": {
+        "concept": "Questioning and analysis define critical thinking.",
+        "step_by_step": [
+          "'Question assumptions and analyze deeply' is key.",
+          "Implies analytical approach.",
+          "Thus, critical."
+        ],
+        "why_correct": {
+          "B": "'Critical' thinking involves analysis and evaluation."
+        },
+        "why_incorrect": {
+          "A": "Rote is memorization.",
+          "C": "Passive lacks engagement.",
+          "D": "Mechanical is routine."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_55",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "thinking skills"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1891,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The negotiator maintained a ______ stance, refusing to compromise despite mounting pressure.",
+    "options": [
+      {
+        "id": "A",
+        "text": "flexible"
+      },
+      {
+        "id": "B",
+        "text": "rigid"
+      },
+      {
+        "id": "C",
+        "text": "adaptable"
+      },
+      {
+        "id": "D",
+        "text": "cooperative"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "rigid",
+      "explanation": {
+        "concept": "Refusal to compromise indicates inflexibility.",
+        "step_by_step": [
+          "'Refusing to compromise' is key.",
+          "Implies strict and unchanging position.",
+          "Thus, rigid."
+        ],
+        "why_correct": {
+          "B": "'Rigid' means inflexible."
+        },
+        "why_incorrect": {
+          "A": "Flexible is opposite.",
+          "C": "Adaptable implies change.",
+          "D": "Cooperative contradicts refusal."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_56",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "behavior inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1892,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The instructions were ______, requiring careful reading to avoid mistakes.",
+    "options": [
+      {
+        "id": "A",
+        "text": "straightforward"
+      },
+      {
+        "id": "B",
+        "text": "complicated"
+      },
+      {
+        "id": "C",
+        "text": "simple"
+      },
+      {
+        "id": "D",
+        "text": "clear"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "complicated",
+      "explanation": {
+        "concept": "Need for careful reading implies complexity.",
+        "step_by_step": [
+          "'Requiring careful reading' is key.",
+          "Implies difficulty in understanding.",
+          "Thus, complicated."
+        ],
+        "why_correct": {
+          "B": "'Complicated' means difficult to understand."
+        },
+        "why_incorrect": {
+          "A": "Straightforward is easy.",
+          "C": "Simple is opposite.",
+          "D": "Clear is easy."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_57",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "complexity inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1893,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.87,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The scientist dismissed the results as ______, arguing that the sample size was too small to draw valid conclusions.",
+    "options": [
+      {
+        "id": "A",
+        "text": "conclusive"
+      },
+      {
+        "id": "B",
+        "text": "inconclusive"
+      },
+      {
+        "id": "C",
+        "text": "definitive"
+      },
+      {
+        "id": "D",
+        "text": "decisive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "inconclusive",
+      "explanation": {
+        "concept": "Insufficient data leads to inconclusive results.",
+        "step_by_step": [
+          "'Sample size too small' is key.",
+          "Implies lack of reliable conclusion.",
+          "Thus, inconclusive."
+        ],
+        "why_correct": {
+          "B": "'Inconclusive' means not leading to a firm conclusion."
+        },
+        "why_incorrect": {
+          "A": "Conclusive is opposite.",
+          "C": "Definitive implies certainty.",
+          "D": "Decisive implies clear outcome."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_58",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "data interpretation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1894,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The manager's praise seemed ______, as it lacked enthusiasm and appeared forced.",
+    "options": [
+      {
+        "id": "A",
+        "text": "genuine"
+      },
+      {
+        "id": "B",
+        "text": "lukewarm"
+      },
+      {
+        "id": "C",
+        "text": "enthusiastic"
+      },
+      {
+        "id": "D",
+        "text": "sincere"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "lukewarm",
+      "explanation": {
+        "concept": "Lack of enthusiasm indicates mild or unenthusiastic response.",
+        "step_by_step": [
+          "'Lacked enthusiasm' is key clue.",
+          "Implies weak or unconvincing praise.",
+          "Thus, lukewarm."
+        ],
+        "why_correct": {
+          "B": "'Lukewarm' means lacking enthusiasm."
+        },
+        "why_incorrect": {
+          "A": "Genuine implies sincerity.",
+          "C": "Enthusiastic is opposite.",
+          "D": "Sincere contradicts forced tone."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_59",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "tone nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1895,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Vocabulary in context",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.88,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The argument was dismissed as ______, as it relied on emotional appeal rather than logical reasoning.",
+    "options": [
+      {
+        "id": "A",
+        "text": "rational"
+      },
+      {
+        "id": "B",
+        "text": "objective"
+      },
+      {
+        "id": "C",
+        "text": "fallacious"
+      },
+      {
+        "id": "D",
+        "text": "analytical"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "fallacious",
+      "explanation": {
+        "concept": "Arguments based on faulty reasoning are fallacious.",
+        "step_by_step": [
+          "'Relied on emotional appeal' is key.",
+          "Lacks logical reasoning.",
+          "Thus, fallacious."
+        ],
+        "why_correct": {
+          "C": "'Fallacious' means based on a mistaken belief or error."
+        },
+        "why_incorrect": {
+          "A": "Rational is logical.",
+          "B": "Objective is unbiased.",
+          "D": "Analytical implies logic."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_60",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "logical reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  }
+]

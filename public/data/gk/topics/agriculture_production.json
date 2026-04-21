@@ -1,0 +1,446 @@
+[
+  {
+    "id": 2604,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Agriculture Production",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Indian state is the largest producer of wheat in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Punjab"
+      },
+      {
+        "id": "B",
+        "text": "Haryana"
+      },
+      {
+        "id": "C",
+        "text": "Uttar Pradesh"
+      },
+      {
+        "id": "D",
+        "text": "Rajasthan"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Uttar Pradesh",
+      "explanation": {
+        "concept": "Uttar Pradesh leads in wheat production due to fertile Gangetic plains and irrigation facilities.",
+        "step_by_step": [
+          "Identify major wheat-producing belt",
+          "Gangetic plains dominate production",
+          "UP has largest area and output"
+        ],
+        "why_correct": {
+          "C": "Highest wheat production in India"
+        },
+        "why_incorrect": {
+          "A": "High productivity but smaller area",
+          "B": "Smaller scale than UP",
+          "D": "Climatic constraints"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2604",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Agriculture geography"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 2614,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Agriculture Production",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Indian state is the leading producer of cotton in India as per recent trends?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Punjab"
+      },
+      {
+        "id": "B",
+        "text": "Gujarat"
+      },
+      {
+        "id": "C",
+        "text": "Tamil Nadu"
+      },
+      {
+        "id": "D",
+        "text": "West Bengal"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Gujarat",
+      "explanation": {
+        "concept": "Gujarat leads cotton production due to favorable black soil and climate.",
+        "step_by_step": [
+          "Identify cotton belt",
+          "Black soil region supports cotton",
+          "Gujarat has highest output"
+        ],
+        "why_correct": {
+          "B": "Largest cotton producer"
+        },
+        "why_incorrect": {
+          "A": "Produces cotton but not highest",
+          "C": "Moderate production",
+          "D": "Climatic mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2614",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Crop distribution"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 2624,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Agriculture Production",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following states is the leading producer of sugarcane in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maharashtra"
+      },
+      {
+        "id": "B",
+        "text": "Karnataka"
+      },
+      {
+        "id": "C",
+        "text": "Uttar Pradesh"
+      },
+      {
+        "id": "D",
+        "text": "Tamil Nadu"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Uttar Pradesh",
+      "explanation": {
+        "concept": "Uttar Pradesh is the largest producer of sugarcane due to favorable climate and irrigation.",
+        "step_by_step": [
+          "Identify sugarcane belt",
+          "UP has largest cultivation area",
+          "High yield and production"
+        ],
+        "why_correct": {
+          "C": "Highest production"
+        },
+        "why_incorrect": {
+          "A": "High productivity but not highest total output",
+          "B": "Moderate production",
+          "D": "Lower production"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2624",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Cash crops"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 2634,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Agriculture Production",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which crop is primarily grown in black soil regions of India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rice"
+      },
+      {
+        "id": "B",
+        "text": "Wheat"
+      },
+      {
+        "id": "C",
+        "text": "Cotton"
+      },
+      {
+        "id": "D",
+        "text": "Tea"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Cotton",
+      "explanation": {
+        "concept": "Black soil retains moisture and is ideal for cotton cultivation.",
+        "step_by_step": [
+          "Identify soil type",
+          "Black soil (regur)",
+          "Best suited for cotton"
+        ],
+        "why_correct": {
+          "C": "Correct crop"
+        },
+        "why_incorrect": {
+          "A": "Requires alluvial soil",
+          "B": "Grown in alluvial soil",
+          "D": "Grown in hilly regions"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2634",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Soil-crop relation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 2644,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Agriculture Production",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which state is the leading producer of rice in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Punjab"
+      },
+      {
+        "id": "B",
+        "text": "Uttar Pradesh"
+      },
+      {
+        "id": "C",
+        "text": "West Bengal"
+      },
+      {
+        "id": "D",
+        "text": "Bihar"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "West Bengal",
+      "explanation": {
+        "concept": "West Bengal leads rice production due to favorable climate and fertile deltaic soil.",
+        "step_by_step": [
+          "Identify rice-growing regions",
+          "Eastern India dominates",
+          "West Bengal highest production"
+        ],
+        "why_correct": {
+          "C": "Largest producer"
+        },
+        "why_incorrect": {
+          "A": "Wheat dominant",
+          "B": "High but not highest",
+          "D": "Moderate production"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2644",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Crop distribution"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  },
+  {
+    "id": 2654,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Agriculture Production",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following states is the largest producer of pulses in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Madhya Pradesh"
+      },
+      {
+        "id": "B",
+        "text": "Uttar Pradesh"
+      },
+      {
+        "id": "C",
+        "text": "Rajasthan"
+      },
+      {
+        "id": "D",
+        "text": "Maharashtra"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Madhya Pradesh",
+      "explanation": {
+        "concept": "Madhya Pradesh is the leading producer of pulses due to large cultivation area.",
+        "step_by_step": [
+          "Identify pulse belt",
+          "Central India dominates",
+          "MP highest production"
+        ],
+        "why_correct": {
+          "A": "Largest producer"
+        },
+        "why_incorrect": {
+          "B": "Produces but not highest",
+          "C": "Moderate production",
+          "D": "Lower production"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2654",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Crop distribution"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  }
+]

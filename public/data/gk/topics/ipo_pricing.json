@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3194,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "IPO Pricing",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a book-building IPO process, the final issue price is determined based on:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fixed by SEBI"
+      },
+      {
+        "id": "B",
+        "text": "Demand from investors within a price band"
+      },
+      {
+        "id": "C",
+        "text": "Company's past profits only"
+      },
+      {
+        "id": "D",
+        "text": "Government regulations alone"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Demand from investors within a price band",
+      "explanation": {
+        "concept": "Book-building determines price through investor bids within a specified range.",
+        "step_by_step": [
+          "Company sets price band",
+          "Investors bid within range",
+          "Final price based on demand"
+        ],
+        "why_correct": {
+          "B": "Demand-driven pricing mechanism"
+        },
+        "why_incorrect": {
+          "A": "SEBI regulates but doesn't fix price",
+          "C": "Profits alone don't determine price",
+          "D": "Not solely government decided"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3194",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "IPO pricing"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

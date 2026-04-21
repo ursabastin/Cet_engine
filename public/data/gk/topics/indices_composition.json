@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3191,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indices Composition",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The Nifty 50 index is considered diversified because:",
+    "options": [
+      {
+        "id": "A",
+        "text": "It includes only technology companies"
+      },
+      {
+        "id": "B",
+        "text": "It tracks companies from multiple sectors of the economy"
+      },
+      {
+        "id": "C",
+        "text": "It includes only government-owned companies"
+      },
+      {
+        "id": "D",
+        "text": "It tracks global companies listed in India"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "It tracks companies from multiple sectors of the economy",
+      "explanation": {
+        "concept": "Diversification in indices reduces sector-specific risk by including companies across industries.",
+        "step_by_step": [
+          "Nifty 50 includes companies from banking, IT, FMCG, etc.",
+          "This spreads sectoral exposure",
+          "Hence diversified representation"
+        ],
+        "why_correct": {
+          "B": "Nifty 50 covers multiple sectors"
+        },
+        "why_incorrect": {
+          "A": "Not limited to tech",
+          "C": "Includes private and public firms",
+          "D": "Focuses on Indian-listed companies"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3191",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "diversification"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

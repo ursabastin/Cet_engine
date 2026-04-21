@@ -1,0 +1,751 @@
+[
+  {
+    "id": 1676,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Each of the players in the team ___ expected to perform exceptionally well in the tournament.",
+    "options": [
+      {
+        "id": "A",
+        "text": "are"
+      },
+      {
+        "id": "B",
+        "text": "is"
+      },
+      {
+        "id": "C",
+        "text": "were"
+      },
+      {
+        "id": "D",
+        "text": "have been"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "is",
+      "explanation": {
+        "concept": "Indefinite pronouns like 'each' are treated as singular and require a singular verb.",
+        "step_by_step": [
+          "Identify the subject: 'Each of the players'",
+          "'Each' is the core subject, not 'players'",
+          "'Each' is singular",
+          "Therefore, the verb must be singular"
+        ],
+        "why_correct": {
+          "A": "Incorrect verb agreement with singular subject",
+          "B": "Correct singular verb matching singular subject 'each'",
+          "C": "Incorrect tense and plural verb",
+          "D": "Incorrect tense and structure"
+        },
+        "why_incorrect": {
+          "A": "Plural verb used with singular subject",
+          "C": "Wrong tense and incorrect agreement",
+          "D": "Incorrect verb phrase for sentence context"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "indefinite pronoun agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1677,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Neither the manager nor the employees ___ willing to accept the new policy.",
+    "options": [
+      {
+        "id": "A",
+        "text": "is"
+      },
+      {
+        "id": "B",
+        "text": "was"
+      },
+      {
+        "id": "C",
+        "text": "are"
+      },
+      {
+        "id": "D",
+        "text": "has been"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "are",
+      "explanation": {
+        "concept": "In 'neither...nor' constructions, the verb agrees with the subject closer to it.",
+        "step_by_step": [
+          "Identify compound subject: 'Neither the manager nor the employees'",
+          "Nearest subject to verb is 'employees'",
+          "'Employees' is plural",
+          "So, use plural verb"
+        ],
+        "why_correct": {
+          "C": "Correct plural verb agreeing with nearest subject 'employees'"
+        },
+        "why_incorrect": {
+          "A": "Singular verb does not match plural nearest subject",
+          "B": "Incorrect tense and singular form",
+          "D": "Incorrect verb phrase and agreement"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "proximity rule"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1678,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A number of students ___ absent today due to unforeseen circumstances.",
+    "options": [
+      {
+        "id": "A",
+        "text": "is"
+      },
+      {
+        "id": "B",
+        "text": "was"
+      },
+      {
+        "id": "C",
+        "text": "are"
+      },
+      {
+        "id": "D",
+        "text": "has been"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "are",
+      "explanation": {
+        "concept": "'A number of' takes a plural verb, whereas 'The number of' takes a singular verb.",
+        "step_by_step": [
+          "Identify subject: 'A number of students'",
+          "'A number of' implies several",
+          "Hence, plural meaning",
+          "Use plural verb"
+        ],
+        "why_correct": {
+          "C": "Correct plural verb with plural meaning phrase"
+        },
+        "why_incorrect": {
+          "A": "Singular verb incorrect for plural meaning",
+          "B": "Incorrect tense and singular",
+          "D": "Incorrect verb phrase"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "collective expression agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1679,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The quality of the products ___ improved significantly over the years.",
+    "options": [
+      {
+        "id": "A",
+        "text": "have"
+      },
+      {
+        "id": "B",
+        "text": "has"
+      },
+      {
+        "id": "C",
+        "text": "are"
+      },
+      {
+        "id": "D",
+        "text": "were"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "has",
+      "explanation": {
+        "concept": "When a singular noun is followed by 'of + plural noun', the verb agrees with the main noun.",
+        "step_by_step": [
+          "Identify subject: 'The quality'",
+          "'of the products' is a modifier",
+          "'Quality' is singular",
+          "Use singular verb"
+        ],
+        "why_correct": {
+          "B": "Correct singular verb agreeing with 'quality'"
+        },
+        "why_incorrect": {
+          "A": "Plural verb incorrect",
+          "C": "Incorrect tense and agreement",
+          "D": "Incorrect tense"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "head noun agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1680,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The jury ___ divided in their opinions regarding the verdict.",
+    "options": [
+      {
+        "id": "A",
+        "text": "is"
+      },
+      {
+        "id": "B",
+        "text": "are"
+      },
+      {
+        "id": "C",
+        "text": "was"
+      },
+      {
+        "id": "D",
+        "text": "has been"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "are",
+      "explanation": {
+        "concept": "Collective nouns take plural verbs when members act individually.",
+        "step_by_step": [
+          "Subject: 'The jury'",
+          "Context shows division among members",
+          "Hence, individual actions",
+          "Use plural verb"
+        ],
+        "why_correct": {
+          "B": "Correct plural verb for divided collective action"
+        },
+        "why_incorrect": {
+          "A": "Singular verb inappropriate here",
+          "C": "Wrong tense and singular",
+          "D": "Incorrect structure"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "collective noun agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1681,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Mathematics ___ considered a difficult subject by many students.",
+    "options": [
+      {
+        "id": "A",
+        "text": "are"
+      },
+      {
+        "id": "B",
+        "text": "were"
+      },
+      {
+        "id": "C",
+        "text": "is"
+      },
+      {
+        "id": "D",
+        "text": "have been"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "is",
+      "explanation": {
+        "concept": "Subjects like Mathematics, Physics are treated as singular.",
+        "step_by_step": [
+          "Identify subject: 'Mathematics'",
+          "It is a discipline (singular concept)",
+          "Use singular verb"
+        ],
+        "why_correct": {
+          "C": "Correct singular verb"
+        },
+        "why_incorrect": {
+          "A": "Plural verb incorrect",
+          "B": "Wrong tense",
+          "D": "Incorrect verb phrase"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "singular academic subjects"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1682,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "One of the most influential leaders in history ___ remembered for his visionary policies.",
+    "options": [
+      {
+        "id": "A",
+        "text": "are"
+      },
+      {
+        "id": "B",
+        "text": "were"
+      },
+      {
+        "id": "C",
+        "text": "is"
+      },
+      {
+        "id": "D",
+        "text": "have been"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "is",
+      "explanation": {
+        "concept": "'One of the' takes singular verb because subject is 'one'.",
+        "step_by_step": [
+          "Subject: 'One'",
+          "Rest is descriptive phrase",
+          "'One' is singular",
+          "Use singular verb"
+        ],
+        "why_correct": {
+          "C": "Correct singular verb with 'one'"
+        },
+        "why_incorrect": {
+          "A": "Plural verb incorrect",
+          "B": "Wrong tense",
+          "D": "Incorrect agreement"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "one of construction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1683,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Not only the teacher but also the students ___ actively participating in the discussion.",
+    "options": [
+      {
+        "id": "A",
+        "text": "is"
+      },
+      {
+        "id": "B",
+        "text": "was"
+      },
+      {
+        "id": "C",
+        "text": "are"
+      },
+      {
+        "id": "D",
+        "text": "has been"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "are",
+      "explanation": {
+        "concept": "With 'not only...but also', the verb agrees with the nearest subject.",
+        "step_by_step": [
+          "Nearest subject is 'students'",
+          "'Students' is plural",
+          "So verb should be plural"
+        ],
+        "why_correct": {
+          "C": "Correct plural verb agreeing with nearest subject"
+        },
+        "why_incorrect": {
+          "A": "Singular verb incorrect",
+          "B": "Wrong tense",
+          "D": "Incorrect structure"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "correlative conjunction agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1684,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The number of applicants who ___ applied for the post ___ increasing every year.",
+    "options": [
+      {
+        "id": "A",
+        "text": "has, are"
+      },
+      {
+        "id": "B",
+        "text": "have, is"
+      },
+      {
+        "id": "C",
+        "text": "has, is"
+      },
+      {
+        "id": "D",
+        "text": "have, are"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "have, is",
+      "explanation": {
+        "concept": "'The number of' takes singular verb; relative clause verb agrees with 'applicants'.",
+        "step_by_step": [
+          "'Applicants' → plural → 'have applied'",
+          "'The number' → singular → 'is increasing'"
+        ],
+        "why_correct": {
+          "B": "Correct plural verb in clause and singular main verb"
+        },
+        "why_incorrect": {
+          "A": "Incorrect clause verb",
+          "C": "Incorrect clause verb",
+          "D": "Incorrect main verb"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "relative clause agreement",
+        "number expressions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  },
+  {
+    "id": 1685,
+    "subject": "English language",
+    "chapter": "Grammar Foundation",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Bread and butter ___ his favorite breakfast combination.",
+    "options": [
+      {
+        "id": "A",
+        "text": "are"
+      },
+      {
+        "id": "B",
+        "text": "were"
+      },
+      {
+        "id": "C",
+        "text": "is"
+      },
+      {
+        "id": "D",
+        "text": "have been"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "is",
+      "explanation": {
+        "concept": "When two nouns refer to a single unit or idea, they take a singular verb.",
+        "step_by_step": [
+          "'Bread and butter' represents one combined item",
+          "Treated as singular concept",
+          "Use singular verb"
+        ],
+        "why_correct": {
+          "C": "Correct singular verb"
+        },
+        "why_incorrect": {
+          "A": "Plural verb incorrect",
+          "B": "Wrong tense",
+          "D": "Incorrect verb phrase"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "compound subject as single unit"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Grammar Foundation"
+  }
+]

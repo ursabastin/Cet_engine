@@ -1,0 +1,77 @@
+[
+  {
+    "id": 2972,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Trade Policy",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary objective of India’s Foreign Trade Policy (FTP) 2023, valid through 2026?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reduce imports drastically"
+      },
+      {
+        "id": "B",
+        "text": "Achieve $2 trillion exports by 2030"
+      },
+      {
+        "id": "C",
+        "text": "Promote only agricultural exports"
+      },
+      {
+        "id": "D",
+        "text": "Eliminate trade deficit completely"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "$2 trillion exports by 2030",
+      "explanation": {
+        "concept": "FTP 2023 focuses on boosting exports via digitalization, district-level promotion, and ease of doing business.",
+        "step_by_step": [
+          "Understand FTP 2023 goals",
+          "It emphasizes export expansion rather than restriction",
+          "Target is long-term growth milestone"
+        ],
+        "why_correct": {
+          "B": "Correct as FTP aims for $2 trillion exports by 2030"
+        },
+        "why_incorrect": {
+          "A": "Policy is not focused on restricting imports",
+          "C": "Covers all sectors, not just agriculture",
+          "D": "Trade deficit elimination is not the main goal"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2972",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "foreign trade policy",
+        "export targets"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

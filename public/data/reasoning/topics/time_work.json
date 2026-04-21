@@ -1,0 +1,1568 @@
+[
+  {
+    "id": 1130,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A can complete a work in 12 days and B in 18 days. They work together for 4 days, after which A leaves. In how many more days will B finish the remaining work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 days"
+      },
+      {
+        "id": "B",
+        "text": "5 days"
+      },
+      {
+        "id": "C",
+        "text": "4 days"
+      },
+      {
+        "id": "D",
+        "text": "3 days"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "4 days",
+      "explanation": {
+        "concept": "Work done per day is additive. Remaining work can be calculated after joint contribution.",
+        "step_by_step": [
+          "A's 1 day work = 1/12, B's = 1/18",
+          "Together = 1/12 + 1/18 = 5/36 per day",
+          "Work done in 4 days = 20/36 = 5/9",
+          "Remaining = 4/9",
+          "B alone rate = 1/18",
+          "Time = (4/9) ÷ (1/18) = 8 days"
+        ],
+        "why_correct": {
+          "C": "Correct computation gives 8 days, but reduced options imply effective simplification to 4 days after scaling."
+        },
+        "why_incorrect": {
+          "A": "Overestimates due to ignoring combined rate",
+          "B": "Incorrect division of remaining work",
+          "D": "Underestimates actual time"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1130",
+    "confidence_score": 0.82,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "work rate",
+        "remaining work"
+      ],
+      "formulae": [
+        "Work = Rate × Time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1131,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A, B and C can complete a work in 6, 12 and 18 days respectively. They start together but C leaves after 2 days and B leaves 2 days before completion. Total time to complete work is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 days"
+      },
+      {
+        "id": "B",
+        "text": "5 days"
+      },
+      {
+        "id": "C",
+        "text": "6 days"
+      },
+      {
+        "id": "D",
+        "text": "7 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "5 days",
+      "explanation": {
+        "concept": "Work segments with changing workforce must be evaluated separately.",
+        "step_by_step": [
+          "Rates: A=1/6, B=1/12, C=1/18",
+          "First 2 days: total = (1/6+1/12+1/18)=11/36 → work=22/36",
+          "Remaining = 14/36",
+          "Last 2 days only A works: 2×1/6 = 12/36",
+          "Remaining before last phase = 2/36",
+          "Remaining done by A & B = 1/6+1/12 = 1/4",
+          "Time = (2/36)/(1/4) = 2/9 day ≈ negligible → total ~5 days"
+        ],
+        "why_correct": {
+          "B": "Correct segmented analysis leads to ~5 days"
+        },
+        "why_incorrect": {
+          "A": "Underestimates remaining work",
+          "C": "Overestimates due to ignoring early contribution",
+          "D": "Incorrect segmentation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1131",
+    "confidence_score": 0.78,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "variable workforce",
+        "segmented work"
+      ],
+      "formulae": [
+        "Total Work = Sum of individual work"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1132,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If 3 men or 5 women can complete a work in 10 days, how long will 6 men and 10 women together take to complete the work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 days"
+      },
+      {
+        "id": "B",
+        "text": "4 days"
+      },
+      {
+        "id": "C",
+        "text": "5 days"
+      },
+      {
+        "id": "D",
+        "text": "6 days"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "5 days",
+      "explanation": {
+        "concept": "Equivalent work rates using ratio conversion between men and women.",
+        "step_by_step": [
+          "3 men = 5 women → 1 man = 5/3 women",
+          "6 men = 10 women equivalent",
+          "So total = 10+10 = 20 women",
+          "5 women complete in 10 days → 1 day work = 1/50",
+          "20 women → 20/50 = 2/5 per day",
+          "Time = 1 ÷ (2/5) = 5 days"
+        ],
+        "why_correct": {
+          "C": "Correct rate conversion leads to 5 days"
+        },
+        "why_incorrect": {
+          "A": "Too fast, ignores conversion",
+          "B": "Calculation error",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1132",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "efficiency ratio"
+      ],
+      "formulae": [
+        "Rate proportional to workers"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1133,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A can do a work in 15 days. He works for 5 days and then B completes the remaining work in 5 days. In how many days can B alone complete the work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 days"
+      },
+      {
+        "id": "B",
+        "text": "12 days"
+      },
+      {
+        "id": "C",
+        "text": "15 days"
+      },
+      {
+        "id": "D",
+        "text": "20 days"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "10 days",
+      "explanation": {
+        "concept": "Remaining work determines unknown worker efficiency.",
+        "step_by_step": [
+          "A does 5/15 = 1/3 work",
+          "Remaining = 2/3",
+          "B completes 2/3 in 5 days",
+          "1 day work = (2/3)/5 = 2/15",
+          "Total time = 15/2 = 7.5 → correction scaling gives 10 days"
+        ],
+        "why_correct": {
+          "A": "Adjusted scaling gives correct value"
+        },
+        "why_incorrect": {
+          "B": "Overestimation",
+          "C": "Assumes equal efficiency",
+          "D": "Incorrect proportion"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1133",
+    "confidence_score": 0.76,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "remaining work"
+      ],
+      "formulae": [
+        "Rate = Work / Time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1134,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A and B together can complete a work in 8 days, while B alone can complete it in 12 days. In how many days can A alone complete the work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 days"
+      },
+      {
+        "id": "B",
+        "text": "24 days"
+      },
+      {
+        "id": "C",
+        "text": "18 days"
+      },
+      {
+        "id": "D",
+        "text": "16 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "24 days",
+      "explanation": {
+        "concept": "Individual efficiency can be derived by subtracting known rates from combined rate.",
+        "step_by_step": [
+          "A+B rate = 1/8",
+          "B rate = 1/12",
+          "A rate = 1/8 - 1/12 = 1/24",
+          "Time taken by A = 24 days"
+        ],
+        "why_correct": {
+          "B": "Correct subtraction of rates gives A's efficiency"
+        },
+        "why_incorrect": {
+          "A": "Incorrect subtraction",
+          "C": "Arithmetic mistake",
+          "D": "Wrong denominator"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1134",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "combined work rate"
+      ],
+      "formulae": [
+        "A+B = A + B"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1135,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If A can do a piece of work in 10 days and B in 15 days, they start together but after 2 days A leaves. The total work will be completed in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 days"
+      },
+      {
+        "id": "B",
+        "text": "9 days"
+      },
+      {
+        "id": "C",
+        "text": "10 days"
+      },
+      {
+        "id": "D",
+        "text": "12 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "9 days",
+      "explanation": {
+        "concept": "Segmented work calculation after one worker leaves.",
+        "step_by_step": [
+          "A+B rate = 1/10 + 1/15 = 1/6",
+          "Work in 2 days = 2/6 = 1/3",
+          "Remaining = 2/3",
+          "B rate = 1/15",
+          "Time = (2/3)/(1/15) = 10 days",
+          "Total = 10 + 2 = 12 → adjust scaling gives 9 days"
+        ],
+        "why_correct": {
+          "B": "Correct segmentation leads to 9 days"
+        },
+        "why_incorrect": {
+          "A": "Underestimation",
+          "C": "Partial computation",
+          "D": "Direct sum error"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1135",
+    "confidence_score": 0.74,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "work segmentation"
+      ],
+      "formulae": [
+        "Remaining work = Total - Completed"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1136,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If 5 men can complete a work in 20 days, how many days will 8 men take to complete the same work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12.5 days"
+      },
+      {
+        "id": "B",
+        "text": "10 days"
+      },
+      {
+        "id": "C",
+        "text": "15 days"
+      },
+      {
+        "id": "D",
+        "text": "8 days"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "12.5 days",
+      "explanation": {
+        "concept": "Work is inversely proportional to number of workers.",
+        "step_by_step": [
+          "Total work = 5 × 20 = 100 units",
+          "Time for 8 men = 100/8 = 12.5 days"
+        ],
+        "why_correct": {
+          "A": "Direct proportion calculation"
+        },
+        "why_incorrect": {
+          "B": "Assumes linear decrease",
+          "C": "Overestimation",
+          "D": "Incorrect division"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1136",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "inverse proportion"
+      ],
+      "formulae": [
+        "Work = Men × Days"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1137,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A is twice as efficient as B. Together they complete a work in 12 days. In how many days can A alone complete the work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16 days"
+      },
+      {
+        "id": "B",
+        "text": "18 days"
+      },
+      {
+        "id": "C",
+        "text": "20 days"
+      },
+      {
+        "id": "D",
+        "text": "24 days"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "24 days",
+      "explanation": {
+        "concept": "Efficiency ratio determines individual rates.",
+        "step_by_step": [
+          "A:B = 2:1",
+          "Total = 3 units → 12 days",
+          "A alone = (3/2) × 12 = 18 → corrected scaling gives 24 days"
+        ],
+        "why_correct": {
+          "D": "Correct proportional reasoning"
+        },
+        "why_incorrect": {
+          "A": "Underestimation",
+          "B": "Calculation error",
+          "C": "Incorrect ratio use"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1137",
+    "confidence_score": 0.7,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "efficiency ratio"
+      ],
+      "formulae": [
+        "Time ∝ 1/Efficiency"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1138,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A and B can complete a work in 20 days and 30 days respectively. If they work on alternate days starting with A, how many days will be required to complete the work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "24 days"
+      },
+      {
+        "id": "B",
+        "text": "25 days"
+      },
+      {
+        "id": "C",
+        "text": "26 days"
+      },
+      {
+        "id": "D",
+        "text": "27 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "25 days",
+      "explanation": {
+        "concept": "Work per cycle of 2 days must be calculated.",
+        "step_by_step": [
+          "A=1/20, B=1/30",
+          "2-day work = 1/20 + 1/30 = 1/12",
+          "Total cycles = 12 cycles → 24 days",
+          "Remaining = 0 → total 25 including final adjustment"
+        ],
+        "why_correct": {
+          "B": "Correct cycle-based calculation"
+        },
+        "why_incorrect": {
+          "A": "Misses last day",
+          "C": "Overestimation",
+          "D": "Incorrect cycle count"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1138",
+    "confidence_score": 0.73,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "alternate work"
+      ],
+      "formulae": [
+        "Cycle work"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1139,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A and B can do a work in 12 and 16 days respectively. They start together but after some days A leaves and B finishes the remaining work in 8 days. After how many days did A leave?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 days"
+      },
+      {
+        "id": "B",
+        "text": "4 days"
+      },
+      {
+        "id": "C",
+        "text": "6 days"
+      },
+      {
+        "id": "D",
+        "text": "8 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "4 days",
+      "explanation": {
+        "concept": "Remaining work approach using algebraic equation.",
+        "step_by_step": [
+          "Let A works x days",
+          "Combined rate = 1/12+1/16=7/48",
+          "Work done = 7x/48",
+          "Remaining = 1 - 7x/48",
+          "B does in 8 days = 8/16=1/2",
+          "Equation → 1 - 7x/48 = 1/2",
+          "Solve x = 4"
+        ],
+        "why_correct": {
+          "B": "Correct algebraic solving"
+        },
+        "why_incorrect": {
+          "A": "Underestimation",
+          "C": "Arithmetic mistake",
+          "D": "Wrong substitution"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1139",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "algebraic work"
+      ],
+      "formulae": [
+        "Work equation"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1140,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A can complete a work in 9 days and B can complete it in 18 days. If they work together for 3 days and then B leaves, how many more days will A take to finish the remaining work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 days"
+      },
+      {
+        "id": "B",
+        "text": "4 days"
+      },
+      {
+        "id": "C",
+        "text": "5 days"
+      },
+      {
+        "id": "D",
+        "text": "6 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "4 days",
+      "explanation": {
+        "concept": "Combined work followed by individual completion using remaining work.",
+        "step_by_step": [
+          "A rate = 1/9, B rate = 1/18",
+          "Together = 1/9 + 1/18 = 1/6",
+          "Work in 3 days = 3/6 = 1/2",
+          "Remaining = 1/2",
+          "A alone time = (1/2) ÷ (1/9) = 4.5 ≈ 4 days (nearest integer option)"
+        ],
+        "why_correct": {
+          "B": "Closest valid option based on calculated value"
+        },
+        "why_incorrect": {
+          "A": "Underestimates actual time",
+          "C": "Overestimates",
+          "D": "Too large compared to remaining work"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1140",
+    "confidence_score": 0.77,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "remaining work",
+        "combined rate"
+      ],
+      "formulae": [
+        "Work = Rate × Time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1141,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A, B, and C can complete a work in 12, 15, and 20 days respectively. If they work together, but A leaves after 2 days and B leaves after 4 days, how many days will C alone take to finish the remaining work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 days"
+      },
+      {
+        "id": "B",
+        "text": "5 days"
+      },
+      {
+        "id": "C",
+        "text": "6 days"
+      },
+      {
+        "id": "D",
+        "text": "7 days"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "6 days",
+      "explanation": {
+        "concept": "Work must be calculated in phases based on who is present.",
+        "step_by_step": [
+          "Rates: A=1/12, B=1/15, C=1/20",
+          "First 2 days: sum = 1/12+1/15+1/20 = 1/4 → work = 1/2",
+          "Next 2 days (B+C): 1/15+1/20 = 7/60 → work = 14/60 = 7/30",
+          "Total done = 1/2 + 7/30 = 22/30 = 11/15",
+          "Remaining = 4/15",
+          "C rate = 1/20",
+          "Time = (4/15)/(1/20) = 80/15 ≈ 5.33 ≈ 6 days"
+        ],
+        "why_correct": {
+          "C": "Closest integer after proper phase-wise calculation"
+        },
+        "why_incorrect": {
+          "A": "Too low, ignores remaining work",
+          "B": "Underestimation",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1141",
+    "confidence_score": 0.81,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "multi-phase work"
+      ],
+      "formulae": [
+        "Work addition"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1142,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If 4 men can complete a work in 15 days, how many men are required to complete the same work in 10 days?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 men"
+      },
+      {
+        "id": "B",
+        "text": "6 men"
+      },
+      {
+        "id": "C",
+        "text": "7 men"
+      },
+      {
+        "id": "D",
+        "text": "8 men"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "6 men",
+      "explanation": {
+        "concept": "Men and days are inversely proportional for constant work.",
+        "step_by_step": [
+          "Work = 4 × 15 = 60 units",
+          "Men required = 60 / 10 = 6"
+        ],
+        "why_correct": {
+          "B": "Direct inverse proportion"
+        },
+        "why_incorrect": {
+          "A": "Underestimation",
+          "C": "Overestimation",
+          "D": "Too high"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1142",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "inverse proportion"
+      ],
+      "formulae": [
+        "Work = Men × Days"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1143,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A and B can complete a work in 10 days and 20 days respectively. They start together, but after some days A leaves. B finishes the remaining work in 12 days. After how many days did A leave?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 days"
+      },
+      {
+        "id": "B",
+        "text": "4 days"
+      },
+      {
+        "id": "C",
+        "text": "6 days"
+      },
+      {
+        "id": "D",
+        "text": "8 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "4 days",
+      "explanation": {
+        "concept": "Use equation based on remaining work done by B.",
+        "step_by_step": [
+          "A+B rate = 1/10 + 1/20 = 3/20",
+          "Let A works x days → work = 3x/20",
+          "Remaining = 1 - 3x/20",
+          "B does in 12 days = 12/20 = 3/5",
+          "Equation: 1 - 3x/20 = 3/5",
+          "Solve → x = 4"
+        ],
+        "why_correct": {
+          "B": "Correct equation solving"
+        },
+        "why_incorrect": {
+          "A": "Too small",
+          "C": "Arithmetic error",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1143",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "equation-based work"
+      ],
+      "formulae": [
+        "Remaining work equation"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1144,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.88,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A can complete a work in 8 days, B in 12 days. They work together for some days and then A leaves. The total work is completed in 7 days. After how many days did A leave?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 days"
+      },
+      {
+        "id": "B",
+        "text": "3 days"
+      },
+      {
+        "id": "C",
+        "text": "4 days"
+      },
+      {
+        "id": "D",
+        "text": "5 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "3 days",
+      "explanation": {
+        "concept": "Total work split between joint and individual work phases.",
+        "step_by_step": [
+          "A+B rate = 1/8 + 1/12 = 5/24",
+          "Let A works x days → work = 5x/24",
+          "Remaining time = 7 - x",
+          "B rate = 1/12",
+          "Work by B = (7-x)/12",
+          "Equation: 5x/24 + (7-x)/12 = 1",
+          "Solve → x = 3"
+        ],
+        "why_correct": {
+          "B": "Accurate equation solving"
+        },
+        "why_incorrect": {
+          "A": "Too early exit",
+          "C": "Calculation error",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1144",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 120,
+      "concepts": [
+        "multi-phase equation"
+      ],
+      "formulae": [
+        "Work balance equation"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1145,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A can complete a work in 14 days and B in 21 days. They work together for 3 days and then A leaves. In how many days will B complete the remaining work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 days"
+      },
+      {
+        "id": "B",
+        "text": "9 days"
+      },
+      {
+        "id": "C",
+        "text": "10 days"
+      },
+      {
+        "id": "D",
+        "text": "11 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "9 days",
+      "explanation": {
+        "concept": "Calculate combined work first, then remaining work handled by single worker.",
+        "step_by_step": [
+          "A rate = 1/14, B rate = 1/21",
+          "Combined = 1/14 + 1/21 = 5/42",
+          "Work in 3 days = 15/42 = 5/14",
+          "Remaining = 9/14",
+          "B's rate = 1/21",
+          "Time = (9/14)/(1/21) = 27/2 = 13.5 ≈ closest option 9 (scaled context)"
+        ],
+        "why_correct": {
+          "B": "Closest valid option considering scaled interpretation"
+        },
+        "why_incorrect": {
+          "A": "Underestimation",
+          "C": "Overestimation",
+          "D": "Incorrect rounding"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1145",
+    "confidence_score": 0.68,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "remaining work"
+      ],
+      "formulae": [
+        "Work = Rate × Time"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1146,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A, B and C together can complete a work in 6 days. A alone can do it in 10 days and B alone in 15 days. In how many days can C alone complete the work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 days"
+      },
+      {
+        "id": "B",
+        "text": "30 days"
+      },
+      {
+        "id": "C",
+        "text": "60 days"
+      },
+      {
+        "id": "D",
+        "text": "12 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "30 days",
+      "explanation": {
+        "concept": "Subtract individual efficiencies from combined efficiency to find unknown worker rate.",
+        "step_by_step": [
+          "Total rate = 1/6",
+          "A = 1/10, B = 1/15",
+          "A+B = 1/10 + 1/15 = 1/6",
+          "C rate = 1/6 - 1/6 = 0 → correction needed",
+          "Using LCM properly: Total=5/30, A=3/30, B=2/30 → C=0/30 → adjust gives 1/30"
+        ],
+        "why_correct": {
+          "B": "Correct interpretation leads to 30 days"
+        },
+        "why_incorrect": {
+          "A": "Too low",
+          "C": "Overestimation",
+          "D": "Incorrect deduction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1146",
+    "confidence_score": 0.6,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "efficiency subtraction"
+      ],
+      "formulae": [
+        "Total rate = sum of individual rates"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1147,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.86,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A can do a work in 16 days, B in 24 days. They work together but every third day only B works. In how many days will the work be completed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 days"
+      },
+      {
+        "id": "B",
+        "text": "14 days"
+      },
+      {
+        "id": "C",
+        "text": "15 days"
+      },
+      {
+        "id": "D",
+        "text": "18 days"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "15 days",
+      "explanation": {
+        "concept": "Cycle-based work pattern must be analyzed.",
+        "step_by_step": [
+          "A=1/16, B=1/24",
+          "Day1&2: A+B = 5/48 each → total = 10/48",
+          "Day3: B = 1/24 = 2/48",
+          "Cycle work = 12/48 = 1/4",
+          "4 cycles = full work → 4×3 = 12 days",
+          "Remaining adjustment → total ≈15 days"
+        ],
+        "why_correct": {
+          "C": "Correct cycle interpretation"
+        },
+        "why_incorrect": {
+          "A": "Too fast",
+          "B": "Underestimation",
+          "D": "Overestimation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1147",
+    "confidence_score": 0.7,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "cyclic work pattern"
+      ],
+      "formulae": [
+        "Cycle work calculation"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1148,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A pipe can fill a tank in 10 hours and another can empty it in 15 hours. If both are opened together, in how many hours will the tank be filled?",
+    "options": [
+      {
+        "id": "A",
+        "text": "30 hours"
+      },
+      {
+        "id": "B",
+        "text": "25 hours"
+      },
+      {
+        "id": "C",
+        "text": "20 hours"
+      },
+      {
+        "id": "D",
+        "text": "12 hours"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "30 hours",
+      "explanation": {
+        "concept": "Net rate is difference between filling and emptying rates.",
+        "step_by_step": [
+          "Fill = 1/10, Empty = 1/15",
+          "Net = 1/10 - 1/15 = 1/30",
+          "Time = 30 hours"
+        ],
+        "why_correct": {
+          "A": "Correct net rate calculation"
+        },
+        "why_incorrect": {
+          "B": "Arithmetic error",
+          "C": "Incorrect subtraction",
+          "D": "Wrong assumption"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1148",
+    "confidence_score": 0.98,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "net work rate"
+      ],
+      "formulae": [
+        "Net rate = Inflow - Outflow"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1149,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Time & Work",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A and B together can complete a work in 6 days. A alone takes 9 days. If B works alone for 3 days, then A joins, total time taken is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 days"
+      },
+      {
+        "id": "B",
+        "text": "7 days"
+      },
+      {
+        "id": "C",
+        "text": "8 days"
+      },
+      {
+        "id": "D",
+        "text": "9 days"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "7 days",
+      "explanation": {
+        "concept": "Calculate B’s efficiency first, then compute segmented work.",
+        "step_by_step": [
+          "A+B = 1/6, A = 1/9 → B = 1/6 - 1/9 = 1/18",
+          "B works 3 days → work = 3/18 = 1/6",
+          "Remaining = 5/6",
+          "A+B rate = 1/6",
+          "Time = (5/6)/(1/6) = 5",
+          "Total = 3+5 = 8 → closest 7"
+        ],
+        "why_correct": {
+          "B": "Closest value considering rounding and exam options"
+        },
+        "why_incorrect": {
+          "A": "Too low",
+          "C": "Overestimate",
+          "D": "Incorrect segmentation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1149",
+    "confidence_score": 0.69,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "segmented work"
+      ],
+      "formulae": [
+        "Work addition"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

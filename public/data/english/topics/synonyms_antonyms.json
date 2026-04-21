@@ -1,0 +1,6662 @@
+[
+  {
+    "id": 1686,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word that is closest in meaning to 'ABATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Intensify"
+      },
+      {
+        "id": "B",
+        "text": "Reduce"
+      },
+      {
+        "id": "C",
+        "text": "Expand"
+      },
+      {
+        "id": "D",
+        "text": "Accelerate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Reduce",
+      "explanation": {
+        "concept": "Synonyms are words with similar meanings. 'Abate' means to become less intense or widespread.",
+        "step_by_step": [
+          "Understand meaning of 'abate' as decrease or diminish.",
+          "Compare options for closest meaning.",
+          "Identify 'reduce' as matching meaning."
+        ],
+        "why_correct": {
+          "A": "Correct because 'reduce' directly matches the meaning of 'abate'."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as 'intensify' is the opposite.",
+          "C": "Incorrect as 'expand' means increase.",
+          "D": "Incorrect as 'accelerate' implies speeding up."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym recognition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1687,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'LUCID'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Clear"
+      },
+      {
+        "id": "B",
+        "text": "Confusing"
+      },
+      {
+        "id": "C",
+        "text": "Transparent"
+      },
+      {
+        "id": "D",
+        "text": "Simple"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Confusing",
+      "explanation": {
+        "concept": "Antonyms are words with opposite meanings. 'Lucid' means clear or easy to understand.",
+        "step_by_step": [
+          "Define 'lucid' as clear.",
+          "Look for opposite meaning.",
+          "Choose 'confusing' as it represents lack of clarity."
+        ],
+        "why_correct": {
+          "B": "Correct because 'confusing' is opposite of 'lucid'."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as it is a synonym.",
+          "C": "Incorrect as it also implies clarity.",
+          "D": "Incorrect as 'simple' is similar in meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym recognition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1688,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word most nearly opposite in meaning to 'OBSCURE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vague"
+      },
+      {
+        "id": "B",
+        "text": "Prominent"
+      },
+      {
+        "id": "C",
+        "text": "Hidden"
+      },
+      {
+        "id": "D",
+        "text": "Unclear"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Prominent",
+      "explanation": {
+        "concept": "'Obscure' means not well known or unclear. Antonym should indicate clarity or recognition.",
+        "step_by_step": [
+          "Interpret 'obscure' as hidden or unclear.",
+          "Find opposite meaning.",
+          "Select 'prominent' meaning well-known or visible."
+        ],
+        "why_correct": {
+          "B": "Correct as 'prominent' is opposite of obscure."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as 'vague' is similar.",
+          "C": "Incorrect as 'hidden' is similar.",
+          "D": "Incorrect as 'unclear' matches meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1689,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the synonym of 'CANDID'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Honest"
+      },
+      {
+        "id": "B",
+        "text": "Secretive"
+      },
+      {
+        "id": "C",
+        "text": "Biased"
+      },
+      {
+        "id": "D",
+        "text": "Deceptive"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Honest",
+      "explanation": {
+        "concept": "'Candid' means truthful and straightforward.",
+        "step_by_step": [
+          "Understand meaning of candid.",
+          "Evaluate options.",
+          "Choose 'honest' as closest match."
+        ],
+        "why_correct": {
+          "A": "Correct as it directly matches meaning."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as it is opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "basic synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1690,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the antonym of 'FRUGAL'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Economical"
+      },
+      {
+        "id": "B",
+        "text": "Extravagant"
+      },
+      {
+        "id": "C",
+        "text": "Careful"
+      },
+      {
+        "id": "D",
+        "text": "Thrifty"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Extravagant",
+      "explanation": {
+        "concept": "'Frugal' means economical or careful with money.",
+        "step_by_step": [
+          "Define 'frugal'.",
+          "Look for opposite meaning.",
+          "Select 'extravagant' meaning wasteful."
+        ],
+        "why_correct": {
+          "B": "Correct as opposite of frugal."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as similar meaning.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1691,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word closest in meaning to 'RETICENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Talkative"
+      },
+      {
+        "id": "B",
+        "text": "Reserved"
+      },
+      {
+        "id": "C",
+        "text": "Aggressive"
+      },
+      {
+        "id": "D",
+        "text": "Bold"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Reserved",
+      "explanation": {
+        "concept": "'Reticent' means not revealing one's thoughts readily.",
+        "step_by_step": [
+          "Understand reticent as quiet/reserved.",
+          "Evaluate options.",
+          "Select 'reserved'."
+        ],
+        "why_correct": {
+          "B": "Correct as it matches meaning."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as opposite tendency."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1692,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'BENEVOLET'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kind"
+      },
+      {
+        "id": "B",
+        "text": "Malevolent"
+      },
+      {
+        "id": "C",
+        "text": "Generous"
+      },
+      {
+        "id": "D",
+        "text": "Helpful"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Malevolent",
+      "explanation": {
+        "concept": "'Benevolent' means kind or well-meaning.",
+        "step_by_step": [
+          "Define benevolent.",
+          "Find opposite meaning.",
+          "Select 'malevolent'."
+        ],
+        "why_correct": {
+          "B": "Correct as exact opposite."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as similar meaning.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "prefix-based antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1693,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'EPHEMERAL'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permanent"
+      },
+      {
+        "id": "B",
+        "text": "Temporary"
+      },
+      {
+        "id": "C",
+        "text": "Lasting"
+      },
+      {
+        "id": "D",
+        "text": "Stable"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Temporary",
+      "explanation": {
+        "concept": "'Ephemeral' refers to something lasting a very short time.",
+        "step_by_step": [
+          "Interpret ephemeral.",
+          "Compare meanings.",
+          "Select 'temporary'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as implies permanence."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "high-level synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1694,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'AMPLIFY'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase"
+      },
+      {
+        "id": "B",
+        "text": "Magnify"
+      },
+      {
+        "id": "C",
+        "text": "Reduce"
+      },
+      {
+        "id": "D",
+        "text": "Enhance"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Reduce",
+      "explanation": {
+        "concept": "'Amplify' means to increase in size or effect.",
+        "step_by_step": [
+          "Define amplify.",
+          "Find opposite meaning.",
+          "Select 'reduce'."
+        ],
+        "why_correct": {
+          "C": "Correct as opposite."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "antonym basics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1695,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word most nearly opposite in meaning to 'UBIQUITOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Omnipresent"
+      },
+      {
+        "id": "B",
+        "text": "Rare"
+      },
+      {
+        "id": "C",
+        "text": "Common"
+      },
+      {
+        "id": "D",
+        "text": "Frequent"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Rare",
+      "explanation": {
+        "concept": "'Ubiquitous' means present everywhere.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Find exact opposite.",
+          "Select 'rare' meaning not common."
+        ],
+        "why_correct": {
+          "B": "Correct as opposite of being everywhere."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as similar meaning.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1696,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word that is closest in meaning to 'MITIGATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aggravate"
+      },
+      {
+        "id": "B",
+        "text": "Alleviate"
+      },
+      {
+        "id": "C",
+        "text": "Intensify"
+      },
+      {
+        "id": "D",
+        "text": "Prolong"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Alleviate",
+      "explanation": {
+        "concept": "'Mitigate' means to make something less severe or painful.",
+        "step_by_step": [
+          "Understand the meaning of 'mitigate'.",
+          "Compare each option carefully.",
+          "Identify 'alleviate' as reducing severity."
+        ],
+        "why_correct": {
+          "B": "Correct because 'alleviate' directly means to reduce or ease."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as it means worsen.",
+          "C": "Incorrect as it means increase intensity.",
+          "D": "Incorrect as it refers to duration, not severity."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1697,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'PRUDENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wise"
+      },
+      {
+        "id": "B",
+        "text": "Cautious"
+      },
+      {
+        "id": "C",
+        "text": "Reckless"
+      },
+      {
+        "id": "D",
+        "text": "Judicious"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Reckless",
+      "explanation": {
+        "concept": "'Prudent' means acting with care and foresight.",
+        "step_by_step": [
+          "Define 'prudent'.",
+          "Find opposite meaning.",
+          "Choose 'reckless' which implies lack of caution."
+        ],
+        "why_correct": {
+          "C": "Correct as it directly opposes careful behavior."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as it is similar.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "antonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1698,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'ARDUOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Easy"
+      },
+      {
+        "id": "B",
+        "text": "Difficult"
+      },
+      {
+        "id": "C",
+        "text": "Pleasant"
+      },
+      {
+        "id": "D",
+        "text": "Effortless"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Difficult",
+      "explanation": {
+        "concept": "'Arduous' refers to something requiring great effort.",
+        "step_by_step": [
+          "Interpret 'arduous'.",
+          "Compare options.",
+          "Select 'difficult'."
+        ],
+        "why_correct": {
+          "B": "Correct as it captures effort and difficulty."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym understanding"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1699,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'SPARSE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scanty"
+      },
+      {
+        "id": "B",
+        "text": "Dense"
+      },
+      {
+        "id": "C",
+        "text": "Meagre"
+      },
+      {
+        "id": "D",
+        "text": "Thin"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Dense",
+      "explanation": {
+        "concept": "'Sparse' means thinly distributed or scarce.",
+        "step_by_step": [
+          "Define 'sparse'.",
+          "Find opposite.",
+          "Choose 'dense'."
+        ],
+        "why_correct": {
+          "B": "Correct as it indicates closeness or abundance."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as synonym.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1700,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'OBDURATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flexible"
+      },
+      {
+        "id": "B",
+        "text": "Stubborn"
+      },
+      {
+        "id": "C",
+        "text": "Gentle"
+      },
+      {
+        "id": "D",
+        "text": "Yielding"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Stubborn",
+      "explanation": {
+        "concept": "'Obdurate' means stubbornly refusing to change one's opinion.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Evaluate options.",
+          "Select 'stubborn'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1701,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'TRANSPARENT' (figurative sense).",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obvious"
+      },
+      {
+        "id": "B",
+        "text": "Clear"
+      },
+      {
+        "id": "C",
+        "text": "Opaque"
+      },
+      {
+        "id": "D",
+        "text": "Evident"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Opaque",
+      "explanation": {
+        "concept": "In figurative use, 'transparent' means easy to perceive or understand.",
+        "step_by_step": [
+          "Interpret figurative meaning.",
+          "Find opposite.",
+          "Choose 'opaque'."
+        ],
+        "why_correct": {
+          "C": "Correct as it implies lack of clarity."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "contextual antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1702,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'LACONIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Verbose"
+      },
+      {
+        "id": "B",
+        "text": "Brief"
+      },
+      {
+        "id": "C",
+        "text": "Talkative"
+      },
+      {
+        "id": "D",
+        "text": "Detailed"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Brief",
+      "explanation": {
+        "concept": "'Laconic' means using very few words.",
+        "step_by_step": [
+          "Define laconic.",
+          "Compare options.",
+          "Select 'brief'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite tendency."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "precision vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1703,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'VINDICATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Justify"
+      },
+      {
+        "id": "B",
+        "text": "Defend"
+      },
+      {
+        "id": "C",
+        "text": "Condemn"
+      },
+      {
+        "id": "D",
+        "text": "Support"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Condemn",
+      "explanation": {
+        "concept": "'Vindicate' means to clear from blame or suspicion.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Find opposite.",
+          "Choose 'condemn'."
+        ],
+        "why_correct": {
+          "C": "Correct as it implies declaring guilty."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as similar meaning.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "antonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1704,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'PRAGMATIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Idealistic"
+      },
+      {
+        "id": "B",
+        "text": "Practical"
+      },
+      {
+        "id": "C",
+        "text": "Theoretical"
+      },
+      {
+        "id": "D",
+        "text": "Abstract"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Practical",
+      "explanation": {
+        "concept": "'Pragmatic' refers to dealing with things sensibly and realistically.",
+        "step_by_step": [
+          "Define pragmatic.",
+          "Evaluate options.",
+          "Select 'practical'."
+        ],
+        "why_correct": {
+          "B": "Correct as it aligns with real-world approach."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as theoretical approach.",
+          "D": "Incorrect as unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "applied vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1705,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'ESOTERIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obscure"
+      },
+      {
+        "id": "B",
+        "text": "Specialized"
+      },
+      {
+        "id": "C",
+        "text": "Commonplace"
+      },
+      {
+        "id": "D",
+        "text": "Abstract"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Commonplace",
+      "explanation": {
+        "concept": "'Esoteric' means intended for or understood by a small, specialized group.",
+        "step_by_step": [
+          "Interpret esoteric.",
+          "Find opposite meaning.",
+          "Select 'commonplace' meaning widely known."
+        ],
+        "why_correct": {
+          "C": "Correct as it represents general accessibility."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as similar nuance.",
+          "B": "Incorrect as similar meaning.",
+          "D": "Incorrect as unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1706,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word closest in meaning to 'ENIGMATIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Clear"
+      },
+      {
+        "id": "B",
+        "text": "Mysterious"
+      },
+      {
+        "id": "C",
+        "text": "Obvious"
+      },
+      {
+        "id": "D",
+        "text": "Transparent"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Mysterious",
+      "explanation": {
+        "concept": "'Enigmatic' refers to something difficult to interpret or understand.",
+        "step_by_step": [
+          "Understand meaning of 'enigmatic'.",
+          "Compare options.",
+          "Select 'mysterious'."
+        ],
+        "why_correct": {
+          "B": "Correct as it directly matches the meaning."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1707,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'AUGMENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase"
+      },
+      {
+        "id": "B",
+        "text": "Enhance"
+      },
+      {
+        "id": "C",
+        "text": "Diminish"
+      },
+      {
+        "id": "D",
+        "text": "Expand"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Diminish",
+      "explanation": {
+        "concept": "'Augment' means to make something greater.",
+        "step_by_step": [
+          "Define 'augment'.",
+          "Find opposite meaning.",
+          "Select 'diminish'."
+        ],
+        "why_correct": {
+          "C": "Correct as opposite of increasing."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "antonym basics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1708,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'PERFUNCTORY'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thorough"
+      },
+      {
+        "id": "B",
+        "text": "Careless"
+      },
+      {
+        "id": "C",
+        "text": "Meticulous"
+      },
+      {
+        "id": "D",
+        "text": "Detailed"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Careless",
+      "explanation": {
+        "concept": "'Perfunctory' means done with minimal effort or interest.",
+        "step_by_step": [
+          "Understand the term.",
+          "Evaluate options.",
+          "Choose 'careless' as closest."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects lack of attention."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "nuanced synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1709,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'MALLEABLE' (figurative sense).",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flexible"
+      },
+      {
+        "id": "B",
+        "text": "Adaptable"
+      },
+      {
+        "id": "C",
+        "text": "Rigid"
+      },
+      {
+        "id": "D",
+        "text": "Compliant"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Rigid",
+      "explanation": {
+        "concept": "Figuratively, 'malleable' means easily influenced or adaptable.",
+        "step_by_step": [
+          "Interpret figurative meaning.",
+          "Identify opposite trait.",
+          "Select 'rigid'."
+        ],
+        "why_correct": {
+          "C": "Correct as it implies inflexibility."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as similar meaning.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "contextual antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1710,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'RESILIENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fragile"
+      },
+      {
+        "id": "B",
+        "text": "Flexible"
+      },
+      {
+        "id": "C",
+        "text": "Weak"
+      },
+      {
+        "id": "D",
+        "text": "Delicate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Flexible",
+      "explanation": {
+        "concept": "'Resilient' means able to recover quickly or adapt.",
+        "step_by_step": [
+          "Understand resilience.",
+          "Compare options.",
+          "Select 'flexible'."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects adaptability."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "applied synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1711,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'IMPECCABLE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perfect"
+      },
+      {
+        "id": "B",
+        "text": "Flawless"
+      },
+      {
+        "id": "C",
+        "text": "Faulty"
+      },
+      {
+        "id": "D",
+        "text": "Immaculate"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Faulty",
+      "explanation": {
+        "concept": "'Impeccable' means without fault or error.",
+        "step_by_step": [
+          "Define the word.",
+          "Identify opposite.",
+          "Select 'faulty'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates presence of flaws."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1712,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'CAPRICIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consistent"
+      },
+      {
+        "id": "B",
+        "text": "Unpredictable"
+      },
+      {
+        "id": "C",
+        "text": "Stable"
+      },
+      {
+        "id": "D",
+        "text": "Reliable"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Unpredictable",
+      "explanation": {
+        "concept": "'Capricious' means given to sudden changes of mood or behavior.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'unpredictable'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1713,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'INCESSANT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Continuous"
+      },
+      {
+        "id": "B",
+        "text": "Intermittent"
+      },
+      {
+        "id": "C",
+        "text": "Unending"
+      },
+      {
+        "id": "D",
+        "text": "Constant"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Intermittent",
+      "explanation": {
+        "concept": "'Incessant' means continuing without pause.",
+        "step_by_step": [
+          "Define incessant.",
+          "Find opposite.",
+          "Select 'intermittent'."
+        ],
+        "why_correct": {
+          "B": "Correct as it indicates breaks."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "antonym logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1714,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'ASTUTE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Naive"
+      },
+      {
+        "id": "B",
+        "text": "Clever"
+      },
+      {
+        "id": "C",
+        "text": "Foolish"
+      },
+      {
+        "id": "D",
+        "text": "Ignorant"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Clever",
+      "explanation": {
+        "concept": "'Astute' means having or showing sharp intelligence.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'clever'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "intellectual vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1715,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'PROLIFIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Productive"
+      },
+      {
+        "id": "B",
+        "text": "Fertile"
+      },
+      {
+        "id": "C",
+        "text": "Barren"
+      },
+      {
+        "id": "D",
+        "text": "Creative"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Barren",
+      "explanation": {
+        "concept": "'Prolific' means producing abundantly.",
+        "step_by_step": [
+          "Define prolific.",
+          "Find opposite.",
+          "Select 'barren'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates lack of production."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as related meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1716,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word closest in meaning to 'SCRUTINIZE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ignore"
+      },
+      {
+        "id": "B",
+        "text": "Examine"
+      },
+      {
+        "id": "C",
+        "text": "Guess"
+      },
+      {
+        "id": "D",
+        "text": "Overlook"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Examine",
+      "explanation": {
+        "concept": "'Scrutinize' means to examine something very carefully.",
+        "step_by_step": [
+          "Understand meaning of scrutinize.",
+          "Compare with given options.",
+          "Select 'examine' as closest."
+        ],
+        "why_correct": {
+          "B": "Correct as it matches careful inspection."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_31",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1717,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'ALTRUISTIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Selfless"
+      },
+      {
+        "id": "B",
+        "text": "Generous"
+      },
+      {
+        "id": "C",
+        "text": "Selfish"
+      },
+      {
+        "id": "D",
+        "text": "Kind"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Selfish",
+      "explanation": {
+        "concept": "'Altruistic' means showing selfless concern for others.",
+        "step_by_step": [
+          "Define altruistic.",
+          "Find opposite.",
+          "Choose 'selfish'."
+        ],
+        "why_correct": {
+          "C": "Correct as it reflects self-centered behavior."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as similar meaning.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_32",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1718,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'PLAUDIT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Criticism"
+      },
+      {
+        "id": "B",
+        "text": "Applause"
+      },
+      {
+        "id": "C",
+        "text": "Silence"
+      },
+      {
+        "id": "D",
+        "text": "Neglect"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Applause",
+      "explanation": {
+        "concept": "'Plaudit' means praise or applause.",
+        "step_by_step": [
+          "Understand the word.",
+          "Evaluate options.",
+          "Select 'applause'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_33",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym recognition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1719,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'EVANESCENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fleeting"
+      },
+      {
+        "id": "B",
+        "text": "Permanent"
+      },
+      {
+        "id": "C",
+        "text": "Temporary"
+      },
+      {
+        "id": "D",
+        "text": "Short-lived"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Permanent",
+      "explanation": {
+        "concept": "'Evanescent' means lasting for a very short time.",
+        "step_by_step": [
+          "Define evanescent.",
+          "Find opposite.",
+          "Choose 'permanent'."
+        ],
+        "why_correct": {
+          "B": "Correct as opposite meaning."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_34",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1720,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'OBSEQUIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Submissive"
+      },
+      {
+        "id": "B",
+        "text": "Assertive"
+      },
+      {
+        "id": "C",
+        "text": "Independent"
+      },
+      {
+        "id": "D",
+        "text": "Dominant"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Submissive",
+      "explanation": {
+        "concept": "'Obsequious' means overly obedient or servile.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'submissive'."
+        ],
+        "why_correct": {
+          "A": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_35",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1721,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'CANDOR'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Honesty"
+      },
+      {
+        "id": "B",
+        "text": "Frankness"
+      },
+      {
+        "id": "C",
+        "text": "Deceit"
+      },
+      {
+        "id": "D",
+        "text": "Sincerity"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Deceit",
+      "explanation": {
+        "concept": "'Candor' means openness and honesty.",
+        "step_by_step": [
+          "Define candor.",
+          "Find opposite.",
+          "Choose 'deceit'."
+        ],
+        "why_correct": {
+          "C": "Correct as it implies dishonesty."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_36",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "antonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1722,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'INSIPID'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flavorful"
+      },
+      {
+        "id": "B",
+        "text": "Bland"
+      },
+      {
+        "id": "C",
+        "text": "Exciting"
+      },
+      {
+        "id": "D",
+        "text": "Vivid"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Bland",
+      "explanation": {
+        "concept": "'Insipid' means lacking flavor or interest.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'bland'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_37",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1723,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'SAGACIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wise"
+      },
+      {
+        "id": "B",
+        "text": "Perceptive"
+      },
+      {
+        "id": "C",
+        "text": "Foolish"
+      },
+      {
+        "id": "D",
+        "text": "Astute"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Foolish",
+      "explanation": {
+        "concept": "'Sagacious' means having keen mental discernment.",
+        "step_by_step": [
+          "Define sagacious.",
+          "Find opposite.",
+          "Select 'foolish'."
+        ],
+        "why_correct": {
+          "C": "Correct as it represents lack of wisdom."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_38",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1724,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'COPIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarce"
+      },
+      {
+        "id": "B",
+        "text": "Abundant"
+      },
+      {
+        "id": "C",
+        "text": "Limited"
+      },
+      {
+        "id": "D",
+        "text": "Rare"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Abundant",
+      "explanation": {
+        "concept": "'Copious' means large in quantity or abundant.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Evaluate options.",
+          "Select 'abundant'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_39",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym accuracy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1725,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'LETHARGIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sluggish"
+      },
+      {
+        "id": "B",
+        "text": "Energetic"
+      },
+      {
+        "id": "C",
+        "text": "Inactive"
+      },
+      {
+        "id": "D",
+        "text": "Dull"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Energetic",
+      "explanation": {
+        "concept": "'Lethargic' means lacking energy or sluggish.",
+        "step_by_step": [
+          "Define lethargic.",
+          "Find opposite.",
+          "Choose 'energetic'."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects high energy."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as similar meaning.",
+          "D": "Incorrect as related but not opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_40",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1726,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word closest in meaning to 'IMPEDE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Facilitate"
+      },
+      {
+        "id": "B",
+        "text": "Hinder"
+      },
+      {
+        "id": "C",
+        "text": "Promote"
+      },
+      {
+        "id": "D",
+        "text": "Assist"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hinder",
+      "explanation": {
+        "concept": "'Impede' means to obstruct or slow down progress.",
+        "step_by_step": [
+          "Understand meaning of impede.",
+          "Compare options.",
+          "Select 'hinder'."
+        ],
+        "why_correct": {
+          "B": "Correct as it directly means obstruct."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_41",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1727,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'BENIGN'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Harmless"
+      },
+      {
+        "id": "B",
+        "text": "Kind"
+      },
+      {
+        "id": "C",
+        "text": "Malignant"
+      },
+      {
+        "id": "D",
+        "text": "Gentle"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Malignant",
+      "explanation": {
+        "concept": "'Benign' means gentle, kind, or harmless.",
+        "step_by_step": [
+          "Define benign.",
+          "Find opposite.",
+          "Select 'malignant'."
+        ],
+        "why_correct": {
+          "C": "Correct as it represents harmful or severe nature."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_42",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1728,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'ABERRATION'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Normality"
+      },
+      {
+        "id": "B",
+        "text": "Deviation"
+      },
+      {
+        "id": "C",
+        "text": "Conformity"
+      },
+      {
+        "id": "D",
+        "text": "Regularity"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Deviation",
+      "explanation": {
+        "concept": "'Aberration' refers to a departure from what is normal or expected.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'deviation'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_43",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1729,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'FASTIDIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meticulous"
+      },
+      {
+        "id": "B",
+        "text": "Careless"
+      },
+      {
+        "id": "C",
+        "text": "Particular"
+      },
+      {
+        "id": "D",
+        "text": "Fussy"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Careless",
+      "explanation": {
+        "concept": "'Fastidious' means very attentive to detail or hard to please.",
+        "step_by_step": [
+          "Define fastidious.",
+          "Identify opposite.",
+          "Choose 'careless'."
+        ],
+        "why_correct": {
+          "B": "Correct as it implies lack of attention to detail."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_44",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "antonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1730,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'PLETHORA'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarcity"
+      },
+      {
+        "id": "B",
+        "text": "Excess"
+      },
+      {
+        "id": "C",
+        "text": "Lack"
+      },
+      {
+        "id": "D",
+        "text": "Shortage"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Excess",
+      "explanation": {
+        "concept": "'Plethora' means an excessive amount.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Evaluate options.",
+          "Select 'excess'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_45",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym accuracy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1731,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'DOCILE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obedient"
+      },
+      {
+        "id": "B",
+        "text": "Submissive"
+      },
+      {
+        "id": "C",
+        "text": "Rebellious"
+      },
+      {
+        "id": "D",
+        "text": "Compliant"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Rebellious",
+      "explanation": {
+        "concept": "'Docile' means easily managed or obedient.",
+        "step_by_step": [
+          "Define docile.",
+          "Find opposite.",
+          "Select 'rebellious'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates resistance."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_46",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1732,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'ICONOCLAST'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Traditionalist"
+      },
+      {
+        "id": "B",
+        "text": "Reformer"
+      },
+      {
+        "id": "C",
+        "text": "Conformist"
+      },
+      {
+        "id": "D",
+        "text": "Follower"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Reformer",
+      "explanation": {
+        "concept": "'Iconoclast' refers to someone who challenges established beliefs.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'reformer'."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects challenging norms."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_47",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1733,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'TRANQUIL'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Calm"
+      },
+      {
+        "id": "B",
+        "text": "Peaceful"
+      },
+      {
+        "id": "C",
+        "text": "Agitated"
+      },
+      {
+        "id": "D",
+        "text": "Serene"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Agitated",
+      "explanation": {
+        "concept": "'Tranquil' means calm and peaceful.",
+        "step_by_step": [
+          "Define tranquil.",
+          "Find opposite.",
+          "Choose 'agitated'."
+        ],
+        "why_correct": {
+          "C": "Correct as it reflects disturbance."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_48",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "antonym basics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1734,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'TENACIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Weak"
+      },
+      {
+        "id": "B",
+        "text": "Persistent"
+      },
+      {
+        "id": "C",
+        "text": "Lazy"
+      },
+      {
+        "id": "D",
+        "text": "Indifferent"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Persistent",
+      "explanation": {
+        "concept": "'Tenacious' means holding firmly or persisting.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'persistent'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_49",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1735,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'INSCRUTABLE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mysterious"
+      },
+      {
+        "id": "B",
+        "text": "Understandable"
+      },
+      {
+        "id": "C",
+        "text": "Obscure"
+      },
+      {
+        "id": "D",
+        "text": "Unfathomable"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Understandable",
+      "explanation": {
+        "concept": "'Inscrutable' means impossible to understand or interpret.",
+        "step_by_step": [
+          "Define inscrutable.",
+          "Find opposite.",
+          "Select 'understandable'."
+        ],
+        "why_correct": {
+          "B": "Correct as it indicates clarity."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as similar meaning.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_50",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1736,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word closest in meaning to 'CONCISE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lengthy"
+      },
+      {
+        "id": "B",
+        "text": "Brief"
+      },
+      {
+        "id": "C",
+        "text": "Detailed"
+      },
+      {
+        "id": "D",
+        "text": "Verbose"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Brief",
+      "explanation": {
+        "concept": "'Concise' means expressing much in few words.",
+        "step_by_step": [
+          "Understand meaning of concise.",
+          "Compare options.",
+          "Select 'brief'."
+        ],
+        "why_correct": {
+          "B": "Correct as it directly matches meaning."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as not equivalent.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_51",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1737,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'VENERATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Respect"
+      },
+      {
+        "id": "B",
+        "text": "Revere"
+      },
+      {
+        "id": "C",
+        "text": "Despise"
+      },
+      {
+        "id": "D",
+        "text": "Admire"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Despise",
+      "explanation": {
+        "concept": "'Venerate' means to regard with deep respect.",
+        "step_by_step": [
+          "Define venerate.",
+          "Find opposite.",
+          "Select 'despise'."
+        ],
+        "why_correct": {
+          "C": "Correct as it means to hate or strongly dislike."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_52",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1738,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'DERIDE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mock"
+      },
+      {
+        "id": "B",
+        "text": "Praise"
+      },
+      {
+        "id": "C",
+        "text": "Respect"
+      },
+      {
+        "id": "D",
+        "text": "Admire"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Mock",
+      "explanation": {
+        "concept": "'Deride' means to laugh at or ridicule.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'mock'."
+        ],
+        "why_correct": {
+          "A": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_53",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym accuracy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1739,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'PLACATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Appease"
+      },
+      {
+        "id": "B",
+        "text": "Soothe"
+      },
+      {
+        "id": "C",
+        "text": "Provoke"
+      },
+      {
+        "id": "D",
+        "text": "Calm"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Provoke",
+      "explanation": {
+        "concept": "'Placate' means to make someone less angry.",
+        "step_by_step": [
+          "Define placate.",
+          "Find opposite.",
+          "Select 'provoke'."
+        ],
+        "why_correct": {
+          "C": "Correct as it means to incite anger."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_54",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "antonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1740,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'ELATED'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Depressed"
+      },
+      {
+        "id": "B",
+        "text": "Joyful"
+      },
+      {
+        "id": "C",
+        "text": "Angry"
+      },
+      {
+        "id": "D",
+        "text": "Anxious"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Joyful",
+      "explanation": {
+        "concept": "'Elated' means very happy or excited.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'joyful'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_55",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "emotion vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1741,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'AUDACIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bold"
+      },
+      {
+        "id": "B",
+        "text": "Daring"
+      },
+      {
+        "id": "C",
+        "text": "Timid"
+      },
+      {
+        "id": "D",
+        "text": "Fearless"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Timid",
+      "explanation": {
+        "concept": "'Audacious' means bold or daring.",
+        "step_by_step": [
+          "Define audacious.",
+          "Find opposite.",
+          "Select 'timid'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates lack of boldness."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_56",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1742,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'OBFUSCATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Clarify"
+      },
+      {
+        "id": "B",
+        "text": "Confuse"
+      },
+      {
+        "id": "C",
+        "text": "Explain"
+      },
+      {
+        "id": "D",
+        "text": "Simplify"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Confuse",
+      "explanation": {
+        "concept": "'Obfuscate' means to make something unclear or difficult to understand.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'confuse'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_57",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1743,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'MEANDER'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wander"
+      },
+      {
+        "id": "B",
+        "text": "Roam"
+      },
+      {
+        "id": "C",
+        "text": "Proceed directly"
+      },
+      {
+        "id": "D",
+        "text": "Drift"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Proceed directly",
+      "explanation": {
+        "concept": "'Meander' means to follow a winding or indirect path.",
+        "step_by_step": [
+          "Define meander.",
+          "Find opposite.",
+          "Select 'proceed directly'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates straight movement."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as similar meaning.",
+          "B": "Incorrect as similar meaning.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_58",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "contextual antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1744,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'ABSTAIN'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Indulge"
+      },
+      {
+        "id": "B",
+        "text": "Refrain"
+      },
+      {
+        "id": "C",
+        "text": "Consume"
+      },
+      {
+        "id": "D",
+        "text": "Participate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Refrain",
+      "explanation": {
+        "concept": "'Abstain' means to hold oneself back from doing something.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'refrain'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_59",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1745,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'EQUIVOCAL'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ambiguous"
+      },
+      {
+        "id": "B",
+        "text": "Uncertain"
+      },
+      {
+        "id": "C",
+        "text": "Definite"
+      },
+      {
+        "id": "D",
+        "text": "Vague"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Definite",
+      "explanation": {
+        "concept": "'Equivocal' means open to more than one interpretation; ambiguous.",
+        "step_by_step": [
+          "Define equivocal.",
+          "Find opposite.",
+          "Select 'definite'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates clarity and certainty."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as similar meaning.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_60",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1746,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word closest in meaning to 'FERVID'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Apathetic"
+      },
+      {
+        "id": "B",
+        "text": "Enthusiastic"
+      },
+      {
+        "id": "C",
+        "text": "Indifferent"
+      },
+      {
+        "id": "D",
+        "text": "Cold"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Enthusiastic",
+      "explanation": {
+        "concept": "'Fervid' means showing intense and passionate feeling.",
+        "step_by_step": [
+          "Understand meaning of fervid.",
+          "Compare options.",
+          "Select 'enthusiastic'."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects passion."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_61",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1747,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'CONVOLUTED'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Complex"
+      },
+      {
+        "id": "B",
+        "text": "Intricate"
+      },
+      {
+        "id": "C",
+        "text": "Simple"
+      },
+      {
+        "id": "D",
+        "text": "Twisted"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Simple",
+      "explanation": {
+        "concept": "'Convoluted' means extremely complex and difficult to follow.",
+        "step_by_step": [
+          "Define convoluted.",
+          "Find opposite.",
+          "Select 'simple'."
+        ],
+        "why_correct": {
+          "C": "Correct as it represents lack of complexity."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as related meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_62",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1748,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'HAPHAZARD'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Systematic"
+      },
+      {
+        "id": "B",
+        "text": "Random"
+      },
+      {
+        "id": "C",
+        "text": "Organized"
+      },
+      {
+        "id": "D",
+        "text": "Planned"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Random",
+      "explanation": {
+        "concept": "'Haphazard' means lacking any obvious principle of organization.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'random'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_63",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1749,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'RETROGRADE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Backward"
+      },
+      {
+        "id": "B",
+        "text": "Progressive"
+      },
+      {
+        "id": "C",
+        "text": "Regressive"
+      },
+      {
+        "id": "D",
+        "text": "Declining"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Progressive",
+      "explanation": {
+        "concept": "'Retrograde' means moving backward or reverting to an earlier state.",
+        "step_by_step": [
+          "Define retrograde.",
+          "Find opposite.",
+          "Select 'progressive'."
+        ],
+        "why_correct": {
+          "B": "Correct as it implies forward movement."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as synonym.",
+          "D": "Incorrect as related but not exact."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_64",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1750,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'LUCID'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Confusing"
+      },
+      {
+        "id": "B",
+        "text": "Clear"
+      },
+      {
+        "id": "C",
+        "text": "Vague"
+      },
+      {
+        "id": "D",
+        "text": "Obscure"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Clear",
+      "explanation": {
+        "concept": "'Lucid' means expressed clearly and easy to understand.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'clear'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_65",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "basic synonym"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1751,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'SKEPTICAL'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Doubtful"
+      },
+      {
+        "id": "B",
+        "text": "Credulous"
+      },
+      {
+        "id": "C",
+        "text": "Suspicious"
+      },
+      {
+        "id": "D",
+        "text": "Uncertain"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Credulous",
+      "explanation": {
+        "concept": "'Skeptical' means having doubts or reservations.",
+        "step_by_step": [
+          "Define skeptical.",
+          "Find opposite.",
+          "Select 'credulous'."
+        ],
+        "why_correct": {
+          "B": "Correct as it means easily believing."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as similar meaning.",
+          "C": "Incorrect as similar meaning.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_66",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1752,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'PERNICIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Harmless"
+      },
+      {
+        "id": "B",
+        "text": "Beneficial"
+      },
+      {
+        "id": "C",
+        "text": "Harmful"
+      },
+      {
+        "id": "D",
+        "text": "Helpful"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Harmful",
+      "explanation": {
+        "concept": "'Pernicious' means having a harmful effect, especially gradually.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'harmful'."
+        ],
+        "why_correct": {
+          "C": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "B": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_67",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1753,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'FRUGAL'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Economical"
+      },
+      {
+        "id": "B",
+        "text": "Thrifty"
+      },
+      {
+        "id": "C",
+        "text": "Wasteful"
+      },
+      {
+        "id": "D",
+        "text": "Careful"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Wasteful",
+      "explanation": {
+        "concept": "'Frugal' means economical in spending.",
+        "step_by_step": [
+          "Define frugal.",
+          "Find opposite.",
+          "Select 'wasteful'."
+        ],
+        "why_correct": {
+          "C": "Correct as it implies careless spending."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_68",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "antonym basics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1754,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'IMMACULATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dirty"
+      },
+      {
+        "id": "B",
+        "text": "Spotless"
+      },
+      {
+        "id": "C",
+        "text": "Stained"
+      },
+      {
+        "id": "D",
+        "text": "Impure"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Spotless",
+      "explanation": {
+        "concept": "'Immaculate' means perfectly clean or free from flaws.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'spotless'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_69",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1755,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'TRANSIENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temporary"
+      },
+      {
+        "id": "B",
+        "text": "Fleeting"
+      },
+      {
+        "id": "C",
+        "text": "Permanent"
+      },
+      {
+        "id": "D",
+        "text": "Brief"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Permanent",
+      "explanation": {
+        "concept": "'Transient' means lasting only for a short time.",
+        "step_by_step": [
+          "Define transient.",
+          "Find opposite.",
+          "Select 'permanent'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates lasting nature."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_70",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1756,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word closest in meaning to 'LAMENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Celebrate"
+      },
+      {
+        "id": "B",
+        "text": "Mourn"
+      },
+      {
+        "id": "C",
+        "text": "Ignore"
+      },
+      {
+        "id": "D",
+        "text": "Laugh"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Mourn",
+      "explanation": {
+        "concept": "'Lament' means to express sorrow or grief.",
+        "step_by_step": [
+          "Understand meaning of lament.",
+          "Compare options.",
+          "Select 'mourn'."
+        ],
+        "why_correct": {
+          "B": "Correct as it directly expresses grief."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as unrelated.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_71",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "synonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1757,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'OBSTINATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stubborn"
+      },
+      {
+        "id": "B",
+        "text": "Flexible"
+      },
+      {
+        "id": "C",
+        "text": "Rigid"
+      },
+      {
+        "id": "D",
+        "text": "Adamant"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Flexible",
+      "explanation": {
+        "concept": "'Obstinate' means stubbornly refusing to change one's opinion.",
+        "step_by_step": [
+          "Define obstinate.",
+          "Find opposite.",
+          "Select 'flexible'."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects willingness to change."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as similar meaning.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_72",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1758,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'AUSTERE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luxurious"
+      },
+      {
+        "id": "B",
+        "text": "Severe"
+      },
+      {
+        "id": "C",
+        "text": "Ornate"
+      },
+      {
+        "id": "D",
+        "text": "Decorative"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Severe",
+      "explanation": {
+        "concept": "'Austere' means strict or severe in manner or appearance.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'severe'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_73",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1759,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'LUCUBRATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meditate"
+      },
+      {
+        "id": "B",
+        "text": "Neglect"
+      },
+      {
+        "id": "C",
+        "text": "Study"
+      },
+      {
+        "id": "D",
+        "text": "Contemplate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Neglect",
+      "explanation": {
+        "concept": "'Lucubrate' means to write or study intensively.",
+        "step_by_step": [
+          "Define lucubrate.",
+          "Find opposite.",
+          "Select 'neglect'."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects lack of study."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as similar meaning.",
+          "C": "Incorrect as synonym.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_74",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "rare vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1760,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'PRUDENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Careful"
+      },
+      {
+        "id": "B",
+        "text": "Reckless"
+      },
+      {
+        "id": "C",
+        "text": "Careless"
+      },
+      {
+        "id": "D",
+        "text": "Impulsive"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Careful",
+      "explanation": {
+        "concept": "'Prudent' means acting with care and thought for the future.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'careful'."
+        ],
+        "why_correct": {
+          "A": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_75",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym basics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1761,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'INCESSANT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Continuous"
+      },
+      {
+        "id": "B",
+        "text": "Relentless"
+      },
+      {
+        "id": "C",
+        "text": "Intermittent"
+      },
+      {
+        "id": "D",
+        "text": "Unceasing"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Intermittent",
+      "explanation": {
+        "concept": "'Incessant' means continuing without pause.",
+        "step_by_step": [
+          "Define incessant.",
+          "Find opposite.",
+          "Select 'intermittent'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates breaks or interruptions."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_76",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1762,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'PUSILLANIMOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Courageous"
+      },
+      {
+        "id": "B",
+        "text": "Cowardly"
+      },
+      {
+        "id": "C",
+        "text": "Bold"
+      },
+      {
+        "id": "D",
+        "text": "Fearless"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Cowardly",
+      "explanation": {
+        "concept": "'Pusillanimous' means showing a lack of courage.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'cowardly'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_77",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1763,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'DILIGENT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardworking"
+      },
+      {
+        "id": "B",
+        "text": "Industrious"
+      },
+      {
+        "id": "C",
+        "text": "Lazy"
+      },
+      {
+        "id": "D",
+        "text": "Assiduous"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Lazy",
+      "explanation": {
+        "concept": "'Diligent' means showing careful and persistent effort.",
+        "step_by_step": [
+          "Define diligent.",
+          "Find opposite.",
+          "Select 'lazy'."
+        ],
+        "why_correct": {
+          "C": "Correct as it reflects lack of effort."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_78",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "antonym basics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1764,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'SPARSE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dense"
+      },
+      {
+        "id": "B",
+        "text": "Scanty"
+      },
+      {
+        "id": "C",
+        "text": "Thick"
+      },
+      {
+        "id": "D",
+        "text": "Crowded"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Scanty",
+      "explanation": {
+        "concept": "'Sparse' means thinly dispersed or scarce.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'scanty'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_79",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1765,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'OBDURATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stubborn"
+      },
+      {
+        "id": "B",
+        "text": "Unyielding"
+      },
+      {
+        "id": "C",
+        "text": "Compliant"
+      },
+      {
+        "id": "D",
+        "text": "Inflexible"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Compliant",
+      "explanation": {
+        "concept": "'Obdurate' means stubbornly refusing to change.",
+        "step_by_step": [
+          "Define obdurate.",
+          "Find opposite.",
+          "Select 'compliant'."
+        ],
+        "why_correct": {
+          "C": "Correct as it implies willingness to yield."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_80",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1766,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the word closest in meaning to 'ASTUTE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Foolish"
+      },
+      {
+        "id": "B",
+        "text": "Shrewd"
+      },
+      {
+        "id": "C",
+        "text": "Naive"
+      },
+      {
+        "id": "D",
+        "text": "Ignorant"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Shrewd",
+      "explanation": {
+        "concept": "'Astute' means having or showing an ability to accurately assess situations.",
+        "step_by_step": [
+          "Understand meaning of astute.",
+          "Compare options.",
+          "Select 'shrewd'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_81",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1767,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'PERFUNCTORY'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thorough"
+      },
+      {
+        "id": "B",
+        "text": "Cursory"
+      },
+      {
+        "id": "C",
+        "text": "Superficial"
+      },
+      {
+        "id": "D",
+        "text": "Hasty"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Thorough",
+      "explanation": {
+        "concept": "'Perfunctory' means carried out with minimum effort or reflection.",
+        "step_by_step": [
+          "Define perfunctory.",
+          "Find opposite.",
+          "Select 'thorough'."
+        ],
+        "why_correct": {
+          "A": "Correct as it implies careful and detailed effort."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as synonym.",
+          "C": "Incorrect as similar meaning.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_82",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1768,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'LACONIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Verbose"
+      },
+      {
+        "id": "B",
+        "text": "Wordy"
+      },
+      {
+        "id": "C",
+        "text": "Brief"
+      },
+      {
+        "id": "D",
+        "text": "Lengthy"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Brief",
+      "explanation": {
+        "concept": "'Laconic' means using very few words.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'brief'."
+        ],
+        "why_correct": {
+          "C": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "B": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_83",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "synonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1769,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'PARSIMONIOUS'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stingy"
+      },
+      {
+        "id": "B",
+        "text": "Generous"
+      },
+      {
+        "id": "C",
+        "text": "Miserly"
+      },
+      {
+        "id": "D",
+        "text": "Frugal"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Generous",
+      "explanation": {
+        "concept": "'Parsimonious' means unwilling to spend money; stingy.",
+        "step_by_step": [
+          "Define parsimonious.",
+          "Find opposite.",
+          "Select 'generous'."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects willingness to give."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "C": "Incorrect as synonym.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_84",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1770,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'CANDID'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deceitful"
+      },
+      {
+        "id": "B",
+        "text": "Frank"
+      },
+      {
+        "id": "C",
+        "text": "Secretive"
+      },
+      {
+        "id": "D",
+        "text": "Reserved"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Frank",
+      "explanation": {
+        "concept": "'Candid' means truthful and straightforward.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'frank'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as not equivalent."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_85",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "synonym basics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1771,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Find the antonym of 'EMULATE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Imitate"
+      },
+      {
+        "id": "B",
+        "text": "Copy"
+      },
+      {
+        "id": "C",
+        "text": "Neglect"
+      },
+      {
+        "id": "D",
+        "text": "Replicate"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Neglect",
+      "explanation": {
+        "concept": "'Emulate' means to imitate with the intent to match or surpass.",
+        "step_by_step": [
+          "Define emulate.",
+          "Find opposite.",
+          "Select 'neglect'."
+        ],
+        "why_correct": {
+          "C": "Correct as it indicates lack of imitation effort."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as synonym."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_86",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "antonym reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1772,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'RECALCITRANT'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obedient"
+      },
+      {
+        "id": "B",
+        "text": "Defiant"
+      },
+      {
+        "id": "C",
+        "text": "Compliant"
+      },
+      {
+        "id": "D",
+        "text": "Docile"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Defiant",
+      "explanation": {
+        "concept": "'Recalcitrant' means stubbornly resistant to authority.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'defiant'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as opposite."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_87",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1773,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the antonym of 'ARID'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dry"
+      },
+      {
+        "id": "B",
+        "text": "Barren"
+      },
+      {
+        "id": "C",
+        "text": "Fertile"
+      },
+      {
+        "id": "D",
+        "text": "Desert"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Fertile",
+      "explanation": {
+        "concept": "'Arid' means extremely dry or lacking vegetation.",
+        "step_by_step": [
+          "Define arid.",
+          "Find opposite.",
+          "Select 'fertile'."
+        ],
+        "why_correct": {
+          "C": "Correct as it implies productive land."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as synonym.",
+          "B": "Incorrect as similar meaning.",
+          "D": "Incorrect as related meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_88",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "antonym clarity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1774,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the synonym of 'ERUDITE'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ignorant"
+      },
+      {
+        "id": "B",
+        "text": "Learned"
+      },
+      {
+        "id": "C",
+        "text": "Uneducated"
+      },
+      {
+        "id": "D",
+        "text": "Naive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Learned",
+      "explanation": {
+        "concept": "'Erudite' means having extensive knowledge or learning.",
+        "step_by_step": [
+          "Understand meaning.",
+          "Compare options.",
+          "Select 'learned'."
+        ],
+        "why_correct": {
+          "B": "Correct as direct synonym."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as opposite.",
+          "C": "Incorrect as opposite.",
+          "D": "Incorrect as unrelated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_89",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "advanced synonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1775,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Synonyms / Antonyms",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the word most nearly opposite in meaning to 'ESOTERIC'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obscure"
+      },
+      {
+        "id": "B",
+        "text": "Arcane"
+      },
+      {
+        "id": "C",
+        "text": "Common"
+      },
+      {
+        "id": "D",
+        "text": "Cryptic"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Common",
+      "explanation": {
+        "concept": "'Esoteric' means intended for or understood by a small group.",
+        "step_by_step": [
+          "Define esoteric.",
+          "Find opposite.",
+          "Select 'common'."
+        ],
+        "why_correct": {
+          "C": "Correct as it implies widely understood."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as similar meaning.",
+          "B": "Incorrect as synonym.",
+          "D": "Incorrect as similar meaning."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_90",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "advanced antonyms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  }
+]

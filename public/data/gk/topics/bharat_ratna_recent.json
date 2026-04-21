@@ -1,0 +1,77 @@
+[
+  {
+    "id": 2851,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Bharat Ratna Recent",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.9,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following criteria best explains why Bharat Ratna recipients in recent years have come from diverse fields such as politics, science, and social service?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is restricted to government officials only"
+      },
+      {
+        "id": "B",
+        "text": "It recognizes exceptional service in any field of human endeavor"
+      },
+      {
+        "id": "C",
+        "text": "It is awarded based on public voting"
+      },
+      {
+        "id": "D",
+        "text": "It is limited to posthumous awards"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Recognizes exceptional service in any field",
+      "explanation": {
+        "concept": "Bharat Ratna is awarded for exceptional service/performance of the highest order in any field of human endeavor.",
+        "step_by_step": [
+          "Understand scope of award",
+          "Analyze diversity of recipients",
+          "Link diversity to eligibility criteria",
+          "Select most accurate explanation"
+        ],
+        "why_correct": {
+          "B": "Correct as the award is not restricted to any specific field."
+        },
+        "why_incorrect": {
+          "A": "Not limited to government officials",
+          "C": "No public voting involved",
+          "D": "Not limited to posthumous awards"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Bharat Ratna criteria"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

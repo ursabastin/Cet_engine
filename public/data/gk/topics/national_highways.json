@@ -1,0 +1,446 @@
+[
+  {
+    "id": 2603,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "National Highways",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following cities is NOT a part of the Golden Quadrilateral highway network?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Delhi"
+      },
+      {
+        "id": "B",
+        "text": "Mumbai"
+      },
+      {
+        "id": "C",
+        "text": "Chennai"
+      },
+      {
+        "id": "D",
+        "text": "Hyderabad"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Hyderabad",
+      "explanation": {
+        "concept": "Golden Quadrilateral connects four major metro cities: Delhi, Mumbai, Chennai, and Kolkata.",
+        "step_by_step": [
+          "List the four nodes of Golden Quadrilateral",
+          "Delhi, Mumbai, Chennai, Kolkata",
+          "Check which option is not included"
+        ],
+        "why_correct": {
+          "D": "Hyderabad is not directly part of the Golden Quadrilateral"
+        },
+        "why_incorrect": {
+          "A": "Part of the network",
+          "B": "Part of the network",
+          "C": "Part of the network"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2603",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Transport infrastructure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2613,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "National Highways",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The North-South Corridor of India connects which of the following terminal points?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Srinagar to Kanyakumari"
+      },
+      {
+        "id": "B",
+        "text": "Delhi to Chennai"
+      },
+      {
+        "id": "C",
+        "text": "Amritsar to Kochi"
+      },
+      {
+        "id": "D",
+        "text": "Leh to Thiruvananthapuram"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Srinagar to Kanyakumari",
+      "explanation": {
+        "concept": "The North-South Corridor is a major highway connecting extreme ends of India.",
+        "step_by_step": [
+          "Identify corridor endpoints",
+          "Runs from Jammu & Kashmir to Tamil Nadu",
+          "Srinagar to Kanyakumari"
+        ],
+        "why_correct": {
+          "A": "Correct endpoints"
+        },
+        "why_incorrect": {
+          "B": "Part of other highways",
+          "C": "Not full corridor",
+          "D": "Incorrect northern point"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2613",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Highway networks"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2623,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "National Highways",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following corridors connects Silchar in Assam to Porbandar in Gujarat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Golden Quadrilateral"
+      },
+      {
+        "id": "B",
+        "text": "East-West Corridor"
+      },
+      {
+        "id": "C",
+        "text": "North-South Corridor"
+      },
+      {
+        "id": "D",
+        "text": "Coastal Corridor"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "East-West Corridor",
+      "explanation": {
+        "concept": "The East-West Corridor is a major highway project connecting eastern and western India.",
+        "step_by_step": [
+          "Recall endpoints",
+          "Silchar to Porbandar",
+          "Identify corridor type"
+        ],
+        "why_correct": {
+          "B": "Correct corridor"
+        },
+        "why_incorrect": {
+          "A": "Connects 4 metros",
+          "C": "North-South direction",
+          "D": "Not official term"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2623",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Highway corridors"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2633,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "National Highways",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following cities lies at the intersection of the Golden Quadrilateral and North-South Corridor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nagpur"
+      },
+      {
+        "id": "B",
+        "text": "Jhansi"
+      },
+      {
+        "id": "C",
+        "text": "Agra"
+      },
+      {
+        "id": "D",
+        "text": "Bhopal"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Agra",
+      "explanation": {
+        "concept": "Agra serves as a key junction connecting major national highway corridors.",
+        "step_by_step": [
+          "Identify Golden Quadrilateral route",
+          "Identify North-South Corridor",
+          "Find intersection point"
+        ],
+        "why_correct": {
+          "C": "Agra lies on both corridors"
+        },
+        "why_incorrect": {
+          "A": "Central but not intersection",
+          "B": "Nearby but not junction",
+          "D": "Not part of intersection"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2633",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Transport networks"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2643,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "National Highways",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following cities serves as a major logistics hub due to its central location on India's highway network?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nagpur"
+      },
+      {
+        "id": "B",
+        "text": "Jaipur"
+      },
+      {
+        "id": "C",
+        "text": "Lucknow"
+      },
+      {
+        "id": "D",
+        "text": "Surat"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Nagpur",
+      "explanation": {
+        "concept": "Nagpur is centrally located and known as the logistics hub of India.",
+        "step_by_step": [
+          "Identify central location",
+          "Nagpur lies near geographic center",
+          "Major highway intersection"
+        ],
+        "why_correct": {
+          "A": "Correct logistics hub"
+        },
+        "why_incorrect": {
+          "B": "Regional importance",
+          "C": "Not central",
+          "D": "Coastal trade city"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2643",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Transport hubs"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2653,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "National Highways",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which national highway corridor is designed to improve connectivity between industrial and agricultural regions across India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Golden Quadrilateral"
+      },
+      {
+        "id": "B",
+        "text": "North-South Corridor"
+      },
+      {
+        "id": "C",
+        "text": "East-West Corridor"
+      },
+      {
+        "id": "D",
+        "text": "Dedicated Freight Corridor"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Golden Quadrilateral",
+      "explanation": {
+        "concept": "Golden Quadrilateral connects major economic centers and boosts trade between regions.",
+        "step_by_step": [
+          "Identify purpose of corridors",
+          "GQ links major metros",
+          "Enhances industrial-agriculture connectivity"
+        ],
+        "why_correct": {
+          "A": "Primary economic corridor"
+        },
+        "why_incorrect": {
+          "B": "Geographical linkage",
+          "C": "Regional connectivity",
+          "D": "Rail-based freight system"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2653",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Economic corridors"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1776,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A person who is indifferent to pleasure or pain is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stoic"
+      },
+      {
+        "id": "B",
+        "text": "Epicurean"
+      },
+      {
+        "id": "C",
+        "text": "Ascetic"
+      },
+      {
+        "id": "D",
+        "text": "Hedonist"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Stoic",
+      "explanation": {
+        "concept": "One-word substitution tests precise vocabulary where each term carries nuanced philosophical or behavioral meaning.",
+        "step_by_step": [
+          "Understand 'indifferent to pleasure or pain'",
+          "Identify philosophical term associated with emotional control",
+          "Match with 'Stoic' meaning enduring without complaint"
+        ],
+        "why_correct": {
+          "A": "Stoic refers to a person who remains unaffected by pleasure or pain."
+        },
+        "why_incorrect": {
+          "B": "Epicurean seeks pleasure, opposite of indifference.",
+          "C": "Ascetic avoids pleasure but not necessarily indifferent to pain.",
+          "D": "Hedonist actively pursues pleasure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "vocabulary precision"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1777,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A speech delivered without prior preparation is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oration"
+      },
+      {
+        "id": "B",
+        "text": "Extempore"
+      },
+      {
+        "id": "C",
+        "text": "Monologue"
+      },
+      {
+        "id": "D",
+        "text": "Debate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Extempore",
+      "explanation": {
+        "concept": "Terms describing types of speech differ based on preparation, format, and audience interaction.",
+        "step_by_step": [
+          "Focus on 'without prior preparation'",
+          "Recall term used in academic speaking competitions",
+          "Identify 'extempore' as spontaneous speech"
+        ],
+        "why_correct": {
+          "B": "Extempore refers to speaking without preparation."
+        },
+        "why_incorrect": {
+          "A": "Oration is a formal prepared speech.",
+          "C": "Monologue is a long speech by one person, not necessarily unprepared.",
+          "D": "Debate involves argument exchange, not defined by preparation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "speech terminology"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1778,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A person who secretly listens to others' conversation is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eavesdropper"
+      },
+      {
+        "id": "B",
+        "text": "Spy"
+      },
+      {
+        "id": "C",
+        "text": "Informer"
+      },
+      {
+        "id": "D",
+        "text": "Observer"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Eavesdropper",
+      "explanation": {
+        "concept": "Precise distinctions exist between general surveillance and secret listening without consent.",
+        "step_by_step": [
+          "Identify 'secretly listens'",
+          "Distinguish from spying (broader)",
+          "Match exact behavior-specific term"
+        ],
+        "why_correct": {
+          "A": "Eavesdropper specifically refers to someone who secretly listens to conversations."
+        },
+        "why_incorrect": {
+          "B": "Spy gathers information broadly, not limited to listening.",
+          "C": "Informer shares information, not necessarily listens secretly.",
+          "D": "Observer watches openly, not secretly listens."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "behavioral vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1779,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "One who cannot be corrected or reformed is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Incorrigible"
+      },
+      {
+        "id": "B",
+        "text": "Irreversible"
+      },
+      {
+        "id": "C",
+        "text": "Invincible"
+      },
+      {
+        "id": "D",
+        "text": "Infallible"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Incorrigible",
+      "explanation": {
+        "concept": "Words with similar prefixes may differ in meaning; focus on root meaning for accuracy.",
+        "step_by_step": [
+          "Understand 'cannot be corrected'",
+          "Recall 'corrigible' relates to correction",
+          "Add prefix 'in-' for negative meaning"
+        ],
+        "why_correct": {
+          "A": "Incorrigible means incapable of being corrected."
+        },
+        "why_incorrect": {
+          "B": "Irreversible means cannot be undone.",
+          "C": "Invincible means cannot be defeated.",
+          "D": "Infallible means incapable of making mistakes."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "prefix-root understanding"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1780,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A place where birds are kept is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aquarium"
+      },
+      {
+        "id": "B",
+        "text": "Apiary"
+      },
+      {
+        "id": "C",
+        "text": "Aviary"
+      },
+      {
+        "id": "D",
+        "text": "Sanctuary"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Aviary",
+      "explanation": {
+        "concept": "Specialized vocabulary often comes from Latin roots; identifying roots helps accuracy.",
+        "step_by_step": [
+          "Recognize 'avi' relates to birds",
+          "Match term used for bird enclosure",
+          "Eliminate other animal-related terms"
+        ],
+        "why_correct": {
+          "C": "Aviary is a place where birds are kept."
+        },
+        "why_incorrect": {
+          "A": "Aquarium is for fish.",
+          "B": "Apiary is for bees.",
+          "D": "Sanctuary is a general safe place for animals."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "latin roots"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1781,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A person who speaks many languages is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Linguist"
+      },
+      {
+        "id": "B",
+        "text": "Polyglot"
+      },
+      {
+        "id": "C",
+        "text": "Bilingual"
+      },
+      {
+        "id": "D",
+        "text": "Translator"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Polyglot",
+      "explanation": {
+        "concept": "Different terms refer to knowledge, profession, or number of languages.",
+        "step_by_step": [
+          "Focus on 'many languages'",
+          "Recall prefix 'poly-' means many",
+          "Match with 'polyglot'"
+        ],
+        "why_correct": {
+          "B": "Polyglot refers to someone who knows many languages."
+        },
+        "why_incorrect": {
+          "A": "Linguist studies language but may not speak many.",
+          "C": "Bilingual means only two languages.",
+          "D": "Translator translates languages but may not speak many fluently."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "prefix-based vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1782,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A statement that is self-contradictory is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paradox"
+      },
+      {
+        "id": "B",
+        "text": "Oxymoron"
+      },
+      {
+        "id": "C",
+        "text": "Antithesis"
+      },
+      {
+        "id": "D",
+        "text": "Hyperbole"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Paradox",
+      "explanation": {
+        "concept": "Literary and logical terms differ subtly in structure and application.",
+        "step_by_step": [
+          "Identify 'self-contradictory statement'",
+          "Distinguish from phrase-level contradiction",
+          "Select correct term"
+        ],
+        "why_correct": {
+          "A": "Paradox is a seemingly contradictory statement that may hold truth."
+        },
+        "why_incorrect": {
+          "B": "Oxymoron is a contradiction within a phrase.",
+          "C": "Antithesis contrasts ideas, not necessarily contradictory.",
+          "D": "Hyperbole is exaggeration."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "literary terms"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1783,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "One who walks in sleep is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Somnambulist"
+      },
+      {
+        "id": "B",
+        "text": "Insomniac"
+      },
+      {
+        "id": "C",
+        "text": "Somnolent"
+      },
+      {
+        "id": "D",
+        "text": "Narcoleptic"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Somnambulist",
+      "explanation": {
+        "concept": "Medical or behavioral terms often derive from Latin roots describing conditions.",
+        "step_by_step": [
+          "Recognize 'sleep walking'",
+          "Recall term associated with this condition",
+          "Differentiate from sleep disorders"
+        ],
+        "why_correct": {
+          "A": "Somnambulist is a person who walks in sleep."
+        },
+        "why_incorrect": {
+          "B": "Insomniac cannot sleep.",
+          "C": "Somnolent means sleepy.",
+          "D": "Narcoleptic has sudden sleep attacks."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "medical vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1784,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A government ruled by religious leaders is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Democracy"
+      },
+      {
+        "id": "B",
+        "text": "Theocracy"
+      },
+      {
+        "id": "C",
+        "text": "Autocracy"
+      },
+      {
+        "id": "D",
+        "text": "Oligarchy"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Theocracy",
+      "explanation": {
+        "concept": "Political systems are often described using Greek roots indicating type of rule.",
+        "step_by_step": [
+          "Identify 'religious leaders rule'",
+          "Recall 'theo' relates to God/religion",
+          "Match with correct system"
+        ],
+        "why_correct": {
+          "B": "Theocracy is government by religious authorities."
+        },
+        "why_incorrect": {
+          "A": "Democracy is rule by people.",
+          "C": "Autocracy is rule by one person.",
+          "D": "Oligarchy is rule by a few."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "political vocabulary"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1785,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "One-word substitution",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A person who loves mankind is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Philanthropist"
+      },
+      {
+        "id": "B",
+        "text": "Misanthrope"
+      },
+      {
+        "id": "C",
+        "text": "Humanitarian"
+      },
+      {
+        "id": "D",
+        "text": "Altruist"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Philanthropist",
+      "explanation": {
+        "concept": "Close synonyms exist but differ in scope—love for humanity vs helping behavior.",
+        "step_by_step": [
+          "Identify 'love of mankind'",
+          "Recall 'phil' means love, 'anthropos' means human",
+          "Select most precise term"
+        ],
+        "why_correct": {
+          "A": "Philanthropist literally means a lover of mankind."
+        },
+        "why_incorrect": {
+          "B": "Misanthrope hates mankind.",
+          "C": "Humanitarian helps people but not necessarily 'loves' mankind.",
+          "D": "Altruist helps others selflessly, not exactly love for all mankind."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "greek roots"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  }
+]

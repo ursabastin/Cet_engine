@@ -1,0 +1,743 @@
+[
+  {
+    "id": 1426,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The company has decided to reduce its workforce to cut operational costs.\nAssumptions:\nI. Reducing workforce will significantly reduce operational costs.\nII. Remaining employees will be able to handle the workload efficiently.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II are implicit"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II is implicit"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both I and II are implicit",
+      "explanation": {
+        "concept": "An assumption is an unstated premise necessary for the conclusion or action in the statement to hold true.",
+        "step_by_step": [
+          "Step 1: Identify the action — reducing workforce to cut costs.",
+          "Step 2: Check if cost reduction depends on workforce reduction (Assumption I). Yes, necessary.",
+          "Step 3: Check if work continuity depends on remaining employees (Assumption II). Yes, also necessary."
+        ],
+        "why_correct": {
+          "A": "Incorrect as it ignores operational feasibility after workforce reduction.",
+          "B": "Incorrect as cost reduction must also depend on workforce reduction.",
+          "C": "Both are necessary for decision validity."
+        },
+        "why_incorrect": {
+          "D": "Incorrect because both assumptions support the decision logically."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "implicit assumption",
+        "decision logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1427,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The government has imposed higher taxes on luxury goods to increase revenue.\nAssumptions:\nI. Demand for luxury goods will not decrease significantly due to higher taxes.\nII. People purchasing luxury goods can afford higher taxes.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II are implicit"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II is implicit"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both I and II are implicit",
+      "explanation": {
+        "concept": "Assumptions ensure that the intended outcome of a decision is achievable under given conditions.",
+        "step_by_step": [
+          "Step 1: Objective is increasing revenue.",
+          "Step 2: If demand drops significantly, revenue won't increase (Assumption I needed).",
+          "Step 3: Buyers must afford higher prices to sustain purchases (Assumption II needed)."
+        ],
+        "why_correct": {
+          "C": "Both assumptions are essential for policy success."
+        },
+        "why_incorrect": {
+          "A": "Incomplete as affordability also matters.",
+          "B": "Ignores demand stability.",
+          "D": "Contradicts the logical basis of policy."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "policy reasoning",
+        "economic assumption"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1428,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.45,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Schools should introduce coding classes from early grades.\nAssumptions:\nI. Early exposure to coding improves problem-solving skills.\nII. Students in early grades can understand coding concepts.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II are implicit"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II is implicit"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both I and II are implicit",
+      "explanation": {
+        "concept": "A recommendation implies belief in both feasibility and benefit.",
+        "step_by_step": [
+          "Step 1: Recommendation is introducing coding early.",
+          "Step 2: Benefit assumption → improves skills (I).",
+          "Step 3: Feasibility assumption → students can learn it (II)."
+        ],
+        "why_correct": {
+          "C": "Both assumptions support recommendation."
+        },
+        "why_incorrect": {
+          "A": "Ignores feasibility.",
+          "B": "Ignores benefit.",
+          "D": "Invalid as recommendation requires justification."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "educational reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1429,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The company launched a new product despite declining market demand.\nAssumptions:\nI. The company expects the demand to increase in the future.\nII. The product is unique enough to create its own demand.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Either I or II is implicit"
+      },
+      {
+        "id": "D",
+        "text": "Both I and II are implicit"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Either I or II is implicit",
+      "explanation": {
+        "concept": "When a decision contradicts current trends, it must rely on at least one justification.",
+        "step_by_step": [
+          "Step 1: Demand is declining, yet product launched.",
+          "Step 2: Either future demand will rise OR product will create demand.",
+          "Step 3: At least one assumption must hold, not necessarily both."
+        ],
+        "why_correct": {
+          "C": "One of the assumptions must justify the decision."
+        },
+        "why_incorrect": {
+          "A": "Too restrictive.",
+          "B": "Too restrictive.",
+          "D": "Both are not necessarily required."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "contradictory decisions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1430,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: People are advised to exercise regularly to maintain good health.\nAssumptions:\nI. Exercise contributes to good health.\nII. People are currently not exercising enough.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II are implicit"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II is implicit"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I is implicit",
+      "explanation": {
+        "concept": "Advice implies belief in effectiveness, not necessarily current behavior.",
+        "step_by_step": [
+          "Step 1: Advice given → exercise improves health (I needed).",
+          "Step 2: Whether people currently exercise is not necessary (II optional)."
+        ],
+        "why_correct": {
+          "A": "Core assumption supporting advice."
+        },
+        "why_incorrect": {
+          "B": "Not required.",
+          "C": "II is not necessary.",
+          "D": "Incorrect as advice must be based on effectiveness."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "advice logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1431,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The city has increased parking fees to reduce traffic congestion.\nAssumptions:\nI. Higher parking fees will discourage people from using personal vehicles.\nII. Public transport is available as an alternative.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II are implicit"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II is implicit"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both I and II are implicit",
+      "explanation": {
+        "concept": "A policy action assumes behavioral change and viable alternatives.",
+        "step_by_step": [
+          "Step 1: Aim is reducing traffic.",
+          "Step 2: Discouragement requires higher fees to impact behavior (I).",
+          "Step 3: Alternative transport must exist (II)."
+        ],
+        "why_correct": {
+          "C": "Both assumptions are necessary."
+        },
+        "why_incorrect": {
+          "A": "Incomplete.",
+          "B": "Incomplete.",
+          "D": "Invalid."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "policy assumptions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1432,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The company has stopped advertising its top-selling product.\nAssumptions:\nI. The product no longer requires promotion.\nII. Advertising does not significantly impact sales of this product.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Either I or II is implicit"
+      },
+      {
+        "id": "D",
+        "text": "Both I and II are implicit"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Either I or II is implicit",
+      "explanation": {
+        "concept": "A decision to stop an action implies justification via redundancy or ineffectiveness.",
+        "step_by_step": [
+          "Step 1: Advertising stopped.",
+          "Step 2: Either it is unnecessary OR ineffective.",
+          "Step 3: Only one justification is required."
+        ],
+        "why_correct": {
+          "C": "Logical sufficiency condition."
+        },
+        "why_incorrect": {
+          "A": "Too restrictive.",
+          "B": "Too restrictive.",
+          "D": "Not both needed."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.87,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "decision logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1433,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.42,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Students are advised to revise regularly before exams.\nAssumptions:\nI. Revision improves retention.\nII. Students forget what they study.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II are implicit"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II is implicit"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I is implicit",
+      "explanation": {
+        "concept": "Advice is based on effectiveness, not necessarily on current deficiencies.",
+        "step_by_step": [
+          "Step 1: Advice given → must be beneficial.",
+          "Step 2: Revision improves retention (I required).",
+          "Step 3: Forgetting is not necessary assumption."
+        ],
+        "why_correct": {
+          "A": "Core justification."
+        },
+        "why_incorrect": {
+          "B": "Not necessary.",
+          "C": "II not required.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "study logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1434,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The bank has reduced interest rates to encourage borrowing.\nAssumptions:\nI. Lower interest rates make borrowing more attractive.\nII. People are willing to take loans if interest rates are low.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II is implicit"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II are implicit"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II is implicit"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both I and II are implicit",
+      "explanation": {
+        "concept": "A strategy to influence behavior assumes both incentive effectiveness and response.",
+        "step_by_step": [
+          "Step 1: Objective is to increase borrowing.",
+          "Step 2: Lower rates must attract borrowers (I).",
+          "Step 3: People must respond positively (II)."
+        ],
+        "why_correct": {
+          "C": "Both assumptions required."
+        },
+        "why_incorrect": {
+          "A": "Incomplete.",
+          "B": "Incomplete.",
+          "D": "Incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "economic behavior"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1435,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Assumption",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: The organization replaced manual processes with automation to improve efficiency.\nAssumptions:\nI. Automation reduces human error.\nII. Manual processes were inefficient.\nIII. Automation is cost-effective in the long run.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and II are implicit"
+      },
+      {
+        "id": "B",
+        "text": "Only II and III are implicit"
+      },
+      {
+        "id": "C",
+        "text": "Only I and III are implicit"
+      },
+      {
+        "id": "D",
+        "text": "All I, II, and III are implicit"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "All I, II, and III are implicit",
+      "explanation": {
+        "concept": "Complex decisions rely on multiple assumptions: problem existence, solution effectiveness, and feasibility.",
+        "step_by_step": [
+          "Step 1: Inefficiency must exist (II).",
+          "Step 2: Automation must improve accuracy (I).",
+          "Step 3: It must be economically viable (III)."
+        ],
+        "why_correct": {
+          "D": "All are required to justify replacement."
+        },
+        "why_incorrect": {
+          "A": "Ignores cost feasibility.",
+          "B": "Misses accuracy improvement.",
+          "C": "Misses inefficiency premise."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "multi-layer assumptions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  }
+]

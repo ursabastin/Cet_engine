@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1436,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. Heavy rainfall occurred in the region for five consecutive days.\nII. Several villages in the region were flooded.\n\nWhich of the following is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I is the cause and II is the effect"
+      },
+      {
+        "id": "B",
+        "text": "II is the cause and I is the effect"
+      },
+      {
+        "id": "C",
+        "text": "Both are independent effects of a common cause"
+      },
+      {
+        "id": "D",
+        "text": "Both are independent causes"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I is the cause and II is the effect",
+      "explanation": {
+        "concept": "Cause & Effect reasoning identifies whether one statement logically leads to another.",
+        "step_by_step": [
+          "Heavy rainfall logically leads to water accumulation.",
+          "Flooding is a direct consequence of excessive rainfall.",
+          "Thus, rainfall causes flooding."
+        ],
+        "why_correct": {
+          "A": "Heavy rainfall directly results in flooding."
+        },
+        "why_incorrect": {
+          "B": "Flooding cannot cause rainfall.",
+          "C": "Flooding is not independent; it follows rainfall.",
+          "D": "Flooding is not a cause here."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1436",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "cause and effect reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1437,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.81,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. The government reduced import duties on electronic goods.\nII. The prices of electronic goods decreased in the domestic market.\n\nWhich is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I is the cause and II is the effect"
+      },
+      {
+        "id": "B",
+        "text": "II is the cause and I is the effect"
+      },
+      {
+        "id": "C",
+        "text": "Both are independent"
+      },
+      {
+        "id": "D",
+        "text": "Both are effects of a third factor"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I is the cause and II is the effect",
+      "explanation": {
+        "concept": "Economic cause-effect relationships involve policy impacting market prices.",
+        "step_by_step": [
+          "Reduction in import duties lowers cost of imported goods.",
+          "Lower costs allow sellers to reduce prices.",
+          "Thus, price reduction is a consequence."
+        ],
+        "why_correct": {
+          "A": "Duty reduction directly reduces price."
+        },
+        "why_incorrect": {
+          "B": "Price decrease cannot cause duty change.",
+          "C": "They are clearly related.",
+          "D": "No third factor implied."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1437",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "economic reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1438,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. A large number of trees were cut in the area.\nII. The temperature of the region increased significantly.\n\nChoose the correct option.",
+    "options": [
+      {
+        "id": "A",
+        "text": "I is the cause and II is the effect"
+      },
+      {
+        "id": "B",
+        "text": "II is the cause and I is the effect"
+      },
+      {
+        "id": "C",
+        "text": "Both are independent"
+      },
+      {
+        "id": "D",
+        "text": "Both are effects of global warming only"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I is the cause and II is the effect",
+      "explanation": {
+        "concept": "Environmental imbalance leads to climate effects.",
+        "step_by_step": [
+          "Trees regulate temperature through shade and transpiration.",
+          "Deforestation removes this regulation.",
+          "This leads to temperature rise."
+        ],
+        "why_correct": {
+          "A": "Tree cutting causes temperature increase."
+        },
+        "why_incorrect": {
+          "B": "Temperature rise doesn't cause tree cutting directly.",
+          "C": "They are clearly linked.",
+          "D": "Specific local cause exists."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1438",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "environmental reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1439,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. The company launched a heavy advertising campaign.\nII. Sales of the product increased rapidly.\n\nWhat is the correct relation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I causes II"
+      },
+      {
+        "id": "B",
+        "text": "II causes I"
+      },
+      {
+        "id": "C",
+        "text": "Both are independent"
+      },
+      {
+        "id": "D",
+        "text": "Both are effects of market demand"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I causes II",
+      "explanation": {
+        "concept": "Marketing strategies influence consumer behavior.",
+        "step_by_step": [
+          "Advertising increases product awareness.",
+          "Increased awareness leads to more purchases.",
+          "Thus, sales rise."
+        ],
+        "why_correct": {
+          "A": "Advertising leads to higher sales."
+        },
+        "why_incorrect": {
+          "B": "Sales increase doesn't cause prior advertising.",
+          "C": "They are linked.",
+          "D": "Advertising is the active driver."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1439",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "business reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1440,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. The roads were poorly maintained.\nII. There was a significant increase in road accidents.\n\nSelect the correct relationship.",
+    "options": [
+      {
+        "id": "A",
+        "text": "I causes II"
+      },
+      {
+        "id": "B",
+        "text": "II causes I"
+      },
+      {
+        "id": "C",
+        "text": "Both independent"
+      },
+      {
+        "id": "D",
+        "text": "Both are effects of driver negligence"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I causes II",
+      "explanation": {
+        "concept": "Infrastructure quality directly affects safety outcomes.",
+        "step_by_step": [
+          "Poor roads create unsafe driving conditions.",
+          "Unsafe conditions increase accident probability.",
+          "Hence accidents rise."
+        ],
+        "why_correct": {
+          "A": "Poor roads logically increase accidents."
+        },
+        "why_incorrect": {
+          "B": "Accidents do not cause poor roads.",
+          "C": "They are causally linked.",
+          "D": "Driver negligence is not stated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1440",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "causal inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1441,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. The factory released untreated waste into the river.\nII. Aquatic life in the river declined drastically.\n\nChoose the correct option.",
+    "options": [
+      {
+        "id": "A",
+        "text": "I causes II"
+      },
+      {
+        "id": "B",
+        "text": "II causes I"
+      },
+      {
+        "id": "C",
+        "text": "Both are independent"
+      },
+      {
+        "id": "D",
+        "text": "Both are effects of climate change"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I causes II",
+      "explanation": {
+        "concept": "Pollution leads to ecological damage.",
+        "step_by_step": [
+          "Untreated waste contaminates water.",
+          "Contaminated water harms aquatic organisms.",
+          "Thus, population declines."
+        ],
+        "why_correct": {
+          "A": "Pollution directly harms aquatic life."
+        },
+        "why_incorrect": {
+          "B": "Decline does not cause pollution.",
+          "C": "They are causally related.",
+          "D": "Specific cause is pollution."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1441",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "environmental cause-effect"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1442,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. Students were given regular practice tests.\nII. Their performance in final exams improved significantly.\n\nIdentify the correct relation.",
+    "options": [
+      {
+        "id": "A",
+        "text": "I causes II"
+      },
+      {
+        "id": "B",
+        "text": "II causes I"
+      },
+      {
+        "id": "C",
+        "text": "Both independent"
+      },
+      {
+        "id": "D",
+        "text": "Both effects of intelligence"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I causes II",
+      "explanation": {
+        "concept": "Practice improves performance due to reinforcement learning.",
+        "step_by_step": [
+          "Practice tests enhance understanding.",
+          "They improve retention and exam skills.",
+          "Hence performance improves."
+        ],
+        "why_correct": {
+          "A": "Practice leads to better results."
+        },
+        "why_incorrect": {
+          "B": "Performance cannot cause prior practice.",
+          "C": "They are connected.",
+          "D": "Practice is the key factor."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1442",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "learning theory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1443,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. The bank reduced interest rates on loans.\nII. Demand for loans increased.\n\nSelect correct relation.",
+    "options": [
+      {
+        "id": "A",
+        "text": "I causes II"
+      },
+      {
+        "id": "B",
+        "text": "II causes I"
+      },
+      {
+        "id": "C",
+        "text": "Independent"
+      },
+      {
+        "id": "D",
+        "text": "Both effects of inflation"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I causes II",
+      "explanation": {
+        "concept": "Lower cost of borrowing increases demand.",
+        "step_by_step": [
+          "Reduced interest lowers loan cost.",
+          "Lower cost attracts more borrowers.",
+          "Thus demand rises."
+        ],
+        "why_correct": {
+          "A": "Lower rates drive demand."
+        },
+        "why_incorrect": {
+          "B": "Demand does not set prior rates here.",
+          "C": "They are linked.",
+          "D": "Inflation not mentioned."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1443",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "economic reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1444,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. The city introduced strict traffic rules.\nII. Road discipline improved among drivers.\n\nChoose correct relation.",
+    "options": [
+      {
+        "id": "A",
+        "text": "I causes II"
+      },
+      {
+        "id": "B",
+        "text": "II causes I"
+      },
+      {
+        "id": "C",
+        "text": "Independent"
+      },
+      {
+        "id": "D",
+        "text": "Both effects of public awareness"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I causes II",
+      "explanation": {
+        "concept": "Regulations influence behavior compliance.",
+        "step_by_step": [
+          "Strict rules enforce penalties.",
+          "Drivers follow rules to avoid penalties.",
+          "Discipline improves."
+        ],
+        "why_correct": {
+          "A": "Rules drive behavior change."
+        },
+        "why_incorrect": {
+          "B": "Discipline doesn't create rules.",
+          "C": "They are linked.",
+          "D": "Rules are primary cause."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1444",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "behavioral reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1445,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Cause & Effect",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statements:\nI. The company failed to innovate its products.\nII. Its market share declined over time.\n\nWhich is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I causes II"
+      },
+      {
+        "id": "B",
+        "text": "II causes I"
+      },
+      {
+        "id": "C",
+        "text": "Independent"
+      },
+      {
+        "id": "D",
+        "text": "Both effects of competition only"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "I causes II",
+      "explanation": {
+        "concept": "Innovation drives competitiveness in markets.",
+        "step_by_step": [
+          "Lack of innovation reduces product appeal.",
+          "Customers shift to better alternatives.",
+          "Market share declines."
+        ],
+        "why_correct": {
+          "A": "Failure to innovate leads to decline."
+        },
+        "why_incorrect": {
+          "B": "Decline does not cause past failure.",
+          "C": "They are linked.",
+          "D": "Internal factor is key."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1445",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "business strategy reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  }
+]

@@ -1,0 +1,2257 @@
+[
+  {
+    "id": 1965,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author discusses the rapid adoption of artificial intelligence tools in education, noting both their efficiency and the risk of overdependence. The tone of the passage can best be described as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Completely optimistic"
+      },
+      {
+        "id": "B",
+        "text": "Cautiously analytical"
+      },
+      {
+        "id": "C",
+        "text": "Strongly critical"
+      },
+      {
+        "id": "D",
+        "text": "Indifferent"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Cautiously analytical",
+      "explanation": {
+        "concept": "Tone reflects the author's attitude. Mixed viewpoints with evaluation suggest a balanced tone.",
+        "step_by_step": [
+          "Identify keywords: 'efficiency' (positive) and 'risk' (negative).",
+          "Recognize presence of both benefits and concerns.",
+          "Eliminate extreme tones like fully optimistic or strongly critical.",
+          "Select a tone that reflects balanced evaluation."
+        ],
+        "why_correct": {
+          "A": "Incorrect because the passage includes concerns, not pure optimism."
+        },
+        "why_incorrect": {
+          "B": "Correct because the tone balances appreciation and caution.",
+          "C": "Incorrect because the passage is not entirely negative.",
+          "D": "Incorrect as the author clearly expresses evaluation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "tone identification",
+        "author attitude"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1966,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage emphasizes that urban expansion often leads to environmental degradation but also acknowledges its necessity for economic growth. What is the main idea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Urban expansion should be completely stopped"
+      },
+      {
+        "id": "B",
+        "text": "Urban expansion has both benefits and drawbacks"
+      },
+      {
+        "id": "C",
+        "text": "Environmental degradation is unavoidable"
+      },
+      {
+        "id": "D",
+        "text": "Economic growth is more important than environment"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Urban expansion has both benefits and drawbacks",
+      "explanation": {
+        "concept": "Main idea captures the central balanced argument, not extreme positions.",
+        "step_by_step": [
+          "Identify key ideas: environmental harm and economic benefit.",
+          "Recognize contrast between two aspects.",
+          "Reject options focusing on only one side.",
+          "Select option representing both aspects."
+        ],
+        "why_correct": {
+          "B": "Correct as it includes both positive and negative aspects discussed."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as passage does not argue for stopping expansion.",
+          "C": "Incorrect as it overgeneralizes.",
+          "D": "Incorrect as it prioritizes one side not supported."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "main idea extraction",
+        "contrast analysis"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1967,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a passage criticizing bureaucratic inefficiencies using irony and subtle humor, the tone is best described as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Satirical"
+      },
+      {
+        "id": "B",
+        "text": "Neutral"
+      },
+      {
+        "id": "C",
+        "text": "Aggressive"
+      },
+      {
+        "id": "D",
+        "text": "Sympathetic"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Satirical",
+      "explanation": {
+        "concept": "Satire uses humor, irony, or exaggeration to criticize.",
+        "step_by_step": [
+          "Identify presence of criticism.",
+          "Note use of irony and humor.",
+          "Connect these elements with satire.",
+          "Eliminate tones lacking humor or irony."
+        ],
+        "why_correct": {
+          "A": "Correct as satire matches ironic criticism."
+        },
+        "why_incorrect": {
+          "B": "Incorrect because tone is clearly evaluative.",
+          "C": "Incorrect as criticism is subtle, not aggressive.",
+          "D": "Incorrect as there is no sympathy."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "tone recognition",
+        "satire"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1968,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage argues that traditional methods of teaching are losing relevance in the digital age, while suggesting integration with modern tools. What is the main idea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Traditional teaching should be abandoned completely"
+      },
+      {
+        "id": "B",
+        "text": "Modern tools are superior to traditional methods"
+      },
+      {
+        "id": "C",
+        "text": "Blending traditional and modern teaching is necessary"
+      },
+      {
+        "id": "D",
+        "text": "Digital tools are harmful to education"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Blending traditional and modern teaching is necessary",
+      "explanation": {
+        "concept": "Main idea often lies in synthesis rather than extreme positions.",
+        "step_by_step": [
+          "Identify critique of traditional methods.",
+          "Note suggestion of integration.",
+          "Recognize balanced recommendation.",
+          "Select option reflecting synthesis."
+        ],
+        "why_correct": {
+          "C": "Correct as it captures integration of both methods."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as passage suggests modification, not abandonment.",
+          "B": "Incorrect as it is one-sided.",
+          "D": "Incorrect as no such claim is made."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "main idea synthesis"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1969,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage repeatedly emphasizes failures of a policy but acknowledges minor successes in passing. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Balanced"
+      },
+      {
+        "id": "B",
+        "text": "Predominantly critical"
+      },
+      {
+        "id": "C",
+        "text": "Optimistic"
+      },
+      {
+        "id": "D",
+        "text": "Detached"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Predominantly critical",
+      "explanation": {
+        "concept": "Tone depends on dominant emphasis, not minor mentions.",
+        "step_by_step": [
+          "Identify repeated emphasis on failures.",
+          "Note minor mention of success.",
+          "Evaluate dominant attitude.",
+          "Choose tone reflecting overall emphasis."
+        ],
+        "why_correct": {
+          "B": "Correct as criticism dominates despite minor positives."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as balance is not equal.",
+          "C": "Incorrect due to lack of optimism.",
+          "D": "Incorrect because clear judgment is present."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "tone dominance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1970,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author highlights the importance of mental health awareness and criticizes societal neglect. What is the tone?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Concerned"
+      },
+      {
+        "id": "B",
+        "text": "Humorous"
+      },
+      {
+        "id": "C",
+        "text": "Indifferent"
+      },
+      {
+        "id": "D",
+        "text": "Celebratory"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Concerned",
+      "explanation": {
+        "concept": "Concerned tone reflects worry and seriousness about an issue.",
+        "step_by_step": [
+          "Identify subject: mental health awareness.",
+          "Note criticism of neglect.",
+          "Infer emotional stance: worry and seriousness.",
+          "Match with concerned tone."
+        ],
+        "why_correct": {
+          "A": "Correct as it reflects worry about societal neglect."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as no humor is present.",
+          "C": "Incorrect due to clear engagement.",
+          "D": "Incorrect as tone is not positive."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "tone identification"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1971,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage describes technological progress while subtly warning about ethical implications. The tone is best described as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Apprehensive"
+      },
+      {
+        "id": "B",
+        "text": "Enthusiastic"
+      },
+      {
+        "id": "C",
+        "text": "Indifferent"
+      },
+      {
+        "id": "D",
+        "text": "Hostile"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Apprehensive",
+      "explanation": {
+        "concept": "Apprehensive tone reflects mild fear or concern about future consequences.",
+        "step_by_step": [
+          "Identify positive description of progress.",
+          "Notice warning about ethics.",
+          "Infer cautious concern.",
+          "Match with apprehensive tone."
+        ],
+        "why_correct": {
+          "A": "Correct as it captures cautious concern."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as tone is not purely positive.",
+          "C": "Incorrect due to clear evaluation.",
+          "D": "Incorrect as tone is not aggressive."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "tone nuance"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1972,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author uses exaggerated praise to highlight flaws in a system. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sarcastic"
+      },
+      {
+        "id": "B",
+        "text": "Objective"
+      },
+      {
+        "id": "C",
+        "text": "Informative"
+      },
+      {
+        "id": "D",
+        "text": "Melancholic"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Sarcastic",
+      "explanation": {
+        "concept": "Sarcasm involves saying the opposite of what is meant, often with exaggeration.",
+        "step_by_step": [
+          "Identify exaggerated praise.",
+          "Recognize hidden criticism.",
+          "Connect with sarcastic tone.",
+          "Eliminate literal interpretations."
+        ],
+        "why_correct": {
+          "A": "Correct as sarcasm uses exaggerated praise to criticize."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as tone is not neutral.",
+          "C": "Incorrect as tone is evaluative.",
+          "D": "Incorrect as no sadness is implied."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "sarcasm",
+        "tone detection"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1973,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage explains the causes of climate change without expressing any opinion. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutral"
+      },
+      {
+        "id": "B",
+        "text": "Critical"
+      },
+      {
+        "id": "C",
+        "text": "Alarmist"
+      },
+      {
+        "id": "D",
+        "text": "Persuasive"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Neutral",
+      "explanation": {
+        "concept": "Neutral tone presents facts without judgment.",
+        "step_by_step": [
+          "Identify factual explanation.",
+          "Note absence of opinion.",
+          "Match with neutral tone.",
+          "Eliminate evaluative tones."
+        ],
+        "why_correct": {
+          "A": "Correct as tone is objective and factual."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as no criticism is present.",
+          "C": "Incorrect as no exaggeration or urgency.",
+          "D": "Incorrect as no persuasion."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "neutral tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1974,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage argues that excessive consumerism leads to long-term dissatisfaction despite short-term pleasure. What is the main idea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consumerism always leads to happiness"
+      },
+      {
+        "id": "B",
+        "text": "Short-term pleasure is more valuable"
+      },
+      {
+        "id": "C",
+        "text": "Consumerism results in lasting dissatisfaction"
+      },
+      {
+        "id": "D",
+        "text": "Material wealth guarantees satisfaction"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Consumerism results in lasting dissatisfaction",
+      "explanation": {
+        "concept": "Main idea reflects the core argument linking cause and effect.",
+        "step_by_step": [
+          "Identify cause: excessive consumerism.",
+          "Identify effect: long-term dissatisfaction.",
+          "Ignore mention of short-term pleasure as secondary.",
+          "Select option capturing main argument."
+        ],
+        "why_correct": {
+          "C": "Correct as it captures the central claim."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as it contradicts the passage.",
+          "B": "Incorrect as it focuses on minor idea.",
+          "D": "Incorrect as it is not supported."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "main idea cause-effect"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1975,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage critiques modern social media culture by highlighting superficial interactions while acknowledging its role in connectivity. The tone is best described as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Balanced but critical"
+      },
+      {
+        "id": "B",
+        "text": "Purely celebratory"
+      },
+      {
+        "id": "C",
+        "text": "Completely dismissive"
+      },
+      {
+        "id": "D",
+        "text": "Emotionally detached"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Balanced but critical",
+      "explanation": {
+        "concept": "Tone must capture both acknowledgment and critique, with emphasis determining dominance.",
+        "step_by_step": [
+          "Identify criticism of superficiality.",
+          "Recognize acknowledgment of connectivity.",
+          "Determine dominant attitude (critical).",
+          "Select option reflecting both but leaning critical."
+        ],
+        "why_correct": {
+          "A": "Correct as it captures dual perspective with dominant criticism."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as criticism is present.",
+          "C": "Incorrect as some positive aspect is acknowledged.",
+          "D": "Incorrect as evaluation is clearly present."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "tone balance",
+        "critical tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1976,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author explains the evolution of language over centuries, presenting facts and examples without judgment. What is the tone?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutral and informative"
+      },
+      {
+        "id": "B",
+        "text": "Judgmental"
+      },
+      {
+        "id": "C",
+        "text": "Sarcastic"
+      },
+      {
+        "id": "D",
+        "text": "Persuasive"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Neutral and informative",
+      "explanation": {
+        "concept": "Informative tone provides factual content without personal bias.",
+        "step_by_step": [
+          "Identify factual explanation.",
+          "Observe absence of opinion or evaluation.",
+          "Match with neutral informative tone.",
+          "Eliminate subjective tones."
+        ],
+        "why_correct": {
+          "A": "Correct as it reflects factual and unbiased explanation."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as no judgment is expressed.",
+          "C": "Incorrect due to lack of irony.",
+          "D": "Incorrect as no attempt to persuade."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "informative tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1977,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author subtly undermines a popular theory by presenting contradictory evidence while maintaining an outwardly respectful language. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Subtly critical"
+      },
+      {
+        "id": "B",
+        "text": "Aggressively dismissive"
+      },
+      {
+        "id": "C",
+        "text": "Supportive"
+      },
+      {
+        "id": "D",
+        "text": "Indifferent"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Subtly critical",
+      "explanation": {
+        "concept": "Tone can be critical even when expressed indirectly or politely.",
+        "step_by_step": [
+          "Identify contradiction of theory.",
+          "Note respectful language.",
+          "Infer indirect criticism.",
+          "Match with subtle criticism."
+        ],
+        "why_correct": {
+          "A": "Correct as it reflects indirect critique."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as tone is not aggressive.",
+          "C": "Incorrect as theory is undermined.",
+          "D": "Incorrect as clear evaluation exists."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "implicit tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1978,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage claims that innovation drives progress but warns against ignoring ethical boundaries. What is the main idea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Innovation should be unrestricted"
+      },
+      {
+        "id": "B",
+        "text": "Ethics hinder progress"
+      },
+      {
+        "id": "C",
+        "text": "Innovation must be balanced with ethical considerations"
+      },
+      {
+        "id": "D",
+        "text": "Progress is impossible without ethics"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Innovation must be balanced with ethical considerations",
+      "explanation": {
+        "concept": "Main idea integrates both positive claim and caution.",
+        "step_by_step": [
+          "Identify benefit: innovation drives progress.",
+          "Identify warning: ethical boundaries.",
+          "Combine both ideas.",
+          "Select balanced conclusion."
+        ],
+        "why_correct": {
+          "C": "Correct as it integrates both aspects."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as ignores warning.",
+          "B": "Incorrect as contradicts passage.",
+          "D": "Incorrect as exaggerates claim."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "main idea synthesis"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1979,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author praises a system excessively in a way that makes its flaws more apparent. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ironical"
+      },
+      {
+        "id": "B",
+        "text": "Literal admiration"
+      },
+      {
+        "id": "C",
+        "text": "Neutral"
+      },
+      {
+        "id": "D",
+        "text": "Sincere"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Ironical",
+      "explanation": {
+        "concept": "Irony involves expressing meaning through contrast between literal and intended meaning.",
+        "step_by_step": [
+          "Identify excessive praise.",
+          "Recognize underlying criticism.",
+          "Connect with irony.",
+          "Eliminate literal interpretations."
+        ],
+        "why_correct": {
+          "A": "Correct as irony reveals flaws through praise."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as praise is not genuine.",
+          "C": "Incorrect as tone is evaluative.",
+          "D": "Incorrect as intention is not sincere."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "irony"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1980,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage objectively compares two economic policies without favoring either. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutral"
+      },
+      {
+        "id": "B",
+        "text": "Biased"
+      },
+      {
+        "id": "C",
+        "text": "Critical"
+      },
+      {
+        "id": "D",
+        "text": "Persuasive"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Neutral",
+      "explanation": {
+        "concept": "Neutral tone avoids bias or preference.",
+        "step_by_step": [
+          "Identify comparison.",
+          "Observe absence of preference.",
+          "Conclude neutrality.",
+          "Eliminate biased tones."
+        ],
+        "why_correct": {
+          "A": "Correct as tone is unbiased."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as no bias is evident.",
+          "C": "Incorrect as no criticism.",
+          "D": "Incorrect as no persuasion."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "neutral tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1981,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author argues that remote work increases flexibility but may reduce team cohesion. What is the main idea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Remote work is harmful"
+      },
+      {
+        "id": "B",
+        "text": "Remote work is entirely beneficial"
+      },
+      {
+        "id": "C",
+        "text": "Remote work has both advantages and disadvantages"
+      },
+      {
+        "id": "D",
+        "text": "Team cohesion is irrelevant"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Remote work has both advantages and disadvantages",
+      "explanation": {
+        "concept": "Main idea reflects balanced evaluation.",
+        "step_by_step": [
+          "Identify benefit: flexibility.",
+          "Identify drawback: reduced cohesion.",
+          "Combine both ideas.",
+          "Select balanced option."
+        ],
+        "why_correct": {
+          "C": "Correct as it captures both aspects."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as ignores benefits.",
+          "B": "Incorrect as ignores drawbacks.",
+          "D": "Incorrect as unsupported."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "balanced main idea"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1982,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage highlights the inefficiency of a process with exaggerated descriptions for effect. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hyperbolic"
+      },
+      {
+        "id": "B",
+        "text": "Neutral"
+      },
+      {
+        "id": "C",
+        "text": "Sympathetic"
+      },
+      {
+        "id": "D",
+        "text": "Scientific"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Hyperbolic",
+      "explanation": {
+        "concept": "Hyperbole involves exaggeration for emphasis.",
+        "step_by_step": [
+          "Identify exaggeration.",
+          "Recognize purpose: emphasize inefficiency.",
+          "Match with hyperbole.",
+          "Eliminate literal tones."
+        ],
+        "why_correct": {
+          "A": "Correct as exaggeration is key feature."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as tone is exaggerated.",
+          "C": "Incorrect as no sympathy.",
+          "D": "Incorrect as not factual."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "hyperbole"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1983,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage concludes that while globalization has improved economies, it has widened inequality. What is the main idea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Globalization is entirely beneficial"
+      },
+      {
+        "id": "B",
+        "text": "Globalization has mixed effects"
+      },
+      {
+        "id": "C",
+        "text": "Inequality is decreasing globally"
+      },
+      {
+        "id": "D",
+        "text": "Economies are worsening"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Globalization has mixed effects",
+      "explanation": {
+        "concept": "Main idea reflects dual impact.",
+        "step_by_step": [
+          "Identify positive: improved economies.",
+          "Identify negative: increased inequality.",
+          "Combine both effects.",
+          "Choose balanced option."
+        ],
+        "why_correct": {
+          "B": "Correct as it includes both impacts."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as ignores inequality.",
+          "C": "Incorrect as opposite claim.",
+          "D": "Incorrect as unsupported."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "dual impact main idea"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1984,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author presents a widely accepted belief and then systematically dismantles it using logical reasoning without emotional language. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Analytical and critical"
+      },
+      {
+        "id": "B",
+        "text": "Emotional"
+      },
+      {
+        "id": "C",
+        "text": "Sarcastic"
+      },
+      {
+        "id": "D",
+        "text": "Supportive"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Analytical and critical",
+      "explanation": {
+        "concept": "Analytical tone uses logic to evaluate or critique ideas.",
+        "step_by_step": [
+          "Identify logical dismantling.",
+          "Note absence of emotion.",
+          "Infer analytical approach.",
+          "Recognize critical stance."
+        ],
+        "why_correct": {
+          "A": "Correct as it combines logical analysis with critique."
+        },
+        "why_incorrect": {
+          "B": "Incorrect due to lack of emotion.",
+          "C": "Incorrect as no irony.",
+          "D": "Incorrect as belief is challenged."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "analytical tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1985,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage describes the decline of traditional crafts due to industrialization while expressing regret over the loss of cultural heritage. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nostalgic"
+      },
+      {
+        "id": "B",
+        "text": "Indifferent"
+      },
+      {
+        "id": "C",
+        "text": "Optimistic"
+      },
+      {
+        "id": "D",
+        "text": "Sarcastic"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Nostalgic",
+      "explanation": {
+        "concept": "Nostalgic tone reflects longing or sadness for the past.",
+        "step_by_step": [
+          "Identify mention of decline of traditional crafts.",
+          "Note emotional regret about cultural loss.",
+          "Recognize backward-looking sentiment.",
+          "Match with nostalgic tone."
+        ],
+        "why_correct": {
+          "A": "Correct as it reflects longing for the past."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as emotion is present.",
+          "C": "Incorrect as tone is not hopeful.",
+          "D": "Incorrect as no irony or mockery."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "nostalgic tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1986,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author presents achievements of a leader but subtly hints at their shortcomings through selective examples. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Subtly critical"
+      },
+      {
+        "id": "B",
+        "text": "Completely admiring"
+      },
+      {
+        "id": "C",
+        "text": "Neutral"
+      },
+      {
+        "id": "D",
+        "text": "Hostile"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Subtly critical",
+      "explanation": {
+        "concept": "Tone can be implied through selective presentation of facts.",
+        "step_by_step": [
+          "Identify positive achievements.",
+          "Notice subtle negative hints.",
+          "Infer indirect criticism.",
+          "Match tone accordingly."
+        ],
+        "why_correct": {
+          "A": "Correct as criticism is implied subtly."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as flaws are indicated.",
+          "C": "Incorrect due to evaluation.",
+          "D": "Incorrect as tone is not aggressive."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "implicit criticism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1987,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage explains the benefits of exercise and encourages readers to adopt a healthier lifestyle. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Persuasive"
+      },
+      {
+        "id": "B",
+        "text": "Neutral"
+      },
+      {
+        "id": "C",
+        "text": "Critical"
+      },
+      {
+        "id": "D",
+        "text": "Indifferent"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Persuasive",
+      "explanation": {
+        "concept": "Persuasive tone aims to influence reader behavior or opinion.",
+        "step_by_step": [
+          "Identify explanation of benefits.",
+          "Note encouragement to act.",
+          "Recognize intent to influence.",
+          "Match with persuasive tone."
+        ],
+        "why_correct": {
+          "A": "Correct as the passage encourages action."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as it goes beyond facts.",
+          "C": "Incorrect as no criticism.",
+          "D": "Incorrect due to engagement."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "persuasive tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1988,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author presents a serious issue but uses light humor to make the content engaging. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Light-hearted yet serious"
+      },
+      {
+        "id": "B",
+        "text": "Completely humorous"
+      },
+      {
+        "id": "C",
+        "text": "Strictly formal"
+      },
+      {
+        "id": "D",
+        "text": "Indifferent"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Light-hearted yet serious",
+      "explanation": {
+        "concept": "Tone can blend seriousness with humor for engagement.",
+        "step_by_step": [
+          "Identify serious topic.",
+          "Note use of humor.",
+          "Recognize dual tone.",
+          "Select blended tone option."
+        ],
+        "why_correct": {
+          "A": "Correct as it captures both aspects."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as topic remains serious.",
+          "C": "Incorrect due to humor.",
+          "D": "Incorrect as engagement exists."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "mixed tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1989,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage argues that while competition drives innovation, excessive rivalry can be destructive. What is the main idea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Competition is harmful"
+      },
+      {
+        "id": "B",
+        "text": "Competition is always beneficial"
+      },
+      {
+        "id": "C",
+        "text": "Competition must be balanced to avoid negative effects"
+      },
+      {
+        "id": "D",
+        "text": "Rivalry should be encouraged without limits"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Competition must be balanced to avoid negative effects",
+      "explanation": {
+        "concept": "Main idea combines positive and negative aspects into a balanced conclusion.",
+        "step_by_step": [
+          "Identify benefit: innovation.",
+          "Identify drawback: destructive rivalry.",
+          "Combine into balanced insight.",
+          "Select option reflecting balance."
+        ],
+        "why_correct": {
+          "C": "Correct as it integrates both aspects."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as ignores benefits.",
+          "B": "Incorrect as ignores drawbacks.",
+          "D": "Incorrect as contradicts caution."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "balanced argument"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1990,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author dismantles an argument using precise data and logical reasoning, avoiding emotional language entirely. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Analytical"
+      },
+      {
+        "id": "B",
+        "text": "Emotional"
+      },
+      {
+        "id": "C",
+        "text": "Sarcastic"
+      },
+      {
+        "id": "D",
+        "text": "Narrative"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Analytical",
+      "explanation": {
+        "concept": "Analytical tone focuses on logic, evidence, and reasoning.",
+        "step_by_step": [
+          "Identify use of data.",
+          "Note logical structure.",
+          "Observe absence of emotion.",
+          "Match with analytical tone."
+        ],
+        "why_correct": {
+          "A": "Correct as reasoning is emphasized."
+        },
+        "why_incorrect": {
+          "B": "Incorrect due to lack of emotion.",
+          "C": "Incorrect as no irony.",
+          "D": "Incorrect as not storytelling."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "analytical tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1991,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage presents alarming statistics about pollution to urge immediate action. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alarmist"
+      },
+      {
+        "id": "B",
+        "text": "Neutral"
+      },
+      {
+        "id": "C",
+        "text": "Humorous"
+      },
+      {
+        "id": "D",
+        "text": "Indifferent"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Alarmist",
+      "explanation": {
+        "concept": "Alarmist tone emphasizes urgency and seriousness, often using strong data.",
+        "step_by_step": [
+          "Identify alarming statistics.",
+          "Recognize urgency.",
+          "Match with alarmist tone.",
+          "Eliminate neutral or humorous tones."
+        ],
+        "why_correct": {
+          "A": "Correct as urgency is emphasized."
+        },
+        "why_incorrect": {
+          "B": "Incorrect due to urgency.",
+          "C": "Incorrect as no humor.",
+          "D": "Incorrect as strong concern is shown."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "alarmist tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1992,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A passage suggests that while automation improves efficiency, it may lead to job displacement. What is the main idea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Automation should be avoided"
+      },
+      {
+        "id": "B",
+        "text": "Automation has both positive and negative impacts"
+      },
+      {
+        "id": "C",
+        "text": "Efficiency is more important than employment"
+      },
+      {
+        "id": "D",
+        "text": "Job loss is unavoidable"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Automation has both positive and negative impacts",
+      "explanation": {
+        "concept": "Main idea integrates contrasting outcomes.",
+        "step_by_step": [
+          "Identify benefit: efficiency.",
+          "Identify drawback: job displacement.",
+          "Combine both ideas.",
+          "Select balanced statement."
+        ],
+        "why_correct": {
+          "B": "Correct as it reflects dual impact."
+        },
+        "why_incorrect": {
+          "A": "Incorrect as too extreme.",
+          "C": "Incorrect as biased.",
+          "D": "Incorrect as partial view."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "dual impact"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1993,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author ridicules an outdated practice by exaggerating its absurdity. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mocking"
+      },
+      {
+        "id": "B",
+        "text": "Neutral"
+      },
+      {
+        "id": "C",
+        "text": "Respectful"
+      },
+      {
+        "id": "D",
+        "text": "Sympathetic"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Mocking",
+      "explanation": {
+        "concept": "Mocking tone involves ridicule and exaggeration to criticize.",
+        "step_by_step": [
+          "Identify exaggeration.",
+          "Recognize ridicule.",
+          "Connect with mocking tone.",
+          "Eliminate neutral/respectful tones."
+        ],
+        "why_correct": {
+          "A": "Correct as ridicule is evident."
+        },
+        "why_incorrect": {
+          "B": "Incorrect due to evaluation.",
+          "C": "Incorrect as tone is not respectful.",
+          "D": "Incorrect as no sympathy."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "mocking tone"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1994,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone / main idea",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 1,
+    "negative_marks": -0.25,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The author presents an issue in a detached manner but selects facts that subtly guide the reader toward a particular conclusion. The tone is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Objective but suggestive"
+      },
+      {
+        "id": "B",
+        "text": "Completely neutral"
+      },
+      {
+        "id": "C",
+        "text": "Emotional"
+      },
+      {
+        "id": "D",
+        "text": "Hostile"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Objective but suggestive",
+      "explanation": {
+        "concept": "Tone can appear objective while subtly influencing interpretation.",
+        "step_by_step": [
+          "Identify detached presentation.",
+          "Notice selective fact usage.",
+          "Infer subtle persuasion.",
+          "Match with suggestive objectivity."
+        ],
+        "why_correct": {
+          "A": "Correct as it captures hidden guidance."
+        },
+        "why_incorrect": {
+          "B": "Incorrect as subtle bias exists.",
+          "C": "Incorrect due to lack of emotion.",
+          "D": "Incorrect as no aggression."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "implicit persuasion"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  }
+]

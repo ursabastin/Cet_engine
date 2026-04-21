@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1416,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: All engineers are logical thinkers. Some logical thinkers are artists.\nConclusions:\nI. Some engineers are artists.\nII. Some artists are logical thinkers.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both conclusions follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion follows"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only conclusion II follows",
+      "explanation": {
+        "concept": "Use syllogism rules: universal statements (All A are B) do not guarantee reverse or partial relationships unless explicitly stated.",
+        "step_by_step": [
+          "All engineers are logical thinkers means Engineers ⊆ Logical thinkers.",
+          "Some logical thinkers are artists means there is overlap between logical thinkers and artists.",
+          "No direct link between engineers and artists is given.",
+          "Conclusion I assumes overlap between engineers and artists, which is not guaranteed.",
+          "Conclusion II directly follows from 'Some logical thinkers are artists'."
+        ],
+        "why_correct": {
+          "B": "Conclusion II is directly derived from the given statement."
+        },
+        "why_incorrect": {
+          "A": "Conclusion I assumes a relation not guaranteed by the statements.",
+          "C": "Conclusion I does not follow, so both cannot be correct.",
+          "D": "Conclusion II clearly follows."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "syllogism inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1417,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: No student is lazy. Some lazy people are careless.\nConclusions:\nI. Some students are not careless.\nII. Some careless people are not students.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only II follows",
+      "explanation": {
+        "concept": "Negative statements (No A is B) imply complete separation; conclusions must respect logical necessity, not possibility.",
+        "step_by_step": [
+          "No student is lazy means Students and Lazy are disjoint sets.",
+          "Some lazy people are careless establishes overlap between Lazy and Careless.",
+          "Conclusion I assumes students are not careless, but no such direct relation exists.",
+          "Conclusion II follows since careless people (from lazy overlap) cannot be students."
+        ],
+        "why_correct": {
+          "B": "Conclusion II logically follows from disjoint relationship."
+        },
+        "why_incorrect": {
+          "A": "No direct relation between students and careless is given.",
+          "C": "Conclusion I is not valid.",
+          "D": "Conclusion II is valid."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "negative syllogism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1418,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Some books are magazines. All magazines are journals.\nConclusions:\nI. Some books are journals.\nII. All journals are books.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Transitive reasoning applies when subset relationships chain logically.",
+        "step_by_step": [
+          "Some books are magazines establishes overlap.",
+          "All magazines are journals implies magazines ⊆ journals.",
+          "Thus, overlapping books must partly fall within journals.",
+          "Conclusion I follows.",
+          "Conclusion II reverses universal relation incorrectly."
+        ],
+        "why_correct": {
+          "A": "Conclusion I is derived via transitive relation."
+        },
+        "why_incorrect": {
+          "B": "Conclusion II incorrectly reverses direction.",
+          "C": "Conclusion II is incorrect.",
+          "D": "Conclusion I clearly follows."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "transitive logic"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1419,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: All cars are vehicles. Some vehicles are electric.\nConclusions:\nI. Some cars are electric.\nII. All electric things are vehicles.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Neither follows",
+      "explanation": {
+        "concept": "Partial relationships do not guarantee specific overlap unless explicitly stated.",
+        "step_by_step": [
+          "All cars are vehicles gives subset relation.",
+          "Some vehicles are electric means partial overlap.",
+          "No direct link between cars and electric vehicles.",
+          "Conclusion I is a possibility, not certainty.",
+          "Conclusion II wrongly reverses statement."
+        ],
+        "why_correct": {
+          "D": "Neither conclusion is logically necessary."
+        },
+        "why_incorrect": {
+          "A": "Conclusion I is only possible, not definite.",
+          "B": "Conclusion II reverses relation incorrectly.",
+          "C": "Both are incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "possibility vs certainty"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1420,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: No doctor is careless. Some careless people are drivers.\nConclusions:\nI. Some drivers are not doctors.\nII. No driver is a doctor.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Existential statements ('Some') can lead to partial negative conclusions.",
+        "step_by_step": [
+          "No doctor is careless separates sets.",
+          "Some careless are drivers implies some drivers belong to careless group.",
+          "Since careless ≠ doctors, those drivers cannot be doctors.",
+          "Conclusion I follows.",
+          "Conclusion II is too strong."
+        ],
+        "why_correct": {
+          "A": "Conclusion I correctly derives partial exclusion."
+        },
+        "why_incorrect": {
+          "B": "Conclusion II generalizes beyond given data.",
+          "C": "Conclusion II is incorrect.",
+          "D": "Conclusion I is valid."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "existential inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1421,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Some pens are blue. All blue things are colorful.\nConclusions:\nI. Some pens are colorful.\nII. All pens are colorful.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Partial subset relationships propagate but do not generalize universally.",
+        "step_by_step": [
+          "Some pens are blue means overlap.",
+          "All blue are colorful gives subset.",
+          "Thus overlapping pens are colorful.",
+          "Conclusion II incorrectly generalizes."
+        ],
+        "why_correct": {
+          "A": "Conclusion I follows from transitive overlap."
+        },
+        "why_incorrect": {
+          "B": "Conclusion II is too broad.",
+          "C": "Conclusion II is incorrect.",
+          "D": "Conclusion I clearly follows."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "subset reasoning"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1422,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: All A are B. Some B are C. No C is D.\nConclusions:\nI. Some A are not D.\nII. Some B are not D.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only II follows",
+      "explanation": {
+        "concept": "Chain reasoning must consider direction and certainty of overlap.",
+        "step_by_step": [
+          "All A ⊆ B.",
+          "Some B are C.",
+          "No C is D means C and D disjoint.",
+          "So those B that are C are not D.",
+          "Conclusion II follows.",
+          "No guarantee A overlaps with C."
+        ],
+        "why_correct": {
+          "B": "Conclusion II is certain from given chain."
+        },
+        "why_incorrect": {
+          "A": "Conclusion I assumes A overlaps with C.",
+          "C": "Conclusion I invalid.",
+          "D": "Conclusion II is valid."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.89,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "multi-layer syllogism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1423,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: Some fruits are apples. All apples are red.\nConclusions:\nI. Some fruits are red.\nII. All fruits are red.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Some + All chain allows partial transfer of property.",
+        "step_by_step": [
+          "Some fruits are apples.",
+          "All apples are red.",
+          "So those fruits which are apples are red.",
+          "Conclusion II is overgeneralization."
+        ],
+        "why_correct": {
+          "A": "Conclusion I follows from partial overlap."
+        },
+        "why_incorrect": {
+          "B": "Conclusion II is too broad.",
+          "C": "Conclusion II incorrect.",
+          "D": "Conclusion I is valid."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "partial inference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1424,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: No teacher is dishonest. Some dishonest people are politicians.\nConclusions:\nI. Some politicians are not teachers.\nII. All politicians are dishonest.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Disjoint sets combined with partial overlap produce partial negative conclusions.",
+        "step_by_step": [
+          "No teacher is dishonest.",
+          "Some dishonest are politicians.",
+          "Thus some politicians belong to dishonest group.",
+          "They cannot be teachers.",
+          "Conclusion II generalizes incorrectly."
+        ],
+        "why_correct": {
+          "A": "Conclusion I follows logically."
+        },
+        "why_incorrect": {
+          "B": "Conclusion II overgeneralizes.",
+          "C": "Conclusion II is incorrect.",
+          "D": "Conclusion I is valid."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "negative overlap"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1425,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Statement & Conclusion",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.88,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Statement: All X are Y. No Y is Z. Some Z are W.\nConclusions:\nI. Some W are not Y.\nII. Some X are not Z.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither follows"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both follow",
+      "explanation": {
+        "concept": "Combining universal and negative relations with partial overlap yields multiple valid conclusions.",
+        "step_by_step": [
+          "All X ⊆ Y.",
+          "No Y is Z implies Y and Z disjoint.",
+          "Thus X also disjoint from Z.",
+          "So some X are not Z.",
+          "Some Z are W means some W overlap with Z.",
+          "Those W cannot be Y.",
+          "So some W are not Y."
+        ],
+        "why_correct": {
+          "C": "Both conclusions logically follow."
+        },
+        "why_incorrect": {
+          "A": "Conclusion II also follows.",
+          "B": "Conclusion I also follows.",
+          "D": "Both are valid."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 110,
+      "concepts": [
+        "complex syllogism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Critical Reasoning"
+  }
+]

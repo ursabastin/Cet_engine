@@ -1,0 +1,78 @@
+[
+  {
+    "id": 3192,
+    "subject": "General Awareness",
+    "chapter": "Geography",
+    "topic": "Market Capitalization",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Market capitalization of a company is calculated as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Total assets minus liabilities"
+      },
+      {
+        "id": "B",
+        "text": "Share price × total outstanding shares"
+      },
+      {
+        "id": "C",
+        "text": "Net profit × P/E ratio"
+      },
+      {
+        "id": "D",
+        "text": "Revenue × growth rate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Share price × total outstanding shares",
+      "explanation": {
+        "concept": "Market capitalization reflects the total market value of a company's equity.",
+        "step_by_step": [
+          "Identify current share price",
+          "Multiply by total shares outstanding",
+          "Result gives total market value"
+        ],
+        "why_correct": {
+          "B": "Correct formula for market capitalization"
+        },
+        "why_incorrect": {
+          "A": "That is net worth calculation",
+          "C": "Derived valuation, not direct formula",
+          "D": "Not a standard measure"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3192",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "market cap"
+      ],
+      "formulae": [
+        "Market Cap = Price × Shares"
+      ]
+    },
+    "subtopic": "Geography"
+  }
+]

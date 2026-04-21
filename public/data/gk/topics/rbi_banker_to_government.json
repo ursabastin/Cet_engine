@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3184,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "RBI Banker to Government",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The role of RBI as 'Banker to the Government' includes which of the following functions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Providing loans directly to citizens"
+      },
+      {
+        "id": "B",
+        "text": "Managing government accounts and public debt"
+      },
+      {
+        "id": "C",
+        "text": "Regulating stock exchanges"
+      },
+      {
+        "id": "D",
+        "text": "Issuing corporate bonds"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Managing government accounts and public debt",
+      "explanation": {
+        "concept": "RBI manages receipts, payments, and debt operations for the government.",
+        "step_by_step": [
+          "Understand RBI roles.",
+          "Banker to Government means handling accounts.",
+          "It also manages public debt."
+        ],
+        "why_correct": {
+          "B": "Correct functional role."
+        },
+        "why_incorrect": {
+          "A": "RBI does not serve individuals.",
+          "C": "Handled by SEBI.",
+          "D": "Corporate activity."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Banker to Government"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

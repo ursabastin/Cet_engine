@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3203,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Unicorn Definition",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A startup is classified as a 'Unicorn' when its valuation reaches:",
+    "options": [
+      {
+        "id": "A",
+        "text": "$100 million"
+      },
+      {
+        "id": "B",
+        "text": "$500 million"
+      },
+      {
+        "id": "C",
+        "text": "$1 billion"
+      },
+      {
+        "id": "D",
+        "text": "$10 billion"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "$1 billion",
+      "explanation": {
+        "concept": "Unicorn startups are privately held companies valued at $1 billion or more.",
+        "step_by_step": [
+          "Startup valuation determines its category.",
+          "$1 billion is the globally accepted benchmark.",
+          "Such startups are termed unicorns due to their rarity."
+        ],
+        "why_correct": {
+          "C": "$1 billion defines a unicorn startup."
+        },
+        "why_incorrect": {
+          "A": "Too low for unicorn classification.",
+          "B": "Below the threshold.",
+          "D": "Represents decacorns."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.98,
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "Unicorn valuation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

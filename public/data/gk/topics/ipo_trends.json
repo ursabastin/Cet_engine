@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3174,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "IPO Trends",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Record IPO activity in 2025–26 primarily indicates which of the following market conditions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "High investor pessimism"
+      },
+      {
+        "id": "B",
+        "text": "Strong capital market confidence and liquidity"
+      },
+      {
+        "id": "C",
+        "text": "Decline in corporate profitability"
+      },
+      {
+        "id": "D",
+        "text": "Strict regulatory restrictions"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Strong capital market confidence and liquidity",
+      "explanation": {
+        "concept": "High IPO activity reflects strong investor demand and favorable market sentiment.",
+        "step_by_step": [
+          "More IPOs require investor interest",
+          "Companies raise funds when market is favorable",
+          "Indicates liquidity and confidence"
+        ],
+        "why_correct": {
+          "B": "High IPO activity signals strong market conditions"
+        },
+        "why_incorrect": {
+          "A": "Pessimism reduces IPOs",
+          "C": "IPO boom usually aligns with growth",
+          "D": "Strict rules reduce listings"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3174",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "IPO market"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

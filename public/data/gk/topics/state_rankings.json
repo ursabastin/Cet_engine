@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3219,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "State Rankings",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The 'States’ Startup Ranking' exercise conducted by the Government of India primarily aims to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rank startups based on valuation"
+      },
+      {
+        "id": "B",
+        "text": "Evaluate states on ease of doing business for startups"
+      },
+      {
+        "id": "C",
+        "text": "Provide direct subsidies to startups"
+      },
+      {
+        "id": "D",
+        "text": "Identify global startup hubs"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Evaluate states on ease of doing business for startups",
+      "explanation": {
+        "concept": "State ranking encourages competition and policy improvement among states.",
+        "step_by_step": [
+          "States are evaluated on policies.",
+          "Focus is on startup ecosystem support.",
+          "It improves governance and infrastructure."
+        ],
+        "why_correct": {
+          "B": "Correct objective of ranking exercise."
+        },
+        "why_incorrect": {
+          "A": "Not startup-level ranking.",
+          "C": "No direct subsidy function.",
+          "D": "Not global comparison."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "State startup policy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

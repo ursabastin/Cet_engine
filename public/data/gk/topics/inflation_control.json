@@ -1,0 +1,77 @@
+[
+  {
+    "id": 3185,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Inflation Control",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which combination of monetary policy actions is most effective in controlling high inflation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decrease Repo Rate and decrease CRR"
+      },
+      {
+        "id": "B",
+        "text": "Increase Repo Rate and increase CRR"
+      },
+      {
+        "id": "C",
+        "text": "Decrease Reverse Repo Rate and decrease SLR"
+      },
+      {
+        "id": "D",
+        "text": "Increase SLR and decrease Repo Rate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Increase Repo Rate and increase CRR",
+      "explanation": {
+        "concept": "To control inflation, RBI reduces money supply by increasing rates and reserve requirements.",
+        "step_by_step": [
+          "Inflation requires contractionary policy.",
+          "Increase repo reduces borrowing.",
+          "Increase CRR reduces available funds.",
+          "Money supply decreases."
+        ],
+        "why_correct": {
+          "B": "Correct combination."
+        },
+        "why_incorrect": {
+          "A": "Expansionary policy.",
+          "C": "Does not effectively reduce inflation.",
+          "D": "Contradictory actions."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Monetary Policy"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

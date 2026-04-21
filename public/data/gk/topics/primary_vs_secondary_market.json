@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3164,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Primary vs Secondary Market",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In which market are new securities issued to investors for the first time, such as during an IPO?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Secondary Market"
+      },
+      {
+        "id": "B",
+        "text": "Derivative Market"
+      },
+      {
+        "id": "C",
+        "text": "Primary Market"
+      },
+      {
+        "id": "D",
+        "text": "Commodity Market"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Primary Market",
+      "explanation": {
+        "concept": "Primary market deals with new issuance of securities.",
+        "step_by_step": [
+          "IPO means initial offering",
+          "It happens when shares are issued first time",
+          "This occurs in primary market"
+        ],
+        "why_correct": {
+          "C": "Primary market is where new shares are issued"
+        },
+        "why_incorrect": {
+          "A": "Secondary market trades existing shares",
+          "B": "Derivative market deals with contracts",
+          "D": "Commodity market trades physical goods"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3164",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "IPO"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,765 @@
+[
+  {
+    "id": 1606,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is logically equivalent to the statement: ¬(P ∧ Q)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "¬P ∧ ¬Q"
+      },
+      {
+        "id": "B",
+        "text": "¬P ∨ ¬Q"
+      },
+      {
+        "id": "C",
+        "text": "P ∨ Q"
+      },
+      {
+        "id": "D",
+        "text": "P → Q"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "¬P ∨ ¬Q",
+      "explanation": {
+        "concept": "De Morgan’s Laws state that negation of conjunction becomes disjunction of negations.",
+        "step_by_step": [
+          "Given expression: ¬(P ∧ Q)",
+          "Apply De Morgan’s Law",
+          "Result: ¬P ∨ ¬Q"
+        ],
+        "why_correct": {
+          "A": "Incorrect, this is stronger than original statement",
+          "B": "Correct application of De Morgan’s Law",
+          "C": "No negation applied",
+          "D": "Implication is unrelated"
+        },
+        "why_incorrect": {
+          "A": "Conjunction instead of disjunction",
+          "C": "Does not involve negation",
+          "D": "Different connective entirely"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "De Morgan Law"
+      ],
+      "formulae": [
+        "¬(P ∧ Q) = ¬P ∨ ¬Q"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1607,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If P → Q is false, which of the following must be true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P is false, Q is false"
+      },
+      {
+        "id": "B",
+        "text": "P is true, Q is false"
+      },
+      {
+        "id": "C",
+        "text": "P is false, Q is true"
+      },
+      {
+        "id": "D",
+        "text": "P is true, Q is true"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "P is true, Q is false",
+      "explanation": {
+        "concept": "An implication P → Q is false only when P is true and Q is false.",
+        "step_by_step": [
+          "Recall truth table of implication",
+          "Check when P → Q is false",
+          "Only case: P = true, Q = false"
+        ],
+        "why_correct": {
+          "B": "Only combination making implication false"
+        },
+        "why_incorrect": {
+          "A": "Implication becomes true",
+          "C": "Implication becomes true",
+          "D": "Implication becomes true"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Implication truth table"
+      ],
+      "formulae": [
+        "P → Q"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1608,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which statement is logically equivalent to P → Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "¬P → ¬Q"
+      },
+      {
+        "id": "B",
+        "text": "¬Q → ¬P"
+      },
+      {
+        "id": "C",
+        "text": "P ∧ Q"
+      },
+      {
+        "id": "D",
+        "text": "P ∨ Q"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "¬Q → ¬P",
+      "explanation": {
+        "concept": "Contrapositive of implication is logically equivalent.",
+        "step_by_step": [
+          "Original: P → Q",
+          "Contrapositive: ¬Q → ¬P",
+          "They are logically equivalent"
+        ],
+        "why_correct": {
+          "B": "Correct contrapositive form"
+        },
+        "why_incorrect": {
+          "A": "Inverse, not equivalent",
+          "C": "Conjunction, not implication",
+          "D": "Disjunction unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Contrapositive"
+      ],
+      "formulae": [
+        "P → Q ≡ ¬Q → ¬P"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1609,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Evaluate the truth value of (P ∨ Q) ∧ (¬P ∧ Q) when P = false, Q = true.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Cannot be determined"
+      },
+      {
+        "id": "D",
+        "text": "Depends on P only"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "True",
+      "explanation": {
+        "concept": "Evaluate compound logical expressions stepwise using given truth values.",
+        "step_by_step": [
+          "P = false, Q = true",
+          "P ∨ Q = true",
+          "¬P = true → ¬P ∧ Q = true",
+          "Final: true ∧ true = true"
+        ],
+        "why_correct": {
+          "A": "Final expression evaluates to true"
+        },
+        "why_incorrect": {
+          "B": "Incorrect evaluation",
+          "C": "Values are given",
+          "D": "Depends on both variables"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Compound evaluation"
+      ],
+      "formulae": [
+        "Logical substitution"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1610,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is a tautology?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P ∧ ¬P"
+      },
+      {
+        "id": "B",
+        "text": "P ∨ ¬P"
+      },
+      {
+        "id": "C",
+        "text": "P → ¬P"
+      },
+      {
+        "id": "D",
+        "text": "¬(P ∨ Q)"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "P ∨ ¬P",
+      "explanation": {
+        "concept": "A tautology is always true regardless of truth values.",
+        "step_by_step": [
+          "Check each option",
+          "P ∨ ¬P always true",
+          "Others are not always true"
+        ],
+        "why_correct": {
+          "B": "Always evaluates to true"
+        },
+        "why_incorrect": {
+          "A": "Always false (contradiction)",
+          "C": "Not always true",
+          "D": "Depends on values"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Tautology"
+      ],
+      "formulae": [
+        "P ∨ ¬P"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1611,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the negation of the statement: (P → Q)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P ∧ ¬Q"
+      },
+      {
+        "id": "B",
+        "text": "¬P ∧ Q"
+      },
+      {
+        "id": "C",
+        "text": "¬P → ¬Q"
+      },
+      {
+        "id": "D",
+        "text": "P ∨ ¬Q"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "P ∧ ¬Q",
+      "explanation": {
+        "concept": "Negation of implication converts into conjunction of antecedent and negation of consequent.",
+        "step_by_step": [
+          "Start with P → Q",
+          "Negate entire statement",
+          "Equivalent: P ∧ ¬Q"
+        ],
+        "why_correct": {
+          "A": "Correct negation"
+        },
+        "why_incorrect": {
+          "B": "Wrong structure",
+          "C": "Contrapositive, not negation",
+          "D": "Incorrect transformation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "Negation of implication"
+      ],
+      "formulae": [
+        "¬(P → Q) = P ∧ ¬Q"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1612,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which expression represents exclusive OR (XOR)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(P ∨ Q) ∧ ¬(P ∧ Q)"
+      },
+      {
+        "id": "B",
+        "text": "P ∧ Q"
+      },
+      {
+        "id": "C",
+        "text": "P ∨ Q"
+      },
+      {
+        "id": "D",
+        "text": "¬P ∧ ¬Q"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "(P ∨ Q) ∧ ¬(P ∧ Q)",
+      "explanation": {
+        "concept": "XOR is true when exactly one operand is true.",
+        "step_by_step": [
+          "XOR means P or Q but not both",
+          "Translate: (P ∨ Q) and not (P ∧ Q)"
+        ],
+        "why_correct": {
+          "A": "Matches XOR definition"
+        },
+        "why_incorrect": {
+          "B": "Both true case",
+          "C": "Includes both true case",
+          "D": "Both false case"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "XOR logic"
+      ],
+      "formulae": [
+        "(P ∨ Q) ∧ ¬(P ∧ Q)"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1613,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is a contradiction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P ∧ ¬P"
+      },
+      {
+        "id": "B",
+        "text": "P ∨ ¬P"
+      },
+      {
+        "id": "C",
+        "text": "P → Q"
+      },
+      {
+        "id": "D",
+        "text": "P ∧ Q"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "P ∧ ¬P",
+      "explanation": {
+        "concept": "A contradiction is always false regardless of inputs.",
+        "step_by_step": [
+          "Check each option",
+          "P ∧ ¬P always false",
+          "Others can be true depending on values"
+        ],
+        "why_correct": {
+          "A": "Always false"
+        },
+        "why_incorrect": {
+          "B": "Always true",
+          "C": "Conditional",
+          "D": "Depends on values"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Contradiction"
+      ],
+      "formulae": [
+        "P ∧ ¬P"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1614,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Simplify: (P ∧ Q) ∨ (P ∧ ¬Q)",
+    "options": [
+      {
+        "id": "A",
+        "text": "P"
+      },
+      {
+        "id": "B",
+        "text": "Q"
+      },
+      {
+        "id": "C",
+        "text": "¬P"
+      },
+      {
+        "id": "D",
+        "text": "P ∨ Q"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "P",
+      "explanation": {
+        "concept": "Apply distributive law.",
+        "step_by_step": [
+          "Factor P: P ∧ (Q ∨ ¬Q)",
+          "Q ∨ ¬Q = true",
+          "So expression = P ∧ true = P"
+        ],
+        "why_correct": {
+          "A": "Correct simplification"
+        },
+        "why_incorrect": {
+          "B": "Q cancels out",
+          "C": "Negation incorrect",
+          "D": "Extra term added"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "Distributive law"
+      ],
+      "formulae": [
+        "P ∧ (Q ∨ ¬Q) = P"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  },
+  {
+    "id": 1615,
+    "subject": "Logical Reasoning",
+    "chapter": "Critical Reasoning",
+    "topic": "Logical Connectives",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is logically equivalent to (P ↔ Q)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(P → Q) ∧ (Q → P)"
+      },
+      {
+        "id": "B",
+        "text": "P ∧ Q"
+      },
+      {
+        "id": "C",
+        "text": "P ∨ Q"
+      },
+      {
+        "id": "D",
+        "text": "¬P ↔ ¬Q"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "(P → Q) ∧ (Q → P)",
+      "explanation": {
+        "concept": "Biconditional is true when both implications hold.",
+        "step_by_step": [
+          "Definition of biconditional",
+          "P ↔ Q means both P → Q and Q → P",
+          "Combine using AND"
+        ],
+        "why_correct": {
+          "A": "Matches definition"
+        },
+        "why_incorrect": {
+          "B": "Too restrictive",
+          "C": "Too broad",
+          "D": "Equivalent but not standard expansion"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "Biconditional"
+      ],
+      "formulae": [
+        "P ↔ Q = (P → Q) ∧ (Q → P)"
+      ]
+    },
+    "subtopic": "Critical Reasoning"
+  }
+]

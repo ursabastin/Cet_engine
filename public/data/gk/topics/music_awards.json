@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2839,
+    "subject": "General Awareness",
+    "chapter": "History",
+    "topic": "Music Awards",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which international award is primarily associated with excellence in music?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Emmy Awards"
+      },
+      {
+        "id": "B",
+        "text": "Grammy Awards"
+      },
+      {
+        "id": "C",
+        "text": "Pulitzer Prize"
+      },
+      {
+        "id": "D",
+        "text": "Golden Globe Awards"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Grammy Awards",
+      "explanation": {
+        "concept": "Grammy Awards recognize achievements in the music industry globally.",
+        "step_by_step": [
+          "Match awards with industries",
+          "Identify music-related award",
+          "Eliminate unrelated categories"
+        ],
+        "why_correct": {
+          "B": "Correct because Grammys honor music excellence."
+        },
+        "why_incorrect": {
+          "A": "Television",
+          "C": "Journalism/literature",
+          "D": "Film/TV"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Grammy Awards"
+      ],
+      "formulae": []
+    },
+    "subtopic": "History"
+  }
+]

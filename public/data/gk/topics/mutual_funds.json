@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3198,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Mutual Funds",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Mutual funds help retail investors primarily by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eliminating all market risk"
+      },
+      {
+        "id": "B",
+        "text": "Providing professional management and diversification"
+      },
+      {
+        "id": "C",
+        "text": "Guaranteeing fixed returns"
+      },
+      {
+        "id": "D",
+        "text": "Restricting investments to one sector"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Providing professional management and diversification",
+      "explanation": {
+        "concept": "Mutual funds pool money and invest across diversified assets managed by professionals.",
+        "step_by_step": [
+          "Collect funds from investors",
+          "Managed by fund managers",
+          "Invest across assets"
+        ],
+        "why_correct": {
+          "B": "Core advantage of mutual funds"
+        },
+        "why_incorrect": {
+          "A": "Risk still exists",
+          "C": "Returns are market-linked",
+          "D": "Funds diversify across sectors"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3198",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "mutual funds"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

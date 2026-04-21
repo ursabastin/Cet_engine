@@ -1,0 +1,152 @@
+[
+  {
+    "id": 3116,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Opportunity Cost",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A student chooses to attend college instead of taking a job paying ₹20,000 per month. What is the opportunity cost?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tuition fees"
+      },
+      {
+        "id": "B",
+        "text": "₹20,000 per month"
+      },
+      {
+        "id": "C",
+        "text": "Cost of books"
+      },
+      {
+        "id": "D",
+        "text": "Living expenses"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "₹20,000 per month",
+      "explanation": {
+        "concept": "Opportunity cost is the value of the next best alternative foregone.",
+        "step_by_step": [
+          "Identify chosen option (college)",
+          "Identify next best alternative (job)",
+          "Determine value of forgone alternative"
+        ],
+        "why_correct": {
+          "B": "Represents income sacrificed"
+        },
+        "why_incorrect": {
+          "A": "Explicit cost, not opportunity cost",
+          "C": "Direct cost",
+          "D": "Not alternative benefit"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "opportunity cost"
+      ],
+      "formulae": [
+        "OC = value of next best alternative"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3125,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Opportunity Cost",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A firm invests ₹10 lakh in Project A instead of Project B which would have yielded ₹12 lakh. What is the opportunity cost?",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹10 lakh"
+      },
+      {
+        "id": "B",
+        "text": "₹2 lakh"
+      },
+      {
+        "id": "C",
+        "text": "₹12 lakh"
+      },
+      {
+        "id": "D",
+        "text": "₹22 lakh"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "₹12 lakh",
+      "explanation": {
+        "concept": "Opportunity cost is the total value of the next best alternative foregone.",
+        "step_by_step": [
+          "Identify forgone project (B)",
+          "Determine its return",
+          "Assign full value as cost"
+        ],
+        "why_correct": {
+          "C": "Represents full forgone benefit"
+        },
+        "why_incorrect": {
+          "A": "Invested amount, not forgone",
+          "B": "Difference, not opportunity cost",
+          "D": "Incorrect addition"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "opportunity cost"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1898,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone Analysis",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: While the proposal appears innovative on the surface, a deeper examination reveals several overlooked flaws that could compromise its effectiveness.\n\nWhat is the tone of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enthusiastic"
+      },
+      {
+        "id": "B",
+        "text": "Critical"
+      },
+      {
+        "id": "C",
+        "text": "Neutral"
+      },
+      {
+        "id": "D",
+        "text": "Humorous"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Critical",
+      "explanation": {
+        "concept": "Tone reflects the author's attitude toward the subject.",
+        "step_by_step": [
+          "Identify evaluative language: 'appears innovative' vs 'overlooked flaws'",
+          "Recognize contrast",
+          "Detect negative evaluation"
+        ],
+        "why_correct": {
+          "B": "Highlights flaws indicating criticism"
+        },
+        "why_incorrect": {
+          "A": "Contradicted by flaws",
+          "C": "Not neutral due to judgment",
+          "D": "No humor present"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "tone",
+        "author intent"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1908,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone Analysis",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The report meticulously outlines the inefficiencies within the existing system, highlighting not only the outdated infrastructure but also the lack of accountability among administrative bodies. While previous reforms have attempted to address these concerns, their limited success underscores a persistent reluctance to implement meaningful change. The author suggests that without a fundamental restructuring, the system is likely to continue underperforming.\n\nWhat best describes the tone of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Optimistic"
+      },
+      {
+        "id": "B",
+        "text": "Critical and analytical"
+      },
+      {
+        "id": "C",
+        "text": "Indifferent"
+      },
+      {
+        "id": "D",
+        "text": "Humorous"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Critical and analytical",
+      "explanation": {
+        "concept": "Tone reflects evaluative stance supported by language choices.",
+        "step_by_step": [
+          "Identify criticism: inefficiencies, lack of accountability",
+          "Note analytical structure: outlining issues",
+          "Combine to determine tone"
+        ],
+        "why_correct": {
+          "B": "Balanced critique with analysis"
+        },
+        "why_incorrect": {
+          "A": "No optimism present",
+          "C": "Clearly evaluative",
+          "D": "No humor"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "tone",
+        "analysis"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1918,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone Analysis",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.84,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The initiative, though celebrated in its early stages as a groundbreaking reform, has gradually revealed its inherent limitations. Initial optimism has given way to skepticism, as empirical evidence highlights inconsistencies in implementation and outcomes. While the intentions behind the policy were commendable, its execution reflects a lack of foresight and adaptability, raising questions about its long-term viability.\n\nWhat is the tone of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutral and descriptive"
+      },
+      {
+        "id": "B",
+        "text": "Critical with a reflective undertone"
+      },
+      {
+        "id": "C",
+        "text": "Highly enthusiastic"
+      },
+      {
+        "id": "D",
+        "text": "Humorous and satirical"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Critical with a reflective undertone",
+      "explanation": {
+        "concept": "Tone is inferred from evaluative and reflective language.",
+        "step_by_step": [
+          "Note shift from optimism to skepticism",
+          "Identify criticism of execution",
+          "Recognize reflective assessment"
+        ],
+        "why_correct": {
+          "B": "Combines critique with reflection"
+        },
+        "why_incorrect": {
+          "A": "Not neutral",
+          "C": "Opposite tone",
+          "D": "No humor"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "tone",
+        "evaluation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  },
+  {
+    "id": 1928,
+    "subject": "English language",
+    "chapter": "Vocabulary Mastery",
+    "topic": "Tone Analysis",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.85,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The proposal, initially hailed as a revolutionary step forward, has gradually lost its credibility in light of mounting evidence against its feasibility. Critics argue that its foundational assumptions were overly optimistic, if not fundamentally flawed. While proponents continue to defend its intent, the growing body of counter-evidence cannot be easily dismissed.\n\nWhat is the tone of the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutral"
+      },
+      {
+        "id": "B",
+        "text": "Critical and skeptical"
+      },
+      {
+        "id": "C",
+        "text": "Highly optimistic"
+      },
+      {
+        "id": "D",
+        "text": "Playful"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Critical and skeptical",
+      "explanation": {
+        "concept": "Tone is determined by evaluative and skeptical language.",
+        "step_by_step": [
+          "Identify loss of credibility",
+          "Note criticism of assumptions",
+          "Recognize skepticism"
+        ],
+        "why_correct": {
+          "B": "Reflects doubt and critique"
+        },
+        "why_incorrect": {
+          "A": "Not neutral",
+          "C": "Opposite",
+          "D": "No playfulness"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_33",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "tone",
+        "skepticism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Vocabulary Mastery"
+  }
+]

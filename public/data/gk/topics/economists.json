@@ -1,0 +1,150 @@
+[
+  {
+    "id": 3120,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Economists",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Who is known as the 'Father of Economics' and associated with the concept of the 'Invisible Hand'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "John Maynard Keynes"
+      },
+      {
+        "id": "B",
+        "text": "Adam Smith"
+      },
+      {
+        "id": "C",
+        "text": "Alfred Marshall"
+      },
+      {
+        "id": "D",
+        "text": "Amartya Sen"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Adam Smith",
+      "explanation": {
+        "concept": "Adam Smith introduced the idea of self-regulating markets via the Invisible Hand.",
+        "step_by_step": [
+          "Recall key economists",
+          "Match concept to thinker",
+          "Identify correct figure"
+        ],
+        "why_correct": {
+          "B": "Founder of classical economics"
+        },
+        "why_incorrect": {
+          "A": "Keynesian theory",
+          "C": "Microeconomics principles",
+          "D": "Welfare economics"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "economists"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3130,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Economists",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which economist is associated with welfare economics and received the Nobel Prize from India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amartya Sen"
+      },
+      {
+        "id": "B",
+        "text": "Adam Smith"
+      },
+      {
+        "id": "C",
+        "text": "David Ricardo"
+      },
+      {
+        "id": "D",
+        "text": "Milton Friedman"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Amartya Sen",
+      "explanation": {
+        "concept": "Amartya Sen contributed significantly to welfare economics and human development theory.",
+        "step_by_step": [
+          "Recall Nobel laureates",
+          "Match field of contribution",
+          "Identify correct economist"
+        ],
+        "why_correct": {
+          "A": "Known for welfare economics and capability approach"
+        },
+        "why_incorrect": {
+          "B": "Classical economics",
+          "C": "Comparative advantage",
+          "D": "Monetarism"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "economists"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

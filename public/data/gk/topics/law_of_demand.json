@@ -1,0 +1,81 @@
+[
+  {
+    "id": 3111,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Law of Demand",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.35,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the price of a commodity increases and all other factors remain constant, what will be the effect on its quantity demanded according to the Law of Demand?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quantity demanded increases"
+      },
+      {
+        "id": "B",
+        "text": "Quantity demanded decreases"
+      },
+      {
+        "id": "C",
+        "text": "Quantity demanded remains constant"
+      },
+      {
+        "id": "D",
+        "text": "Demand curve shifts rightward"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Quantity demanded decreases",
+      "explanation": {
+        "concept": "Law of Demand states an inverse relationship between price and quantity demanded, ceteris paribus.",
+        "step_by_step": [
+          "Identify the relationship: price increases",
+          "Apply inverse relation principle",
+          "Conclude quantity demanded falls"
+        ],
+        "why_correct": {
+          "A": "",
+          "B": "Higher price reduces consumer willingness and ability to buy",
+          "C": "",
+          "D": ""
+        },
+        "why_incorrect": {
+          "A": "Contradicts inverse relationship",
+          "C": "Demand changes with price",
+          "D": "Shift occurs due to non-price factors"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "law of demand"
+      ],
+      "formulae": [
+        "Qd ∝ 1/P"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  }
+]

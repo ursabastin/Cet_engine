@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3224,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Space Tech",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Indian startup is associated with private space launch capabilities and represents India's growing presence in the space-tech startup ecosystem?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neysa"
+      },
+      {
+        "id": "B",
+        "text": "Skyroot Aerospace"
+      },
+      {
+        "id": "C",
+        "text": "Jumbotail"
+      },
+      {
+        "id": "D",
+        "text": "Raise Financial"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Skyroot Aerospace",
+      "explanation": {
+        "concept": "Space-tech startups are a key part of India's deep tech expansion.",
+        "step_by_step": [
+          "Skyroot Aerospace focuses on launch vehicles.",
+          "It represents private participation in space sector.",
+          "Other options belong to different sectors."
+        ],
+        "why_correct": {
+          "B": "Correct identification of space-tech startup."
+        },
+        "why_incorrect": {
+          "A": "AI infrastructure company.",
+          "C": "E-commerce platform.",
+          "D": "Fintech startup."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.97,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Space tech startups"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

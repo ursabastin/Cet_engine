@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2880,
+    "subject": "General Awareness",
+    "chapter": "Current Affairs & Economics",
+    "topic": "Multi-Sport Events",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following correctly matches the event with its host country?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Asian Games 2026 – China"
+      },
+      {
+        "id": "B",
+        "text": "FIFA World Cup 2026 – USA, Canada, Mexico"
+      },
+      {
+        "id": "C",
+        "text": "T20 World Cup 2026 – Australia, New Zealand"
+      },
+      {
+        "id": "D",
+        "text": "Champions Trophy 2025 – England"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "FIFA World Cup 2026 – USA, Canada, Mexico",
+      "explanation": {
+        "concept": "Matching events with correct host nations.",
+        "step_by_step": [
+          "Check each option.",
+          "Only FIFA 2026 has correct host trio.",
+          "Other matches are incorrect."
+        ],
+        "why_correct": {
+          "B": "Correct host countries for FIFA World Cup 2026."
+        },
+        "why_incorrect": {
+          "A": "Asian Games 2026 is in Japan.",
+          "C": "T20 WC is India & Sri Lanka.",
+          "D": "Champions Trophy 2025 was in Dubai."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Event hosting"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Current Affairs & Economics"
+  }
+]

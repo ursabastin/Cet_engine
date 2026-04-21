@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3180,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "LIBOR",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 5,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "LIBOR, historically used as a global benchmark interest rate, represents:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rate at which central banks lend to governments"
+      },
+      {
+        "id": "B",
+        "text": "Average rate at which major global banks lend to one another"
+      },
+      {
+        "id": "C",
+        "text": "Interest rate for retail banking loans"
+      },
+      {
+        "id": "D",
+        "text": "Exchange rate between major currencies"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Average rate at which major global banks lend to one another",
+      "explanation": {
+        "concept": "LIBOR is benchmark interbank lending rate used globally.",
+        "step_by_step": [
+          "LIBOR stands for London Interbank Offered Rate.",
+          "It reflects borrowing cost among banks.",
+          "Used as benchmark."
+        ],
+        "why_correct": {
+          "B": "Correct definition."
+        },
+        "why_incorrect": {
+          "A": "Not central bank rate.",
+          "C": "Retail rates differ.",
+          "D": "Not exchange rate."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "LIBOR"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

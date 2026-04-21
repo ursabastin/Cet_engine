@@ -1,0 +1,78 @@
+[
+  {
+    "id": 3113,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Equilibrium",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Market equilibrium occurs when:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demand exceeds supply"
+      },
+      {
+        "id": "B",
+        "text": "Supply exceeds demand"
+      },
+      {
+        "id": "C",
+        "text": "Quantity demanded equals quantity supplied"
+      },
+      {
+        "id": "D",
+        "text": "Price is minimum"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Quantity demanded equals quantity supplied",
+      "explanation": {
+        "concept": "Equilibrium is the point where demand and supply intersect.",
+        "step_by_step": [
+          "Understand equilibrium definition",
+          "Compare demand and supply",
+          "Identify equality point"
+        ],
+        "why_correct": {
+          "C": "At this point no shortage or surplus exists"
+        },
+        "why_incorrect": {
+          "A": "Causes shortage",
+          "B": "Causes surplus",
+          "D": "Not necessary condition"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "equilibrium"
+      ],
+      "formulae": [
+        "Qd = Qs"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  }
+]

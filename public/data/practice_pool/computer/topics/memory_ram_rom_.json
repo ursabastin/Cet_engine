@@ -1,0 +1,2228 @@
+[
+  {
+    "id": 2171,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following statements correctly distinguishes between RAM and ROM in terms of data retention and functionality?",
+    "options": [
+      {
+        "id": "A",
+        "text": "RAM is non-volatile and used for permanent storage, whereas ROM is volatile and used for temporary storage"
+      },
+      {
+        "id": "B",
+        "text": "RAM is volatile and used for temporary data storage, whereas ROM is non-volatile and stores firmware"
+      },
+      {
+        "id": "C",
+        "text": "Both RAM and ROM are volatile but differ only in speed"
+      },
+      {
+        "id": "D",
+        "text": "Both RAM and ROM are non-volatile but differ only in size capacity"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "RAM is volatile and used for temporary data storage, whereas ROM is non-volatile and stores firmware",
+      "explanation": {
+        "concept": "RAM (Random Access Memory) is volatile memory used for temporary storage during active processes, while ROM (Read Only Memory) is non-volatile and stores permanent instructions like firmware.",
+        "step_by_step": [
+          "Identify volatility: RAM loses data when power is off, ROM retains data.",
+          "Understand purpose: RAM is for active processes, ROM stores boot instructions.",
+          "Match option that includes both correct characteristics."
+        ],
+        "why_correct": {
+          "A": "",
+          "B": "Correctly identifies RAM as volatile temporary memory and ROM as non-volatile firmware storage."
+        },
+        "why_incorrect": {
+          "A": "Reverses the properties of RAM and ROM incorrectly.",
+          "C": "ROM is not volatile; this statement is false.",
+          "D": "RAM is volatile, so both cannot be non-volatile."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "volatile memory",
+        "non-volatile memory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2172,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "During system booting, which memory component is primarily responsible for storing the initial instructions executed by the CPU?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cache Memory"
+      },
+      {
+        "id": "B",
+        "text": "RAM"
+      },
+      {
+        "id": "C",
+        "text": "ROM"
+      },
+      {
+        "id": "D",
+        "text": "Virtual Memory"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "ROM",
+      "explanation": {
+        "concept": "Booting instructions are stored in ROM because it is non-volatile and retains data even when power is off.",
+        "step_by_step": [
+          "Boot process requires permanent instructions.",
+          "RAM cannot store data after shutdown.",
+          "ROM stores BIOS or firmware used during startup."
+        ],
+        "why_correct": {
+          "C": "ROM contains BIOS/firmware which initializes hardware during boot."
+        },
+        "why_incorrect": {
+          "A": "Cache speeds up processing but does not store boot instructions.",
+          "B": "RAM is volatile and empty at startup.",
+          "D": "Virtual memory is secondary storage simulation, not used in booting."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "boot process",
+        "firmware"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2173,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which type of ROM can be erased using ultraviolet light and then reprogrammed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PROM"
+      },
+      {
+        "id": "B",
+        "text": "EPROM"
+      },
+      {
+        "id": "C",
+        "text": "EEPROM"
+      },
+      {
+        "id": "D",
+        "text": "Flash ROM"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "EPROM",
+      "explanation": {
+        "concept": "EPROM (Erasable Programmable Read Only Memory) can be erased using ultraviolet light and reprogrammed.",
+        "step_by_step": [
+          "PROM is programmable only once.",
+          "EPROM can be erased using UV light.",
+          "EEPROM uses electrical signals, not UV light."
+        ],
+        "why_correct": {
+          "B": "EPROM specifically requires UV light for erasure."
+        },
+        "why_incorrect": {
+          "A": "PROM cannot be erased after programming.",
+          "C": "EEPROM uses electrical erasure, not UV.",
+          "D": "Flash is electrically erasable, not UV-based."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "types of ROM"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2174,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which characteristic of RAM makes it unsuitable for permanent data storage despite its high speed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sequential access nature"
+      },
+      {
+        "id": "B",
+        "text": "High latency"
+      },
+      {
+        "id": "C",
+        "text": "Volatility"
+      },
+      {
+        "id": "D",
+        "text": "Limited capacity"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Volatility",
+      "explanation": {
+        "concept": "Volatility means data is lost when power is removed, making RAM unsuitable for permanent storage.",
+        "step_by_step": [
+          "RAM stores data temporarily.",
+          "Power loss leads to data loss.",
+          "This property defines volatility."
+        ],
+        "why_correct": {
+          "C": "Volatility directly prevents long-term storage."
+        },
+        "why_incorrect": {
+          "A": "RAM is random access, not sequential.",
+          "B": "RAM has low latency, not high.",
+          "D": "Capacity is not the primary limitation for permanence."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "volatile memory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2175,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following correctly explains why ROM is considered more reliable for storing critical system instructions than RAM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ROM is faster than RAM"
+      },
+      {
+        "id": "B",
+        "text": "ROM does not require power to retain data"
+      },
+      {
+        "id": "C",
+        "text": "ROM has higher storage capacity"
+      },
+      {
+        "id": "D",
+        "text": "ROM allows frequent modifications"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "ROM does not require power to retain data",
+      "explanation": {
+        "concept": "ROM is non-volatile, meaning it retains data without power, ensuring critical instructions are always available.",
+        "step_by_step": [
+          "Critical instructions must persist without power.",
+          "ROM retains data permanently.",
+          "RAM loses data when powered off."
+        ],
+        "why_correct": {
+          "B": "Non-volatility ensures reliability of stored instructions."
+        },
+        "why_incorrect": {
+          "A": "ROM is generally slower than RAM.",
+          "C": "ROM does not necessarily have higher capacity.",
+          "D": "ROM is not easily modifiable."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "non-volatile memory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2176,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which memory type is directly accessible by the CPU for read and write operations during program execution?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ROM"
+      },
+      {
+        "id": "B",
+        "text": "RAM"
+      },
+      {
+        "id": "C",
+        "text": "Hard Disk"
+      },
+      {
+        "id": "D",
+        "text": "Optical Storage"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "RAM",
+      "explanation": {
+        "concept": "RAM allows both read and write operations and is used by CPU during active execution.",
+        "step_by_step": [
+          "CPU needs fast read/write memory.",
+          "RAM provides temporary workspace.",
+          "ROM is mostly read-only."
+        ],
+        "why_correct": {
+          "B": "RAM is the primary working memory for CPU."
+        },
+        "why_incorrect": {
+          "A": "ROM is not used for frequent writing.",
+          "C": "Hard disk is secondary storage.",
+          "D": "Optical storage is not directly accessed for execution."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "primary memory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2177,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a system loses all unsaved data after a sudden power failure, which property of the memory is primarily responsible for this loss?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Low latency"
+      },
+      {
+        "id": "B",
+        "text": "Volatility"
+      },
+      {
+        "id": "C",
+        "text": "High bandwidth"
+      },
+      {
+        "id": "D",
+        "text": "Random access"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Volatility",
+      "explanation": {
+        "concept": "Volatile memory loses stored information when power is interrupted.",
+        "step_by_step": [
+          "Identify condition: power failure.",
+          "Check memory behavior: data disappears.",
+          "This is characteristic of volatile memory."
+        ],
+        "why_correct": {
+          "B": "Volatility directly causes data loss when power is removed."
+        },
+        "why_incorrect": {
+          "A": "Latency is unrelated to data retention.",
+          "C": "Bandwidth relates to speed of transfer.",
+          "D": "Random access refers to addressing, not retention."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "volatile memory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2178,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which type of ROM allows electrical erasure and rewriting of data without removing the chip from the system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PROM"
+      },
+      {
+        "id": "B",
+        "text": "EPROM"
+      },
+      {
+        "id": "C",
+        "text": "EEPROM"
+      },
+      {
+        "id": "D",
+        "text": "Mask ROM"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "EEPROM",
+      "explanation": {
+        "concept": "EEPROM can be erased and rewritten electrically without removing it from the circuit.",
+        "step_by_step": [
+          "PROM is one-time programmable.",
+          "EPROM requires UV light.",
+          "EEPROM supports electrical erasure."
+        ],
+        "why_correct": {
+          "C": "EEPROM allows in-circuit reprogramming using electrical signals."
+        },
+        "why_incorrect": {
+          "A": "PROM cannot be erased.",
+          "B": "EPROM requires removal and UV exposure.",
+          "D": "Mask ROM is permanently programmed."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "EEPROM"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2179,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.51,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best explains the role of RAM in multitasking environments?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stores permanent system files"
+      },
+      {
+        "id": "B",
+        "text": "Maintains multiple active processes simultaneously"
+      },
+      {
+        "id": "C",
+        "text": "Provides backup storage for data"
+      },
+      {
+        "id": "D",
+        "text": "Controls hardware initialization"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Maintains multiple active processes simultaneously",
+      "explanation": {
+        "concept": "RAM holds data of currently running programs, enabling multitasking by allowing quick access.",
+        "step_by_step": [
+          "Multitasking involves multiple programs.",
+          "RAM stores active program data.",
+          "CPU accesses RAM for switching tasks."
+        ],
+        "why_correct": {
+          "B": "RAM supports simultaneous program execution by storing active processes."
+        },
+        "why_incorrect": {
+          "A": "Permanent storage is ROM or disk.",
+          "C": "Backup storage is secondary storage.",
+          "D": "Hardware initialization is handled by ROM."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "multitasking"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2180,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A system designer wants to store a fixed set of instructions that must never be altered during normal operation but should be updatable occasionally using electrical signals. Which memory type is most suitable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mask ROM"
+      },
+      {
+        "id": "B",
+        "text": "PROM"
+      },
+      {
+        "id": "C",
+        "text": "EEPROM"
+      },
+      {
+        "id": "D",
+        "text": "Static RAM"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "EEPROM",
+      "explanation": {
+        "concept": "EEPROM allows occasional updates via electrical signals while maintaining non-volatile storage.",
+        "step_by_step": [
+          "Requirement: mostly fixed but occasionally updatable.",
+          "Mask ROM cannot be changed.",
+          "PROM is one-time programmable.",
+          "EEPROM supports controlled updates."
+        ],
+        "why_correct": {
+          "C": "EEPROM meets both stability and update requirements."
+        },
+        "why_incorrect": {
+          "A": "Mask ROM is permanently fixed.",
+          "B": "PROM cannot be rewritten.",
+          "D": "SRAM is volatile and unsuitable for permanent instructions."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "memory selection"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2181,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following scenarios best demonstrates the functional limitation of RAM compared to ROM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inability to support multitasking operations"
+      },
+      {
+        "id": "B",
+        "text": "Loss of stored instructions when power is turned off"
+      },
+      {
+        "id": "C",
+        "text": "Slower data access speed compared to ROM"
+      },
+      {
+        "id": "D",
+        "text": "Inability to allow read and write operations"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Loss of stored instructions when power is turned off",
+      "explanation": {
+        "concept": "RAM is volatile, meaning it loses all stored data when power is removed, unlike ROM which retains instructions permanently.",
+        "step_by_step": [
+          "Identify key limitation of RAM.",
+          "RAM cannot retain data without power.",
+          "ROM is used for permanent storage because of non-volatility."
+        ],
+        "why_correct": {
+          "B": "This directly reflects the volatile nature of RAM."
+        },
+        "why_incorrect": {
+          "A": "RAM supports multitasking efficiently.",
+          "C": "RAM is faster than ROM.",
+          "D": "RAM allows both read and write operations."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "volatile vs non-volatile"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2182,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A system requires extremely fast temporary storage for frequently accessed instructions. Which combination of memory characteristics best suits this requirement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Non-volatile and low-speed memory"
+      },
+      {
+        "id": "B",
+        "text": "Volatile and high-speed memory"
+      },
+      {
+        "id": "C",
+        "text": "Non-volatile and high-capacity memory"
+      },
+      {
+        "id": "D",
+        "text": "Volatile and read-only memory"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Volatile and high-speed memory",
+      "explanation": {
+        "concept": "RAM is volatile but provides high-speed access, making it suitable for temporary storage of frequently used data.",
+        "step_by_step": [
+          "Temporary storage implies volatility is acceptable.",
+          "Requirement of speed indicates RAM.",
+          "Combine both properties to identify correct option."
+        ],
+        "why_correct": {
+          "B": "Matches both high-speed and temporary storage characteristics."
+        },
+        "why_incorrect": {
+          "A": "Low speed contradicts requirement.",
+          "C": "Capacity is not the primary factor.",
+          "D": "Read-only contradicts temporary working memory."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "memory characteristics"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2183,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes the relationship between RAM and CPU performance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "RAM decreases CPU speed by adding latency"
+      },
+      {
+        "id": "B",
+        "text": "Adequate RAM improves CPU efficiency by reducing memory access delays"
+      },
+      {
+        "id": "C",
+        "text": "RAM replaces CPU processing functions"
+      },
+      {
+        "id": "D",
+        "text": "RAM has no impact on CPU performance"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Adequate RAM improves CPU efficiency by reducing memory access delays",
+      "explanation": {
+        "concept": "Sufficient RAM allows faster data access, reducing the need for slower secondary storage and improving CPU efficiency.",
+        "step_by_step": [
+          "CPU requires fast access to data.",
+          "RAM provides quick access compared to disk.",
+          "More RAM reduces swapping and delays."
+        ],
+        "why_correct": {
+          "B": "Correctly explains how RAM enhances CPU efficiency."
+        },
+        "why_incorrect": {
+          "A": "RAM reduces latency, not increases it.",
+          "C": "RAM does not process data.",
+          "D": "RAM significantly affects CPU performance."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "CPU-memory interaction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2184,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following memory types is most likely to be used to store BIOS firmware in modern systems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Static RAM (SRAM)"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic RAM (DRAM)"
+      },
+      {
+        "id": "C",
+        "text": "Flash Memory"
+      },
+      {
+        "id": "D",
+        "text": "Cache Memory"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Flash Memory",
+      "explanation": {
+        "concept": "Modern BIOS is stored in flash memory, a type of non-volatile memory that allows updates.",
+        "step_by_step": [
+          "BIOS requires non-volatile storage.",
+          "Modern systems allow firmware updates.",
+          "Flash memory satisfies both conditions."
+        ],
+        "why_correct": {
+          "C": "Flash memory is non-volatile and reprogrammable."
+        },
+        "why_incorrect": {
+          "A": "SRAM is volatile.",
+          "B": "DRAM is volatile.",
+          "D": "Cache is volatile and temporary."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "firmware storage"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2185,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a memory device allows data to be read at equal speed regardless of its physical location, which fundamental property is being described?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sequential access"
+      },
+      {
+        "id": "B",
+        "text": "Random access"
+      },
+      {
+        "id": "C",
+        "text": "Volatility"
+      },
+      {
+        "id": "D",
+        "text": "Read-only property"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Random access",
+      "explanation": {
+        "concept": "Random access means any memory location can be accessed directly with equal time, unlike sequential access.",
+        "step_by_step": [
+          "Equal access time for all locations is key.",
+          "Sequential access depends on position.",
+          "RAM supports random access."
+        ],
+        "why_correct": {
+          "B": "Defines the principle of random access memory."
+        },
+        "why_incorrect": {
+          "A": "Sequential access depends on order.",
+          "C": "Volatility relates to data retention.",
+          "D": "Read-only refers to write capability."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "random access"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2186,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which factor primarily determines the speed advantage of RAM over secondary storage devices?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mechanical movement of parts"
+      },
+      {
+        "id": "B",
+        "text": "Direct electronic access to memory cells"
+      },
+      {
+        "id": "C",
+        "text": "Higher storage capacity"
+      },
+      {
+        "id": "D",
+        "text": "Permanent data retention"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Direct electronic access to memory cells",
+      "explanation": {
+        "concept": "RAM uses electronic circuits without mechanical parts, allowing much faster access compared to disks.",
+        "step_by_step": [
+          "RAM has no moving parts.",
+          "Access is purely electronic.",
+          "This reduces access time significantly."
+        ],
+        "why_correct": {
+          "B": "Electronic access ensures high speed."
+        },
+        "why_incorrect": {
+          "A": "Mechanical movement slows devices like HDDs.",
+          "C": "Capacity does not determine speed.",
+          "D": "Retention is unrelated to speed."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "memory speed"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2187,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In which situation would increasing RAM most significantly improve system performance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "When the system frequently accesses secondary storage due to insufficient memory"
+      },
+      {
+        "id": "B",
+        "text": "When the CPU clock speed is low"
+      },
+      {
+        "id": "C",
+        "text": "When ROM capacity is limited"
+      },
+      {
+        "id": "D",
+        "text": "When peripheral devices are slow"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "When the system frequently accesses secondary storage due to insufficient memory",
+      "explanation": {
+        "concept": "Insufficient RAM leads to swapping with slower storage, reducing performance; increasing RAM minimizes this.",
+        "step_by_step": [
+          "Low RAM causes paging/swapping.",
+          "Secondary storage is slower.",
+          "More RAM reduces reliance on disk."
+        ],
+        "why_correct": {
+          "A": "Directly addresses memory bottleneck."
+        },
+        "why_incorrect": {
+          "B": "RAM does not change CPU speed.",
+          "C": "ROM does not affect runtime performance significantly.",
+          "D": "Peripheral speed is unrelated to RAM."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "memory bottleneck"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2188,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes why ROM is not used for general-purpose computing tasks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is too fast for processing"
+      },
+      {
+        "id": "B",
+        "text": "It cannot be easily modified or written frequently"
+      },
+      {
+        "id": "C",
+        "text": "It consumes excessive power"
+      },
+      {
+        "id": "D",
+        "text": "It lacks addressing capability"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "It cannot be easily modified or written frequently",
+      "explanation": {
+        "concept": "ROM is primarily read-only and not designed for frequent updates, making it unsuitable for dynamic computing tasks.",
+        "step_by_step": [
+          "General computing requires frequent data changes.",
+          "ROM is mostly read-only.",
+          "This limits its usability for active processing."
+        ],
+        "why_correct": {
+          "B": "Correctly identifies limitation in write operations."
+        },
+        "why_incorrect": {
+          "A": "ROM is slower, not faster.",
+          "C": "Power consumption is not the main issue.",
+          "D": "ROM has addressing capability."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "ROM limitations"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2189,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which type of RAM retains data only as long as power is supplied and requires periodic refreshing of stored information?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Static RAM (SRAM)"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic RAM (DRAM)"
+      },
+      {
+        "id": "C",
+        "text": "Flash RAM"
+      },
+      {
+        "id": "D",
+        "text": "Cache RAM"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Dynamic RAM (DRAM)",
+      "explanation": {
+        "concept": "DRAM stores data in capacitors that leak charge, requiring periodic refreshing to maintain data.",
+        "step_by_step": [
+          "DRAM uses capacitors.",
+          "Charge leaks over time.",
+          "Refresh cycles are required."
+        ],
+        "why_correct": {
+          "B": "Correctly describes DRAM behavior."
+        },
+        "why_incorrect": {
+          "A": "SRAM does not require refreshing.",
+          "C": "Flash is non-volatile.",
+          "D": "Cache uses SRAM typically."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "DRAM vs SRAM"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2190,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which combination of properties correctly identifies SRAM over DRAM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Requires refreshing, slower, higher density"
+      },
+      {
+        "id": "B",
+        "text": "No refreshing, faster, lower density"
+      },
+      {
+        "id": "C",
+        "text": "Volatile, slower, requires UV erasure"
+      },
+      {
+        "id": "D",
+        "text": "Non-volatile, faster, high capacity"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "No refreshing, faster, lower density",
+      "explanation": {
+        "concept": "SRAM uses flip-flops, making it faster and not requiring refresh, but it is less dense and more expensive than DRAM.",
+        "step_by_step": [
+          "SRAM does not need refreshing.",
+          "It is faster than DRAM.",
+          "It has lower density and higher cost."
+        ],
+        "why_correct": {
+          "B": "Accurately captures key properties of SRAM."
+        },
+        "why_incorrect": {
+          "A": "Describes DRAM.",
+          "C": "UV erasure relates to EPROM.",
+          "D": "SRAM is volatile, not non-volatile."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "SRAM vs DRAM"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2191,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best explains why SRAM is typically used in cache memory instead of DRAM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SRAM has higher storage density than DRAM"
+      },
+      {
+        "id": "B",
+        "text": "SRAM is non-volatile and retains data without power"
+      },
+      {
+        "id": "C",
+        "text": "SRAM provides faster access and does not require refreshing"
+      },
+      {
+        "id": "D",
+        "text": "SRAM is cheaper to manufacture than DRAM"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "SRAM provides faster access and does not require refreshing",
+      "explanation": {
+        "concept": "SRAM is faster and does not need refresh cycles, making it ideal for cache where speed is critical.",
+        "step_by_step": [
+          "Cache memory requires very high speed.",
+          "SRAM provides faster access than DRAM.",
+          "SRAM does not require refreshing, reducing delays."
+        ],
+        "why_correct": {
+          "C": "Correctly identifies the key advantages of SRAM for cache usage."
+        },
+        "why_incorrect": {
+          "A": "SRAM has lower density than DRAM.",
+          "B": "SRAM is still volatile.",
+          "D": "SRAM is more expensive than DRAM."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "cache memory",
+        "SRAM"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2192,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A computing system experiences frequent delays due to page faults. Which memory-related upgrade would most directly reduce this issue?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increasing ROM size"
+      },
+      {
+        "id": "B",
+        "text": "Increasing RAM capacity"
+      },
+      {
+        "id": "C",
+        "text": "Replacing DRAM with EPROM"
+      },
+      {
+        "id": "D",
+        "text": "Reducing cache memory size"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Increasing RAM capacity",
+      "explanation": {
+        "concept": "Page faults occur when required data is not in RAM and must be fetched from slower storage. Increasing RAM reduces this.",
+        "step_by_step": [
+          "Page fault means data is missing in RAM.",
+          "System accesses disk, causing delay.",
+          "Increasing RAM reduces need for disk access."
+        ],
+        "why_correct": {
+          "B": "Directly reduces page faults by storing more data in RAM."
+        },
+        "why_incorrect": {
+          "A": "ROM does not affect runtime memory usage.",
+          "C": "EPROM is not used for active memory.",
+          "D": "Reducing cache worsens performance."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "paging",
+        "memory management"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2193,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following statements about DRAM is correct in comparison to SRAM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DRAM is faster and more expensive"
+      },
+      {
+        "id": "B",
+        "text": "DRAM requires periodic refreshing of data"
+      },
+      {
+        "id": "C",
+        "text": "DRAM is non-volatile"
+      },
+      {
+        "id": "D",
+        "text": "DRAM is used only in cache memory"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "DRAM requires periodic refreshing of data",
+      "explanation": {
+        "concept": "DRAM stores data using capacitors that leak charge, requiring refresh cycles to maintain information.",
+        "step_by_step": [
+          "DRAM uses capacitors for storage.",
+          "Charge leakage occurs.",
+          "Periodic refresh is necessary."
+        ],
+        "why_correct": {
+          "B": "Accurately describes DRAM behavior."
+        },
+        "why_incorrect": {
+          "A": "DRAM is slower and cheaper.",
+          "C": "DRAM is volatile.",
+          "D": "DRAM is used in main memory, not cache."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "DRAM"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2194,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which type of memory is best suited for storing frequently accessed instructions to minimize CPU access time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ROM"
+      },
+      {
+        "id": "B",
+        "text": "Cache Memory"
+      },
+      {
+        "id": "C",
+        "text": "Hard Disk"
+      },
+      {
+        "id": "D",
+        "text": "Optical Disk"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Cache Memory",
+      "explanation": {
+        "concept": "Cache memory is a small, high-speed memory located close to the CPU that stores frequently used data.",
+        "step_by_step": [
+          "Identify need for fastest access.",
+          "Cache is closest to CPU.",
+          "It stores frequently used instructions."
+        ],
+        "why_correct": {
+          "B": "Cache memory minimizes access time for frequently used data."
+        },
+        "why_incorrect": {
+          "A": "ROM is slower and not for dynamic access.",
+          "C": "Hard disk is much slower.",
+          "D": "Optical disk is very slow."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "cache memory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2195,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best explains why DRAM is preferred over SRAM for main memory despite being slower?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DRAM is non-volatile"
+      },
+      {
+        "id": "B",
+        "text": "DRAM has higher density and lower cost per bit"
+      },
+      {
+        "id": "C",
+        "text": "DRAM does not require refreshing"
+      },
+      {
+        "id": "D",
+        "text": "DRAM is faster than SRAM"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "DRAM has higher density and lower cost per bit",
+      "explanation": {
+        "concept": "DRAM is cheaper and can store more data per unit area, making it suitable for main memory.",
+        "step_by_step": [
+          "Main memory requires large capacity.",
+          "DRAM offers higher density.",
+          "Lower cost makes it practical."
+        ],
+        "why_correct": {
+          "B": "Correctly explains economic and density advantages."
+        },
+        "why_incorrect": {
+          "A": "DRAM is volatile.",
+          "C": "DRAM requires refreshing.",
+          "D": "SRAM is faster."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "memory cost"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2196,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following memory types is least likely to be directly modified by the user during normal system operation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "RAM"
+      },
+      {
+        "id": "B",
+        "text": "Cache Memory"
+      },
+      {
+        "id": "C",
+        "text": "ROM"
+      },
+      {
+        "id": "D",
+        "text": "Virtual Memory"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "ROM",
+      "explanation": {
+        "concept": "ROM is designed to store fixed instructions and is not intended for frequent modification by users.",
+        "step_by_step": [
+          "User modifies temporary data in RAM.",
+          "Cache is automatically managed.",
+          "ROM stores permanent instructions."
+        ],
+        "why_correct": {
+          "C": "ROM is rarely modified during normal use."
+        },
+        "why_incorrect": {
+          "A": "RAM is frequently modified.",
+          "B": "Cache is dynamically updated.",
+          "D": "Virtual memory is actively used."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "ROM usage"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2197,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following scenarios would most likely require the use of EEPROM instead of EPROM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One-time permanent programming"
+      },
+      {
+        "id": "B",
+        "text": "Frequent in-system updates without removing the chip"
+      },
+      {
+        "id": "C",
+        "text": "Erasure using ultraviolet radiation"
+      },
+      {
+        "id": "D",
+        "text": "High-speed temporary storage"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Frequent in-system updates without removing the chip",
+      "explanation": {
+        "concept": "EEPROM supports electrical rewriting without removing it from the system, unlike EPROM.",
+        "step_by_step": [
+          "EPROM requires UV light and removal.",
+          "EEPROM allows electrical updates.",
+          "Frequent updates require EEPROM."
+        ],
+        "why_correct": {
+          "B": "EEPROM is ideal for in-system reprogramming."
+        },
+        "why_incorrect": {
+          "A": "PROM is used for one-time programming.",
+          "C": "Describes EPROM.",
+          "D": "RAM handles temporary storage."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "EEPROM vs EPROM"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2198,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which property primarily differentiates cache memory from main memory (RAM) in terms of system architecture?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cache memory is non-volatile"
+      },
+      {
+        "id": "B",
+        "text": "Cache memory is smaller but significantly faster"
+      },
+      {
+        "id": "C",
+        "text": "Cache memory is located on secondary storage devices"
+      },
+      {
+        "id": "D",
+        "text": "Cache memory cannot be accessed by CPU"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Cache memory is smaller but significantly faster",
+      "explanation": {
+        "concept": "Cache memory is designed to be very fast and small, placed close to the CPU for quick access.",
+        "step_by_step": [
+          "Cache is closest to CPU.",
+          "It is smaller than RAM.",
+          "It provides faster access."
+        ],
+        "why_correct": {
+          "B": "Correctly captures size-speed tradeoff."
+        },
+        "why_incorrect": {
+          "A": "Cache is volatile.",
+          "C": "Cache is part of primary memory hierarchy.",
+          "D": "CPU directly accesses cache."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "cache vs RAM"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2199,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which memory-related issue occurs when the CPU must frequently wait for data to be fetched from slower memory layers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memory fragmentation"
+      },
+      {
+        "id": "B",
+        "text": "Memory latency bottleneck"
+      },
+      {
+        "id": "C",
+        "text": "Data redundancy"
+      },
+      {
+        "id": "D",
+        "text": "Instruction pipelining"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Memory latency bottleneck",
+      "explanation": {
+        "concept": "When data is not readily available in fast memory, CPU stalls occur due to delays, known as latency bottlenecks.",
+        "step_by_step": [
+          "CPU waits for data.",
+          "Slow memory increases delay.",
+          "This creates a latency bottleneck."
+        ],
+        "why_correct": {
+          "B": "Accurately describes the delay caused by slow memory access."
+        },
+        "why_incorrect": {
+          "A": "Fragmentation relates to memory allocation.",
+          "C": "Redundancy is unrelated.",
+          "D": "Pipelining improves CPU efficiency."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "memory latency"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2200,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Memory (RAM, ROM)",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a system design context, which memory characteristic is most critical when ensuring that firmware remains intact across power cycles?",
+    "options": [
+      {
+        "id": "A",
+        "text": "High bandwidth"
+      },
+      {
+        "id": "B",
+        "text": "Low latency"
+      },
+      {
+        "id": "C",
+        "text": "Non-volatility"
+      },
+      {
+        "id": "D",
+        "text": "Random access capability"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Non-volatility",
+      "explanation": {
+        "concept": "Non-volatile memory retains data even when power is turned off, making it essential for firmware storage.",
+        "step_by_step": [
+          "Firmware must persist without power.",
+          "Volatile memory loses data.",
+          "Non-volatile memory ensures retention."
+        ],
+        "why_correct": {
+          "C": "Directly ensures persistence of firmware."
+        },
+        "why_incorrect": {
+          "A": "Bandwidth relates to speed, not retention.",
+          "B": "Latency affects speed, not persistence.",
+          "D": "Random access is unrelated to data retention."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "non-volatile memory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  }
+]

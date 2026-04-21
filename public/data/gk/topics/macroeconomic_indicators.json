@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3048,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Macroeconomic Indicators",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which macroeconomic indicator best reflects the overall economic output of a country as analyzed in the Economic Survey?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CPI"
+      },
+      {
+        "id": "B",
+        "text": "GDP"
+      },
+      {
+        "id": "C",
+        "text": "Fiscal Deficit"
+      },
+      {
+        "id": "D",
+        "text": "Repo Rate"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "GDP",
+      "explanation": {
+        "concept": "GDP measures total value of goods and services produced.",
+        "step_by_step": [
+          "Identify macro indicators.",
+          "GDP captures total output.",
+          "Survey focuses heavily on GDP."
+        ],
+        "why_correct": {
+          "B": "Correct indicator of economic output."
+        },
+        "why_incorrect": {
+          "A": "Measures inflation.",
+          "C": "Budget imbalance.",
+          "D": "Monetary policy tool."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "GDP"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

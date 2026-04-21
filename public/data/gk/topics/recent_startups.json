@@ -1,0 +1,77 @@
+[
+  {
+    "id": 3217,
+    "subject": "General Awareness",
+    "chapter": "Static GK",
+    "topic": "Recent Startups",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following startups operates in the B2B e-commerce segment and became a unicorn in recent years?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neysa"
+      },
+      {
+        "id": "B",
+        "text": "Jumbotail"
+      },
+      {
+        "id": "C",
+        "text": "Raise Financial"
+      },
+      {
+        "id": "D",
+        "text": "Skyroot Aerospace"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Jumbotail",
+      "explanation": {
+        "concept": "Different startups operate in different sectors such as AI, fintech, and e-commerce.",
+        "step_by_step": [
+          "Neysa focuses on AI infrastructure.",
+          "Jumbotail operates in B2B e-commerce.",
+          "Raise Financial is fintech.",
+          "Skyroot is space tech."
+        ],
+        "why_correct": {
+          "B": "Correct sector identification."
+        },
+        "why_incorrect": {
+          "A": "AI infrastructure.",
+          "C": "Fintech platform.",
+          "D": "Space technology."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Startup sectors"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Static GK"
+  }
+]

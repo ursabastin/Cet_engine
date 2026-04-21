@@ -1,0 +1,76 @@
+[
+  {
+    "id": 2879,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Women's Cricket World Cup 2025",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which factor most likely contributed to India's success in the ICC Women’s Cricket World Cup 2025?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutral pitches favoring spin only"
+      },
+      {
+        "id": "B",
+        "text": "Home advantage and familiarity with conditions"
+      },
+      {
+        "id": "C",
+        "text": "Shortened tournament format"
+      },
+      {
+        "id": "D",
+        "text": "Absence of top-ranked teams"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Home advantage and familiarity with conditions",
+      "explanation": {
+        "concept": "Analyzing performance factors in sports tournaments.",
+        "step_by_step": [
+          "India hosted the tournament.",
+          "Players were familiar with pitches and weather.",
+          "This gave strategic advantage."
+        ],
+        "why_correct": {
+          "B": "Home conditions significantly improve performance."
+        },
+        "why_incorrect": {
+          "A": "Conditions were not spin-only.",
+          "C": "Format was standard.",
+          "D": "Top teams participated."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Performance factors"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

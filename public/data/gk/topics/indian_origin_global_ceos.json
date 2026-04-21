@@ -1,0 +1,520 @@
+[
+  {
+    "id": 3055,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indian-Origin Global CEOs",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.46,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Indian-origin CEO leads the global luxury brand Chanel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Leena Nair"
+      },
+      {
+        "id": "B",
+        "text": "Indra Nooyi"
+      },
+      {
+        "id": "C",
+        "text": "Shantanu Narayen"
+      },
+      {
+        "id": "D",
+        "text": "Nikesh Arora"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Leena Nair",
+      "explanation": {
+        "concept": "Indian-origin executives leading global firms are frequently tested in current affairs.",
+        "step_by_step": [
+          "Identify Chanel as a luxury brand.",
+          "Recall its current CEO.",
+          "Select Leena Nair."
+        ],
+        "why_correct": {
+          "A": "Leena Nair is CEO of Chanel."
+        },
+        "why_incorrect": {
+          "B": "Indra Nooyi is former PepsiCo CEO.",
+          "C": "Shantanu Narayen leads Adobe.",
+          "D": "Nikesh Arora leads Palo Alto Networks."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3055",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Global leadership"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3060,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indian-Origin Global CEOs",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Who is the CEO of IBM, an Indian-origin leader in the global technology industry?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Arvind Krishna"
+      },
+      {
+        "id": "B",
+        "text": "Neal Mohan"
+      },
+      {
+        "id": "C",
+        "text": "Shailesh Jejurikar"
+      },
+      {
+        "id": "D",
+        "text": "Raj Subramaniam"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Arvind Krishna",
+      "explanation": {
+        "concept": "IBM is a global tech firm led by Indian-origin CEO Arvind Krishna.",
+        "step_by_step": [
+          "Identify IBM leadership.",
+          "Recall Indian-origin CEOs.",
+          "Select Arvind Krishna."
+        ],
+        "why_correct": {
+          "A": "Arvind Krishna is CEO of IBM."
+        },
+        "why_incorrect": {
+          "B": "Neal Mohan leads YouTube.",
+          "C": "Jejurikar leads P&G.",
+          "D": "Subramaniam leads FedEx."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3060",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Global CEOs"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3066,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indian-Origin Global CEOs",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Who is the CEO of YouTube, a subsidiary of Alphabet Inc.?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neal Mohan"
+      },
+      {
+        "id": "B",
+        "text": "Susan Wojcicki"
+      },
+      {
+        "id": "C",
+        "text": "Sundar Pichai"
+      },
+      {
+        "id": "D",
+        "text": "Arvind Krishna"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Neal Mohan",
+      "explanation": {
+        "concept": "YouTube is led by an Indian-origin executive following leadership transition.",
+        "step_by_step": [
+          "Identify YouTube leadership.",
+          "Recall CEO after Susan Wojcicki.",
+          "Select Neal Mohan."
+        ],
+        "why_correct": {
+          "A": "Neal Mohan is current CEO of YouTube."
+        },
+        "why_incorrect": {
+          "B": "Wojcicki is former CEO.",
+          "C": "Pichai leads Alphabet.",
+          "D": "Krishna leads IBM."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3066",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Subsidiary leadership"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3069,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indian-Origin Global CEOs",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Who is the CEO of Palo Alto Networks, a leading cybersecurity company?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nikesh Arora"
+      },
+      {
+        "id": "B",
+        "text": "Satya Nadella"
+      },
+      {
+        "id": "C",
+        "text": "Shantanu Narayen"
+      },
+      {
+        "id": "D",
+        "text": "Sanjay Mehrotra"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Nikesh Arora",
+      "explanation": {
+        "concept": "Cybersecurity firms are led by influential executives often tested in exams.",
+        "step_by_step": [
+          "Identify Palo Alto Networks leadership.",
+          "Recall CEO name.",
+          "Select Nikesh Arora."
+        ],
+        "why_correct": {
+          "A": "Nikesh Arora is CEO."
+        },
+        "why_incorrect": {
+          "B": "Nadella leads Microsoft.",
+          "C": "Narayen leads Adobe.",
+          "D": "Mehrotra leads Micron."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3069",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Cybersecurity leadership"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3074,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indian-Origin Global CEOs",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Who is the CEO of FedEx, a global logistics company, and is of Indian origin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Raj Subramaniam"
+      },
+      {
+        "id": "B",
+        "text": "Ajay Banga"
+      },
+      {
+        "id": "C",
+        "text": "Nikesh Arora"
+      },
+      {
+        "id": "D",
+        "text": "Arvind Krishna"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Raj Subramaniam",
+      "explanation": {
+        "concept": "Indian-origin leaders heading global logistics and tech firms are commonly tested.",
+        "step_by_step": [
+          "Identify FedEx leadership.",
+          "Recall Indian-origin CEO.",
+          "Select Raj Subramaniam."
+        ],
+        "why_correct": {
+          "A": "Raj Subramaniam is CEO of FedEx."
+        },
+        "why_incorrect": {
+          "B": "Ajay Banga is World Bank President.",
+          "C": "Arora leads Palo Alto Networks.",
+          "D": "Krishna leads IBM."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3074",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Global logistics leadership"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3076,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indian-Origin Global CEOs",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Who became the CEO of Procter & Gamble (P&G) effective January 2026?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shailesh Jejurikar"
+      },
+      {
+        "id": "B",
+        "text": "David Taylor"
+      },
+      {
+        "id": "C",
+        "text": "Jon Moeller"
+      },
+      {
+        "id": "D",
+        "text": "Indra Nooyi"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Shailesh Jejurikar",
+      "explanation": {
+        "concept": "Recent leadership changes in multinational FMCG companies are key exam topics.",
+        "step_by_step": [
+          "Identify P&G leadership transition.",
+          "Recall CEO effective 2026.",
+          "Select Shailesh Jejurikar."
+        ],
+        "why_correct": {
+          "A": "Jejurikar became CEO in 2026."
+        },
+        "why_incorrect": {
+          "B": "Taylor is former CEO.",
+          "C": "Moeller was prior CEO.",
+          "D": "Nooyi led PepsiCo."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3076",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "FMCG leadership"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3079,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Indian-Origin Global CEOs",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Who is the CEO of Adobe, a global software company known for products like Photoshop and Acrobat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shantanu Narayen"
+      },
+      {
+        "id": "B",
+        "text": "Arvind Krishna"
+      },
+      {
+        "id": "C",
+        "text": "Satya Nadella"
+      },
+      {
+        "id": "D",
+        "text": "Sundar Pichai"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Shantanu Narayen",
+      "explanation": {
+        "concept": "Adobe is led by an Indian-origin CEO known for its creative software suite.",
+        "step_by_step": [
+          "Identify Adobe leadership.",
+          "Recall CEO name.",
+          "Select Shantanu Narayen."
+        ],
+        "why_correct": {
+          "A": "Narayen is CEO of Adobe."
+        },
+        "why_incorrect": {
+          "B": "Leads IBM.",
+          "C": "Leads Microsoft.",
+          "D": "Leads Alphabet."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3079",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Software industry leadership"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

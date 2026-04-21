@@ -1,0 +1,742 @@
+[
+  {
+    "id": 2481,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which flowchart symbol is used to represent a decision that results in branching of the control flow?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oval"
+      },
+      {
+        "id": "B",
+        "text": "Rectangle"
+      },
+      {
+        "id": "C",
+        "text": "Diamond"
+      },
+      {
+        "id": "D",
+        "text": "Parallelogram"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Diamond",
+      "explanation": {
+        "concept": "A decision symbol in a flowchart represents a condition that leads to multiple paths based on evaluation.",
+        "step_by_step": [
+          "A decision point evaluates a condition (true/false).",
+          "The symbol must allow branching.",
+          "Diamond is universally used for decision-making in flowcharts."
+        ],
+        "why_correct": {
+          "C": "Diamond represents conditional branching in flowcharts."
+        },
+        "why_incorrect": {
+          "A": "Oval represents start/end, not decisions.",
+          "B": "Rectangle represents processing steps.",
+          "D": "Parallelogram represents input/output."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "decision symbol"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2482,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In a flowchart, which symbol is used to indicate input or output operations?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rectangle"
+      },
+      {
+        "id": "B",
+        "text": "Parallelogram"
+      },
+      {
+        "id": "C",
+        "text": "Diamond"
+      },
+      {
+        "id": "D",
+        "text": "Arrow"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Parallelogram",
+      "explanation": {
+        "concept": "Input/output operations are represented by a distinct symbol to differentiate them from processing steps.",
+        "step_by_step": [
+          "Identify standard symbols used in flowcharts.",
+          "Recognize that I/O operations involve data entry or display.",
+          "Parallelogram is conventionally used for I/O representation."
+        ],
+        "why_correct": {
+          "B": "Parallelogram denotes input/output operations."
+        },
+        "why_incorrect": {
+          "A": "Rectangle is for processing.",
+          "C": "Diamond is for decisions.",
+          "D": "Arrow represents flow direction."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "input output symbol"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2483,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes the role of arrows in a flowchart?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Represent data storage"
+      },
+      {
+        "id": "B",
+        "text": "Indicate direction of flow"
+      },
+      {
+        "id": "C",
+        "text": "Denote decision making"
+      },
+      {
+        "id": "D",
+        "text": "Show processing steps"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Indicate direction of flow",
+      "explanation": {
+        "concept": "Flow lines (arrows) connect symbols and indicate execution order.",
+        "step_by_step": [
+          "Flowcharts represent sequence of operations.",
+          "Arrows link symbols in logical order.",
+          "They guide the execution path."
+        ],
+        "why_correct": {
+          "B": "Arrows define the direction in which the process flows."
+        },
+        "why_incorrect": {
+          "A": "Data storage has separate symbols.",
+          "C": "Decisions are represented by diamonds.",
+          "D": "Processing uses rectangles."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "flow lines"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2484,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which symbol is used to represent the start and end of a flowchart?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oval"
+      },
+      {
+        "id": "B",
+        "text": "Rectangle"
+      },
+      {
+        "id": "C",
+        "text": "Diamond"
+      },
+      {
+        "id": "D",
+        "text": "Circle"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Oval",
+      "explanation": {
+        "concept": "The terminator symbol defines the beginning and end points in a flowchart.",
+        "step_by_step": [
+          "Flowcharts require clear start and end markers.",
+          "These are represented using a standard symbol.",
+          "Oval is universally used as terminator."
+        ],
+        "why_correct": {
+          "A": "Oval represents start/end points."
+        },
+        "why_incorrect": {
+          "B": "Rectangle represents process.",
+          "C": "Diamond is decision symbol.",
+          "D": "Circle is connector symbol."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "terminator symbol"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2485,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which symbol is specifically used to connect different parts of a flowchart on the same page?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Circle"
+      },
+      {
+        "id": "B",
+        "text": "Oval"
+      },
+      {
+        "id": "C",
+        "text": "Rectangle"
+      },
+      {
+        "id": "D",
+        "text": "Parallelogram"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Circle",
+      "explanation": {
+        "concept": "Connector symbols are used to avoid long crossing lines in flowcharts.",
+        "step_by_step": [
+          "When flowchart becomes complex, connectors simplify structure.",
+          "On-page connectors are small circles.",
+          "They maintain continuity without clutter."
+        ],
+        "why_correct": {
+          "A": "Circle is used as on-page connector."
+        },
+        "why_incorrect": {
+          "B": "Oval indicates start/end.",
+          "C": "Rectangle is for processing.",
+          "D": "Parallelogram is for input/output."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "connector symbol"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2486,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best explains why flowcharts are preferred over algorithms in certain cases?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They execute faster"
+      },
+      {
+        "id": "B",
+        "text": "They are easier to visualize logic"
+      },
+      {
+        "id": "C",
+        "text": "They require less memory"
+      },
+      {
+        "id": "D",
+        "text": "They reduce computation time"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "They are easier to visualize logic",
+      "explanation": {
+        "concept": "Flowcharts provide a graphical representation which improves understanding of program logic.",
+        "step_by_step": [
+          "Algorithms are textual.",
+          "Flowcharts use symbols and diagrams.",
+          "Visual representation aids clarity and debugging."
+        ],
+        "why_correct": {
+          "B": "Flowcharts visually represent logic, making them easier to understand."
+        },
+        "why_incorrect": {
+          "A": "Flowcharts are not executable.",
+          "C": "Memory is unrelated.",
+          "D": "Execution time is unaffected."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "flowchart advantages"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2487,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which symbol represents a processing step such as calculation or assignment in a flowchart?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rectangle"
+      },
+      {
+        "id": "B",
+        "text": "Diamond"
+      },
+      {
+        "id": "C",
+        "text": "Oval"
+      },
+      {
+        "id": "D",
+        "text": "Circle"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Rectangle",
+      "explanation": {
+        "concept": "Processing steps involve operations and are represented using a standard symbol.",
+        "step_by_step": [
+          "Identify operation-based steps.",
+          "Recognize processing symbol.",
+          "Rectangle is used for processing."
+        ],
+        "why_correct": {
+          "A": "Rectangle denotes processing operations."
+        },
+        "why_incorrect": {
+          "B": "Diamond is decision symbol.",
+          "C": "Oval is terminator.",
+          "D": "Circle is connector."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "process symbol"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2488,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A flowchart contains a diamond with two outgoing arrows labeled 'Yes' and 'No'. What does this indicate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Loop structure"
+      },
+      {
+        "id": "B",
+        "text": "Sequential execution"
+      },
+      {
+        "id": "C",
+        "text": "Conditional branching"
+      },
+      {
+        "id": "D",
+        "text": "Parallel processing"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Conditional branching",
+      "explanation": {
+        "concept": "Decision nodes split execution based on conditions.",
+        "step_by_step": [
+          "Diamond represents decision.",
+          "Two arrows represent outcomes.",
+          "This creates branching paths."
+        ],
+        "why_correct": {
+          "C": "Yes/No branches indicate condition-based execution."
+        },
+        "why_incorrect": {
+          "A": "Loop requires repeated flow, not just branching.",
+          "B": "Sequential has no branching.",
+          "D": "Parallel processing is not represented this way."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "decision branching"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2489,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following errors reduces the readability of a flowchart the most?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using too many connectors unnecessarily"
+      },
+      {
+        "id": "B",
+        "text": "Using proper symbols"
+      },
+      {
+        "id": "C",
+        "text": "Maintaining top-to-bottom flow"
+      },
+      {
+        "id": "D",
+        "text": "Using clear labels"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Using too many connectors unnecessarily",
+      "explanation": {
+        "concept": "Excessive connectors increase complexity and reduce clarity.",
+        "step_by_step": [
+          "Flowcharts should be simple.",
+          "Too many connectors cause confusion.",
+          "Clarity is reduced due to fragmentation."
+        ],
+        "why_correct": {
+          "A": "Overuse of connectors disrupts readability."
+        },
+        "why_incorrect": {
+          "B": "Proper symbols improve clarity.",
+          "C": "Top-to-bottom improves flow.",
+          "D": "Clear labels enhance readability."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "flowchart design"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  },
+  {
+    "id": 2490,
+    "subject": "Computer Basics",
+    "chapter": "IT & Programming",
+    "topic": "Flowcharts",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In complex flowcharts, why are off-page connectors used instead of on-page connectors?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To reduce processing time"
+      },
+      {
+        "id": "B",
+        "text": "To connect flow across different pages"
+      },
+      {
+        "id": "C",
+        "text": "To indicate decision making"
+      },
+      {
+        "id": "D",
+        "text": "To store intermediate results"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To connect flow across different pages",
+      "explanation": {
+        "concept": "Off-page connectors maintain continuity when flowchart spans multiple pages.",
+        "step_by_step": [
+          "Large flowcharts may not fit one page.",
+          "Continuity must be preserved.",
+          "Off-page connectors link different pages."
+        ],
+        "why_correct": {
+          "B": "They connect flowchart segments across pages."
+        },
+        "why_incorrect": {
+          "A": "No effect on processing time.",
+          "C": "Decision is shown by diamond.",
+          "D": "Storage has different symbols."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "off-page connector"
+      ],
+      "formulae": []
+    },
+    "subtopic": "IT & Programming"
+  }
+]

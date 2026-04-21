@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1905,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Title Selection",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: Artificial intelligence is transforming industries by automating repetitive tasks, improving decision-making, and enabling predictive analytics.\n\nChoose the most appropriate title.",
+    "options": [
+      {
+        "id": "A",
+        "text": "History of Artificial Intelligence"
+      },
+      {
+        "id": "B",
+        "text": "Applications of Artificial Intelligence in Modern Industries"
+      },
+      {
+        "id": "C",
+        "text": "Disadvantages of Automation"
+      },
+      {
+        "id": "D",
+        "text": "Manual Labor in Industries"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Applications of Artificial Intelligence in Modern Industries",
+      "explanation": {
+        "concept": "A good title captures scope and essence of passage.",
+        "step_by_step": [
+          "Identify key theme: AI transformation",
+          "Note applications",
+          "Select broad but accurate title"
+        ],
+        "why_correct": {
+          "B": "Covers all mentioned applications"
+        },
+        "why_incorrect": {
+          "A": "Too narrow",
+          "C": "Not discussed",
+          "D": "Irrelevant"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "title selection"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1914,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Title Selection",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: Advances in biotechnology have enabled scientists to develop genetically modified crops that are more resistant to pests, diseases, and environmental stress. While these innovations promise increased agricultural productivity, they have also sparked debates regarding ethical concerns and long-term ecological impacts.\n\nSelect the most appropriate title.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Traditional Farming Methods"
+      },
+      {
+        "id": "B",
+        "text": "Biotechnology: Benefits and Controversies"
+      },
+      {
+        "id": "C",
+        "text": "History of Genetic Research"
+      },
+      {
+        "id": "D",
+        "text": "Organic Farming Practices"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Biotechnology: Benefits and Controversies",
+      "explanation": {
+        "concept": "Title must capture both sides of discussion.",
+        "step_by_step": [
+          "Identify benefits: productivity",
+          "Identify concerns: ethics",
+          "Choose balanced title"
+        ],
+        "why_correct": {
+          "B": "Covers both aspects"
+        },
+        "why_incorrect": {
+          "A": "Irrelevant",
+          "C": "Too narrow",
+          "D": "Not discussed"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "title selection"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1924,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Title Selection",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: The increasing dependence on digital devices has transformed modern lifestyles, enabling greater connectivity and efficiency. However, this shift has also raised concerns about reduced physical activity, social isolation, and mental health issues. Experts suggest adopting a balanced approach to technology use in order to maximize benefits while minimizing adverse effects.\n\nChoose the most suitable title.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Advantages of Digital Technology Only"
+      },
+      {
+        "id": "B",
+        "text": "The Balanced Impact of Digital Device Usage"
+      },
+      {
+        "id": "C",
+        "text": "History of Technological Development"
+      },
+      {
+        "id": "D",
+        "text": "Manual Lifestyles in the Past"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The Balanced Impact of Digital Device Usage",
+      "explanation": {
+        "concept": "Title must reflect both positive and negative aspects.",
+        "step_by_step": [
+          "Identify benefits",
+          "Identify drawbacks",
+          "Choose balanced representation"
+        ],
+        "why_correct": {
+          "B": "Captures dual impact"
+        },
+        "why_incorrect": {
+          "A": "One-sided",
+          "C": "Irrelevant",
+          "D": "Not discussed"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 75,
+      "concepts": [
+        "title selection"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1934,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Title Selection",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Passage: Remote work has transformed organizational structures by offering flexibility and reducing operational costs. However, it also presents challenges such as reduced team cohesion, communication barriers, and difficulties in performance monitoring. Companies are now exploring hybrid models to balance these advantages and drawbacks.\n\nSelect the most appropriate title.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Rise of Office Culture"
+      },
+      {
+        "id": "B",
+        "text": "Remote Work: Opportunities and Challenges"
+      },
+      {
+        "id": "C",
+        "text": "History of Employment Models"
+      },
+      {
+        "id": "D",
+        "text": "Advantages of Remote Work Only"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Remote Work: Opportunities and Challenges",
+      "explanation": {
+        "concept": "Title should reflect dual aspects.",
+        "step_by_step": [
+          "Identify pros",
+          "Identify cons",
+          "Choose balanced title"
+        ],
+        "why_correct": {
+          "B": "Includes both sides"
+        },
+        "why_incorrect": {
+          "A": "Irrelevant",
+          "C": "Too broad",
+          "D": "One-sided"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_39",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "title"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": 3119,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Market Structures",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A market with only one seller and no close substitutes is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oligopoly"
+      },
+      {
+        "id": "B",
+        "text": "Perfect competition"
+      },
+      {
+        "id": "C",
+        "text": "Monopoly"
+      },
+      {
+        "id": "D",
+        "text": "Duopoly"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Monopoly",
+      "explanation": {
+        "concept": "Monopoly exists when a single firm dominates the entire market.",
+        "step_by_step": [
+          "Identify number of sellers",
+          "Check substitute availability",
+          "Match definition"
+        ],
+        "why_correct": {
+          "C": "Single seller with no substitutes"
+        },
+        "why_incorrect": {
+          "A": "Few firms",
+          "B": "Many firms",
+          "D": "Two firms"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "monopoly"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3128,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Market Structures",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which market structure is characterized by a few dominant firms and interdependence?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perfect competition"
+      },
+      {
+        "id": "B",
+        "text": "Monopoly"
+      },
+      {
+        "id": "C",
+        "text": "Oligopoly"
+      },
+      {
+        "id": "D",
+        "text": "Monopsony"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Oligopoly",
+      "explanation": {
+        "concept": "Oligopoly involves a few firms where each firm's decisions affect others.",
+        "step_by_step": [
+          "Check number of firms",
+          "Assess interdependence",
+          "Match concept"
+        ],
+        "why_correct": {
+          "C": "Few firms with strategic interaction"
+        },
+        "why_incorrect": {
+          "A": "Many firms",
+          "B": "Single firm",
+          "D": "Single buyer"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "oligopoly"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

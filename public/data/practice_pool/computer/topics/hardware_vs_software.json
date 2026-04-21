@@ -1,0 +1,2224 @@
+[
+  {
+    "id": 2121,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.3,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best describes the relationship between hardware and software in a computer system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardware operates independently of software"
+      },
+      {
+        "id": "B",
+        "text": "Software provides instructions that hardware executes"
+      },
+      {
+        "id": "C",
+        "text": "Hardware translates software into electricity"
+      },
+      {
+        "id": "D",
+        "text": "Software is a physical component of hardware"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Software provides instructions that hardware executes",
+      "explanation": {
+        "concept": "Hardware refers to physical components, while software consists of instructions that direct hardware operations.",
+        "step_by_step": [
+          "Identify definitions of hardware and software",
+          "Understand their interaction",
+          "Software gives commands; hardware performs tasks"
+        ],
+        "why_correct": {
+          "A": "Software controls hardware by providing instructions."
+        },
+        "why_incorrect": {
+          "B": "Hardware cannot function without software instructions",
+          "C": "Hardware does not translate software; it executes instructions",
+          "D": "Software is intangible, not physical"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "hardware-software interaction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2122,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.45,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is an example of system software rather than hardware?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Motherboard"
+      },
+      {
+        "id": "B",
+        "text": "Operating System"
+      },
+      {
+        "id": "C",
+        "text": "Hard Disk"
+      },
+      {
+        "id": "D",
+        "text": "RAM"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Operating System",
+      "explanation": {
+        "concept": "System software like operating systems manages hardware and provides a platform for applications.",
+        "step_by_step": [
+          "Identify hardware components (physical)",
+          "Recognize software (programs)",
+          "Operating system is a program, not physical"
+        ],
+        "why_correct": {
+          "B": "Operating system is software managing hardware resources"
+        },
+        "why_incorrect": {
+          "A": "Motherboard is a physical component",
+          "C": "Hard disk is storage hardware",
+          "D": "RAM is physical memory"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "system software"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2123,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A computer fails to boot due to corrupted files. Which category does this issue primarily belong to?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardware failure"
+      },
+      {
+        "id": "B",
+        "text": "Software malfunction"
+      },
+      {
+        "id": "C",
+        "text": "Peripheral issue"
+      },
+      {
+        "id": "D",
+        "text": "Firmware damage only"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Software malfunction",
+      "explanation": {
+        "concept": "Boot failures due to corrupted files indicate issues in software (OS or system files).",
+        "step_by_step": [
+          "Identify cause: corrupted files",
+          "Files belong to software",
+          "Thus issue is software-related"
+        ],
+        "why_correct": {
+          "B": "Corrupted files are part of software"
+        },
+        "why_incorrect": {
+          "A": "Hardware failure involves physical damage",
+          "C": "Peripheral issues affect external devices",
+          "D": "Firmware is specific low-level software, not necessarily indicated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "software errors"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2124,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which scenario best illustrates the dependency of hardware on software?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A monitor displaying images without a graphics driver"
+      },
+      {
+        "id": "B",
+        "text": "A CPU performing calculations based on program instructions"
+      },
+      {
+        "id": "C",
+        "text": "A keyboard physically connected to a computer"
+      },
+      {
+        "id": "D",
+        "text": "A hard disk storing data magnetically"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A CPU performing calculations based on program instructions",
+      "explanation": {
+        "concept": "Hardware requires software instructions to perform meaningful tasks.",
+        "step_by_step": [
+          "Check where hardware relies on software",
+          "CPU executes instructions from software",
+          "This shows dependency"
+        ],
+        "why_correct": {
+          "B": "CPU needs instructions from software to function meaningfully"
+        },
+        "why_incorrect": {
+          "A": "Monitor needs driver; but statement is incorrect scenario",
+          "C": "Connection alone doesn't show dependency",
+          "D": "Storage is passive function"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "hardware dependency"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2125,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.48,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following pairs correctly matches hardware with its corresponding software?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Printer - Device driver"
+      },
+      {
+        "id": "B",
+        "text": "RAM - Compiler"
+      },
+      {
+        "id": "C",
+        "text": "CPU - Spreadsheet"
+      },
+      {
+        "id": "D",
+        "text": "Monitor - Antivirus"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Printer - Device driver",
+      "explanation": {
+        "concept": "Device drivers are software that allow hardware devices to communicate with the system.",
+        "step_by_step": [
+          "Identify correct hardware-software pair",
+          "Device drivers control hardware like printers",
+          "Others mismatch function"
+        ],
+        "why_correct": {
+          "A": "Device driver enables printer operation"
+        },
+        "why_incorrect": {
+          "B": "Compiler is unrelated to RAM",
+          "C": "Spreadsheet is application software",
+          "D": "Antivirus is unrelated to monitor"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "device drivers"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2126,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a computer's physical components are intact but applications fail to run, the issue most likely lies in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardware malfunction"
+      },
+      {
+        "id": "B",
+        "text": "Software malfunction"
+      },
+      {
+        "id": "C",
+        "text": "Power supply failure"
+      },
+      {
+        "id": "D",
+        "text": "Peripheral damage"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Software malfunction",
+      "explanation": {
+        "concept": "If hardware works but programs fail, the issue is software-related.",
+        "step_by_step": [
+          "Check hardware condition: intact",
+          "Identify failure: applications",
+          "Applications are software"
+        ],
+        "why_correct": {
+          "B": "Applications are software components"
+        },
+        "why_incorrect": {
+          "A": "Hardware is functioning",
+          "C": "Power issue would affect entire system",
+          "D": "Peripheral damage wouldn't stop apps"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "software troubleshooting"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2127,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.32,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which statement correctly distinguishes software from hardware?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Software is tangible, hardware is intangible"
+      },
+      {
+        "id": "B",
+        "text": "Software can be touched, hardware cannot"
+      },
+      {
+        "id": "C",
+        "text": "Software is a set of instructions, hardware is physical"
+      },
+      {
+        "id": "D",
+        "text": "Software and hardware are identical"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Software is a set of instructions, hardware is physical",
+      "explanation": {
+        "concept": "Hardware is physical, software consists of programs/instructions.",
+        "step_by_step": [
+          "Define hardware: physical",
+          "Define software: instructions",
+          "Match correct distinction"
+        ],
+        "why_correct": {
+          "C": "Correct definition distinction"
+        },
+        "why_incorrect": {
+          "A": "Reversed definitions",
+          "B": "Incorrect properties",
+          "D": "They are different"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "definitions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2128,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which layer acts as an intermediary enabling hardware to interpret high-level software commands?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application software"
+      },
+      {
+        "id": "B",
+        "text": "Operating system"
+      },
+      {
+        "id": "C",
+        "text": "Firmware"
+      },
+      {
+        "id": "D",
+        "text": "Device driver"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Operating system",
+      "explanation": {
+        "concept": "The operating system bridges user applications and hardware by managing resources and translating commands.",
+        "step_by_step": [
+          "Identify intermediary layer",
+          "OS connects software and hardware",
+          "It manages communication"
+        ],
+        "why_correct": {
+          "B": "OS acts as main interface"
+        },
+        "why_incorrect": {
+          "A": "Applications rely on OS",
+          "C": "Firmware is low-level control",
+          "D": "Drivers are specific, not general intermediary"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "operating system role"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2129,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following would continue to function correctly even if application software is removed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Word processor"
+      },
+      {
+        "id": "B",
+        "text": "Web browser"
+      },
+      {
+        "id": "C",
+        "text": "Operating system kernel"
+      },
+      {
+        "id": "D",
+        "text": "Spreadsheet program"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Operating system kernel",
+      "explanation": {
+        "concept": "Core system software (kernel) manages hardware independent of application software.",
+        "step_by_step": [
+          "Identify essential system component",
+          "Kernel is core of OS",
+          "Works without applications"
+        ],
+        "why_correct": {
+          "C": "Kernel is fundamental system software"
+        },
+        "why_incorrect": {
+          "A": "Application software",
+          "B": "Application software",
+          "D": "Application software"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "system vs application software"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2130,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which situation best indicates a hardware issue rather than a software issue?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application crashes frequently"
+      },
+      {
+        "id": "B",
+        "text": "System fails to detect RAM during boot"
+      },
+      {
+        "id": "C",
+        "text": "Operating system shows error messages"
+      },
+      {
+        "id": "D",
+        "text": "Software installation fails repeatedly"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "System fails to detect RAM during boot",
+      "explanation": {
+        "concept": "Hardware issues involve physical components like RAM not being recognized.",
+        "step_by_step": [
+          "Identify physical component failure",
+          "RAM detection failure is hardware-related",
+          "Other options relate to software"
+        ],
+        "why_correct": {
+          "B": "RAM is hardware; detection failure indicates hardware issue"
+        },
+        "why_incorrect": {
+          "A": "Application crash is software issue",
+          "C": "Error messages indicate software problems",
+          "D": "Installation issues relate to software"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "hardware troubleshooting"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2131,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.57,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following scenarios best demonstrates firmware functioning between hardware and software?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A user typing in a word processor"
+      },
+      {
+        "id": "B",
+        "text": "BIOS initializing hardware during system startup"
+      },
+      {
+        "id": "C",
+        "text": "An antivirus scanning files"
+      },
+      {
+        "id": "D",
+        "text": "A printer producing output after receiving a command"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "BIOS initializing hardware during system startup",
+      "explanation": {
+        "concept": "Firmware is low-level software embedded in hardware that controls basic operations, such as BIOS during boot.",
+        "step_by_step": [
+          "Understand firmware as embedded software",
+          "Identify BIOS as firmware",
+          "Recognize its role in initializing hardware"
+        ],
+        "why_correct": {
+          "B": "BIOS is firmware that bridges hardware and software during boot"
+        },
+        "why_incorrect": {
+          "A": "This involves application software",
+          "C": "Antivirus is application/system software",
+          "D": "Printer output involves drivers and hardware, not firmware specifically"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "firmware"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2132,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which component is responsible for translating high-level program instructions into machine-level signals executable by hardware?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assembler"
+      },
+      {
+        "id": "B",
+        "text": "Compiler/Interpreter"
+      },
+      {
+        "id": "C",
+        "text": "Cache memory"
+      },
+      {
+        "id": "D",
+        "text": "Input device"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Compiler/Interpreter",
+      "explanation": {
+        "concept": "Compilers and interpreters convert high-level code into machine-level instructions that hardware can execute.",
+        "step_by_step": [
+          "Identify role of translation",
+          "Recognize compilers/interpreters perform translation",
+          "Match to hardware execution"
+        ],
+        "why_correct": {
+          "B": "They convert high-level code to machine-level instructions"
+        },
+        "why_incorrect": {
+          "A": "Assembler converts assembly, not high-level language",
+          "C": "Cache stores data temporarily",
+          "D": "Input devices provide input"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "language translators"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2133,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following combinations correctly identifies volatile hardware and its dependency on software?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ROM – Stores permanent instructions"
+      },
+      {
+        "id": "B",
+        "text": "RAM – Requires software instructions for data processing"
+      },
+      {
+        "id": "C",
+        "text": "Hard Disk – Stores data permanently without software"
+      },
+      {
+        "id": "D",
+        "text": "CPU – Works independently of software"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "RAM – Requires software instructions for data processing",
+      "explanation": {
+        "concept": "RAM is volatile hardware used during execution of software instructions.",
+        "step_by_step": [
+          "Identify volatile memory: RAM",
+          "Recognize dependency on software execution",
+          "Match correct pair"
+        ],
+        "why_correct": {
+          "B": "RAM is volatile and used during program execution"
+        },
+        "why_incorrect": {
+          "A": "ROM is non-volatile",
+          "C": "Hard disk needs software for access",
+          "D": "CPU depends on software instructions"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "volatile memory"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2134,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best explains why hardware alone cannot perform meaningful operations?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardware lacks physical structure"
+      },
+      {
+        "id": "B",
+        "text": "Hardware cannot store data"
+      },
+      {
+        "id": "C",
+        "text": "Hardware requires software instructions to execute tasks"
+      },
+      {
+        "id": "D",
+        "text": "Hardware cannot process electrical signals"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Hardware requires software instructions to execute tasks",
+      "explanation": {
+        "concept": "Hardware needs instructions from software to perform any specific operation.",
+        "step_by_step": [
+          "Recognize limitation of hardware alone",
+          "Understand role of instructions",
+          "Conclude dependency on software"
+        ],
+        "why_correct": {
+          "C": "Instructions are essential for operation"
+        },
+        "why_incorrect": {
+          "A": "Hardware is physical",
+          "B": "Hardware can store data",
+          "D": "Hardware processes signals"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "hardware limitation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2135,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "A device driver fails to load for a graphics card. What is the most likely outcome?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The CPU stops functioning"
+      },
+      {
+        "id": "B",
+        "text": "The graphics hardware cannot operate properly"
+      },
+      {
+        "id": "C",
+        "text": "The RAM becomes inaccessible"
+      },
+      {
+        "id": "D",
+        "text": "The operating system is deleted"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The graphics hardware cannot operate properly",
+      "explanation": {
+        "concept": "Device drivers enable communication between hardware and OS.",
+        "step_by_step": [
+          "Identify role of driver",
+          "Driver missing → no communication",
+          "Hardware cannot function properly"
+        ],
+        "why_correct": {
+          "B": "Graphics card depends on driver"
+        },
+        "why_incorrect": {
+          "A": "CPU unaffected",
+          "C": "RAM unrelated",
+          "D": "OS not deleted"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "device driver dependency"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2136,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.49,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is NOT a function of software in relation to hardware?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Controlling hardware operations"
+      },
+      {
+        "id": "B",
+        "text": "Providing user interface"
+      },
+      {
+        "id": "C",
+        "text": "Executing physical electrical signals directly"
+      },
+      {
+        "id": "D",
+        "text": "Managing system resources"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Executing physical electrical signals directly",
+      "explanation": {
+        "concept": "Software controls and instructs hardware but does not physically execute signals.",
+        "step_by_step": [
+          "Check role of software",
+          "Software provides instructions",
+          "Hardware executes signals"
+        ],
+        "why_correct": {
+          "C": "Execution of signals is hardware function"
+        },
+        "why_incorrect": {
+          "A": "Software controls operations",
+          "B": "Software provides UI",
+          "D": "Software manages resources"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "software functions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2137,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which situation reflects a mismatch between hardware capability and software requirement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Installing a lightweight application on a high-end system"
+      },
+      {
+        "id": "B",
+        "text": "Running a high-end game on insufficient RAM"
+      },
+      {
+        "id": "C",
+        "text": "Using updated drivers for hardware"
+      },
+      {
+        "id": "D",
+        "text": "Booting the system normally"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Running a high-end game on insufficient RAM",
+      "explanation": {
+        "concept": "Software requirements must match hardware capability.",
+        "step_by_step": [
+          "Identify mismatch scenario",
+          "High-end game requires high resources",
+          "Insufficient RAM causes mismatch"
+        ],
+        "why_correct": {
+          "B": "Insufficient hardware resources for software"
+        },
+        "why_incorrect": {
+          "A": "No mismatch",
+          "C": "Proper compatibility",
+          "D": "Normal operation"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "compatibility"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2138,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which statement best describes the role of abstraction in the hardware-software interface?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It allows hardware to directly execute high-level code"
+      },
+      {
+        "id": "B",
+        "text": "It hides hardware complexity from software layers"
+      },
+      {
+        "id": "C",
+        "text": "It eliminates the need for operating systems"
+      },
+      {
+        "id": "D",
+        "text": "It converts hardware into software components"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "It hides hardware complexity from software layers",
+      "explanation": {
+        "concept": "Abstraction simplifies interaction by hiding low-level hardware details.",
+        "step_by_step": [
+          "Define abstraction",
+          "It hides complexity",
+          "Applies to hardware-software interface"
+        ],
+        "why_correct": {
+          "B": "Correct explanation of abstraction"
+        },
+        "why_incorrect": {
+          "A": "High-level code needs translation",
+          "C": "OS still required",
+          "D": "Incorrect concept"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "abstraction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2139,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is an example of application software interacting with hardware indirectly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A compiler generating machine code"
+      },
+      {
+        "id": "B",
+        "text": "A video player using OS services to display output"
+      },
+      {
+        "id": "C",
+        "text": "BIOS initializing devices"
+      },
+      {
+        "id": "D",
+        "text": "RAM storing temporary data"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A video player using OS services to display output",
+      "explanation": {
+        "concept": "Application software interacts with hardware via the operating system.",
+        "step_by_step": [
+          "Identify indirect interaction",
+          "Applications use OS as mediator",
+          "Video player example fits"
+        ],
+        "why_correct": {
+          "B": "Uses OS to interact with hardware"
+        },
+        "why_incorrect": {
+          "A": "Direct software function",
+          "C": "Firmware role",
+          "D": "Hardware function"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "application vs system interaction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2140,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.59,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the operating system is removed from a computer, which of the following will MOST likely happen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardware will continue to run applications normally"
+      },
+      {
+        "id": "B",
+        "text": "Hardware will become non-functional for user-level tasks"
+      },
+      {
+        "id": "C",
+        "text": "All hardware components will be physically damaged"
+      },
+      {
+        "id": "D",
+        "text": "The CPU will stop receiving power"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hardware will become non-functional for user-level tasks",
+      "explanation": {
+        "concept": "OS is essential for coordinating hardware and running applications.",
+        "step_by_step": [
+          "Remove OS → no interface",
+          "No application execution",
+          "Hardware unusable for tasks"
+        ],
+        "why_correct": {
+          "B": "No OS means no user-level functionality"
+        },
+        "why_incorrect": {
+          "A": "Applications need OS",
+          "C": "No physical damage",
+          "D": "Power supply unaffected"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "OS dependency"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2141,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which situation best demonstrates the concept of software controlling hardware resources efficiently?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A CPU overheating due to excessive workload"
+      },
+      {
+        "id": "B",
+        "text": "An operating system allocating memory to multiple applications"
+      },
+      {
+        "id": "C",
+        "text": "A hard disk storing files permanently"
+      },
+      {
+        "id": "D",
+        "text": "A monitor displaying pixels"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "An operating system allocating memory to multiple applications",
+      "explanation": {
+        "concept": "Operating systems manage and allocate hardware resources among software processes.",
+        "step_by_step": [
+          "Identify resource management",
+          "OS allocates memory (hardware resource)",
+          "This ensures efficient usage"
+        ],
+        "why_correct": {
+          "B": "OS controls and allocates hardware resources"
+        },
+        "why_incorrect": {
+          "A": "Overheating is hardware issue",
+          "C": "Storage is passive function",
+          "D": "Display is hardware output"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "resource management"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2142,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which layer ensures portability of software across different hardware architectures?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application layer directly"
+      },
+      {
+        "id": "B",
+        "text": "Hardware abstraction layer / operating system"
+      },
+      {
+        "id": "C",
+        "text": "Peripheral devices"
+      },
+      {
+        "id": "D",
+        "text": "Power supply unit"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hardware abstraction layer / operating system",
+      "explanation": {
+        "concept": "The OS and abstraction layers allow software to run on different hardware by hiding hardware specifics.",
+        "step_by_step": [
+          "Identify portability requirement",
+          "Abstraction hides hardware differences",
+          "OS provides this layer"
+        ],
+        "why_correct": {
+          "B": "OS/HAL enables portability"
+        },
+        "why_incorrect": {
+          "A": "Applications depend on OS",
+          "C": "Devices don't ensure portability",
+          "D": "PSU unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "portability",
+        "abstraction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2143,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following is an example of software failure affecting hardware usage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A broken keyboard key"
+      },
+      {
+        "id": "B",
+        "text": "A missing driver preventing printer operation"
+      },
+      {
+        "id": "C",
+        "text": "A damaged hard disk platter"
+      },
+      {
+        "id": "D",
+        "text": "A faulty power cable"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A missing driver preventing printer operation",
+      "explanation": {
+        "concept": "Software issues like missing drivers prevent hardware from functioning correctly.",
+        "step_by_step": [
+          "Identify software-related cause",
+          "Driver is software",
+          "Hardware depends on driver"
+        ],
+        "why_correct": {
+          "B": "Driver absence stops hardware usage"
+        },
+        "why_incorrect": {
+          "A": "Physical damage",
+          "C": "Hardware failure",
+          "D": "Electrical issue"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "driver dependency"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2144,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.73,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which statement best explains the layered architecture of a computer system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardware directly interacts with user applications without intermediaries"
+      },
+      {
+        "id": "B",
+        "text": "Each layer provides services to the layer above and uses services from the layer below"
+      },
+      {
+        "id": "C",
+        "text": "Software layers operate independently of each other"
+      },
+      {
+        "id": "D",
+        "text": "Only hardware layers exist in a computer system"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Each layer provides services to the layer above and uses services from the layer below",
+      "explanation": {
+        "concept": "Computer systems are structured in layers, each depending on adjacent layers.",
+        "step_by_step": [
+          "Understand layered model",
+          "Each layer interacts with adjacent layers",
+          "Ensures modularity"
+        ],
+        "why_correct": {
+          "B": "Correct definition of layered architecture"
+        },
+        "why_incorrect": {
+          "A": "OS acts as intermediary",
+          "C": "Layers are interdependent",
+          "D": "Software layers exist"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "layered architecture"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2145,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best represents a low-level interaction between software and hardware?",
+    "options": [
+      {
+        "id": "A",
+        "text": "User editing a document"
+      },
+      {
+        "id": "B",
+        "text": "Operating system sending instructions to CPU registers"
+      },
+      {
+        "id": "C",
+        "text": "Watching a video online"
+      },
+      {
+        "id": "D",
+        "text": "Typing text in a browser"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Operating system sending instructions to CPU registers",
+      "explanation": {
+        "concept": "Low-level interactions occur close to hardware, involving registers and direct control.",
+        "step_by_step": [
+          "Identify low-level operation",
+          "CPU registers are hardware-level",
+          "OS interacts directly"
+        ],
+        "why_correct": {
+          "B": "Direct OS-hardware interaction"
+        },
+        "why_incorrect": {
+          "A": "High-level user action",
+          "C": "Application-level",
+          "D": "User-level interaction"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "low-level interaction"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2146,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following correctly identifies firmware as distinct from general software?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Firmware is stored in volatile memory"
+      },
+      {
+        "id": "B",
+        "text": "Firmware is embedded and closely tied to hardware"
+      },
+      {
+        "id": "C",
+        "text": "Firmware is only used for applications"
+      },
+      {
+        "id": "D",
+        "text": "Firmware is independent of hardware"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Firmware is embedded and closely tied to hardware",
+      "explanation": {
+        "concept": "Firmware is specialized software embedded in hardware devices.",
+        "step_by_step": [
+          "Define firmware",
+          "Embedded in hardware",
+          "Controls device-specific operations"
+        ],
+        "why_correct": {
+          "B": "Correct description of firmware"
+        },
+        "why_incorrect": {
+          "A": "Usually non-volatile",
+          "C": "Not application software",
+          "D": "Dependent on hardware"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "firmware definition"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2147,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which scenario best illustrates tight coupling between hardware and software?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A web application running on multiple operating systems"
+      },
+      {
+        "id": "B",
+        "text": "Embedded system firmware controlling a washing machine"
+      },
+      {
+        "id": "C",
+        "text": "Cloud-based software accessed via browser"
+      },
+      {
+        "id": "D",
+        "text": "Installing software updates regularly"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Embedded system firmware controlling a washing machine",
+      "explanation": {
+        "concept": "Tight coupling occurs when software is specifically designed for particular hardware.",
+        "step_by_step": [
+          "Identify close dependency",
+          "Embedded firmware works only with specific hardware",
+          "Thus tightly coupled"
+        ],
+        "why_correct": {
+          "B": "Firmware is hardware-specific"
+        },
+        "why_incorrect": {
+          "A": "Portable software",
+          "C": "Abstracted system",
+          "D": "General process"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "coupling"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2148,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which component primarily ensures that application software does not directly manipulate hardware resources unsafely?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CPU cache"
+      },
+      {
+        "id": "B",
+        "text": "Operating system"
+      },
+      {
+        "id": "C",
+        "text": "Input devices"
+      },
+      {
+        "id": "D",
+        "text": "Power supply"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Operating system",
+      "explanation": {
+        "concept": "The OS enforces protection and controlled access to hardware resources.",
+        "step_by_step": [
+          "Identify control mechanism",
+          "OS mediates access",
+          "Prevents unsafe direct manipulation"
+        ],
+        "why_correct": {
+          "B": "OS manages safe interaction"
+        },
+        "why_incorrect": {
+          "A": "Cache is memory component",
+          "C": "Input devices not control layer",
+          "D": "Power unrelated"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "resource protection"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2149,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following best represents software failure due to incompatibility with hardware?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A cracked monitor screen"
+      },
+      {
+        "id": "B",
+        "text": "An application not running on an unsupported processor architecture"
+      },
+      {
+        "id": "C",
+        "text": "A damaged keyboard cable"
+      },
+      {
+        "id": "D",
+        "text": "A faulty RAM module"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "An application not running on an unsupported processor architecture",
+      "explanation": {
+        "concept": "Software must be compatible with hardware architecture to run properly.",
+        "step_by_step": [
+          "Identify incompatibility",
+          "Processor architecture mismatch",
+          "Leads to software failure"
+        ],
+        "why_correct": {
+          "B": "Software-hardware mismatch"
+        },
+        "why_incorrect": {
+          "A": "Physical damage",
+          "C": "Hardware issue",
+          "D": "Hardware fault"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "compatibility issues"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  },
+  {
+    "id": 2150,
+    "subject": "Computer Basics",
+    "chapter": "Fundamentals",
+    "topic": "Hardware vs Software",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 2,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which concept ensures that multiple software applications can share hardware resources without conflict?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Compilation"
+      },
+      {
+        "id": "B",
+        "text": "Multitasking and process scheduling"
+      },
+      {
+        "id": "C",
+        "text": "Hardware redundancy"
+      },
+      {
+        "id": "D",
+        "text": "Peripheral interfacing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Multitasking and process scheduling",
+      "explanation": {
+        "concept": "Operating systems use multitasking and scheduling to allocate CPU and other resources among processes.",
+        "step_by_step": [
+          "Identify sharing mechanism",
+          "OS schedules processes",
+          "Ensures efficient sharing"
+        ],
+        "why_correct": {
+          "B": "Scheduling prevents conflicts"
+        },
+        "why_incorrect": {
+          "A": "Compilation is translation",
+          "C": "Redundancy is backup",
+          "D": "Interfacing is communication"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "multitasking",
+        "scheduling"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Fundamentals"
+  }
+]

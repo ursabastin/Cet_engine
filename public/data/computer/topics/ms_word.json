@@ -1,0 +1,2224 @@
+[
+  {
+    "id": 2371,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature in MS Word allows automatic generation of a list of headings along with their corresponding page numbers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Index"
+      },
+      {
+        "id": "B",
+        "text": "Table of Contents"
+      },
+      {
+        "id": "C",
+        "text": "Header"
+      },
+      {
+        "id": "D",
+        "text": "Footnote"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Table of Contents",
+      "explanation": {
+        "concept": "Table of Contents (TOC) uses heading styles to automatically generate structured lists with page references.",
+        "step_by_step": [
+          "Identify feature that collects headings.",
+          "Check if it auto-updates page numbers.",
+          "TOC fits both criteria."
+        ],
+        "why_correct": {
+          "A": "Incorrect, Index lists keywords, not headings with structured hierarchy.",
+          "B": "Correct, TOC auto-generates headings with page numbers.",
+          "C": "Incorrect, Header is repeated text at top of pages.",
+          "D": "Incorrect, Footnotes provide references at page bottom."
+        },
+        "why_incorrect": {
+          "A": "Indexes are manually tagged and not structured like TOC.",
+          "C": "Headers are unrelated to content listing.",
+          "D": "Footnotes do not summarize document structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Table of Contents",
+        "Heading Styles"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2372,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary purpose of 'Styles' in MS Word?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To insert images quickly"
+      },
+      {
+        "id": "B",
+        "text": "To apply consistent formatting across the document"
+      },
+      {
+        "id": "C",
+        "text": "To check grammar errors"
+      },
+      {
+        "id": "D",
+        "text": "To create tables automatically"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To apply consistent formatting across the document",
+      "explanation": {
+        "concept": "Styles ensure uniform formatting and allow quick global updates.",
+        "step_by_step": [
+          "Identify function of styles.",
+          "Check for formatting consistency role.",
+          "Styles manage formatting efficiently."
+        ],
+        "why_correct": {
+          "B": "Correct, styles standardize formatting across the document."
+        },
+        "why_incorrect": {
+          "A": "Image insertion is unrelated to styles.",
+          "C": "Grammar checking is done by proofing tools.",
+          "D": "Tables are created using insert options."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Styles",
+        "Formatting"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2373,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.4,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which shortcut is used to save a document in MS Word?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ctrl + S"
+      },
+      {
+        "id": "B",
+        "text": "Ctrl + P"
+      },
+      {
+        "id": "C",
+        "text": "Ctrl + C"
+      },
+      {
+        "id": "D",
+        "text": "Ctrl + X"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Ctrl + S",
+      "explanation": {
+        "concept": "Keyboard shortcuts improve efficiency in common tasks like saving files.",
+        "step_by_step": [
+          "Recall standard shortcut for saving.",
+          "Ctrl + S is universally used."
+        ],
+        "why_correct": {
+          "A": "Correct, Ctrl + S saves the current document."
+        },
+        "why_incorrect": {
+          "B": "Used for printing.",
+          "C": "Used for copying.",
+          "D": "Used for cutting."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 20,
+      "concepts": [
+        "Shortcuts"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2374,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature is used to create personalized documents for multiple recipients using a single template?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Track Changes"
+      },
+      {
+        "id": "B",
+        "text": "Mail Merge"
+      },
+      {
+        "id": "C",
+        "text": "Macros"
+      },
+      {
+        "id": "D",
+        "text": "AutoCorrect"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Mail Merge",
+      "explanation": {
+        "concept": "Mail Merge combines a main document with a data source to produce customized outputs.",
+        "step_by_step": [
+          "Identify feature for personalization.",
+          "Check for merging data source.",
+          "Mail Merge matches both."
+        ],
+        "why_correct": {
+          "B": "Correct, Mail Merge personalizes documents using data lists."
+        },
+        "why_incorrect": {
+          "A": "Track Changes tracks edits.",
+          "C": "Macros automate repetitive tasks.",
+          "D": "AutoCorrect fixes typing errors."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Mail Merge"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2375,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the function of 'Track Changes' in MS Word?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To format text automatically"
+      },
+      {
+        "id": "B",
+        "text": "To monitor and record edits made to a document"
+      },
+      {
+        "id": "C",
+        "text": "To insert comments only"
+      },
+      {
+        "id": "D",
+        "text": "To protect document from editing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To monitor and record edits made to a document",
+      "explanation": {
+        "concept": "Track Changes records modifications for review and collaboration.",
+        "step_by_step": [
+          "Identify editing tracking feature.",
+          "Check for revision recording.",
+          "Track Changes matches."
+        ],
+        "why_correct": {
+          "B": "Correct, it tracks insertions, deletions, and formatting changes."
+        },
+        "why_incorrect": {
+          "A": "Formatting automation is unrelated.",
+          "C": "Comments are separate feature.",
+          "D": "Protection uses restrict editing."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Track Changes"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2376,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which option is used to divide a document into multiple sections with different formatting?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Page Break"
+      },
+      {
+        "id": "B",
+        "text": "Section Break"
+      },
+      {
+        "id": "C",
+        "text": "Line Break"
+      },
+      {
+        "id": "D",
+        "text": "Column Break"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Section Break",
+      "explanation": {
+        "concept": "Section breaks allow different formatting (headers, margins) within the same document.",
+        "step_by_step": [
+          "Identify break type enabling formatting changes.",
+          "Section Break supports independent formatting."
+        ],
+        "why_correct": {
+          "B": "Correct, section breaks allow separate formatting regions."
+        },
+        "why_incorrect": {
+          "A": "Page break only moves content.",
+          "C": "Line break affects single line.",
+          "D": "Column break is limited to columns."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Section Break"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2377,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature allows repeated use of predefined content such as headers, footers, or cover pages?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quick Parts"
+      },
+      {
+        "id": "B",
+        "text": "SmartArt"
+      },
+      {
+        "id": "C",
+        "text": "WordArt"
+      },
+      {
+        "id": "D",
+        "text": "Themes"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Quick Parts",
+      "explanation": {
+        "concept": "Quick Parts stores reusable content blocks for efficiency.",
+        "step_by_step": [
+          "Identify reusable content feature.",
+          "Quick Parts allows storing and inserting blocks."
+        ],
+        "why_correct": {
+          "A": "Correct, Quick Parts saves reusable elements."
+        },
+        "why_incorrect": {
+          "B": "SmartArt creates diagrams.",
+          "C": "WordArt stylizes text.",
+          "D": "Themes change overall design."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Quick Parts"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2378,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the purpose of 'Find and Replace' feature?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To format paragraphs"
+      },
+      {
+        "id": "B",
+        "text": "To search and modify text automatically"
+      },
+      {
+        "id": "C",
+        "text": "To insert tables"
+      },
+      {
+        "id": "D",
+        "text": "To check spelling"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To search and modify text automatically",
+      "explanation": {
+        "concept": "Find and Replace efficiently locates and changes text across document.",
+        "step_by_step": [
+          "Identify search function.",
+          "Check modification capability.",
+          "Find & Replace does both."
+        ],
+        "why_correct": {
+          "B": "Correct, it automates search and replacement."
+        },
+        "why_incorrect": {
+          "A": "Formatting is separate.",
+          "C": "Tables are inserted differently.",
+          "D": "Spelling uses proofing tools."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Find and Replace"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2379,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which alignment option distributes text evenly along both left and right margins?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Left Align"
+      },
+      {
+        "id": "B",
+        "text": "Center Align"
+      },
+      {
+        "id": "C",
+        "text": "Right Align"
+      },
+      {
+        "id": "D",
+        "text": "Justify"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Justify",
+      "explanation": {
+        "concept": "Justified alignment ensures equal spacing so text aligns on both margins.",
+        "step_by_step": [
+          "Understand alignment types.",
+          "Identify one that stretches text across width.",
+          "Justify does this."
+        ],
+        "why_correct": {
+          "D": "Correct, justify aligns both margins evenly."
+        },
+        "why_incorrect": {
+          "A": "Aligns only left.",
+          "B": "Centers text.",
+          "C": "Aligns right only."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Text Alignment"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2380,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.8,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature is used to restrict editing in specific parts of a Word document while allowing changes in others?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Read Mode"
+      },
+      {
+        "id": "B",
+        "text": "Restrict Editing"
+      },
+      {
+        "id": "C",
+        "text": "Document Inspector"
+      },
+      {
+        "id": "D",
+        "text": "Compatibility Mode"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Restrict Editing",
+      "explanation": {
+        "concept": "Restrict Editing allows selective permissions within a document.",
+        "step_by_step": [
+          "Identify feature for partial editing control.",
+          "Restrict Editing enables section-level permissions."
+        ],
+        "why_correct": {
+          "B": "Correct, it enforces editing restrictions."
+        },
+        "why_incorrect": {
+          "A": "Read Mode is for viewing.",
+          "C": "Inspector checks metadata.",
+          "D": "Compatibility ensures version support."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Restrict Editing"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2381,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature in MS Word allows linking text to another location within the same document or to an external resource?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bookmark"
+      },
+      {
+        "id": "B",
+        "text": "Hyperlink"
+      },
+      {
+        "id": "C",
+        "text": "Cross-reference"
+      },
+      {
+        "id": "D",
+        "text": "Caption"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hyperlink",
+      "explanation": {
+        "concept": "Hyperlinks connect text to internal or external destinations such as URLs, files, or locations within the document.",
+        "step_by_step": [
+          "Identify feature that links text.",
+          "Check if it supports both internal and external linking.",
+          "Hyperlink satisfies both."
+        ],
+        "why_correct": {
+          "B": "Correct, hyperlinks connect text to destinations."
+        },
+        "why_incorrect": {
+          "A": "Bookmark marks a location but does not create clickable links by itself.",
+          "C": "Cross-references link structured elements but are not general-purpose links.",
+          "D": "Captions label objects like tables or figures."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Hyperlink"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2382,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In MS Word, which option ensures that a paragraph is always kept on the same page as the following paragraph?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Widow/Orphan control"
+      },
+      {
+        "id": "B",
+        "text": "Keep with next"
+      },
+      {
+        "id": "C",
+        "text": "Page break before"
+      },
+      {
+        "id": "D",
+        "text": "Line spacing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Keep with next",
+      "explanation": {
+        "concept": "The 'Keep with next' formatting option prevents separation of consecutive paragraphs across pages.",
+        "step_by_step": [
+          "Identify feature controlling paragraph flow.",
+          "Check for linking consecutive paragraphs.",
+          "'Keep with next' ensures both stay together."
+        ],
+        "why_correct": {
+          "B": "Correct, it keeps the paragraph with the next one."
+        },
+        "why_incorrect": {
+          "A": "Controls single lines, not full paragraph grouping.",
+          "C": "Forces a new page but doesn't bind paragraphs.",
+          "D": "Adjusts spacing, not placement."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Paragraph Formatting"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2383,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which MS Word feature allows insertion of citations and automatic generation of bibliography?",
+    "options": [
+      {
+        "id": "A",
+        "text": "References Tool"
+      },
+      {
+        "id": "B",
+        "text": "Review Tool"
+      },
+      {
+        "id": "C",
+        "text": "Mail Merge"
+      },
+      {
+        "id": "D",
+        "text": "Insert Object"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "References Tool",
+      "explanation": {
+        "concept": "The References tab includes tools for managing citations and generating bibliographies.",
+        "step_by_step": [
+          "Identify citation-related tool.",
+          "Check for bibliography generation.",
+          "References tool provides both."
+        ],
+        "why_correct": {
+          "A": "Correct, it manages citations and bibliography."
+        },
+        "why_incorrect": {
+          "B": "Used for reviewing edits.",
+          "C": "Used for personalization of documents.",
+          "D": "Used to insert external objects."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Citations",
+        "Bibliography"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2384,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What is the primary function of 'Document Inspector' in MS Word?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To inspect formatting styles"
+      },
+      {
+        "id": "B",
+        "text": "To remove hidden metadata and personal information"
+      },
+      {
+        "id": "C",
+        "text": "To check grammar errors"
+      },
+      {
+        "id": "D",
+        "text": "To optimize document size"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To remove hidden metadata and personal information",
+      "explanation": {
+        "concept": "Document Inspector identifies and removes hidden data such as comments, revisions, and personal info.",
+        "step_by_step": [
+          "Identify tool purpose.",
+          "Check if it handles hidden data.",
+          "Document Inspector performs this."
+        ],
+        "why_correct": {
+          "B": "Correct, it cleans metadata and sensitive information."
+        },
+        "why_incorrect": {
+          "A": "Formatting is handled elsewhere.",
+          "C": "Grammar is checked via proofing tools.",
+          "D": "Size optimization is not its main function."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Document Inspector"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2385,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.79,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which option allows you to embed fonts within a Word document to ensure consistent appearance on other systems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Save as PDF"
+      },
+      {
+        "id": "B",
+        "text": "Embed fonts in file"
+      },
+      {
+        "id": "C",
+        "text": "Compatibility mode"
+      },
+      {
+        "id": "D",
+        "text": "Font substitution"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Embed fonts in file",
+      "explanation": {
+        "concept": "Embedding fonts ensures document displays correctly even if fonts are not installed on another system.",
+        "step_by_step": [
+          "Identify feature controlling font consistency.",
+          "Check if fonts are included in file.",
+          "Embedding fonts achieves this."
+        ],
+        "why_correct": {
+          "B": "Correct, it embeds fonts into the document."
+        },
+        "why_incorrect": {
+          "A": "PDF conversion is separate.",
+          "C": "Compatibility handles version differences.",
+          "D": "Substitution replaces missing fonts."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Font Embedding"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2386,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which view in MS Word is best suited for editing text with minimal layout distractions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Print Layout"
+      },
+      {
+        "id": "B",
+        "text": "Web Layout"
+      },
+      {
+        "id": "C",
+        "text": "Draft View"
+      },
+      {
+        "id": "D",
+        "text": "Read Mode"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Draft View",
+      "explanation": {
+        "concept": "Draft view removes layout elements for faster text editing.",
+        "step_by_step": [
+          "Identify view focused on editing.",
+          "Check minimal formatting display.",
+          "Draft view matches."
+        ],
+        "why_correct": {
+          "C": "Correct, it simplifies layout for editing."
+        },
+        "why_incorrect": {
+          "A": "Shows full layout.",
+          "B": "Simulates web page view.",
+          "D": "Used for reading, not editing."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Views"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2387,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "What does 'AutoCorrect' primarily do in MS Word?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Automatically formats paragraphs"
+      },
+      {
+        "id": "B",
+        "text": "Corrects common typing errors as you type"
+      },
+      {
+        "id": "C",
+        "text": "Tracks document revisions"
+      },
+      {
+        "id": "D",
+        "text": "Creates templates"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Corrects common typing errors as you type",
+      "explanation": {
+        "concept": "AutoCorrect automatically fixes predefined spelling and typing mistakes.",
+        "step_by_step": [
+          "Identify typing assistance feature.",
+          "Check automatic correction capability.",
+          "AutoCorrect does this."
+        ],
+        "why_correct": {
+          "B": "Correct, it fixes typing errors instantly."
+        },
+        "why_incorrect": {
+          "A": "Formatting is handled by styles.",
+          "C": "Revisions are tracked by Track Changes.",
+          "D": "Templates are separate."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "AutoCorrect"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2388,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature allows creating automated sequences of commands in MS Word?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Templates"
+      },
+      {
+        "id": "B",
+        "text": "Macros"
+      },
+      {
+        "id": "C",
+        "text": "Quick Styles"
+      },
+      {
+        "id": "D",
+        "text": "Themes"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Macros",
+      "explanation": {
+        "concept": "Macros automate repetitive tasks by recording command sequences.",
+        "step_by_step": [
+          "Identify automation feature.",
+          "Check recording of actions.",
+          "Macros fulfill both."
+        ],
+        "why_correct": {
+          "B": "Correct, macros automate workflows."
+        },
+        "why_incorrect": {
+          "A": "Templates provide structure.",
+          "C": "Styles handle formatting.",
+          "D": "Themes affect design."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Macros"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2389,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which option is used to insert page numbers automatically in a document?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Insert → Header/Footer → Page Number"
+      },
+      {
+        "id": "B",
+        "text": "Layout → Margins"
+      },
+      {
+        "id": "C",
+        "text": "Review → Comments"
+      },
+      {
+        "id": "D",
+        "text": "View → Zoom"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Insert → Header/Footer → Page Number",
+      "explanation": {
+        "concept": "Page numbers are inserted through header/footer tools.",
+        "step_by_step": [
+          "Identify insertion path.",
+          "Check header/footer integration.",
+          "Correct path is via Insert tab."
+        ],
+        "why_correct": {
+          "A": "Correct, this inserts page numbers."
+        },
+        "why_incorrect": {
+          "B": "Margins adjust layout.",
+          "C": "Comments are for review.",
+          "D": "Zoom changes view."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "Page Numbering"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2390,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which formatting option ensures that the first line of a paragraph is indented automatically?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanging Indent"
+      },
+      {
+        "id": "B",
+        "text": "First Line Indent"
+      },
+      {
+        "id": "C",
+        "text": "Justify"
+      },
+      {
+        "id": "D",
+        "text": "Line Spacing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "First Line Indent",
+      "explanation": {
+        "concept": "First Line Indent shifts only the first line of a paragraph inward.",
+        "step_by_step": [
+          "Identify indent types.",
+          "Check which applies to first line only.",
+          "First Line Indent matches."
+        ],
+        "why_correct": {
+          "B": "Correct, it indents only the first line."
+        },
+        "why_incorrect": {
+          "A": "Hanging indent affects all lines except first.",
+          "C": "Justify aligns text.",
+          "D": "Line spacing adjusts vertical spacing."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Indentation"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2391,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which MS Word feature allows automatic updating of fields such as date, page numbers, and references?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fields"
+      },
+      {
+        "id": "B",
+        "text": "Styles"
+      },
+      {
+        "id": "C",
+        "text": "Themes"
+      },
+      {
+        "id": "D",
+        "text": "Templates"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Fields",
+      "explanation": {
+        "concept": "Fields are dynamic elements that update automatically based on document changes.",
+        "step_by_step": [
+          "Identify feature for dynamic content.",
+          "Check auto-update behavior.",
+          "Fields match both."
+        ],
+        "why_correct": {
+          "A": "Correct, fields update automatically when document changes."
+        },
+        "why_incorrect": {
+          "B": "Styles manage formatting only.",
+          "C": "Themes affect design.",
+          "D": "Templates define structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_21",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Fields"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2392,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In MS Word, what is the purpose of 'Compatibility Mode'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To improve document security"
+      },
+      {
+        "id": "B",
+        "text": "To ensure the document works with older versions of Word"
+      },
+      {
+        "id": "C",
+        "text": "To reduce file size"
+      },
+      {
+        "id": "D",
+        "text": "To enable collaboration tools"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "To ensure the document works with older versions of Word",
+      "explanation": {
+        "concept": "Compatibility Mode disables newer features to maintain backward compatibility.",
+        "step_by_step": [
+          "Identify compatibility function.",
+          "Check for version support.",
+          "Compatibility Mode ensures backward compatibility."
+        ],
+        "why_correct": {
+          "B": "Correct, it maintains compatibility with older versions."
+        },
+        "why_incorrect": {
+          "A": "Security is unrelated.",
+          "C": "File size is not primary purpose.",
+          "D": "Collaboration is handled separately."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_22",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Compatibility Mode"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2393,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature is used to insert explanatory notes at the bottom of a page in MS Word?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Endnote"
+      },
+      {
+        "id": "B",
+        "text": "Footnote"
+      },
+      {
+        "id": "C",
+        "text": "Comment"
+      },
+      {
+        "id": "D",
+        "text": "Header"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Footnote",
+      "explanation": {
+        "concept": "Footnotes provide references or explanations at the bottom of the same page.",
+        "step_by_step": [
+          "Identify note location.",
+          "Check if it's at page bottom.",
+          "Footnote matches."
+        ],
+        "why_correct": {
+          "B": "Correct, footnotes appear at bottom of page."
+        },
+        "why_incorrect": {
+          "A": "Endnotes appear at document end.",
+          "C": "Comments are for review.",
+          "D": "Headers are at top."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_23",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Footnotes"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2394,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature helps prevent accidental modification by allowing a document to be opened in read-only mode?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Track Changes"
+      },
+      {
+        "id": "B",
+        "text": "Read Mode"
+      },
+      {
+        "id": "C",
+        "text": "Mark as Final"
+      },
+      {
+        "id": "D",
+        "text": "AutoSave"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Mark as Final",
+      "explanation": {
+        "concept": "Mark as Final makes the document read-only to discourage editing.",
+        "step_by_step": [
+          "Identify protection feature.",
+          "Check read-only behavior.",
+          "Mark as Final fits."
+        ],
+        "why_correct": {
+          "C": "Correct, it discourages editing by making document read-only."
+        },
+        "why_incorrect": {
+          "A": "Tracks edits, does not prevent them.",
+          "B": "Used for viewing, not protection.",
+          "D": "AutoSave saves automatically."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_24",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Document Protection"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2395,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which MS Word feature allows automatic numbering and referencing of figures and tables?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Captions"
+      },
+      {
+        "id": "B",
+        "text": "SmartArt"
+      },
+      {
+        "id": "C",
+        "text": "Bookmarks"
+      },
+      {
+        "id": "D",
+        "text": "Track Changes"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Captions",
+      "explanation": {
+        "concept": "Captions label objects and allow automatic numbering and referencing.",
+        "step_by_step": [
+          "Identify feature for labeling figures.",
+          "Check numbering capability.",
+          "Captions provide both."
+        ],
+        "why_correct": {
+          "A": "Correct, captions enable numbering and references."
+        },
+        "why_incorrect": {
+          "B": "SmartArt creates diagrams.",
+          "C": "Bookmarks mark locations.",
+          "D": "Tracks edits."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Captions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2396,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.51,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which alignment is typically used for formal documents like reports and newspapers for better readability?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Left Align"
+      },
+      {
+        "id": "B",
+        "text": "Center Align"
+      },
+      {
+        "id": "C",
+        "text": "Right Align"
+      },
+      {
+        "id": "D",
+        "text": "Justify"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Justify",
+      "explanation": {
+        "concept": "Justified text aligns both margins, improving readability in formal documents.",
+        "step_by_step": [
+          "Consider readability requirement.",
+          "Identify alignment used in formal writing.",
+          "Justify is standard."
+        ],
+        "why_correct": {
+          "D": "Correct, justified text is widely used in formal documents."
+        },
+        "why_incorrect": {
+          "A": "Common but less formal appearance.",
+          "B": "Used for titles.",
+          "C": "Rarely used for body text."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_26",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Text Alignment"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2397,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.65,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature allows simultaneous editing of a Word document by multiple users in real time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Track Changes"
+      },
+      {
+        "id": "B",
+        "text": "Co-authoring"
+      },
+      {
+        "id": "C",
+        "text": "Mail Merge"
+      },
+      {
+        "id": "D",
+        "text": "Macros"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Co-authoring",
+      "explanation": {
+        "concept": "Co-authoring enables multiple users to edit a document simultaneously via cloud services.",
+        "step_by_step": [
+          "Identify collaborative feature.",
+          "Check real-time editing capability.",
+          "Co-authoring matches."
+        ],
+        "why_correct": {
+          "B": "Correct, allows real-time collaboration."
+        },
+        "why_incorrect": {
+          "A": "Tracks edits, not real-time editing.",
+          "C": "Used for personalization.",
+          "D": "Used for automation."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_27",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Co-authoring"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2398,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.78,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which option is used to compare two versions of a document and highlight differences?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Track Changes"
+      },
+      {
+        "id": "B",
+        "text": "Compare Documents"
+      },
+      {
+        "id": "C",
+        "text": "Document Inspector"
+      },
+      {
+        "id": "D",
+        "text": "Restrict Editing"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Compare Documents",
+      "explanation": {
+        "concept": "Compare Documents identifies and highlights differences between two files.",
+        "step_by_step": [
+          "Identify feature comparing files.",
+          "Check for highlighting differences.",
+          "Compare Documents fits."
+        ],
+        "why_correct": {
+          "B": "Correct, compares and shows differences."
+        },
+        "why_incorrect": {
+          "A": "Tracks changes within one document.",
+          "C": "Removes metadata.",
+          "D": "Restricts editing."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_28",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Document Comparison"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2399,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature allows inserting predefined building blocks like cover pages and headers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quick Parts"
+      },
+      {
+        "id": "B",
+        "text": "Building Blocks Organizer"
+      },
+      {
+        "id": "C",
+        "text": "SmartArt"
+      },
+      {
+        "id": "D",
+        "text": "Themes"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Building Blocks Organizer",
+      "explanation": {
+        "concept": "Building Blocks Organizer manages reusable elements like cover pages and headers.",
+        "step_by_step": [
+          "Identify feature managing predefined blocks.",
+          "Check insertion capability.",
+          "Organizer controls these."
+        ],
+        "why_correct": {
+          "B": "Correct, it manages and inserts building blocks."
+        },
+        "why_incorrect": {
+          "A": "Quick Parts is subset of building blocks.",
+          "C": "Used for diagrams.",
+          "D": "Used for formatting themes."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_29",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Building Blocks"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  },
+  {
+    "id": 2400,
+    "subject": "Computer Basics",
+    "chapter": "Office Suite",
+    "topic": "MS Word",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which feature is used to insert a reference to a heading, figure, or table that updates automatically when content changes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bookmark"
+      },
+      {
+        "id": "B",
+        "text": "Hyperlink"
+      },
+      {
+        "id": "C",
+        "text": "Cross-reference"
+      },
+      {
+        "id": "D",
+        "text": "Caption"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Cross-reference",
+      "explanation": {
+        "concept": "Cross-references dynamically link to document elements and update automatically.",
+        "step_by_step": [
+          "Identify referencing feature.",
+          "Check automatic update capability.",
+          "Cross-reference matches."
+        ],
+        "why_correct": {
+          "C": "Correct, updates automatically when referenced item changes."
+        },
+        "why_incorrect": {
+          "A": "Marks location only.",
+          "B": "General linking, not structured references.",
+          "D": "Labels objects."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_30",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Cross-reference"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Office Suite"
+  }
+]

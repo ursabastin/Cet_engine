@@ -1,0 +1,1530 @@
+[
+  {
+    "id": 1105,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 5 numbers is 18. If one number is excluded, the average becomes 16. What is the excluded number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "26"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "22"
+      },
+      {
+        "id": "D",
+        "text": "20"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "26",
+      "explanation": {
+        "concept": "Average = Sum / Number of elements. Removing one element changes the total sum.",
+        "step_by_step": [
+          "Total sum of 5 numbers = 5 × 18 = 90",
+          "Sum of remaining 4 numbers = 4 × 16 = 64",
+          "Excluded number = 90 − 64 = 26"
+        ],
+        "why_correct": {
+          "A": "26 satisfies the difference between total and remaining sum"
+        },
+        "why_incorrect": {
+          "B": "24 gives incorrect difference",
+          "C": "22 does not match computed sum difference",
+          "D": "20 is too small compared to required difference"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1105",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "average change",
+        "sum manipulation"
+      ],
+      "formulae": [
+        "Average = Sum / n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1106,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average age of 30 students is 14 years. When a teacher is included, the average increases by 1 year. What is the teacher’s age?",
+    "options": [
+      {
+        "id": "A",
+        "text": "45"
+      },
+      {
+        "id": "B",
+        "text": "44"
+      },
+      {
+        "id": "C",
+        "text": "43"
+      },
+      {
+        "id": "D",
+        "text": "46"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "45",
+      "explanation": {
+        "concept": "Addition of a new element changes total sum proportionally to change in average.",
+        "step_by_step": [
+          "Total of students = 30 × 14 = 420",
+          "New average = 15 for 31 people → total = 31 × 15 = 465",
+          "Teacher’s age = 465 − 420 = 45"
+        ],
+        "why_correct": {
+          "A": "45 correctly accounts for increase in total sum"
+        },
+        "why_incorrect": {
+          "B": "44 gives incorrect total sum",
+          "C": "43 underestimates increase",
+          "D": "46 overestimates increase"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1106",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "combined averages"
+      ],
+      "formulae": [
+        "New sum = n × avg"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1107,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of first n natural numbers is 20. What is n?",
+    "options": [
+      {
+        "id": "A",
+        "text": "39"
+      },
+      {
+        "id": "B",
+        "text": "40"
+      },
+      {
+        "id": "C",
+        "text": "41"
+      },
+      {
+        "id": "D",
+        "text": "38"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "39",
+      "explanation": {
+        "concept": "Average of first n natural numbers = (n+1)/2",
+        "step_by_step": [
+          "(n + 1)/2 = 20",
+          "n + 1 = 40",
+          "n = 39"
+        ],
+        "why_correct": {
+          "A": "39 satisfies formula"
+        },
+        "why_incorrect": {
+          "B": "40 gives avg 20.5",
+          "C": "41 gives avg 21",
+          "D": "38 gives avg 19.5"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1107",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "natural numbers average"
+      ],
+      "formulae": [
+        "Average = (n+1)/2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1108,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 8 numbers is 25. One number is replaced by 40, and the new average becomes 27. What was the original number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "28"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "24",
+      "explanation": {
+        "concept": "Replacing a number changes total sum by difference between old and new value.",
+        "step_by_step": [
+          "Original sum = 8 × 25 = 200",
+          "New sum = 8 × 27 = 216",
+          "Increase = 16",
+          "New number − old number = 16 → 40 − old = 16",
+          "Old = 24"
+        ],
+        "why_correct": {
+          "A": "24 satisfies equation"
+        },
+        "why_incorrect": {
+          "B": "20 gives larger increase",
+          "C": "28 gives smaller increase",
+          "D": "22 mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1108",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "replacement in averages"
+      ],
+      "formulae": [
+        "change in sum"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1109,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average weight of 6 boxes is 10 kg. A new box is added, and the average becomes 12 kg. What is the weight of the new box?",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "24",
+      "explanation": {
+        "concept": "Increase in average affects total sum directly.",
+        "step_by_step": [
+          "Initial sum = 6 × 10 = 60",
+          "New sum = 7 × 12 = 84",
+          "New box weight = 84 − 60 = 24"
+        ],
+        "why_correct": {
+          "A": "Correct difference between sums"
+        },
+        "why_incorrect": {
+          "B": "20 gives insufficient increase",
+          "C": "18 too low",
+          "D": "22 mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1109",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "average increase"
+      ],
+      "formulae": [
+        "Sum = n × avg"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1110,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 4 consecutive even numbers is 15. What is the largest number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "18",
+      "explanation": {
+        "concept": "For consecutive numbers, average equals middle value.",
+        "step_by_step": [
+          "Numbers: x−2, x, x+2, x+4",
+          "Average = 15 → middle ≈ x+1 = 15",
+          "Solving gives largest ≈ 18"
+        ],
+        "why_correct": {
+          "A": "18 fits sequence"
+        },
+        "why_incorrect": {
+          "B": "20 too high",
+          "C": "16 not largest",
+          "D": "14 too small"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1110",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "consecutive numbers"
+      ],
+      "formulae": [
+        "average property"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1111,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the average of x and y is 10 and their ratio is 3:2, find y.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "8",
+      "explanation": {
+        "concept": "Use ratio and average relation to derive actual values.",
+        "step_by_step": [
+          "x:y = 3:2 → x=3k, y=2k",
+          "Average = (3k+2k)/2 = 10",
+          "5k/2 = 10 → k=4",
+          "y = 2k = 8"
+        ],
+        "why_correct": {
+          "A": "8 is correct from ratio"
+        },
+        "why_incorrect": {
+          "B": "6 incorrect k",
+          "C": "10 misinterprets avg",
+          "D": "12 too large"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1111",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "ratio + average"
+      ],
+      "formulae": [
+        "Average = sum/2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1112,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 3 numbers is 30. If one number is increased by 20 and another is decreased by 10, the average increases by 2. What is the net change in total sum?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "6",
+      "explanation": {
+        "concept": "Average change multiplied by number of elements gives total sum change.",
+        "step_by_step": [
+          "Initial avg = 30 → sum = 90",
+          "New avg = 32 → sum = 96",
+          "Net change = 96 − 90 = 6"
+        ],
+        "why_correct": {
+          "A": "6 matches change"
+        },
+        "why_incorrect": {
+          "B": "12 double counted",
+          "C": "4 too low",
+          "D": "8 mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1112",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "average shift"
+      ],
+      "formulae": [
+        "Δsum = n × Δavg"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1113,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average marks of 20 students is 60. If the top scorer leaves, the average becomes 58. Find the marks of the top scorer.",
+    "options": [
+      {
+        "id": "A",
+        "text": "98"
+      },
+      {
+        "id": "B",
+        "text": "100"
+      },
+      {
+        "id": "C",
+        "text": "96"
+      },
+      {
+        "id": "D",
+        "text": "94"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "98",
+      "explanation": {
+        "concept": "Removing highest value reduces total sum.",
+        "step_by_step": [
+          "Initial sum = 20 × 60 = 1200",
+          "New sum = 19 × 58 = 1102",
+          "Top scorer = 1200 − 1102 = 98"
+        ],
+        "why_correct": {
+          "A": "98 matches difference"
+        },
+        "why_incorrect": {
+          "B": "100 too high",
+          "C": "96 mismatch",
+          "D": "94 too low"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1113",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "removal effect"
+      ],
+      "formulae": [
+        "sum difference"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1114,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 10 numbers is 50. If each number is multiplied by 2 and then increased by 10, what is the new average?",
+    "options": [
+      {
+        "id": "A",
+        "text": "110"
+      },
+      {
+        "id": "B",
+        "text": "120"
+      },
+      {
+        "id": "C",
+        "text": "100"
+      },
+      {
+        "id": "D",
+        "text": "90"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "110",
+      "explanation": {
+        "concept": "Linear transformations on data affect average similarly.",
+        "step_by_step": [
+          "Original avg = 50",
+          "Multiply by 2 → 100",
+          "Add 10 → 110"
+        ],
+        "why_correct": {
+          "A": "110 follows transformation rule"
+        },
+        "why_incorrect": {
+          "B": "120 overestimates",
+          "C": "100 ignores addition",
+          "D": "90 incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1114",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "data transformation"
+      ],
+      "formulae": [
+        "new avg = a×old + b"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1105,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 5 numbers is 18. If one number is excluded, the average becomes 16. What is the excluded number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "26"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "22"
+      },
+      {
+        "id": "D",
+        "text": "20"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "26",
+      "explanation": {
+        "concept": "Average = Sum / Number of elements. Removing one element changes the total sum.",
+        "step_by_step": [
+          "Total sum of 5 numbers = 5 × 18 = 90",
+          "Sum of remaining 4 numbers = 4 × 16 = 64",
+          "Excluded number = 90 − 64 = 26"
+        ],
+        "why_correct": {
+          "A": "26 satisfies the difference between total and remaining sum"
+        },
+        "why_incorrect": {
+          "B": "24 gives incorrect difference",
+          "C": "22 does not match computed sum difference",
+          "D": "20 is too small compared to required difference"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1105",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "average change",
+        "sum manipulation"
+      ],
+      "formulae": [
+        "Average = Sum / n"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1106,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average age of 30 students is 14 years. When a teacher is included, the average increases by 1 year. What is the teacher’s age?",
+    "options": [
+      {
+        "id": "A",
+        "text": "45"
+      },
+      {
+        "id": "B",
+        "text": "44"
+      },
+      {
+        "id": "C",
+        "text": "43"
+      },
+      {
+        "id": "D",
+        "text": "46"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "45",
+      "explanation": {
+        "concept": "Addition of a new element changes total sum proportionally to change in average.",
+        "step_by_step": [
+          "Total of students = 30 × 14 = 420",
+          "New average = 15 for 31 people → total = 31 × 15 = 465",
+          "Teacher’s age = 465 − 420 = 45"
+        ],
+        "why_correct": {
+          "A": "45 correctly accounts for increase in total sum"
+        },
+        "why_incorrect": {
+          "B": "44 gives incorrect total sum",
+          "C": "43 underestimates increase",
+          "D": "46 overestimates increase"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1106",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "combined averages"
+      ],
+      "formulae": [
+        "New sum = n × avg"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1107,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of first n natural numbers is 20. What is n?",
+    "options": [
+      {
+        "id": "A",
+        "text": "39"
+      },
+      {
+        "id": "B",
+        "text": "40"
+      },
+      {
+        "id": "C",
+        "text": "41"
+      },
+      {
+        "id": "D",
+        "text": "38"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "39",
+      "explanation": {
+        "concept": "Average of first n natural numbers = (n+1)/2",
+        "step_by_step": [
+          "(n + 1)/2 = 20",
+          "n + 1 = 40",
+          "n = 39"
+        ],
+        "why_correct": {
+          "A": "39 satisfies formula"
+        },
+        "why_incorrect": {
+          "B": "40 gives avg 20.5",
+          "C": "41 gives avg 21",
+          "D": "38 gives avg 19.5"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1107",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "natural numbers average"
+      ],
+      "formulae": [
+        "Average = (n+1)/2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1108,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 8 numbers is 25. One number is replaced by 40, and the new average becomes 27. What was the original number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "28"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "24",
+      "explanation": {
+        "concept": "Replacing a number changes total sum by difference between old and new value.",
+        "step_by_step": [
+          "Original sum = 8 × 25 = 200",
+          "New sum = 8 × 27 = 216",
+          "Increase = 16",
+          "New number − old number = 16 → 40 − old = 16",
+          "Old = 24"
+        ],
+        "why_correct": {
+          "A": "24 satisfies equation"
+        },
+        "why_incorrect": {
+          "B": "20 gives larger increase",
+          "C": "28 gives smaller increase",
+          "D": "22 mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1108",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "replacement in averages"
+      ],
+      "formulae": [
+        "change in sum"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1109,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average weight of 6 boxes is 10 kg. A new box is added, and the average becomes 12 kg. What is the weight of the new box?",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "24",
+      "explanation": {
+        "concept": "Increase in average affects total sum directly.",
+        "step_by_step": [
+          "Initial sum = 6 × 10 = 60",
+          "New sum = 7 × 12 = 84",
+          "New box weight = 84 − 60 = 24"
+        ],
+        "why_correct": {
+          "A": "Correct difference between sums"
+        },
+        "why_incorrect": {
+          "B": "20 gives insufficient increase",
+          "C": "18 too low",
+          "D": "22 mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1109",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "average increase"
+      ],
+      "formulae": [
+        "Sum = n × avg"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1110,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 4 consecutive even numbers is 15. What is the largest number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "18",
+      "explanation": {
+        "concept": "For consecutive numbers, average equals middle value.",
+        "step_by_step": [
+          "Numbers: x−2, x, x+2, x+4",
+          "Average = 15 → middle ≈ x+1 = 15",
+          "Solving gives largest ≈ 18"
+        ],
+        "why_correct": {
+          "A": "18 fits sequence"
+        },
+        "why_incorrect": {
+          "B": "20 too high",
+          "C": "16 not largest",
+          "D": "14 too small"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1110",
+    "confidence_score": 0.88,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "consecutive numbers"
+      ],
+      "formulae": [
+        "average property"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1111,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If the average of x and y is 10 and their ratio is 3:2, find y.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "8",
+      "explanation": {
+        "concept": "Use ratio and average relation to derive actual values.",
+        "step_by_step": [
+          "x:y = 3:2 → x=3k, y=2k",
+          "Average = (3k+2k)/2 = 10",
+          "5k/2 = 10 → k=4",
+          "y = 2k = 8"
+        ],
+        "why_correct": {
+          "A": "8 is correct from ratio"
+        },
+        "why_incorrect": {
+          "B": "6 incorrect k",
+          "C": "10 misinterprets avg",
+          "D": "12 too large"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1111",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "ratio + average"
+      ],
+      "formulae": [
+        "Average = sum/2"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1112,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 3 numbers is 30. If one number is increased by 20 and another is decreased by 10, the average increases by 2. What is the net change in total sum?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "6",
+      "explanation": {
+        "concept": "Average change multiplied by number of elements gives total sum change.",
+        "step_by_step": [
+          "Initial avg = 30 → sum = 90",
+          "New avg = 32 → sum = 96",
+          "Net change = 96 − 90 = 6"
+        ],
+        "why_correct": {
+          "A": "6 matches change"
+        },
+        "why_incorrect": {
+          "B": "12 double counted",
+          "C": "4 too low",
+          "D": "8 mismatch"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1112",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "average shift"
+      ],
+      "formulae": [
+        "Δsum = n × Δavg"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1113,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average marks of 20 students is 60. If the top scorer leaves, the average becomes 58. Find the marks of the top scorer.",
+    "options": [
+      {
+        "id": "A",
+        "text": "98"
+      },
+      {
+        "id": "B",
+        "text": "100"
+      },
+      {
+        "id": "C",
+        "text": "96"
+      },
+      {
+        "id": "D",
+        "text": "94"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "98",
+      "explanation": {
+        "concept": "Removing highest value reduces total sum.",
+        "step_by_step": [
+          "Initial sum = 20 × 60 = 1200",
+          "New sum = 19 × 58 = 1102",
+          "Top scorer = 1200 − 1102 = 98"
+        ],
+        "why_correct": {
+          "A": "98 matches difference"
+        },
+        "why_incorrect": {
+          "B": "100 too high",
+          "C": "96 mismatch",
+          "D": "94 too low"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1113",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "removal effect"
+      ],
+      "formulae": [
+        "sum difference"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  },
+  {
+    "id": 1114,
+    "subject": "Quant",
+    "chapter": "Mathematical Logic",
+    "topic": "Averages",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "The average of 10 numbers is 50. If each number is multiplied by 2 and then increased by 10, what is the new average?",
+    "options": [
+      {
+        "id": "A",
+        "text": "110"
+      },
+      {
+        "id": "B",
+        "text": "120"
+      },
+      {
+        "id": "C",
+        "text": "100"
+      },
+      {
+        "id": "D",
+        "text": "90"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "110",
+      "explanation": {
+        "concept": "Linear transformations on data affect average similarly.",
+        "step_by_step": [
+          "Original avg = 50",
+          "Multiply by 2 → 100",
+          "Add 10 → 110"
+        ],
+        "why_correct": {
+          "A": "110 follows transformation rule"
+        },
+        "why_incorrect": {
+          "B": "120 overestimates",
+          "C": "100 ignores addition",
+          "D": "90 incorrect"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_1114",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "data transformation"
+      ],
+      "formulae": [
+        "new avg = a×old + b"
+      ]
+    },
+    "subtopic": "Mathematical Logic"
+  }
+]

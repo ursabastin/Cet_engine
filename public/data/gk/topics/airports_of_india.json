@@ -1,0 +1,446 @@
+[
+  {
+    "id": 2609,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Airports of India",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.5,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which airport is the busiest international airport in India in terms of passenger traffic?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mumbai Airport"
+      },
+      {
+        "id": "B",
+        "text": "Delhi IGI Airport"
+      },
+      {
+        "id": "C",
+        "text": "Bangalore Airport"
+      },
+      {
+        "id": "D",
+        "text": "Chennai Airport"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Delhi IGI Airport",
+      "explanation": {
+        "concept": "Indira Gandhi International Airport is India's busiest airport.",
+        "step_by_step": [
+          "Compare major metro airports",
+          "Delhi handles highest traffic",
+          "Major hub for international flights"
+        ],
+        "why_correct": {
+          "B": "Highest passenger traffic"
+        },
+        "why_incorrect": {
+          "A": "Second busiest",
+          "C": "Growing but lower",
+          "D": "Less traffic comparatively"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2609",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "Air transport"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2619,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Airports of India",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Indian airport is the first to be developed as a public-private partnership (PPP) model airport?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Delhi IGI Airport"
+      },
+      {
+        "id": "B",
+        "text": "Hyderabad Rajiv Gandhi International Airport"
+      },
+      {
+        "id": "C",
+        "text": "Mumbai Airport"
+      },
+      {
+        "id": "D",
+        "text": "Bangalore Kempegowda Airport"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hyderabad Rajiv Gandhi International Airport",
+      "explanation": {
+        "concept": "Hyderabad Airport was India's first greenfield PPP airport.",
+        "step_by_step": [
+          "Recall PPP airport development",
+          "Hyderabad built under PPP model",
+          "First major example"
+        ],
+        "why_correct": {
+          "B": "First PPP airport"
+        },
+        "why_incorrect": {
+          "A": "Modernized later under PPP",
+          "C": "PPP but not first",
+          "D": "PPP but after Hyderabad"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2619",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Infrastructure development"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2629,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Airports of India",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Kempegowda International Airport is located in which city?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hyderabad"
+      },
+      {
+        "id": "B",
+        "text": "Bangalore"
+      },
+      {
+        "id": "C",
+        "text": "Chennai"
+      },
+      {
+        "id": "D",
+        "text": "Pune"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Bangalore",
+      "explanation": {
+        "concept": "Kempegowda International Airport serves Bangalore city in Karnataka.",
+        "step_by_step": [
+          "Recall airport-city mapping",
+          "Kempegowda is named after Bangalore founder",
+          "Located in Bangalore"
+        ],
+        "why_correct": {
+          "B": "Correct city"
+        },
+        "why_incorrect": {
+          "A": "Different airport",
+          "C": "Chennai airport",
+          "D": "Pune airport different"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2629",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Airports mapping"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2639,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Airports of India",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which airport in India is known as the first carbon-neutral airport in Asia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Delhi IGI Airport"
+      },
+      {
+        "id": "B",
+        "text": "Cochin International Airport"
+      },
+      {
+        "id": "C",
+        "text": "Mumbai Airport"
+      },
+      {
+        "id": "D",
+        "text": "Hyderabad Airport"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Cochin International Airport",
+      "explanation": {
+        "concept": "Cochin Airport is the world's first fully solar-powered and carbon-neutral airport.",
+        "step_by_step": [
+          "Identify sustainability initiatives",
+          "Cochin uses solar energy",
+          "Achieved carbon neutrality"
+        ],
+        "why_correct": {
+          "B": "Correct airport"
+        },
+        "why_incorrect": {
+          "A": "Not fully carbon-neutral",
+          "C": "Not carbon-neutral",
+          "D": "Not first"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2639",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Sustainable infrastructure"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2649,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Airports of India",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which Indian airport is named after Chhatrapati Shivaji Maharaj?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mumbai Airport"
+      },
+      {
+        "id": "B",
+        "text": "Pune Airport"
+      },
+      {
+        "id": "C",
+        "text": "Nagpur Airport"
+      },
+      {
+        "id": "D",
+        "text": "Aurangabad Airport"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Mumbai Airport",
+      "explanation": {
+        "concept": "Chhatrapati Shivaji Maharaj International Airport is located in Mumbai.",
+        "step_by_step": [
+          "Recall airport names",
+          "Mumbai airport named after Shivaji",
+          "Select correct city"
+        ],
+        "why_correct": {
+          "A": "Correct airport"
+        },
+        "why_incorrect": {
+          "B": "Different airport",
+          "C": "Named after Dr. Babasaheb Ambedkar",
+          "D": "Different naming"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2649",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "Airport names"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 2659,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Airports of India",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which airport serves as the main international gateway to South India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chennai International Airport"
+      },
+      {
+        "id": "B",
+        "text": "Bangalore Airport"
+      },
+      {
+        "id": "C",
+        "text": "Hyderabad Airport"
+      },
+      {
+        "id": "D",
+        "text": "Kochi Airport"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Chennai International Airport",
+      "explanation": {
+        "concept": "Chennai Airport is one of the earliest and major international gateways in South India.",
+        "step_by_step": [
+          "Identify major southern airport",
+          "Chennai historically dominant",
+          "Handles major international traffic"
+        ],
+        "why_correct": {
+          "A": "Primary gateway"
+        },
+        "why_incorrect": {
+          "B": "Growing hub",
+          "C": "Newer airport",
+          "D": "Regional importance"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_2659",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "Air connectivity"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

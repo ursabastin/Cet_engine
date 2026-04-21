@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1900,
+    "subject": "English language",
+    "chapter": "Core Essentials",
+    "topic": "Fact vs Opinion",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.58,
+    "marks": 2,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following statements from a passage would be classified as an opinion?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The river is 200 kilometers long"
+      },
+      {
+        "id": "B",
+        "text": "Water boils at 100°C"
+      },
+      {
+        "id": "C",
+        "text": "This is the most beautiful landscape in the region"
+      },
+      {
+        "id": "D",
+        "text": "The city was founded in 1800"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "This is the most beautiful landscape in the region",
+      "explanation": {
+        "concept": "Opinions are subjective and cannot be verified objectively.",
+        "step_by_step": [
+          "Check verifiability",
+          "Identify subjective language",
+          "Select statement based on personal judgment"
+        ],
+        "why_correct": {
+          "C": "Beauty is subjective"
+        },
+        "why_incorrect": {
+          "A": "Verifiable fact",
+          "B": "Scientific fact",
+          "D": "Historical fact"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "fact vs opinion"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

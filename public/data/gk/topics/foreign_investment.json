@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3196,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Foreign Investment",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "An increase in Foreign Institutional Investor (FII) inflows into Indian equities generally leads to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decline in stock prices"
+      },
+      {
+        "id": "B",
+        "text": "Increase in market liquidity and upward price movement"
+      },
+      {
+        "id": "C",
+        "text": "Immediate market crash"
+      },
+      {
+        "id": "D",
+        "text": "Reduction in trading volume"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Increase in market liquidity and upward price movement",
+      "explanation": {
+        "concept": "FII inflows increase demand for stocks, boosting prices and liquidity.",
+        "step_by_step": [
+          "FIIs invest large funds",
+          "Increases demand for shares",
+          "Prices and liquidity rise"
+        ],
+        "why_correct": {
+          "B": "Reflects impact of capital inflow"
+        },
+        "why_incorrect": {
+          "A": "Opposite effect",
+          "C": "Crash unlikely due to inflows",
+          "D": "Volume typically increases"
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3196",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 65,
+      "concepts": [
+        "FII inflows"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

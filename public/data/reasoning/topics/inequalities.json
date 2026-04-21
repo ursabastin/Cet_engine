@@ -1,0 +1,781 @@
+[
+  {
+    "id": 1283,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.68,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x and y are real numbers such that 2x + 3y > 12 and x − y < 2, then which of the following must be true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x > 4"
+      },
+      {
+        "id": "B",
+        "text": "y > 2"
+      },
+      {
+        "id": "C",
+        "text": "x + y > 4"
+      },
+      {
+        "id": "D",
+        "text": "x > y"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "x + y > 4",
+      "explanation": {
+        "concept": "Combine linear inequalities to eliminate variables and derive a bound on a new expression.",
+        "step_by_step": [
+          "Given: 2x + 3y > 12 ...(1) and x − y < 2 ...(2)",
+          "From (2): x < y + 2",
+          "Substitute into (1): 2(y + 2) + 3y > 12",
+          "2y + 4 + 3y > 12 → 5y > 8 → y > 8/5",
+          "From x < y + 2, take minimum possible x = y + 2 (boundary)",
+          "Then x + y > (y + 2) + y = 2y + 2 > 2*(8/5) + 2 = 16/5 + 10/5 = 26/5 > 4"
+        ],
+        "why_correct": {
+          "C": "Derived lower bound shows x + y must exceed 4."
+        },
+        "why_incorrect": {
+          "A": "x need not exceed 4; depends on y.",
+          "B": "y > 2 is not guaranteed; y > 8/5 is sufficient.",
+          "D": "x may be less than y depending on values."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "linear inequalities",
+        "substitution"
+      ],
+      "formulae": [
+        "ax+by>c"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1284,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a, b, c are positive real numbers such that a + b + c = 6, then the maximum value of ab + bc + ca is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "6"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "12",
+      "explanation": {
+        "concept": "Use symmetry and inequality principle: for fixed sum, pairwise product is maximized when variables are equal.",
+        "step_by_step": [
+          "Given a + b + c = 6",
+          "For maximum ab + bc + ca, take a = b = c (by symmetry and AM-GM reasoning)",
+          "So a = b = c = 2",
+          "Compute: ab + bc + ca = 2×2 + 2×2 + 2×2 = 4 + 4 + 4 = 12"
+        ],
+        "why_correct": {
+          "A": "Maximum occurs at equality, giving value 12."
+        },
+        "why_incorrect": {
+          "B": "Too low; occurs when variables are unequal.",
+          "C": "Exceeds possible bound under fixed sum.",
+          "D": "Minimum-type value, not maximum."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 80,
+      "concepts": [
+        "AM-GM inequality",
+        "symmetric expressions"
+      ],
+      "formulae": [
+        "(a+b+c)^2 ≥ 3(ab+bc+ca)"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1285,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.66,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "For real x, the inequality |2x − 3| ≤ 5 holds for which interval of x?",
+    "options": [
+      {
+        "id": "A",
+        "text": "-1 ≤ x ≤ 4"
+      },
+      {
+        "id": "B",
+        "text": "-4 ≤ x ≤ 1"
+      },
+      {
+        "id": "C",
+        "text": "1 ≤ x ≤ 4"
+      },
+      {
+        "id": "D",
+        "text": "-1 ≤ x ≤ 3"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "-1 ≤ x ≤ 4",
+      "explanation": {
+        "concept": "Solve modulus inequality using -a ≤ expression ≤ a.",
+        "step_by_step": [
+          "|2x − 3| ≤ 5 ⇒ -5 ≤ 2x − 3 ≤ 5",
+          "Add 3: -2 ≤ 2x ≤ 8",
+          "Divide by 2: -1 ≤ x ≤ 4"
+        ],
+        "why_correct": {
+          "A": "Correct interval obtained from solving inequality."
+        },
+        "why_incorrect": {
+          "B": "Incorrect transformation of bounds.",
+          "C": "Ignores negative side of inequality.",
+          "D": "Upper bound incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "modulus inequality"
+      ],
+      "formulae": [
+        "|x| ≤ a ⇒ -a ≤ x ≤ a"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1286,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.76,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x > y > 0, then which of the following is always true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x² > y²"
+      },
+      {
+        "id": "B",
+        "text": "√x < √y"
+      },
+      {
+        "id": "C",
+        "text": "1/x > 1/y"
+      },
+      {
+        "id": "D",
+        "text": "x − y < 0"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "x² > y²",
+      "explanation": {
+        "concept": "Understand monotonic transformations: squaring preserves order for positive numbers.",
+        "step_by_step": [
+          "Given x > y > 0",
+          "Squaring both sides preserves inequality: x² > y²",
+          "For square root: √x > √y (not reversed)",
+          "For reciprocals: inequality reverses → 1/x < 1/y",
+          "x − y > 0"
+        ],
+        "why_correct": {
+          "A": "Squaring positive numbers preserves inequality."
+        },
+        "why_incorrect": {
+          "B": "Square root preserves order, not reverses.",
+          "C": "Reciprocal reverses inequality, so incorrect direction.",
+          "D": "x − y is positive, not negative."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "monotonic functions",
+        "inequality transformation"
+      ],
+      "formulae": [
+        "x>y>0 ⇒ x²>y²"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1287,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x, y > 0 and x + y = 1, then the minimum value of (1/x) + (1/y) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "1"
+      },
+      {
+        "id": "D",
+        "text": "3"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "4",
+      "explanation": {
+        "concept": "Use AM-HM or apply inequality on symmetric expression; minimum occurs when variables are equal.",
+        "step_by_step": [
+          "Given x + y = 1",
+          "Expression: (1/x) + (1/y) = (x + y)/xy = 1/xy",
+          "To minimize, maximize xy",
+          "Maximum xy occurs when x = y = 1/2",
+          "Then xy = 1/4",
+          "So expression = 1 / (1/4) = 4"
+        ],
+        "why_correct": {
+          "A": "Correct minimum value using equality condition."
+        },
+        "why_incorrect": {
+          "B": "Underestimates value; not achievable.",
+          "C": "Too small; violates inequality constraints.",
+          "D": "Intermediate but not minimum."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 100,
+      "concepts": [
+        "AM-GM inequality",
+        "optimization under constraint"
+      ],
+      "formulae": [
+        "xy ≤ (x+y)^2/4"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1288,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.67,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a > b > 0, then which of the following inequalities is always true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "a² − b² > a − b"
+      },
+      {
+        "id": "B",
+        "text": "a² − b² < a − b"
+      },
+      {
+        "id": "C",
+        "text": "a² − b² = a − b"
+      },
+      {
+        "id": "D",
+        "text": "a² − b² < 0"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "a² − b² > a − b",
+      "explanation": {
+        "concept": "Factorization and comparison of expressions under inequality constraints.",
+        "step_by_step": [
+          "a² − b² = (a − b)(a + b)",
+          "Given a > b > 0 ⇒ (a − b) > 0 and (a + b) > 1",
+          "So (a − b)(a + b) > (a − b)",
+          "Hence a² − b² > a − b"
+        ],
+        "why_correct": {
+          "A": "Product (a−b)(a+b) exceeds (a−b) since (a+b) > 1."
+        },
+        "why_incorrect": {
+          "B": "Contradicts multiplicative inequality behavior.",
+          "C": "Equality only if (a+b)=1, which is not always true.",
+          "D": "Expression is positive, not negative."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "factorization",
+        "inequality comparison"
+      ],
+      "formulae": [
+        "a²−b²=(a−b)(a+b)"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1289,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.75,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x, y > 0 and x ≠ y, then which of the following is always true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x/y + y/x ≥ 2"
+      },
+      {
+        "id": "B",
+        "text": "x/y + y/x ≤ 2"
+      },
+      {
+        "id": "C",
+        "text": "x/y + y/x = 1"
+      },
+      {
+        "id": "D",
+        "text": "x/y + y/x < 1"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "x/y + y/x ≥ 2",
+      "explanation": {
+        "concept": "Apply AM-GM inequality to reciprocal symmetric expressions.",
+        "step_by_step": [
+          "Let a = x/y and b = y/x",
+          "Then ab = 1",
+          "By AM ≥ GM: (a + b)/2 ≥ √(ab) = 1",
+          "So a + b ≥ 2"
+        ],
+        "why_correct": {
+          "A": "Direct application of AM-GM inequality."
+        },
+        "why_incorrect": {
+          "B": "Opposite inequality; violates AM-GM.",
+          "C": "Equality only when x = y, but given x ≠ y.",
+          "D": "Value cannot drop below 2."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 90,
+      "concepts": [
+        "AM-GM inequality"
+      ],
+      "formulae": [
+        "(a+b)/2 ≥ √(ab)"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1290,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Solve for x: (x − 2)(x − 5) ≥ 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "x ≤ 2 or x ≥ 5"
+      },
+      {
+        "id": "B",
+        "text": "2 ≤ x ≤ 5"
+      },
+      {
+        "id": "C",
+        "text": "x ≥ 2"
+      },
+      {
+        "id": "D",
+        "text": "x ≤ 5"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "x ≤ 2 or x ≥ 5",
+      "explanation": {
+        "concept": "Sign analysis of quadratic inequalities.",
+        "step_by_step": [
+          "Roots are x = 2 and x = 5",
+          "Quadratic opens upward",
+          "So expression ≥ 0 outside roots",
+          "Hence x ≤ 2 or x ≥ 5"
+        ],
+        "why_correct": {
+          "A": "Correct interval from sign chart."
+        },
+        "why_incorrect": {
+          "B": "Region where expression is negative.",
+          "C": "Includes invalid region (2,5).",
+          "D": "Incomplete interval."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "quadratic inequality"
+      ],
+      "formulae": [
+        "sign analysis of ax²+bx+c"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1291,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.83,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If x, y, z > 0 and xyz = 1, then the minimum value of x + y + z is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "1"
+      },
+      {
+        "id": "C",
+        "text": "0"
+      },
+      {
+        "id": "D",
+        "text": "2"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "3",
+      "explanation": {
+        "concept": "Use AM-GM inequality for three variables.",
+        "step_by_step": [
+          "Given xyz = 1",
+          "By AM ≥ GM: (x + y + z)/3 ≥ (xyz)^(1/3) = 1",
+          "So x + y + z ≥ 3",
+          "Minimum occurs at x = y = z = 1"
+        ],
+        "why_correct": {
+          "A": "Minimum sum occurs at equality condition."
+        },
+        "why_incorrect": {
+          "B": "Too small; violates inequality.",
+          "C": "Impossible since variables are positive.",
+          "D": "Less than minimum bound."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.96,
+    "metadata": {
+      "estimated_time_sec": 95,
+      "concepts": [
+        "AM-GM inequality"
+      ],
+      "formulae": [
+        "(x+y+z)/3 ≥ (xyz)^(1/3)"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 1292,
+    "subject": "Quant",
+    "chapter": "Core Essentials",
+    "topic": "Inequalities",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.77,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "If a, b > 0, then the minimum value of (a/b) + (b/a) + 1 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "1"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "3",
+      "explanation": {
+        "concept": "Apply AM-GM inequality to symmetric ratio expressions.",
+        "step_by_step": [
+          "Let x = a/b, y = b/a ⇒ xy = 1",
+          "By AM ≥ GM: x + y ≥ 2",
+          "So (a/b) + (b/a) + 1 ≥ 2 + 1 = 3",
+          "Equality when a = b"
+        ],
+        "why_correct": {
+          "A": "Minimum value occurs when a = b."
+        },
+        "why_incorrect": {
+          "B": "Too small; violates inequality.",
+          "C": "Impossible lower bound.",
+          "D": "Not minimum."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 85,
+      "concepts": [
+        "AM-GM inequality"
+      ],
+      "formulae": [
+        "x + 1/x ≥ 2"
+      ]
+    },
+    "subtopic": "Core Essentials"
+  }
+]

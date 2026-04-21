@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3080,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Legacy Leaders",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which legendary investor continues to lead Berkshire Hathaway as Chairman and CEO?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Charlie Munger"
+      },
+      {
+        "id": "B",
+        "text": "Warren Buffett"
+      },
+      {
+        "id": "C",
+        "text": "Ray Dalio"
+      },
+      {
+        "id": "D",
+        "text": "Carl Icahn"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Warren Buffett",
+      "explanation": {
+        "concept": "Legacy leaders like Buffett remain influential in global finance.",
+        "step_by_step": [
+          "Identify Berkshire Hathaway leadership.",
+          "Recall long-serving CEO.",
+          "Select Warren Buffett."
+        ],
+        "why_correct": {
+          "B": "Buffett is Chairman & CEO."
+        },
+        "why_incorrect": {
+          "A": "Munger was Vice Chairman.",
+          "C": "Dalio founded Bridgewater.",
+          "D": "Icahn is activist investor."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_3080",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "Investment leadership"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

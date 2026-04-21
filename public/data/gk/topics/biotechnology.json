@@ -1,0 +1,151 @@
+[
+  {
+    "id": 3005,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Biotechnology",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.74,
+    "marks": 3,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "CRISPR-Cas9 technology is primarily used for which of the following scientific applications?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNA sequencing"
+      },
+      {
+        "id": "B",
+        "text": "Gene editing"
+      },
+      {
+        "id": "C",
+        "text": "Protein synthesis"
+      },
+      {
+        "id": "D",
+        "text": "Cell imaging"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Gene editing",
+      "explanation": {
+        "concept": "CRISPR-Cas9 is a genome editing tool that allows precise modification of DNA sequences.",
+        "step_by_step": [
+          "CRISPR acts as molecular scissors.",
+          "It targets specific DNA sequences.",
+          "It modifies genes precisely."
+        ],
+        "why_correct": {
+          "B": "Correct: CRISPR is used for gene editing."
+        },
+        "why_incorrect": {
+          "A": "DNA sequencing reads DNA, not edits it.",
+          "C": "Protein synthesis is a cellular process.",
+          "D": "Cell imaging uses microscopy."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.95,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "Genetics",
+        "Biotechnology"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  },
+  {
+    "id": 3025,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Biotechnology",
+    "difficulty": {
+      "level": 7,
+      "label": "very_hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.82,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "In CRISPR-Cas9 gene editing, what is the specific role of the Cas9 protein?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It identifies target DNA sequences"
+      },
+      {
+        "id": "B",
+        "text": "It acts as molecular scissors to cut DNA"
+      },
+      {
+        "id": "C",
+        "text": "It repairs DNA strands"
+      },
+      {
+        "id": "D",
+        "text": "It synthesizes RNA guides"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "It acts as molecular scissors to cut DNA",
+      "explanation": {
+        "concept": "Cas9 is an endonuclease enzyme that cuts DNA at specific locations guided by RNA.",
+        "step_by_step": [
+          "Guide RNA identifies target sequence.",
+          "Cas9 binds to DNA.",
+          "It cuts DNA precisely."
+        ],
+        "why_correct": {
+          "B": "Correct: Cas9 cuts DNA."
+        },
+        "why_incorrect": {
+          "A": "Guide RNA identifies sequence.",
+          "C": "Repair is done by cell mechanisms.",
+          "D": "RNA synthesis is separate."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_25",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 70,
+      "concepts": [
+        "Gene editing"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

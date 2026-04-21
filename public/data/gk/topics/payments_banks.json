@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3170,
+    "subject": "General Awareness",
+    "chapter": "Core Essentials",
+    "topic": "Payments Banks",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 4,
+    "negative_marks": 1,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Which of the following activities is NOT permitted for Payments Banks in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Accepting demand deposits"
+      },
+      {
+        "id": "B",
+        "text": "Issuing debit cards"
+      },
+      {
+        "id": "C",
+        "text": "Providing large loans"
+      },
+      {
+        "id": "D",
+        "text": "Facilitating remittances"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Providing large loans",
+      "explanation": {
+        "concept": "Payments banks are restricted from lending activities and focus on deposits and payments.",
+        "step_by_step": [
+          "Understand Payments Bank model.",
+          "They accept deposits and enable payments.",
+          "They cannot lend money."
+        ],
+        "why_correct": {
+          "C": "Correct restriction."
+        },
+        "why_incorrect": {
+          "A": "Allowed within limits.",
+          "B": "Allowed service.",
+          "D": "Core function."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "Payments Banks"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Core Essentials"
+  }
+]

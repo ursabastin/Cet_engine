@@ -1,0 +1,1472 @@
+[
+  {
+    "id": 1995,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.52,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the correct sentence:\n\nA. Neither of the boys have completed their assignment.\nB. Neither of the boys has completed his assignment.\nC. Neither of the boys have completed his assignment.\nD. Neither of the boys has completed their assignment.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neither of the boys have completed their assignment."
+      },
+      {
+        "id": "B",
+        "text": "Neither of the boys has completed his assignment."
+      },
+      {
+        "id": "C",
+        "text": "Neither of the boys have completed his assignment."
+      },
+      {
+        "id": "D",
+        "text": "Neither of the boys has completed their assignment."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Neither of the boys has completed his assignment.",
+      "explanation": {
+        "concept": "‘Neither’ is singular and takes a singular verb and pronoun.",
+        "step_by_step": [
+          "Identify subject: ‘Neither’ → singular.",
+          "Verb must be singular → ‘has’, not ‘have’.",
+          "Pronoun must agree → ‘his’, not ‘their’."
+        ],
+        "why_correct": {
+          "A": "Incorrect verb agreement.",
+          "B": "Correct subject-verb and pronoun agreement."
+        },
+        "why_incorrect": {
+          "C": "Plural verb used with singular subject.",
+          "D": "Pronoun ‘their’ mismatches singular subject."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_01",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "subject-verb agreement",
+        "pronoun agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 1996,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.62,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct sentence:\n\nA. Hardly had I reached the station than the train left.\nB. Hardly had I reached the station when the train left.\nC. Hardly I had reached the station when the train left.\nD. Hardly I had reached the station than the train left.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardly had I reached the station than the train left."
+      },
+      {
+        "id": "B",
+        "text": "Hardly had I reached the station when the train left."
+      },
+      {
+        "id": "C",
+        "text": "Hardly I had reached the station when the train left."
+      },
+      {
+        "id": "D",
+        "text": "Hardly I had reached the station than the train left."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Hardly had I reached the station when the train left.",
+      "explanation": {
+        "concept": "‘Hardly’ is followed by inversion and ‘when’ (not ‘than’).",
+        "step_by_step": [
+          "Use auxiliary before subject → ‘had I reached’.",
+          "Correct conjunction is ‘when’."
+        ],
+        "why_correct": {
+          "B": "Follows correct inversion and conjunction rule."
+        },
+        "why_incorrect": {
+          "A": "Uses incorrect conjunction ‘than’.",
+          "C": "Missing inversion.",
+          "D": "Both inversion and conjunction incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_02",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "inversion",
+        "conjunction usage"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 1997,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.55,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the correct sentence:\n\nA. Each of the players are given a medal.\nB. Each of the players is given a medal.\nC. Each of the players are given medals.\nD. Each of the players is given medals.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Each of the players are given a medal."
+      },
+      {
+        "id": "B",
+        "text": "Each of the players is given a medal."
+      },
+      {
+        "id": "C",
+        "text": "Each of the players are given medals."
+      },
+      {
+        "id": "D",
+        "text": "Each of the players is given medals."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Each of the players is given a medal.",
+      "explanation": {
+        "concept": "‘Each’ is singular; verb and object should align accordingly.",
+        "step_by_step": [
+          "Subject ‘Each’ → singular.",
+          "Verb must be ‘is’.",
+          "Object singular fits distributive meaning."
+        ],
+        "why_correct": {
+          "B": "Correct singular verb and logical object usage."
+        },
+        "why_incorrect": {
+          "A": "Plural verb used incorrectly.",
+          "C": "Plural verb and object mismatch.",
+          "D": "Object plural not suitable in distributive sense."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_03",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "subject-verb agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 1998,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.64,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct sentence:\n\nA. No sooner did he enter the room than everyone stood up.\nB. No sooner he entered the room than everyone stood up.\nC. No sooner did he enter the room when everyone stood up.\nD. No sooner he entered the room when everyone stood up.",
+    "options": [
+      {
+        "id": "A",
+        "text": "No sooner did he enter the room than everyone stood up."
+      },
+      {
+        "id": "B",
+        "text": "No sooner he entered the room than everyone stood up."
+      },
+      {
+        "id": "C",
+        "text": "No sooner did he enter the room when everyone stood up."
+      },
+      {
+        "id": "D",
+        "text": "No sooner he entered the room when everyone stood up."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "No sooner did he enter the room than everyone stood up.",
+      "explanation": {
+        "concept": "‘No sooner’ requires inversion and is followed by ‘than’.",
+        "step_by_step": [
+          "Apply inversion → ‘did he enter’.",
+          "Correct conjunction → ‘than’."
+        ],
+        "why_correct": {
+          "A": "Correct inversion and conjunction usage."
+        },
+        "why_incorrect": {
+          "B": "Missing inversion.",
+          "C": "Incorrect conjunction ‘when’.",
+          "D": "Both inversion and conjunction incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_04",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "inversion",
+        "correlative conjunctions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 1999,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.45,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the correct sentence:\n\nA. She is more smarter than her sister.\nB. She is smarter than her sister.\nC. She is more smart than her sister.\nD. She is smartest than her sister.",
+    "options": [
+      {
+        "id": "A",
+        "text": "She is more smarter than her sister."
+      },
+      {
+        "id": "B",
+        "text": "She is smarter than her sister."
+      },
+      {
+        "id": "C",
+        "text": "She is more smart than her sister."
+      },
+      {
+        "id": "D",
+        "text": "She is smartest than her sister."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "She is smarter than her sister.",
+      "explanation": {
+        "concept": "Avoid double comparison; use either ‘-er’ or ‘more’, not both.",
+        "step_by_step": [
+          "Comparative adjective needed → ‘smarter’.",
+          "Do not combine with ‘more’."
+        ],
+        "why_correct": {
+          "B": "Correct comparative form."
+        },
+        "why_incorrect": {
+          "A": "Double comparative.",
+          "C": "Incorrect form for short adjective.",
+          "D": "Superlative used incorrectly."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_05",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 35,
+      "concepts": [
+        "degrees of comparison"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2000,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.72,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct sentence:\n\nA. The committee have reached its decision.\nB. The committee has reached their decision.\nC. The committee has reached its decision.\nD. The committee have reached their decision.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The committee have reached its decision."
+      },
+      {
+        "id": "B",
+        "text": "The committee has reached their decision."
+      },
+      {
+        "id": "C",
+        "text": "The committee has reached its decision."
+      },
+      {
+        "id": "D",
+        "text": "The committee have reached their decision."
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "The committee has reached its decision.",
+      "explanation": {
+        "concept": "Collective noun treated as singular when acting as one unit.",
+        "step_by_step": [
+          "‘Committee’ acting as one → singular verb.",
+          "Pronoun must match → ‘its’."
+        ],
+        "why_correct": {
+          "C": "Consistent singular agreement."
+        },
+        "why_incorrect": {
+          "A": "Verb mismatch.",
+          "B": "Pronoun mismatch.",
+          "D": "Plural usage not contextually justified."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_06",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "collective nouns",
+        "agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2001,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the correct sentence:\n\nA. He insisted to go there immediately.\nB. He insisted on going there immediately.\nC. He insisted for going there immediately.\nD. He insisted that to go there immediately.",
+    "options": [
+      {
+        "id": "A",
+        "text": "He insisted to go there immediately."
+      },
+      {
+        "id": "B",
+        "text": "He insisted on going there immediately."
+      },
+      {
+        "id": "C",
+        "text": "He insisted for going there immediately."
+      },
+      {
+        "id": "D",
+        "text": "He insisted that to go there immediately."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He insisted on going there immediately.",
+      "explanation": {
+        "concept": "‘Insist’ is followed by ‘on + gerund’ or ‘that clause’.",
+        "step_by_step": [
+          "Check verb pattern → insist on doing.",
+          "Only option B matches pattern."
+        ],
+        "why_correct": {
+          "B": "Correct verb-preposition pattern."
+        },
+        "why_incorrect": {
+          "A": "Incorrect infinitive usage.",
+          "C": "Wrong preposition.",
+          "D": "Incorrect clause structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_07",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "verb patterns"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2002,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.53,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct sentence:\n\nA. One of my friend is absent today.\nB. One of my friends are absent today.\nC. One of my friends is absent today.\nD. One of my friend are absent today.",
+    "options": [
+      {
+        "id": "A",
+        "text": "One of my friend is absent today."
+      },
+      {
+        "id": "B",
+        "text": "One of my friends are absent today."
+      },
+      {
+        "id": "C",
+        "text": "One of my friends is absent today."
+      },
+      {
+        "id": "D",
+        "text": "One of my friend are absent today."
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "One of my friends is absent today.",
+      "explanation": {
+        "concept": "‘One of’ takes plural noun but singular verb.",
+        "step_by_step": [
+          "Noun after ‘one of’ → plural.",
+          "Verb agrees with ‘one’ → singular."
+        ],
+        "why_correct": {
+          "C": "Correct noun and verb agreement."
+        },
+        "why_incorrect": {
+          "A": "Noun incorrect.",
+          "B": "Verb incorrect.",
+          "D": "Both incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_08",
+    "confidence_score": 0.91,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "agreement rules"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2003,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct sentence:\n\nA. Scarcely had he finished his work when the bell rang.\nB. Scarcely he had finished his work when the bell rang.\nC. Scarcely had he finished his work than the bell rang.\nD. Scarcely he had finished his work than the bell rang.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarcely had he finished his work when the bell rang."
+      },
+      {
+        "id": "B",
+        "text": "Scarcely he had finished his work when the bell rang."
+      },
+      {
+        "id": "C",
+        "text": "Scarcely had he finished his work than the bell rang."
+      },
+      {
+        "id": "D",
+        "text": "Scarcely he had finished his work than the bell rang."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Scarcely had he finished his work when the bell rang.",
+      "explanation": {
+        "concept": "‘Scarcely’ requires inversion and is followed by ‘when’.",
+        "step_by_step": [
+          "Apply inversion → ‘had he finished’.",
+          "Use ‘when’ not ‘than’."
+        ],
+        "why_correct": {
+          "A": "Correct structure."
+        },
+        "why_incorrect": {
+          "B": "No inversion.",
+          "C": "Wrong conjunction.",
+          "D": "Both errors."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_09",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "inversion",
+        "conjunctions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2004,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the correct sentence:\n\nA. He is senior than me.\nB. He is senior to me.\nC. He is more senior than me.\nD. He is senior over me.",
+    "options": [
+      {
+        "id": "A",
+        "text": "He is senior than me."
+      },
+      {
+        "id": "B",
+        "text": "He is senior to me."
+      },
+      {
+        "id": "C",
+        "text": "He is more senior than me."
+      },
+      {
+        "id": "D",
+        "text": "He is senior over me."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He is senior to me.",
+      "explanation": {
+        "concept": "Certain adjectives (senior, junior, superior) take ‘to’ not ‘than’.",
+        "step_by_step": [
+          "Identify special adjective → ‘senior’.",
+          "Correct preposition → ‘to’."
+        ],
+        "why_correct": {
+          "B": "Correct idiomatic usage."
+        },
+        "why_incorrect": {
+          "A": "Incorrect preposition.",
+          "C": "Double comparison error.",
+          "D": "Incorrect preposition."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_10",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "idiomatic usage",
+        "prepositions"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2005,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.63,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct sentence:\n\nA. The number of students are increasing every year.\nB. The number of students is increasing every year.\nC. A number of students is increasing every year.\nD. A number of students was increasing every year.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number of students are increasing every year."
+      },
+      {
+        "id": "B",
+        "text": "The number of students is increasing every year."
+      },
+      {
+        "id": "C",
+        "text": "A number of students is increasing every year."
+      },
+      {
+        "id": "D",
+        "text": "A number of students was increasing every year."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The number of students is increasing every year.",
+      "explanation": {
+        "concept": "‘The number of’ takes a singular verb, while ‘a number of’ takes a plural verb.",
+        "step_by_step": [
+          "Identify phrase: ‘The number of’ → singular.",
+          "Verb must be ‘is’."
+        ],
+        "why_correct": {
+          "B": "Correct singular verb with ‘the number of’."
+        },
+        "why_incorrect": {
+          "A": "Incorrect plural verb.",
+          "C": "Wrong verb for ‘a number of’.",
+          "D": "Incorrect tense and agreement."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_11",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "subject-verb agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2006,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct sentence:\n\nA. Not only he was intelligent but also hardworking.\nB. Not only was he intelligent but also hardworking.\nC. Not only he was intelligent but he was also hardworking.\nD. Not only was he intelligent but he was also hardworking.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Not only he was intelligent but also hardworking."
+      },
+      {
+        "id": "B",
+        "text": "Not only was he intelligent but also hardworking."
+      },
+      {
+        "id": "C",
+        "text": "Not only he was intelligent but he was also hardworking."
+      },
+      {
+        "id": "D",
+        "text": "Not only was he intelligent but he was also hardworking."
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Not only was he intelligent but he was also hardworking.",
+      "explanation": {
+        "concept": "‘Not only... but also’ requires inversion and parallel structure.",
+        "step_by_step": [
+          "Apply inversion after ‘not only’ → ‘was he’.",
+          "Ensure parallel clause structure."
+        ],
+        "why_correct": {
+          "D": "Correct inversion and parallelism."
+        },
+        "why_incorrect": {
+          "A": "Missing inversion.",
+          "B": "Incomplete parallel structure.",
+          "C": "No inversion."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_12",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "inversion",
+        "parallelism"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2007,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.56,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the correct sentence:\n\nA. He as well as his friends are coming.\nB. He as well as his friends is coming.\nC. He as well as his friends were coming.\nD. He as well as his friends have come.",
+    "options": [
+      {
+        "id": "A",
+        "text": "He as well as his friends are coming."
+      },
+      {
+        "id": "B",
+        "text": "He as well as his friends is coming."
+      },
+      {
+        "id": "C",
+        "text": "He as well as his friends were coming."
+      },
+      {
+        "id": "D",
+        "text": "He as well as his friends have come."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He as well as his friends is coming.",
+      "explanation": {
+        "concept": "‘As well as’ does not change the number of the subject; main subject governs the verb.",
+        "step_by_step": [
+          "Main subject is ‘He’.",
+          "Verb must be singular → ‘is’."
+        ],
+        "why_correct": {
+          "B": "Correct agreement with main subject."
+        },
+        "why_incorrect": {
+          "A": "Verb incorrectly agrees with plural noun.",
+          "C": "Incorrect tense and agreement.",
+          "D": "Incorrect verb form."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_13",
+    "confidence_score": 0.92,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "subject-verb agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2008,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct sentence:\n\nA. I prefer coffee than tea.\nB. I prefer coffee over tea.\nC. I prefer coffee to tea.\nD. I prefer coffee more than tea.",
+    "options": [
+      {
+        "id": "A",
+        "text": "I prefer coffee than tea."
+      },
+      {
+        "id": "B",
+        "text": "I prefer coffee over tea."
+      },
+      {
+        "id": "C",
+        "text": "I prefer coffee to tea."
+      },
+      {
+        "id": "D",
+        "text": "I prefer coffee more than tea."
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "I prefer coffee to tea.",
+      "explanation": {
+        "concept": "‘Prefer’ is followed by ‘to’, not ‘than’.",
+        "step_by_step": [
+          "Identify verb pattern.",
+          "Correct preposition → ‘to’."
+        ],
+        "why_correct": {
+          "C": "Correct idiomatic usage."
+        },
+        "why_incorrect": {
+          "A": "Incorrect preposition.",
+          "B": "Less standard usage in formal grammar.",
+          "D": "Incorrect structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_14",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "verb patterns"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2009,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.71,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct sentence:\n\nA. He denied to have taken the money.\nB. He denied having taken the money.\nC. He denied that he has taken the money.\nD. He denied for taking the money.",
+    "options": [
+      {
+        "id": "A",
+        "text": "He denied to have taken the money."
+      },
+      {
+        "id": "B",
+        "text": "He denied having taken the money."
+      },
+      {
+        "id": "C",
+        "text": "He denied that he has taken the money."
+      },
+      {
+        "id": "D",
+        "text": "He denied for taking the money."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He denied having taken the money.",
+      "explanation": {
+        "concept": "‘Deny’ is followed by gerund form.",
+        "step_by_step": [
+          "Check verb pattern.",
+          "Use ‘having taken’ after ‘denied’."
+        ],
+        "why_correct": {
+          "B": "Correct gerund usage."
+        },
+        "why_incorrect": {
+          "A": "Incorrect infinitive.",
+          "C": "Incorrect tense usage.",
+          "D": "Wrong preposition."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_15",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 50,
+      "concepts": [
+        "verb patterns"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2010,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.54,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the correct sentence:\n\nA. Everyone must bring their own book.\nB. Everyone must brings his own book.\nC. Everyone must bring his own book.\nD. Everyone must brought his own book.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Everyone must bring their own book."
+      },
+      {
+        "id": "B",
+        "text": "Everyone must brings his own book."
+      },
+      {
+        "id": "C",
+        "text": "Everyone must bring his own book."
+      },
+      {
+        "id": "D",
+        "text": "Everyone must brought his own book."
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Everyone must bring his own book.",
+      "explanation": {
+        "concept": "‘Everyone’ is singular; verb and pronoun must agree.",
+        "step_by_step": [
+          "Subject singular → ‘bring’.",
+          "Pronoun singular → ‘his’."
+        ],
+        "why_correct": {
+          "C": "Correct agreement."
+        },
+        "why_incorrect": {
+          "A": "Pronoun mismatch.",
+          "B": "Incorrect verb form.",
+          "D": "Incorrect tense."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_16",
+    "confidence_score": 0.9,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2011,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.61,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct sentence:\n\nA. He is capable to solve the problem.\nB. He is capable of solving the problem.\nC. He is capable for solving the problem.\nD. He is capable solve the problem.",
+    "options": [
+      {
+        "id": "A",
+        "text": "He is capable to solve the problem."
+      },
+      {
+        "id": "B",
+        "text": "He is capable of solving the problem."
+      },
+      {
+        "id": "C",
+        "text": "He is capable for solving the problem."
+      },
+      {
+        "id": "D",
+        "text": "He is capable solve the problem."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He is capable of solving the problem.",
+      "explanation": {
+        "concept": "‘Capable’ is followed by ‘of + gerund’.",
+        "step_by_step": [
+          "Identify adjective pattern.",
+          "Use ‘of solving’."
+        ],
+        "why_correct": {
+          "B": "Correct structure."
+        },
+        "why_incorrect": {
+          "A": "Incorrect infinitive.",
+          "C": "Wrong preposition.",
+          "D": "Incomplete structure."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_17",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 45,
+      "concepts": [
+        "prepositions",
+        "gerund"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2012,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.69,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Identify the correct sentence:\n\nA. Had I knew about it, I would have helped.\nB. Had I known about it, I would have helped.\nC. If I had knew about it, I would have helped.\nD. If I knew about it, I would have helped.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Had I knew about it, I would have helped."
+      },
+      {
+        "id": "B",
+        "text": "Had I known about it, I would have helped."
+      },
+      {
+        "id": "C",
+        "text": "If I had knew about it, I would have helped."
+      },
+      {
+        "id": "D",
+        "text": "If I knew about it, I would have helped."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Had I known about it, I would have helped.",
+      "explanation": {
+        "concept": "Third conditional uses past perfect (‘had known’) and inversion is possible.",
+        "step_by_step": [
+          "Correct past perfect → ‘had known’.",
+          "Use inversion form ‘Had I known’."
+        ],
+        "why_correct": {
+          "B": "Correct tense and structure."
+        },
+        "why_incorrect": {
+          "A": "Incorrect verb form.",
+          "C": "Wrong auxiliary usage.",
+          "D": "Incorrect conditional tense."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_18",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 60,
+      "concepts": [
+        "conditional sentences"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2013,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.6,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Select the correct sentence:\n\nA. The furniture are very expensive.\nB. The furniture is very expensive.\nC. The furnitures are very expensive.\nD. The furnitures is very expensive.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The furniture are very expensive."
+      },
+      {
+        "id": "B",
+        "text": "The furniture is very expensive."
+      },
+      {
+        "id": "C",
+        "text": "The furnitures are very expensive."
+      },
+      {
+        "id": "D",
+        "text": "The furnitures is very expensive."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The furniture is very expensive.",
+      "explanation": {
+        "concept": "‘Furniture’ is an uncountable noun and takes singular verb.",
+        "step_by_step": [
+          "Identify noun type → uncountable.",
+          "Use singular verb → ‘is’."
+        ],
+        "why_correct": {
+          "B": "Correct usage."
+        },
+        "why_incorrect": {
+          "A": "Incorrect verb.",
+          "C": "Incorrect plural form.",
+          "D": "Both incorrect."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_19",
+    "confidence_score": 0.93,
+    "metadata": {
+      "estimated_time_sec": 40,
+      "concepts": [
+        "uncountable nouns"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  },
+  {
+    "id": 2014,
+    "subject": "English language",
+    "chapter": "Verbal Ability",
+    "topic": "Sentence correction",
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
+    "difficulty_weight": 0.7,
+    "marks": 1,
+    "negative_marks": 0,
+    "question_type": "MCQ",
+    "answer_type": "single_correct",
+    "question_text": "Choose the correct sentence:\n\nA. He is one of those who works hard.\nB. He is one of those who work hard.\nC. He is one of those who is working hard.\nD. He is one of those who has worked hard.",
+    "options": [
+      {
+        "id": "A",
+        "text": "He is one of those who works hard."
+      },
+      {
+        "id": "B",
+        "text": "He is one of those who work hard."
+      },
+      {
+        "id": "C",
+        "text": "He is one of those who is working hard."
+      },
+      {
+        "id": "D",
+        "text": "He is one of those who has worked hard."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He is one of those who work hard.",
+      "explanation": {
+        "concept": "Verb in relative clause agrees with ‘those’ (plural), not ‘one’.",
+        "step_by_step": [
+          "Identify antecedent → ‘those’.",
+          "Verb must be plural → ‘work’."
+        ],
+        "why_correct": {
+          "B": "Correct agreement."
+        },
+        "why_incorrect": {
+          "A": "Verb incorrectly singular.",
+          "C": "Incorrect tense and agreement.",
+          "D": "Incorrect tense."
+        }
+      }
+    },
+    "question_state": "active",
+    "variation_id": "VAR_20",
+    "confidence_score": 0.94,
+    "metadata": {
+      "estimated_time_sec": 55,
+      "concepts": [
+        "relative clause agreement"
+      ],
+      "formulae": []
+    },
+    "subtopic": "Verbal Ability"
+  }
+]
