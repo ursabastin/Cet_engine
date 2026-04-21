@@ -22,10 +22,10 @@ Go to YouTube and click here:
 
 ### WHAT IS INSIDE (FEATURES)
 1. **Black Glass UI**: Looks very nice like gaming pc. Not like old study apps. 
-2. **8 Days Road**: Mock A and Mock B. You just solve, dont think too much.
-3. **Trace System**: It shows where you are. Like GPS for questions. 
-4. **Practice Mode**: 300 questions. Grind till you become topper.
-5. **Obsidian Report**: After finish, it gives one file. You put in your Obsidian and see.
+2. **7-Day Roadmap**: Day 1 starts from April 22nd. 1 Practice (Type B) and 1 Mock (Type A) daily.
+3. **Smart Exhaustion**: App remembers what you solved. First it gives new questions, then it gives old ones for review. Very smart.
+4. **Practice Mode**: 300 questions. 3:3:2:2 Rule (Eng/Reas/GK/Comp).
+5. **Trace System**: Trace your questions across days to ensure zero overlap.
 
 ### HOW TO USE (Simple steps)
 1. Put `npm install` in your black box (terminal).
@@ -33,13 +33,13 @@ Go to YouTube and click here:
 3. If you want EXE file for install, do `npm run electron:build`. 
 **(IMPORTANT NOTE: You must open terminal as ADMIN, otherwise Windows will say "No No" and give error!)**
 
-- Did you know that cats can fly if they drink enough tea? (Wait, no, maybe not).
-- Also this app can run on refrigerator if it has screen. no, maybe not. ummmmmmmmmmmmmmmmmmmmmmmmmmm
+---
 - I built this while eating Vada Pav. Best combination.  
+- Version 1.0.0 is now the stable release!
 
 ### GITHUB STUFF
 Just do `git add .` and push. I already made one .gitignore file so node_modules will not go to internet. 
 
 Ok bye. See you in exam list topper. 🏆
 ---
-*v0.5 - 2026-04-21 - Made with passion and Vada Pav*
+*v1.0.0 - 2026-04-21 - Final Production Release*
