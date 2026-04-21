@@ -30,38 +30,66 @@ ipcMain.handle('save-analysis', async (event, { date, type, md, txt, json }) => 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const isDev = process.env.NODE_ENV === 'development';
+const logPath = path.join(os.tmpdir(), 'cet-engine-log.txt');
+function log(msg) {
+  fs.appendFileSync(logPath, `[${new Date().toISOString()}] ${msg}\n`);
+}
+
+log('App starting...');
 
 function createWindow() {
-  const win = new BrowserWindow({
-    width: 1280,
-    height: 840,
-    minWidth: 1024,
-    minHeight: 768,
-    title: 'CET Engine 2026',
-    autoHideMenuBar: true,
-    webPreferences: {
-      nodeIntegration: false,
-      contextIsolation: true,
-      preload: path.join(__dirname, 'preload.cjs')
-    },
-    backgroundColor: '#050A18',
-    icon: path.join(__dirname, '../public/assets/icon.png')
-  });
+  try {
+    log('Creating window...');
+    const win = new BrowserWindow({
+      width: 1280,
+      height: 840,
+      minWidth: 1024,
+      minHeight: 768,
+      title: 'CET Engine 2026',
+      autoHideMenuBar: true,
+      webPreferences: {
+        nodeIntegration: false,
+        contextIsolation: true,
+        preload: path.join(__dirname, 'preload.cjs')
+      },
+      backgroundColor: '#050A18',
+      icon: path.join(__dirname, '../public/assets/icon.png')
+    });
 
-  if (isDev) {
-    win.loadURL('http://localhost:5173');
-  } else {
-    win.loadFile(path.join(__dirname, '../dist/index.html'));
-  }
+    log(`__dirname: ${__dirname}`);
+    const indexPath = isDev 
+      ? 'http://localhost:5173' 
+      : path.join(__dirname, '../dist/index.html');
+    
+    log(`Loading: ${indexPath}`);
 
-  // Remove menu in production
-  if (!isDev) {
-    win.setMenu(null);
+    if (isDev) {
+      win.loadURL(indexPath);
+    } else {
+      if (!fs.existsSync(indexPath)) {
+        log(`ERROR: File not found: ${indexPath}`);
+      }
+      win.loadFile(indexPath).catch(err => {
+        log(`Load failure: ${err.message}`);
+      });
+    }
+
+    if (!isDev) {
+      win.setMenu(null);
+    }
+    
+    log('Window created successfully');
+  } catch (err) {
+    log(`CRITICAL ERROR in createWindow: ${err.message}\n${err.stack}`);
   }
 }
 
-app.whenReady().then(createWindow);
+app.whenReady().then(() => {
+  log('App ready');
+  createWindow();
+}).catch(err => {
+  log(`App ready failure: ${err.message}`);
+});
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
