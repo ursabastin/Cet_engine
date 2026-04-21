@@ -3,9 +3,11 @@ import Home from './pages/Home';
 import Landing from './pages/Landing';
 import TestScreen from './pages/TestScreen';
 import Results from './pages/Results';
-import { loadFullTest } from './utils/questionSelector';
+import { loadMockTest } from './utils/mockSelector';
+import { loadPracticeTest } from './utils/practiceSelector';
 import { DAILY_MOCK, PRACTICE_MODE } from './utils/testConfig';
 import { saveTestResult } from './utils/storageHelper';
+import { saveAttemptedIds } from './utils/historyHelper';
 import TestIntro from './components/TestIntro';
 
 export default function App() {
@@ -30,9 +32,14 @@ export default function App() {
     try {
       const config = mode === 'daily' ? DAILY_MOCK : PRACTICE_MODE;
       setCurrentConfig(config);
-      // Use underscore for questionSelector compatibility
-      const seed = mode === 'daily' ? `${date}_${type}` : `practice_${Date.now()}`;
-      const loadedQuestions = await loadFullTest(config, seed);
+      
+      let loadedQuestions;
+      if (mode === 'daily') {
+        loadedQuestions = await loadMockTest(config, date);
+      } else {
+        // Practice mode or specific B session
+        loadedQuestions = await loadPracticeTest(config, date);
+      }
       
       if (loadedQuestions.length === 0) {
         throw new Error('No questions found');
@@ -87,6 +94,9 @@ export default function App() {
       subjectScores,
       timeSpentPerQuestion
     );
+
+    // TRACK ATTEMPTED QUESTIONS
+    saveAttemptedIds(questions.map(q => q.id));
 
     setScreen('results');
   };

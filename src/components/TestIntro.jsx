@@ -21,8 +21,8 @@ export default function TestIntro({ config, date, type, onStart, onBack }) {
               <span className="text-[10px] font-black text-blue-400 uppercase tracking-[0.5em]">SYSTEM ACCESS</span>
             </div>
             <h1 className="text-5xl font-black !text-white leading-tight italic tracking-tighter mb-4">
-              {type === 'P' ? 'UNLIMITED' : `MOCK ${type}`}
-              <span className="block !text-blue-400">PREP</span>
+              {type === 'B' ? 'PRACTICE' : 'MOCK TEST'}
+              <span className="block !text-blue-400">SESSION</span>
             </h1>
             <p className="!text-white/60 text-[11px] font-bold uppercase tracking-widest leading-relaxed">
               Deterministic Examination Environment<br/>
@@ -44,7 +44,9 @@ export default function TestIntro({ config, date, type, onStart, onBack }) {
               </div>
               <div>
                 <span className="block text-[9px] font-black !text-white/50 uppercase tracking-widest mb-1">ALLOCATED TIME</span>
-                <span className="text-2xl font-black !text-white tracking-tight">{config.duration || '210'} MIN</span>
+                <span className="text-2xl font-black !text-white tracking-tight">
+                  {config.timerSeconds ? `${config.timerSeconds / 60} MIN` : 'NO LIMIT'}
+                </span>
               </div>
             </div>
             <div className="flex items-center gap-5 group">

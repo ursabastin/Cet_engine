@@ -168,14 +168,14 @@ export default function TestScreen({
           </button>
           <div className="flex flex-col">
             <h1 className="text-[11px] font-black text-white leading-none mb-1 uppercase tracking-[0.2em] italic">
-              {mode === 'daily' ? `Strategic Prep ${type} — ${date}` : 'Unlimited Practice'}
+              {type === 'B' ? 'UNLIMITED PRACTICE SESSION' : `STRATEGIC MOCK TEST — ${date}`}
             </h1>
             <span className="text-[9px] uppercase font-bold text-blue-400 tracking-[0.1em] opacity-60">
               System Interface v2.0 · Live Examination
             </span>
           </div>
         </div>
-        <Timer totalSeconds={mode === 'daily' ? 210 * 60 : null} hidden={mode === 'practice' || readOnly} onExpire={() => onSubmit(answers)} />
+        <Timer totalSeconds={type === 'B' ? null : 240 * 60} hidden={type === 'B' || readOnly} onExpire={() => onSubmit(answers)} />
       </header>
 
       {/* Main Body Area */}

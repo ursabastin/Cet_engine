@@ -1,7 +1,7 @@
 export const DAILY_MOCK = {
-  label: 'Strategic Practice Session',
+  label: 'Full Mock Test',
   totalQuestions: 200,
-  timerSeconds: 210 * 60,  // 3 hours 30 minutes (210 minutes)
+  timerSeconds: 240 * 60,  // 4 hours
   distribution: {
     english: 60,
     reasoning: 60,
@@ -11,7 +11,7 @@ export const DAILY_MOCK = {
 }
 
 export const PRACTICE_MODE = {
-  label: 'Practice Mode',
+  label: 'Practice Session',
   totalQuestions: 300,
   timerSeconds: null,       // no timer
   distribution: {

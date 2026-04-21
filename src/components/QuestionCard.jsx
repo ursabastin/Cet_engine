@@ -32,7 +32,7 @@ export default function QuestionCard({
 
       {/* Question Text - More standard size */}
       <div className="mb-6 px-2">
-        <h2 className="text-xl font-bold !text-white leading-relaxed tracking-tight whitespace-pre-wrap">
+        <h2 className="text-xl font-bold !text-white leading-relaxed tracking-tight whitespace-pre-wrap" style={{ wordSpacing: '0.1em' }}>
           {question.text}
         </h2>
       </div>

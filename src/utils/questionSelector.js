@@ -21,7 +21,7 @@ export const PRIORITY_TOPICS = {
     'computer_generations', 'father_history', 'file_extensions', 'input_output_devices', 
     'memory_ram_rom_', 'hardware_vs_software', 'networking_basics', 'www', 
     'cybersecurity_awareness', 'shortcuts', 'operating_systems', 
-    'basic_logic_flow_of_execution', 'binary_basics', 'ip_http', 'email_basics'
+    'basic_logic_flow_of_execution', 'ip_http', 'email_basics'
   ],
   gk: [
     'gk_current_affairs', 'constitution_basics', 'gk_economy_business', 

@@ -42,7 +42,7 @@ export default function QuestionPalette({
   // Track which sections are expanded. Default all to true.
   const [expandedSections, setExpandedSections] = React.useState(() => {
     const initial = {};
-    ['English', 'Reasoning', 'GK', 'Computer'].forEach(s => { initial[s] = true; });
+    ['English', 'Reasoning', 'GK', 'Computer', 'General Knowledge'].forEach(s => { initial[s] = true; });
     return initial;
   });
 

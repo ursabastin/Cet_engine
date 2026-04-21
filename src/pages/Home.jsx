@@ -1,8 +1,9 @@
 import React from 'react';
 import AnalyticsView from '../components/AnalyticsView';
 
+
 export default function Home({ onStartTest, onBack }) {
-  const [selectedDate, setSelectedDate] = React.useState('2026-04-21');
+  const [selectedDate, setSelectedDate] = React.useState('2026-04-22');
   const [showAnalysis, setShowAnalysis] = React.useState(false);
   const [isSidebarOpen, setIsSidebarOpen] = React.useState(true);
 
@@ -21,9 +22,9 @@ export default function Home({ onStartTest, onBack }) {
 
   const subjectStats = [
     { label: 'GK', count: 415, color: 'text-emerald-400', bg: 'bg-emerald-500/10' },
-    { label: 'ENG', count: 370, color: 'text-blue-400', bg: 'bg-blue-500/10' },
+    { label: 'ENG', count: 435, color: 'text-blue-400', bg: 'bg-blue-500/10' },
     { label: 'REAS', count: 311, color: 'text-purple-400', bg: 'bg-purple-500/10' },
-    { label: 'COMP', count: 282, color: 'text-amber-400', bg: 'bg-amber-500/10' },
+    { label: 'COMP', count: 272, color: 'text-amber-400', bg: 'bg-amber-500/10' },
   ];
 
   return (
@@ -53,7 +54,7 @@ export default function Home({ onStartTest, onBack }) {
                 Strategic <span className="!text-blue-600">Roadmap</span>
               </h1>
               <p className="text-text-secondary text-[10px] font-black uppercase tracking-[0.3em] opacity-50 mt-1">
-                8-Day Session Plan · 16 Practice Sets
+                7-Day Prep · 1 Practice Set & 1 Mock Test Daily
               </p>
             </div>
           </div>
@@ -66,19 +67,19 @@ export default function Home({ onStartTest, onBack }) {
 
                 {/* 16-Card Practice Grid */}
                 <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 w-full mb-8">
-                  {['2026-04-21', '2026-04-22', '2026-04-23', '2026-04-24', '2026-04-25', '2026-04-26', '2026-04-27', '2026-04-28'].map((date, idx) => (
+                  {['2026-04-22', '2026-04-23', '2026-04-24', '2026-04-25', '2026-04-26', '2026-04-27', '2026-04-28'].map((date, idx) => (
                     <React.Fragment key={date}>
                       <SessionTile 
                         date={date} 
-                        type="A" 
+                        type="MOCK" 
                         dayNum={idx + 1}
                         onClick={() => onStartTest('daily', date, 'A')}
                       />
                       <SessionTile 
                         date={date} 
-                        type="B" 
+                        type="PRACTICE" 
                         dayNum={idx + 1}
-                        onClick={() => onStartTest('daily', date, 'B')}
+                        onClick={() => onStartTest('practice', date, 'B')}
                       />
                     </React.Fragment>
                   ))}
@@ -145,39 +146,12 @@ export default function Home({ onStartTest, onBack }) {
             </div>
 
             <div className="space-y-4">
-              {[1, 2, 3, 4, 5, 6, 7, 8].map((num) => (
-                <button 
-                  key={num}
-                  onClick={() => onStartTest('daily', `2026-04-2${num}`, 'MOCK')}
-                  className="w-full relative p-7 bg-white/5 backdrop-blur-3xl border border-white/10 rounded-[2.5rem] flex flex-col gap-1 hover:bg-white/10 hover:border-white/30 hover:shadow-[0_0_50px_rgba(37,99,235,0.15)] transition-all group active:scale-95 text-left overflow-hidden h-36"
-                >
-                  {/* Subtle Gradient Glow */}
-                  <div className="absolute -top-10 -right-10 w-32 h-32 bg-blue-600/5 rounded-full blur-3xl group-hover:bg-blue-600/10 transition-colors"></div>
-
-                  {/* Top Right: Mock Number */}
-                  <div className="absolute top-5 right-6 w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center font-black text-text-primary/40 group-hover:bg-blue-600 group-hover:text-white group-hover:border-blue-600 transition-all shadow-sm">
-                    {num}
-                  </div>
-
-                  {/* Center: System Signature (Logo) */}
-                  <div className="absolute inset-0 flex items-center justify-center opacity-[0.02] group-hover:opacity-10 transition-all duration-700 pointer-events-none">
-                    <svg width="60" height="60" viewBox="0 0 24 24" fill="currentColor" className="text-blue-600">
-                      <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/>
-                    </svg>
-                  </div>
-
-                  <div className="relative z-10 mt-auto">
-                    <h4 className="text-sm font-black text-text-primary uppercase tracking-tight mb-0.5 italic">Mock Test {num}</h4>
-                    <p className="text-[10px] text-text-secondary font-black uppercase tracking-[0.2em] opacity-40 group-hover:text-blue-600 group-hover:opacity-100 transition-all">
-                      200 Qs · 210 Min
-                    </p>
-                  </div>
-
-                  <div className="absolute bottom-5 right-6 opacity-0 group-hover:opacity-100 transition-all translate-x-2 group-hover:translate-x-0">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" className="text-blue-600"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                  </div>
-                </button>
-              ))}
+              <div className="p-6 rounded-3xl bg-blue-600/5 border border-blue-500/20">
+                <p className="text-[10px] leading-relaxed text-blue-300/80 font-medium">
+                  <span className="font-black text-blue-400 uppercase tracking-widest mr-2">Session Protocol:</span>
+                  Complete one Practice Set (Type B) and one Full Mock Test (Type A) daily to follow the Wiz Academy strategy.
+                </p>
+              </div>
             </div>
           </div>
 
@@ -296,7 +270,7 @@ function SessionTile({ date, type, dayNum, onClick }) {
       
       {/* Top Right: SET Identifier (Now in the corner) */}
       <div className="absolute top-6 right-7">
-        <span className="text-sm font-black italic text-white group-hover:text-blue-400 transition-all tracking-tighter uppercase">MOCK {type}</span>
+        <span className="text-xs font-black italic text-white group-hover:text-blue-400 transition-all tracking-tighter uppercase">{type}</span>
       </div>
       
       {/* Center: System Signature (Logo) - The prominent feature */}
