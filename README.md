@@ -1,45 +1,35 @@
-# CET ENGINE 2026 - FINAL VERSION BOSS 🚀
+# CET 2026 Mastery Engine (v1.2.0)
+## "The Mastery Sprint"
 
-Ok listen everyone. I am Sebastin Richard. I am the operator of this engine. I am telling very clearly, I dont know coding and all that big big logic stuff. I am only operator, I am pressing buttons and telling what to do. 
+Variation 51 of the CET Simulation Engine, optimized for high-intensity, 7-day preparation cycles. 
 
-This engine is building by Google Antigravity (they use some Gemini 3.1 Pro magic) and one more fellow Claude Code. Claude is giving the plan, how to solve syllabus and all. I just manage everything. This is for our CET exam 2026. 
+### 🚀 Vision (v1.2)
+To provide a high-dopamine, distraction-free environment for ADHD-optimized learning. The system focuses on rapid "Test -> Review -> Adjust" cycles, prioritizing active recall over passive study.
 
-### THE SQUAD (Who made this)
-- **Me (Sebastin)**: I am the Boss/Operator. I dont give logic but I give the vision.
-- **Google Antigravity**: They build the app. Very fast. 
-- **Claude Code**: He is the planning guy. He told me do this in 8 days.
-- **Vision Academy**: The syllabus and all questions coming from here only. 
+### 📊 Data Architecture
+The engine is built on a three-tier data hierarchy:
+1.  **The Practice Pool**: 70+ JSON topic files containing thousands of categorized questions across English, Reasoning, GK, and Computer.
+2.  **The Manifest**: A centralized index (`manifest.json`) that maps every topic to its subject pillar.
+3.  **The Mock Blueprint**: Pre-planned endurance simulations (`mock_plan.json`) that stitch together specific question IDs to ensure 100% syllabus coverage.
 
----
+### 🗄️ Storage & Persistence
+*   **Local Vault**: All performance data is stored in the browser's `localStorage`.
+*   **Snapshots**: Each test result includes a full snapshot of the questions, user answers, and correct keys, allowing for detailed historical review.
+*   **Mistake Banking**: The **Analytical View** allows for a question-by-question deep dive into every failed attempt.
 
-### WATCH THIS CHANNEL! IMPORTANT!
-The questions and syllabus is from Vision Academy Education. If you dont follow them, you will fail exam definitely. 
-Go to YouTube and click here: 
-👉 [https://www.youtube.com/@VisionAcademyEducation?sub_confirmation=1](https://www.youtube.com/@VisionAcademyEducation?sub_confirmation=1)
-(Click it, one box will come saying SUBSCRIBE, you press yes ok?)
+### 🛠️ Key Features
+*   **Analytical View**: Positioned in the primary header for instant performance checks.
+*   **Subject Pillars**: Interactive hubs for English, Reasoning, GK, and Computer.
+*   **Endurance Packs**: 25-minute, 50-question simulations designed to build mental stamina.
+*   **Review Mode**: High-contrast feedback showing "Your Choice" vs "Correct Answer".
 
----
-
-### WHAT IS INSIDE (FEATURES)
-1. **Black Glass UI**: Looks very nice like gaming pc. Not like old study apps. 
-2. **7-Day Roadmap**: Day 1 starts from April 22nd. 1 Practice (Type B) and 1 Mock (Type A) daily.
-3. **Smart Exhaustion**: App remembers what you solved. First it gives new questions, then it gives old ones for review. Very smart.
-4. **Practice Mode**: 300 questions. 3:3:2:2 Rule (Eng/Reas/GK/Comp).
-5. **Trace System**: Trace your questions across days to ensure zero overlap.
-
-### HOW TO USE (Simple steps)
-1. Put `npm install` in your black box (terminal).
-2. Then `npm run electron:dev`.
-3. If you want EXE file for install, do `npm run electron:build`. 
-**(IMPORTANT NOTE: You must open terminal as ADMIN, otherwise Windows will say "No No" and give error!)**
+### ⚡ The 7-Day Protocol
+1.  **Research (45m)**: Target a specific topic from the Mastery Bank.
+2.  **Simulate (25m)**: Launch an Endurance Pack or Topic Mock.
+3.  **Review (20m)**: Use the **Mock Vault** to analyze every "Red" answer.
+4.  **Rotate**: Move to the next subject to maintain high dopamine levels.
 
 ---
-- I built this while eating Vada Pav. Best combination.  
-- Version 1.0.0 is now the stable release!
-
-### GITHUB STUFF
-Just do `git add .` and push. I already made one .gitignore file so node_modules will not go to internet. 
-
-Ok bye. See you in exam list topper. 🏆
----
-*v1.0.0 - 2026-04-21 - Final Production Release*
+**Status**: Production Ready (v1.2.0)
+**Dev Mode**: `npm run dev`
+**Build Mode**: `npm run build`
