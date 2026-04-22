@@ -31,5 +31,21 @@ The engine is built on a three-tier data hierarchy:
 
 ---
 **Status**: Production Ready (v1.2.0)
-**Dev Mode**: `npm run dev`
-**Build Mode**: `npm run build`
+
+### 📦 Installation & Setup
+The system is designed for maximum accessibility with zero external dependencies.
+
+**Prerequisites:**
+*   **Node.js** (LTS version recommended) must be installed on your system.
+*   No API keys (Gemini, etc.) or external databases are required.
+
+**Steps:**
+1.  **Extract/Clone** the project folder.
+2.  Open your terminal in the project directory.
+3.  Run `npm install` to synchronize the local environment.
+4.  Run `npm run electron:dev` to launch the Strategic Command Center.
+
+### 💻 Developer Commands
+*   `npm run dev`: Launch the web-only simulation.
+*   `npm run electron:dev`: Launch the full Electron desktop experience.
+*   `npm run electron:build`: Compile a standalone Windows installer (.exe).

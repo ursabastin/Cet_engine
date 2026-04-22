@@ -21,7 +21,6 @@ Follow the execution plan phase by phase. Do not skip phases or combine them. Co
 **Tech Stack:**
 - React + Vite (JavaScript, not TypeScript)
 - Tailwind CSS for styling
-- `@google/genai` for Gemini Flash API
 - No backend server — all client-side
 - No external UI libraries (build everything from scratch using Tailwind)
 
@@ -44,7 +43,6 @@ npm create vite@latest cet -- --template react
 cd cet
 npm install
 npm install tailwindcss @tailwindcss/vite
-npm install @google/genai
 git init && git add . && git commit -m "init"
 ```
 
@@ -203,28 +201,7 @@ Build `src/pages/Results.jsx`.
 
 ---
 
-### Phase 6 — Gemini Flash Hint Feature
 
-In **practice mode only**, add a "💡 Get Hint" button below the question options in QuestionCard.
-
-- Button style: ghost/outline, small (32px height, 13px text)
-- On click: call Gemini Flash API with this prompt:
-
-```
-You are a helpful exam tutor for Indian competitive exams (MAH CET).
-Give a 2-sentence hint for this question that helps the student think about it
-without directly revealing the answer. Be concise and educational.
-
-Question: [question text]
-Options: A) [opt1]  B) [opt2]  C) [opt3]  D) [opt4]
-```
-
-- Model: `gemini-2.0-flash`
-- API key from: `import.meta.env.VITE_GEMINI_KEY`
-- Show inline below question while loading (spinner), then show hint text in a light amber callout box
-- If API fails: show "Hint unavailable" gracefully
-
-**Do NOT show the hint button in daily mock mode.**
 
 ---
 
@@ -274,7 +251,6 @@ After all phases are complete, verify:
 7. "Review Answers" shows correct/wrong colors
 8. "Back to Home" returns to home screen
 9. In practice mode, no timer is visible
-10. The Hint button appears only in practice mode
 
 If anything fails, fix it before reporting done.
 

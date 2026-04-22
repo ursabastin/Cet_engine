@@ -1,5 +1,5 @@
 # CET Mock Test — Implementation Plan
-**Stack:** React + Vite + Tailwind CSS + Google Gemini Flash
+**Stack:** React + Vite + Tailwind CSS
 **Theme:** Paper White (ChatGPT-style) — `#F9F9F8` background, `#171717` text
 
 ---
@@ -39,7 +39,6 @@ cet/
 │   ├── App.jsx                    ← router + global state
 │   ├── index.css                  ← Tailwind + custom CSS vars
 │   └── main.jsx
-├── .env                           ← VITE_GEMINI_KEY=your_key
 ├── package.json
 ├── vite.config.js
 └── tailwind.config.js
@@ -326,29 +325,7 @@ function seedRandom(seed) {
 
 ---
 
-## Gemini Flash Integration (Optional AI Hint Feature)
 
-In practice mode only, a small "💡 Hint" button appears below each question.
-
-```js
-// On click, call Gemini Flash API
-async function getHint(question, options) {
-  const prompt = `
-    You are a CET exam tutor. 
-    Question: ${question}
-    Options: A) ${options[0]}, B) ${options[1]}, C) ${options[2]}, D) ${options[3]}
-    Give a 2-line hint that helps the student think without revealing the answer.
-    Be concise and educational.
-  `;
-  // Use @google/genai SDK
-  // Model: gemini-2.0-flash
-  // Return hint text
-}
-```
-
-- Key stored in `.env` as `VITE_GEMINI_KEY`
-- Never show in daily mock (keeps it exam-realistic)
-- Show a spinner while loading
 
 ---
 
@@ -362,18 +339,13 @@ cd cet
 # 2. Install dependencies
 npm install
 npm install tailwindcss @tailwindcss/vite
-npm install @google/genai
 
 # 3. Git init (required for Antigravity)
 git init
 git add .
 git commit -m "init: project setup"
 
-# 4. Install Antigravity skills (run once)
-npx antigravity-awesome-skills --antigravity
-npx antigravity-awesome-skills install --tag gemini
-
-# 5. Start dev server
+# 4. Start dev server
 npm run dev
 ```
 
