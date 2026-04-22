@@ -1,0 +1,362 @@
+[
+  {
+    "id": 7201,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Which of the following is the state animal of Maharashtra?",
+    "options": [
+      { "id": "A", "text": "Tiger" },
+      { "id": "B", "text": "Indian Giant Squirrel (Shekru)" },
+      { "id": "C", "text": "Leopard" },
+      { "id": "D", "text": "Indian Elephant" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Indian Giant Squirrel (Shekru)",
+      "explanation": {
+        "concept": "State Symbols",
+        "step_by_step": [
+          "The Shekru is the state animal of Maharashtra."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7202,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "The Ajanta Caves, a UNESCO World Heritage site, are located in which district of Maharashtra?",
+    "options": [
+      { "id": "A", "text": "Pune" },
+      { "id": "B", "text": "Chhatrapati Sambhajinagar (Aurangabad)" },
+      { "id": "C", "text": "Nashik" },
+      { "id": "D", "text": "Nagpur" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Chhatrapati Sambhajinagar (Aurangabad)",
+      "explanation": {
+        "concept": "Heritage Sites",
+        "step_by_step": [
+          "Ajanta and Ellora caves are both in this district."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7203,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Which fort was the first capital of the Maratha Empire under Shivaji Maharaj?",
+    "options": [
+      { "id": "A", "text": "Raigad" },
+      { "id": "B", "text": "Rajgad" },
+      { "id": "C", "text": "Pratapgad" },
+      { "id": "D", "text": "Shivneri" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Rajgad",
+      "explanation": {
+        "concept": "Maratha History",
+        "step_by_step": [
+          "Rajgad was the capital for about 26 years before it was shifted to Raigad."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7204,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Which river is often called the 'Ganga of the South' and is the longest river in Maharashtra?",
+    "options": [
+      { "id": "A", "text": "Krishna" },
+      { "id": "B", "text": "Godavari" },
+      { "id": "C", "text": "Tapi" },
+      { "id": "D", "text": "Narmada" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Godavari",
+      "explanation": {
+        "concept": "Geography of Maharashtra",
+        "step_by_step": [
+          "The Godavari originates at Trimbakeshwar in Nashik."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7205,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "The Lonar Lake, a saline soda lake created by a meteor impact, is located in which district?",
+    "options": [
+      { "id": "A", "text": "Buldhana" },
+      { "id": "B", "text": "Amravati" },
+      { "id": "C", "text": "Jalna" },
+      { "id": "D", "text": "Akola" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Buldhana",
+      "explanation": {
+        "concept": "Natural Heritage",
+        "step_by_step": [
+          "Lonar is a unique basaltic rock meteor impact crater."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7206,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Which festival is celebrated with the most fervor across Maharashtra and was popularized as a public event by Lokmanya Tilak?",
+    "options": [
+      { "id": "A", "text": "Diwali" },
+      { "id": "B", "text": "Ganesh Chaturthi" },
+      { "id": "C", "text": "Gudi Padwa" },
+      { "id": "D", "text": "Holi" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Ganesh Chaturthi",
+      "explanation": {
+        "concept": "Cultural Heritage",
+        "step_by_step": [
+          "Tilak transformed it from a private celebration to a public festival to unite people."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7207,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 5, "label": "intermediate" },
+    "question_text": "What is the name of the traditional folk dance of Maharashtra, known for its powerful rhythm and colorful costumes?",
+    "options": [
+      { "id": "A", "text": "Lavani" },
+      { "id": "B", "text": "Kathak" },
+      { "id": "C", "text": "Garba" },
+      { "id": "D", "text": "Bihu" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Lavani",
+      "explanation": {
+        "concept": "Art & Dance",
+        "step_by_step": [
+          "Lavani is a combination of traditional song and dance, which particularly performed to the beats of Dholki."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7208,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Which city is known as the 'Grape Capital of India'?",
+    "options": [
+      { "id": "A", "text": "Sangli" },
+      { "id": "B", "text": "Nashik" },
+      { "id": "C", "text": "Solapur" },
+      { "id": "D", "text": "Satara" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Nashik",
+      "explanation": {
+        "concept": "Agriculture/Economy",
+        "step_by_step": [
+          "Nashik is famous for its vineyards and grape production."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7209,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "The Gateway of India was built to commemorate the visit of which British monarch?",
+    "options": [
+      { "id": "A", "text": "Queen Victoria" },
+      { "id": "B", "text": "King George V" },
+      { "id": "C", "text": "King Edward VII" },
+      { "id": "D", "text": "Queen Elizabeth II" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "King George V",
+      "explanation": {
+        "concept": "Historical Landmarks",
+        "step_by_step": [
+          "It was built for his visit to Mumbai in 1911."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7210,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Which peak is the highest point in Maharashtra?",
+    "options": [
+      { "id": "A", "text": "Kalsubai" },
+      { "id": "B", "text": "Salher" },
+      { "id": "C", "text": "Mahabaleshwar" },
+      { "id": "D", "text": "Harishchandragad" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Kalsubai",
+      "explanation": {
+        "concept": "Geography of Maharashtra",
+        "step_by_step": [
+          "Kalsubai stands at 1,646 meters (5,400 ft)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7211,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 5, "label": "hard" },
+    "question_text": "The 'Bibika Maqbara', often called the 'Taj of the Deccan', was built by whom?",
+    "options": [
+      { "id": "A", "text": "Shah Jahan" },
+      { "id": "B", "text": "Azam Shah" },
+      { "id": "C", "text": "Akbar" },
+      { "id": "D", "text": "Humayun" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Azam Shah",
+      "explanation": {
+        "concept": "Architecture",
+        "step_by_step": [
+          "It was built by Prince Azam Shah, son of Aurangzeb, in memory of his mother."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7212,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Panchgani and Mahabaleshwar are famous hill stations in which mountain range?",
+    "options": [
+      { "id": "A", "text": "Satpura" },
+      { "id": "B", "text": "Sahyadri (Western Ghats)" },
+      { "id": "C", "text": "Vindhya" },
+      { "id": "D", "text": "Aravalli" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Sahyadri (Western Ghats)",
+      "explanation": {
+        "concept": "Geography",
+        "step_by_step": [
+          "The Western Ghats run parallel to the western coast of India."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7213,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Which Maharashtra city is known as the 'Wine Capital of India'?",
+    "options": [
+      { "id": "A", "text": "Nashik" },
+      { "id": "B", "text": "Pune" },
+      { "id": "C", "text": "Mumbai" },
+      { "id": "D", "text": "Solapur" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Nashik",
+      "explanation": {
+        "concept": "Regional Identity",
+        "step_by_step": [
+          "Nashik produces more than half of India's wine."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7214,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "The traditional Marathi New Year is celebrated as:",
+    "options": [
+      { "id": "A", "text": "Baisakhi" },
+      { "id": "B", "text": "Gudi Padwa" },
+      { "id": "C", "text": "Ugadi" },
+      { "id": "D", "text": "Pongal" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Gudi Padwa",
+      "explanation": {
+        "concept": "Cultural Heritage",
+        "step_by_step": [
+          "It falls on the first day of the Chaitra month."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7215,
+    "subject": "General Knowledge",
+    "topic": "Maharashtra Heritage",
+    "difficulty": { "level": 5, "label": "intermediate" },
+    "question_text": "Which of the following forts is located in the middle of the sea near Malvan?",
+    "options": [
+      { "id": "A", "text": "Sindhudurg Fort" },
+      { "id": "B", "text": "Janjira Fort" },
+      { "id": "C", "text": "Vijaydurg Fort" },
+      { "id": "D", "text": "Khanderi Fort" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Sindhudurg Fort",
+      "explanation": {
+        "concept": "Sea Forts",
+        "step_by_step": [
+          "Sindhudurg was built by Shivaji Maharaj to counter foreign naval powers."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

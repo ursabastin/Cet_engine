@@ -6,7 +6,7 @@ const KEYS = {
   PARTIAL_RESULTS: 'cet_partial_results'
 };
 
-export function saveTestResult(mode, date, type, score, total, timeTaken, answers, subjectScores, timeSpentPerQuestion) {
+export function saveTestResult(mode, date, type, score, total, timeTaken, answers, subjectScores, timeSpentPerQuestion, questions = []) {
   try {
     const key = mode === 'daily' ? KEYS.MOCK_HISTORY : KEYS.PRACTICE_HISTORY;
     const history = JSON.parse(localStorage.getItem(key) || '[]');
@@ -18,6 +18,8 @@ export function saveTestResult(mode, date, type, score, total, timeTaken, answer
       score,
       total,
       timeTaken,
+      answers,
+      questions,
       subjectScores,
       timeSpentPerQuestion,
       timestamp: new Date().toISOString()

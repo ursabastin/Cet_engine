@@ -4,7 +4,19 @@
     "subject": "Computer Basics",
     "chapter": "Fundamentals",
     "topic": "File Extensions",
-    "difficulty": { "level": 3, "label": "basic", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
     "difficulty_weight": 0.3,
     "marks": 2,
     "negative_marks": 1,
@@ -12,10 +24,22 @@
     "answer_type": "single_correct",
     "question_text": "Which of the following file extensions is commonly used for standard image files?",
     "options": [
-      { "id": "A", "text": ".mp3" },
-      { "id": "B", "text": ".docx" },
-      { "id": "C", "text": ".jpg" },
-      { "id": "D", "text": ".exe" }
+      {
+        "id": "A",
+        "text": ".mp3"
+      },
+      {
+        "id": "B",
+        "text": ".docx"
+      },
+      {
+        "id": "C",
+        "text": ".jpg"
+      },
+      {
+        "id": "D",
+        "text": ".exe"
+      }
     ],
     "correct_option": "C",
     "solution": {
@@ -27,14 +51,26 @@
           ".jpg stands for Joint Photographic Experts Group.",
           "It is used for photos and web graphics."
         ],
-        "why_correct": { "C": "Correct as .jpg is an image extension." },
-        "why_incorrect": { "A": "Audio.", "B": "Document.", "D": "Executable." }
+        "why_correct": {
+          "C": "Correct as .jpg is an image extension."
+        },
+        "why_incorrect": {
+          "A": "Audio.",
+          "B": "Document.",
+          "D": "Executable."
+        }
       }
     },
     "question_state": "active",
     "variation_id": "EXT_01",
     "confidence_score": 0.99,
-    "metadata": { "estimated_time_sec": 15, "concepts": ["image formats"], "formulae": [] },
+    "metadata": {
+      "estimated_time_sec": 15,
+      "concepts": [
+        "image formats"
+      ],
+      "formulae": []
+    },
     "subtopic": "Fundamentals"
   },
   {
@@ -42,7 +78,19 @@
     "subject": "Computer Basics",
     "chapter": "Fundamentals",
     "topic": "File Extensions",
-    "difficulty": { "level": 3, "label": "basic", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
     "difficulty_weight": 0.32,
     "marks": 2,
     "negative_marks": 1,
@@ -50,10 +98,22 @@
     "answer_type": "single_correct",
     "question_text": "What does the extension '.docx' represent?",
     "options": [
-      { "id": "A", "text": "Excel Spreadsheet" },
-      { "id": "B", "text": "Microsoft Word Document" },
-      { "id": "C", "text": "PowerPoint Presentation" },
-      { "id": "D", "text": "Plain Text File" }
+      {
+        "id": "A",
+        "text": "Excel Spreadsheet"
+      },
+      {
+        "id": "B",
+        "text": "Microsoft Word Document"
+      },
+      {
+        "id": "C",
+        "text": "PowerPoint Presentation"
+      },
+      {
+        "id": "D",
+        "text": "Plain Text File"
+      }
     ],
     "correct_option": "B",
     "solution": {
@@ -65,14 +125,26 @@
           "Replaced the older .doc format.",
           "Used for creating and editing text documents."
         ],
-        "why_correct": { "B": "Correct as .docx is a Word document extension." },
-        "why_incorrect": { "A": ".xlsx", "C": ".pptx", "D": ".txt" }
+        "why_correct": {
+          "B": "Correct as .docx is a Word document extension."
+        },
+        "why_incorrect": {
+          "A": ".xlsx",
+          "C": ".pptx",
+          "D": ".txt"
+        }
       }
     },
     "question_state": "active",
     "variation_id": "EXT_02",
     "confidence_score": 0.99,
-    "metadata": { "estimated_time_sec": 15, "concepts": ["document formats"], "formulae": [] },
+    "metadata": {
+      "estimated_time_sec": 15,
+      "concepts": [
+        "document formats"
+      ],
+      "formulae": []
+    },
     "subtopic": "Fundamentals"
   },
   {
@@ -80,7 +152,19 @@
     "subject": "Computer Basics",
     "chapter": "Fundamentals",
     "topic": "File Extensions",
-    "difficulty": { "level": 4, "label": "moderate", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
     "difficulty_weight": 0.42,
     "marks": 2,
     "negative_marks": 1,
@@ -88,10 +172,22 @@
     "answer_type": "single_correct",
     "question_text": "Which extension is used for a file that can be run directly as a program on Windows?",
     "options": [
-      { "id": "A", "text": ".pdf" },
-      { "id": "B", "text": ".zip" },
-      { "id": "C", "text": ".exe" },
-      { "id": "D", "text": ".html" }
+      {
+        "id": "A",
+        "text": ".pdf"
+      },
+      {
+        "id": "B",
+        "text": ".zip"
+      },
+      {
+        "id": "C",
+        "text": ".exe"
+      },
+      {
+        "id": "D",
+        "text": ".html"
+      }
     ],
     "correct_option": "C",
     "solution": {
@@ -103,14 +199,26 @@
           "They are run by the OS as independent processes.",
           "Used for software installations and applications."
         ],
-        "why_correct": { "C": "Correct as .exe is the executable extension." },
-        "why_incorrect": { "A": "Document.", "B": "Compressed archive.", "D": "Web page." }
+        "why_correct": {
+          "C": "Correct as .exe is the executable extension."
+        },
+        "why_incorrect": {
+          "A": "Document.",
+          "B": "Compressed archive.",
+          "D": "Web page."
+        }
       }
     },
     "question_state": "active",
     "variation_id": "EXT_03",
     "confidence_score": 0.98,
-    "metadata": { "estimated_time_sec": 20, "concepts": ["program execution"], "formulae": [] },
+    "metadata": {
+      "estimated_time_sec": 20,
+      "concepts": [
+        "program execution"
+      ],
+      "formulae": []
+    },
     "subtopic": "Fundamentals"
   },
   {
@@ -118,7 +226,19 @@
     "subject": "Computer Basics",
     "chapter": "Fundamentals",
     "topic": "File Extensions",
-    "difficulty": { "level": 4, "label": "moderate", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
     "difficulty_weight": 0.4,
     "marks": 2,
     "negative_marks": 1,
@@ -126,10 +246,22 @@
     "answer_type": "single_correct",
     "question_text": "A file with the extension '.pdf' is best opened using which type of software?",
     "options": [
-      { "id": "A", "text": "Video Player" },
-      { "id": "B", "text": "Document Reader" },
-      { "id": "C", "text": "Graphics Editor" },
-      { "id": "D", "text": "Spreadsheet Software" }
+      {
+        "id": "A",
+        "text": "Video Player"
+      },
+      {
+        "id": "B",
+        "text": "Document Reader"
+      },
+      {
+        "id": "C",
+        "text": "Graphics Editor"
+      },
+      {
+        "id": "D",
+        "text": "Spreadsheet Software"
+      }
     ],
     "correct_option": "B",
     "solution": {
@@ -141,14 +273,26 @@
           "Requires a reader like Adobe Acrobat or a browser.",
           "Ensures the document looks the same everywhere."
         ],
-        "why_correct": { "B": "Correct as .pdf is a document format." },
-        "why_incorrect": { "A": ".mp4/.mkv", "C": ".psd/.ai", "D": ".xlsx" }
+        "why_correct": {
+          "B": "Correct as .pdf is a document format."
+        },
+        "why_incorrect": {
+          "A": ".mp4/.mkv",
+          "C": ".psd/.ai",
+          "D": ".xlsx"
+        }
       }
     },
     "question_state": "active",
     "variation_id": "EXT_04",
     "confidence_score": 0.99,
-    "metadata": { "estimated_time_sec": 20, "concepts": ["PDF format"], "formulae": [] },
+    "metadata": {
+      "estimated_time_sec": 20,
+      "concepts": [
+        "PDF format"
+      ],
+      "formulae": []
+    },
     "subtopic": "Fundamentals"
   },
   {
@@ -156,7 +300,19 @@
     "subject": "Computer Basics",
     "chapter": "Fundamentals",
     "topic": "File Extensions",
-    "difficulty": { "level": 3, "label": "basic", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty": {
+      "level": 3,
+      "label": "basic",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
     "difficulty_weight": 0.35,
     "marks": 2,
     "negative_marks": 1,
@@ -164,10 +320,22 @@
     "answer_type": "single_correct",
     "question_text": "Which extension indicates an audio file format?",
     "options": [
-      { "id": "A", "text": ".mp3" },
-      { "id": "B", "text": ".html" },
-      { "id": "C", "text": ".xlsx" },
-      { "id": "D", "text": ".zip" }
+      {
+        "id": "A",
+        "text": ".mp3"
+      },
+      {
+        "id": "B",
+        "text": ".html"
+      },
+      {
+        "id": "C",
+        "text": ".xlsx"
+      },
+      {
+        "id": "D",
+        "text": ".zip"
+      }
     ],
     "correct_option": "A",
     "solution": {
@@ -179,14 +347,26 @@
           "Reduces file size while maintaining quality.",
           "Standard for portable media players."
         ],
-        "why_correct": { "A": "Correct as .mp3 is an audio extension." },
-        "why_incorrect": { "B": "Web.", "C": "Spreadsheet.", "D": "Compressed." }
+        "why_correct": {
+          "A": "Correct as .mp3 is an audio extension."
+        },
+        "why_incorrect": {
+          "B": "Web.",
+          "C": "Spreadsheet.",
+          "D": "Compressed."
+        }
       }
     },
     "question_state": "active",
     "variation_id": "EXT_05",
     "confidence_score": 0.99,
-    "metadata": { "estimated_time_sec": 15, "concepts": ["audio formats"], "formulae": [] },
+    "metadata": {
+      "estimated_time_sec": 15,
+      "concepts": [
+        "audio formats"
+      ],
+      "formulae": []
+    },
     "subtopic": "Fundamentals"
   },
   {
@@ -194,7 +374,19 @@
     "subject": "Computer Basics",
     "chapter": "Fundamentals",
     "topic": "File Extensions",
-    "difficulty": { "level": 5, "label": "intermediate", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
     "difficulty_weight": 0.55,
     "marks": 2,
     "negative_marks": 1,
@@ -202,10 +394,22 @@
     "answer_type": "single_correct",
     "question_text": "Which of the following extensions is used to reduce the size of multiple files by combining them into one?",
     "options": [
-      { "id": "A", "text": ".txt" },
-      { "id": "B", "text": ".zip" },
-      { "id": "C", "text": ".html" },
-      { "id": "D", "text": ".docx" }
+      {
+        "id": "A",
+        "text": ".txt"
+      },
+      {
+        "id": "B",
+        "text": ".zip"
+      },
+      {
+        "id": "C",
+        "text": ".html"
+      },
+      {
+        "id": "D",
+        "text": ".docx"
+      }
     ],
     "correct_option": "B",
     "solution": {
@@ -217,14 +421,26 @@
           "It uses lossless compression.",
           "Used for transferring large folders over email."
         ],
-        "why_correct": { "B": "Correct as .zip is a compression extension." },
-        "why_incorrect": { "A": "Plain text.", "C": "Hypertext.", "D": "Word document." }
+        "why_correct": {
+          "B": "Correct as .zip is a compression extension."
+        },
+        "why_incorrect": {
+          "A": "Plain text.",
+          "C": "Hypertext.",
+          "D": "Word document."
+        }
       }
     },
     "question_state": "active",
     "variation_id": "EXT_06",
     "confidence_score": 0.98,
-    "metadata": { "estimated_time_sec": 25, "concepts": ["compression"], "formulae": [] },
+    "metadata": {
+      "estimated_time_sec": 25,
+      "concepts": [
+        "compression"
+      ],
+      "formulae": []
+    },
     "subtopic": "Fundamentals"
   },
   {
@@ -232,7 +448,19 @@
     "subject": "Computer Basics",
     "chapter": "Fundamentals",
     "topic": "File Extensions",
-    "difficulty": { "level": 4, "label": "moderate", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty": {
+      "level": 4,
+      "label": "moderate",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
     "difficulty_weight": 0.45,
     "marks": 2,
     "negative_marks": 1,
@@ -240,10 +468,22 @@
     "answer_type": "single_correct",
     "question_text": "Web pages are typically saved with which file extension?",
     "options": [
-      { "id": "A", "text": ".xls" },
-      { "id": "B", "text": ".html" },
-      { "id": "C", "text": ".exe" },
-      { "id": "D", "text": ".ppt" }
+      {
+        "id": "A",
+        "text": ".xls"
+      },
+      {
+        "id": "B",
+        "text": ".html"
+      },
+      {
+        "id": "C",
+        "text": ".exe"
+      },
+      {
+        "id": "D",
+        "text": ".ppt"
+      }
     ],
     "correct_option": "B",
     "solution": {
@@ -255,14 +495,26 @@
           "They render text, images, and links.",
           "Every website is essentially made of .html files."
         ],
-        "why_correct": { "B": "Correct as .html is the web page extension." },
-        "why_incorrect": { "A": "Excel.", "C": "Executable.", "D": "PowerPoint." }
+        "why_correct": {
+          "B": "Correct as .html is the web page extension."
+        },
+        "why_incorrect": {
+          "A": "Excel.",
+          "C": "Executable.",
+          "D": "PowerPoint."
+        }
       }
     },
     "question_state": "active",
     "variation_id": "EXT_07",
     "confidence_score": 0.99,
-    "metadata": { "estimated_time_sec": 20, "concepts": ["web formats"], "formulae": [] },
+    "metadata": {
+      "estimated_time_sec": 20,
+      "concepts": [
+        "web formats"
+      ],
+      "formulae": []
+    },
     "subtopic": "Fundamentals"
   },
   {
@@ -270,7 +522,19 @@
     "subject": "Computer Basics",
     "chapter": "Fundamentals",
     "topic": "File Extensions",
-    "difficulty": { "level": 6, "label": "hard", "scale": ["very_easy", "easy", "basic", "moderate", "intermediate", "hard", "very_hard"] },
+    "difficulty": {
+      "level": 6,
+      "label": "hard",
+      "scale": [
+        "very_easy",
+        "easy",
+        "basic",
+        "moderate",
+        "intermediate",
+        "hard",
+        "very_hard"
+      ]
+    },
     "difficulty_weight": 0.75,
     "marks": 2,
     "negative_marks": 1,
@@ -278,10 +542,22 @@
     "answer_type": "single_correct",
     "question_text": "Which extension is used for a 'Comma Separated Values' file, often used for data exchange between spreadsheets?",
     "options": [
-      { "id": "A", "text": ".csv" },
-      { "id": "B", "text": ".svg" },
-      { "id": "C", "text": ".iso" },
-      { "id": "D", "text": ".dll" }
+      {
+        "id": "A",
+        "text": ".csv"
+      },
+      {
+        "id": "B",
+        "text": ".svg"
+      },
+      {
+        "id": "C",
+        "text": ".iso"
+      },
+      {
+        "id": "D",
+        "text": ".dll"
+      }
     ],
     "correct_option": "A",
     "solution": {
@@ -293,14 +569,65 @@
           "Each line is a data record.",
           "Can be opened in Excel, Notepad, or databases."
         ],
-        "why_correct": { "A": "Correct as .csv is for data exchange." },
-        "why_incorrect": { "B": "Vector image.", "C": "Disk image.", "D": "System library." }
+        "why_correct": {
+          "A": "Correct as .csv is for data exchange."
+        },
+        "why_incorrect": {
+          "B": "Vector image.",
+          "C": "Disk image.",
+          "D": "System library."
+        }
       }
     },
     "question_state": "active",
     "variation_id": "EXT_08",
     "confidence_score": 0.96,
-    "metadata": { "estimated_time_sec": 30, "concepts": ["data formats"], "formulae": [] },
+    "metadata": {
+      "estimated_time_sec": 30,
+      "concepts": [
+        "data formats"
+      ],
+      "formulae": []
+    },
     "subtopic": "Fundamentals"
+  },
+  {
+    "id": 3209,
+    "subject": "Computer Basics",
+    "topic": "File Extensions",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "Which file extension is commonly used for plain text files without any formatting?",
+    "options": [
+      {
+        "id": "A",
+        "text": ".docx"
+      },
+      {
+        "id": "B",
+        "text": ".txt"
+      },
+      {
+        "id": "C",
+        "text": ".pdf"
+      },
+      {
+        "id": "D",
+        "text": ".html"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": ".txt",
+      "explanation": {
+        "concept": "Text File Formats",
+        "step_by_step": [
+          ".txt stands for text and is the standard extension for unformatted plain text."
+        ]
+      }
+    },
+    "question_state": "active"
   }
 ]

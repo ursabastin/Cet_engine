@@ -91,12 +91,20 @@ export default function TestIntro({ config, date, type, onStart, onBack }) {
               </div>
               <h3 className="text-[10px] font-black !text-white/60 uppercase tracking-[0.4em] mb-6">Subject Distribution Matrix</h3>
               <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
-                {config.distribution && Object.entries(config.distribution).map(([sub, count], idx) => (
-                  <div key={idx} className="flex flex-col">
-                    <span className="text-[9px] font-black !text-blue-400 uppercase tracking-widest mb-1">{sub}</span>
-                    <span className="text-xl font-black !text-white">{count}</span>
+                {config.distribution ? (
+                  Object.entries(config.distribution).map(([sub, count], idx) => (
+                    <div key={idx} className="flex flex-col">
+                      <span className="text-[9px] font-black !text-blue-400 uppercase tracking-widest mb-1">{sub ?? 'Subject'}</span>
+                      <span className="text-xl font-black !text-white">{count ?? '—'}</span>
+                    </div>
+                  ))
+                ) : (
+                  <div className="col-span-full py-4 text-center border border-dashed border-white/10 rounded-xl">
+                    <span className="text-[10px] font-black text-white/20 uppercase tracking-widest animate-pulse">
+                      Analyzing Syllabus Matrix...
+                    </span>
                   </div>
-                ))}
+                )}
               </div>
             </div>
           </div>

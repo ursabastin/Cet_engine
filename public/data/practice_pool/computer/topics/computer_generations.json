@@ -590,5 +590,45 @@
       "formulae": []
     },
     "subtopic": "Fundamentals"
+  },
+  {
+    "id": 3109,
+    "subject": "Computer Basics",
+    "topic": "Computer Generations",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Which of the following technologies is most associated with the 'Fifth Generation' of computers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vacuum Tubes"
+      },
+      {
+        "id": "B",
+        "text": "Transistors"
+      },
+      {
+        "id": "C",
+        "text": "Integrated Circuits"
+      },
+      {
+        "id": "D",
+        "text": "Artificial Intelligence (AI)"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Artificial Intelligence (AI)",
+      "explanation": {
+        "concept": "Fifth Generation Computers",
+        "step_by_step": [
+          "1st: Vacuum Tubes, 2nd: Transistors, 3rd: ICs, 4th: Microprocessors.",
+          "5th: AI and Ultra Large Scale Integration (ULSI)."
+        ]
+      }
+    },
+    "question_state": "active"
   }
 ]

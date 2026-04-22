@@ -1,0 +1,783 @@
+[
+  {
+    "id": 6101,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 1: The rise of artificial intelligence has sparked a global debate about the future of work. While some experts argue that AI will automate repetitive tasks and free humans for creative endeavors, others fear massive job displacement. Historical precedents, like the Industrial Revolution, suggest that technology often creates more jobs than it destroys, but the speed of the AI transition is unprecedented. (Question: What is the main theme of the passage?)",
+    "options": [
+      {
+        "id": "A",
+        "text": "The history of the Industrial Revolution"
+      },
+      {
+        "id": "B",
+        "text": "The impact of AI on the global workforce"
+      },
+      {
+        "id": "C",
+        "text": "The benefits of repetitive tasks"
+      },
+      {
+        "id": "D",
+        "text": "How to learn creative endeavors"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The impact of AI on the global workforce",
+      "explanation": {
+        "concept": "Main Idea Identification",
+        "step_by_step": [
+          "The passage discusses both the positive and negative views on AI and jobs.",
+          "It highlights the debate regarding the future of work."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6102,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate"
+    },
+    "question_text": "PASSAGE 1: (Continued) According to the passage, why is the AI transition different from previous technological shifts?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Because it doesn't create new jobs"
+      },
+      {
+        "id": "B",
+        "text": "Because it only affects creative work"
+      },
+      {
+        "id": "C",
+        "text": "Because its speed is unprecedented"
+      },
+      {
+        "id": "D",
+        "text": "Because it is happening only in certain countries"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Because its speed is unprecedented",
+      "explanation": {
+        "concept": "Detail-based Question",
+        "step_by_step": [
+          "The final sentence explicitly states: 'the speed of the AI transition is unprecedented.'"
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6103,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 1: (Continued) What does the term 'precedent' most nearly mean in this context?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A previous event that serves as an example"
+      },
+      {
+        "id": "B",
+        "text": "A future prediction"
+      },
+      {
+        "id": "C",
+        "text": "A legal law"
+      },
+      {
+        "id": "D",
+        "text": "A type of machine"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A previous event that serves as an example",
+      "explanation": {
+        "concept": "Vocabulary in Context",
+        "step_by_step": [
+          "Historical precedents like the Industrial Revolution are used as examples to understand current changes."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6104,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 1: (Continued) Which of the following can be inferred from the passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AI will definitely destroy all jobs"
+      },
+      {
+        "id": "B",
+        "text": "The Industrial Revolution had no negative impact"
+      },
+      {
+        "id": "C",
+        "text": "The outcome of the AI shift is still a subject of disagreement"
+      },
+      {
+        "id": "D",
+        "text": "Humans are not creative enough for the AI era"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "The outcome of the AI shift is still a subject of disagreement",
+      "explanation": {
+        "concept": "Inference-based Question",
+        "step_by_step": [
+          "The text mentions experts 'argue' and others 'fear', indicating an ongoing debate."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6105,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "PASSAGE 1: (Continued) What is the author's tone in this passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Optimistic"
+      },
+      {
+        "id": "B",
+        "text": "Alarmist"
+      },
+      {
+        "id": "C",
+        "text": "Neutral/Objective"
+      },
+      {
+        "id": "D",
+        "text": "Sarcastic"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Neutral/Objective",
+      "explanation": {
+        "concept": "Tone Analysis",
+        "step_by_step": [
+          "The author presents both sides of the argument without taking a firm stance."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6106,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 2: Sustainable tourism is becoming increasingly popular as travelers seek to minimize their environmental footprint. This approach focuses on protecting natural resources, supporting local economies, and preserving cultural heritage. However, the 'greenwashing' of travel packages remains a concern, where companies claim to be eco-friendly but do not follow sustainable practices. (Question: What is 'greenwashing' according to the passage?)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cleaning the environment with green products"
+      },
+      {
+        "id": "B",
+        "text": "False claims of being eco-friendly"
+      },
+      {
+        "id": "C",
+        "text": "The process of making travel cheaper"
+      },
+      {
+        "id": "D",
+        "text": "A new type of fuel for airplanes"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "False claims of being eco-friendly",
+      "explanation": {
+        "concept": "Detail-based Question",
+        "step_by_step": [
+          "The passage defines it as companies claiming to be eco-friendly but not following practices."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6107,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 2: (Continued) What are the three pillars of sustainable tourism mentioned?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Speed, cost, and comfort"
+      },
+      {
+        "id": "B",
+        "text": "Natural resources, local economies, and cultural heritage"
+      },
+      {
+        "id": "C",
+        "text": "Air, water, and soil"
+      },
+      {
+        "id": "D",
+        "text": "Hotels, flights, and food"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Natural resources, local economies, and cultural heritage",
+      "explanation": {
+        "concept": "Detail-based Question",
+        "step_by_step": [
+          "These are explicitly listed in the second sentence."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6108,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate"
+    },
+    "question_text": "PASSAGE 2: (Continued) What is the author's primary purpose?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To advertise travel packages"
+      },
+      {
+        "id": "B",
+        "text": "To critique the travel industry"
+      },
+      {
+        "id": "C",
+        "text": "To explain sustainable tourism and its challenges"
+      },
+      {
+        "id": "D",
+        "text": "To discourage people from traveling"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "To explain sustainable tourism and its challenges",
+      "explanation": {
+        "concept": "Author's Purpose",
+        "step_by_step": [
+          "The author explains what it is and mentions a concern (greenwashing)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6109,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "PASSAGE 2: (Continued) Which word is a synonym for 'preserving' as used in the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Changing"
+      },
+      {
+        "id": "B",
+        "text": "Conserving"
+      },
+      {
+        "id": "C",
+        "text": "Ignoring"
+      },
+      {
+        "id": "D",
+        "text": "Consuming"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Conserving",
+      "explanation": {
+        "concept": "Synonyms",
+        "step_by_step": [
+          "Preserving heritage means keeping it safe or conserving it."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6110,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 2: (Continued) Why does 'greenwashing' harm the tourism industry?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It makes hotels more expensive"
+      },
+      {
+        "id": "B",
+        "text": "It misleads well-intentioned travelers"
+      },
+      {
+        "id": "C",
+        "text": "It prevents airplanes from flying"
+      },
+      {
+        "id": "D",
+        "text": "It increases the environmental footprint of travelers"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "It misleads well-intentioned travelers",
+      "explanation": {
+        "concept": "Inference-based Question",
+        "step_by_step": [
+          "Travelers seeking to minimize their footprint are misled by false claims."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6111,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 3: The concept of emotional intelligence (EI) was popularized in the 1990s. It involves the ability to recognize, understand, and manage one's own emotions, as well as the emotions of others. High EI is often linked to better leadership, improved teamwork, and higher job satisfaction. Unlike IQ, which remains relatively stable, EI can be developed and improved over time through practice and self-awareness. (Question: How does EI differ from IQ according to the passage?)",
+    "options": [
+      {
+        "id": "A",
+        "text": "EI is only for leaders"
+      },
+      {
+        "id": "B",
+        "text": "IQ is more important for job satisfaction"
+      },
+      {
+        "id": "C",
+        "text": "EI can be improved, while IQ is stable"
+      },
+      {
+        "id": "D",
+        "text": "IQ is about emotions, EI is about logic"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "EI can be improved, while IQ is stable",
+      "explanation": {
+        "concept": "Comparison-based Question",
+        "step_by_step": [
+          "The passage states: 'Unlike IQ, which remains relatively stable, EI can be developed...'"
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6112,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 3: (Continued) What are the components of EI mentioned in the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mathematics and logic"
+      },
+      {
+        "id": "B",
+        "text": "Recognizing, understanding, and managing emotions"
+      },
+      {
+        "id": "C",
+        "text": "Reading and writing skills"
+      },
+      {
+        "id": "D",
+        "text": "Physical strength and endurance"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Recognizing, understanding, and managing emotions",
+      "explanation": {
+        "concept": "Detail-based Question",
+        "step_by_step": [
+          "This is explicitly stated in the second sentence."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6113,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "PASSAGE 3: (Continued) When was the concept of emotional intelligence popularized?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1970s"
+      },
+      {
+        "id": "B",
+        "text": "1980s"
+      },
+      {
+        "id": "C",
+        "text": "1990s"
+      },
+      {
+        "id": "D",
+        "text": "2000s"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "1990s",
+      "explanation": {
+        "concept": "Factual Question",
+        "step_by_step": [
+          "The first sentence mentions the 1990s."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6114,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate"
+    },
+    "question_text": "PASSAGE 3: (Continued) Which of the following is NOT mentioned as a benefit of high EI?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Better leadership"
+      },
+      {
+        "id": "B",
+        "text": "Higher salary"
+      },
+      {
+        "id": "C",
+        "text": "Improved teamwork"
+      },
+      {
+        "id": "D",
+        "text": "Higher job satisfaction"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Higher salary",
+      "explanation": {
+        "concept": "Negative Detail Question",
+        "step_by_step": [
+          "Leadership, teamwork, and job satisfaction are mentioned. Salary is not."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6115,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 3: (Continued) What is required to improve one's emotional intelligence?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Studying for a degree"
+      },
+      {
+        "id": "B",
+        "text": "Practice and self-awareness"
+      },
+      {
+        "id": "C",
+        "text": "Increasing IQ"
+      },
+      {
+        "id": "D",
+        "text": "Avoiding emotions"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Practice and self-awareness",
+      "explanation": {
+        "concept": "Detail-based Question",
+        "step_by_step": [
+          "The text says it can be improved through 'practice and self-awareness'."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6116,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 4: Renewable energy sources, such as solar and wind power, are essential for reducing global carbon emissions. Unlike fossil fuels, which are finite and contribute to global warming, renewable energy is virtually inexhaustible. However, the intermittent nature of solar and wind energy—meaning they are not always available—poses a challenge for grid stability. Advances in battery storage technology are critical to overcoming this hurdle. (Question: What does 'intermittent' mean in this passage?)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Always available"
+      },
+      {
+        "id": "B",
+        "text": "Happening at irregular intervals; not continuous"
+      },
+      {
+        "id": "C",
+        "text": "Extremely powerful"
+      },
+      {
+        "id": "D",
+        "text": "Inexpensive"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Happening at irregular intervals; not continuous",
+      "explanation": {
+        "concept": "Vocabulary in Context",
+        "step_by_step": [
+          "The text explains it as 'not always available'."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6117,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 4: (Continued) What is a major disadvantage of fossil fuels mentioned?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are too expensive to extract"
+      },
+      {
+        "id": "B",
+        "text": "They are finite and contribute to global warming"
+      },
+      {
+        "id": "C",
+        "text": "They cannot be used for electricity"
+      },
+      {
+        "id": "D",
+        "text": "They are too abundant"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "They are finite and contribute to global warming",
+      "explanation": {
+        "concept": "Detail-based Question",
+        "step_by_step": [
+          "This is stated in the second sentence."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6118,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 4: (Continued) What is needed to solve the problem of intermittent energy availability?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Building more solar panels"
+      },
+      {
+        "id": "B",
+        "text": "Advances in battery storage technology"
+      },
+      {
+        "id": "C",
+        "text": "Using more fossil fuels as backup"
+      },
+      {
+        "id": "D",
+        "text": "Stopping the use of electricity at night"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Advances in battery storage technology",
+      "explanation": {
+        "concept": "Detail-based Question",
+        "step_by_step": [
+          "The last sentence mentions battery storage as critical to overcoming the hurdle."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6119,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "PASSAGE 4: (Continued) Which of the following is NOT listed as a renewable energy source?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solar power"
+      },
+      {
+        "id": "B",
+        "text": "Wind power"
+      },
+      {
+        "id": "C",
+        "text": "Natural gas"
+      },
+      {
+        "id": "D",
+        "text": "None of the above"
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Natural gas",
+      "explanation": {
+        "concept": "Factual Question",
+        "step_by_step": [
+          "Natural gas is a fossil fuel, not a renewable source."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6120,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "PASSAGE 4: (Continued) What is the author's primary focus in this passage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The history of electricity"
+      },
+      {
+        "id": "B",
+        "text": "The benefits and challenges of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "The cost of solar panels"
+      },
+      {
+        "id": "D",
+        "text": "Global warming statistics"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The benefits and challenges of renewable energy",
+      "explanation": {
+        "concept": "Main Idea Identification",
+        "step_by_step": [
+          "The passage discusses both why renewables are good and the challenge of their intermittency."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

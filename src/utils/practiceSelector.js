@@ -81,13 +81,21 @@ export async function getPracticeQuestions(subject, count, seedStr) {
     const offset = dayIdx * (steps[subject] || count);
 
     const selected = [];
+    
+    // 1. Pick from Fresh Pool first (Sequential - FROM THE END)
     if (freshPool.length > 0) {
+      const len = freshPool.length;
       for (let i = 0; i < count && selected.length < count; i++) {
-        const q = freshPool[(offset + i) % freshPool.length];
+        // Pick from the end backwards based on offset
+        const index = (len - 1 - offset - i);
+        // Standard positive modulo to handle negative wraps
+        const wrappedIndex = ((index % len) + len) % len;
+        const q = freshPool[wrappedIndex];
         if (q) selected.push(normalizeQuestion(q, q._filename, subject));
       }
     }
 
+    // 2. Fallback to Attempted Pool (Randomized per Day) if needed
     if (selected.length < count && attemptedPool.length > 0) {
       let seed = dayIdx; 
       const shuffledAttempted = [...attemptedPool].sort(() => {

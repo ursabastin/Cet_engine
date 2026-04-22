@@ -1,0 +1,596 @@
+[
+  {
+    "id": 6001,
+    "subject": "English Language",
+    "chapter": "Grammar",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Change the following sentence into Passive Voice:\n'The scientist discovered a new element.'",
+    "options": [
+      {
+        "id": "A",
+        "text": "A new element was discovered by the scientist."
+      },
+      {
+        "id": "B",
+        "text": "A new element is discovered by the scientist."
+      },
+      {
+        "id": "C",
+        "text": "A new element has been discovered by the scientist."
+      },
+      {
+        "id": "D",
+        "text": "The discovery of a new element was made by the scientist."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "A new element was discovered by the scientist.",
+      "explanation": {
+        "concept": "Active to Passive Voice (Simple Past)",
+        "step_by_step": [
+          "Identify Subject (Scientist), Verb (Discovered), Object (New Element).",
+          "For Simple Past: Object + was/were + V3 + by + Subject.",
+          "'A new element' + 'was' + 'discovered' + 'by the scientist'."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6002,
+    "subject": "English Language",
+    "chapter": "Grammar",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate"
+    },
+    "question_text": "Convert the following into Indirect Speech:\nShe said, 'I will visit the museum tomorrow.'",
+    "options": [
+      {
+        "id": "A",
+        "text": "She said that she will visit the museum tomorrow."
+      },
+      {
+        "id": "B",
+        "text": "She said that she would visit the museum the next day."
+      },
+      {
+        "id": "C",
+        "text": "She told that she would visit the museum tomorrow."
+      },
+      {
+        "id": "D",
+        "text": "She says she would visit the museum the following day."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "She said that she would visit the museum the next day.",
+      "explanation": {
+        "concept": "Direct to Indirect Speech",
+        "step_by_step": [
+          "Change 'will' to 'would' (tense shift).",
+          "Change 'tomorrow' to 'the next day' or 'the following day' (time reference shift).",
+          "Use 'that' connector."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6003,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Passive Voice of: 'Who wrote this book?'",
+    "options": [
+      {
+        "id": "A",
+        "text": "By whom was this book written?"
+      },
+      {
+        "id": "B",
+        "text": "Who was this book written by?"
+      },
+      {
+        "id": "C",
+        "text": "This book was written by whom?"
+      },
+      {
+        "id": "D",
+        "text": "Both A and B"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Both A and B",
+      "explanation": {
+        "concept": "Interrogative Passive Voice",
+        "step_by_step": [
+          "For 'Who' questions: 'By whom' + auxiliary + object + V3 OR 'Who' + auxiliary + object + V3 + 'by'.",
+          "Both forms are grammatically correct in modern English."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6004,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 5,
+      "label": "hard"
+    },
+    "question_text": "Indirect Speech of: The teacher said, 'The sun rises in the east.'",
+    "options": [
+      {
+        "id": "A",
+        "text": "The teacher said that the sun rose in the east."
+      },
+      {
+        "id": "B",
+        "text": "The teacher said that the sun rises in the east."
+      },
+      {
+        "id": "C",
+        "text": "The teacher told that the sun rises in the east."
+      },
+      {
+        "id": "D",
+        "text": "The teacher said the sun had risen in the east."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The teacher said that the sun rises in the east.",
+      "explanation": {
+        "concept": "Universal Truths in Narration",
+        "step_by_step": [
+          "When the reported speech contains a universal truth or habitual fact, the tense remains unchanged."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6005,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Passive Voice of: 'Please shut the door.'",
+    "options": [
+      {
+        "id": "A",
+        "text": "The door should be shut."
+      },
+      {
+        "id": "B",
+        "text": "You are requested to shut the door."
+      },
+      {
+        "id": "C",
+        "text": "Let the door be shut."
+      },
+      {
+        "id": "D",
+        "text": "Shut the door was requested by you."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "You are requested to shut the door.",
+      "explanation": {
+        "concept": "Imperative Passive Voice (Request)",
+        "step_by_step": [
+          "When 'Please' is used, the passive form usually starts with 'You are requested to'."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6006,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate"
+    },
+    "question_text": "Indirect Speech of: He said to me, 'Where are you going?'",
+    "options": [
+      {
+        "id": "A",
+        "text": "He asked me where I was going."
+      },
+      {
+        "id": "B",
+        "text": "He asked me where was I going."
+      },
+      {
+        "id": "C",
+        "text": "He said to me where I was going."
+      },
+      {
+        "id": "D",
+        "text": "He questioned me where am I going."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "He asked me where I was going.",
+      "explanation": {
+        "concept": "Interrogative Narration",
+        "step_by_step": [
+          "Change 'said to' to 'asked'.",
+          "The question form becomes an assertive form (Subject before Verb).",
+          "'Are you going' (Present Continuous) becomes 'I was going' (Past Continuous)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6007,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Passive Voice of: 'They are playing cricket.'",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cricket is played by them."
+      },
+      {
+        "id": "B",
+        "text": "Cricket was being played by them."
+      },
+      {
+        "id": "C",
+        "text": "Cricket is being played by them."
+      },
+      {
+        "id": "D",
+        "text": "Cricket has been played by them."
+      }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Cricket is being played by them.",
+      "explanation": {
+        "concept": "Continuous Tense Passive",
+        "step_by_step": [
+          "For Present Continuous: Object + is/am/are + being + V3 + by + Subject."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6008,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 5,
+      "label": "hard"
+    },
+    "question_text": "Indirect Speech of: My father said, 'Honesty is the best policy.'",
+    "options": [
+      {
+        "id": "A",
+        "text": "My father said that honesty was the best policy."
+      },
+      {
+        "id": "B",
+        "text": "My father said that honesty is the best policy."
+      },
+      {
+        "id": "C",
+        "text": "My father told honesty is the best policy."
+      },
+      {
+        "id": "D",
+        "text": "My father suggested honesty being the best policy."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "My father said that honesty is the best policy.",
+      "explanation": {
+        "concept": "Proverbs/Sayings in Narration",
+        "step_by_step": [
+          "Tense does not change for universal proverbs and established sayings."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6009,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Passive Voice of: 'She has completed the assignment.'",
+    "options": [
+      {
+        "id": "A",
+        "text": "The assignment was completed by her."
+      },
+      {
+        "id": "B",
+        "text": "The assignment has been completed by her."
+      },
+      {
+        "id": "C",
+        "text": "The assignment is completed by her."
+      },
+      {
+        "id": "D",
+        "text": "The assignment had been completed by her."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The assignment has been completed by her.",
+      "explanation": {
+        "concept": "Perfect Tense Passive",
+        "step_by_step": [
+          "For Present Perfect: Object + has/have + been + V3 + by + Subject."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6010,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Passive Voice of: \"Open the window.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "Let the window be opened."
+      },
+      {
+        "id": "B",
+        "text": "The window must be opened."
+      },
+      {
+        "id": "C",
+        "text": "Open the window please."
+      },
+      {
+        "id": "D",
+        "text": "Window should be open."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Let the window be opened.",
+      "explanation": {
+        "concept": "Imperative Passive (Order)",
+        "step_by_step": [
+          "For commands/orders: Let + object + be + V3."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6011,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 5,
+      "label": "hard"
+    },
+    "question_text": "Indirect Speech of: He said, \"Alas! I am undone.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "He said sadly that he was undone."
+      },
+      {
+        "id": "B",
+        "text": "He exclaimed with sorrow that he was undone."
+      },
+      {
+        "id": "C",
+        "text": "He exclaimed that he is undone."
+      },
+      {
+        "id": "D",
+        "text": "He cried that he was undone."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He exclaimed with sorrow that he was undone.",
+      "explanation": {
+        "concept": "Exclamatory Narration",
+        "step_by_step": [
+          "\"Alas\" indicates sorrow. Change \"said\" to \"exclaimed with sorrow\"."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6012,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Passive Voice of: \"Someone has stolen my pen.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "My pen has been stolen by someone."
+      },
+      {
+        "id": "B",
+        "text": "My pen has been stolen."
+      },
+      {
+        "id": "C",
+        "text": "Someone has my pen stolen."
+      },
+      {
+        "id": "D",
+        "text": "My pen was stolen."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "My pen has been stolen.",
+      "explanation": {
+        "concept": "Passive with Indefinite Pronouns",
+        "step_by_step": [
+          "When the subject is \"someone\", \"people\", etc., it is often omitted in passive voice for brevity and natural flow."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6013,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 5,
+      "label": "intermediate"
+    },
+    "question_text": "Indirect Speech of: The boss said to the employee, \"Don't be late tomorrow.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "The boss told the employee not to be late the next day."
+      },
+      {
+        "id": "B",
+        "text": "The boss ordered the employee to not be late tomorrow."
+      },
+      {
+        "id": "C",
+        "text": "The boss warned the employee to be late the next day."
+      },
+      {
+        "id": "D",
+        "text": "The boss said to the employee don't be late following day."
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "The boss told the employee not to be late the next day.",
+      "explanation": {
+        "concept": "Imperative Negative Narration",
+        "step_by_step": [
+          "Change \"Don't\" to \"not to\". Change \"tomorrow\" to \"the next day\"."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6014,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Passive Voice of: \"I know him.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "He is known by me."
+      },
+      {
+        "id": "B",
+        "text": "He is known to me."
+      },
+      {
+        "id": "C",
+        "text": "He was known to me."
+      },
+      {
+        "id": "D",
+        "text": "He is known with me."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "He is known to me.",
+      "explanation": {
+        "concept": "Passive with Specific Verbs",
+        "step_by_step": [
+          "The verb \"know\" takes the preposition \"to\" instead of \"by\" in passive voice."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6015,
+    "subject": "English Language",
+    "topic": "Voice & Narration",
+    "difficulty": {
+      "level": 5,
+      "label": "hard"
+    },
+    "question_text": "Indirect Speech of: She said to me, \"May you live long!\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "She said that I might live long."
+      },
+      {
+        "id": "B",
+        "text": "She wished that I might live long."
+      },
+      {
+        "id": "C",
+        "text": "She prayed that I may live long."
+      },
+      {
+        "id": "D",
+        "text": "She blessed me that you might live long."
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "She wished that I might live long.",
+      "explanation": {
+        "concept": "Optative Narration",
+        "step_by_step": [
+          "Change \"said to\" to \"wished/prayed\". Change \"may\" to \"might\"."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

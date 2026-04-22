@@ -1,0 +1,250 @@
+[
+  {
+    "id": 8301,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Statements: A > B, B = C, C < D\nConclusion I: A > C\nConclusion II: B < D",
+    "options": [
+      { "id": "A", "text": "Only I follows" },
+      { "id": "B", "text": "Only II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both I and II follow",
+      "explanation": {
+        "concept": "Basic Inequalities",
+        "step_by_step": [
+          "Since B = C, A > B implies A > C (I follows).",
+          "Since B = C and C < D, B < D (II follows)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8302,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Statements: P \u2264 Q, Q < R, R \u2265 S\nConclusion I: P < R\nConclusion II: Q \u2265 S",
+    "options": [
+      { "id": "A", "text": "Only I follows" },
+      { "id": "B", "text": "Only II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Transitive Property",
+        "step_by_step": [
+          "P \u2264 Q < R implies P < R (I follows).",
+          "There is no direct or consistent relationship between Q and S because of the opposite signs (II does not follow)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8303,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Statements: X = Y, Y \u2265 Z, Z > W\nConclusion I: X > W\nConclusion II: Y = Z",
+    "options": [
+      { "id": "A", "text": "Only I follows" },
+      { "id": "B", "text": "Only II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Definite vs Possible",
+        "step_by_step": [
+          "X = Y \u2265 Z > W means X > W (definite, I follows).",
+          "Y \u2265 Z means Y is either greater than OR equal to Z; Y = Z is only one possibility, not a definite conclusion (II doesn't follow)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8304,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 5, "label": "hard" },
+    "question_text": "Statements: L > M, M \u2264 N, N < O, P \u2265 O\nConclusion I: L > N\nConclusion II: M < P",
+    "options": [
+      { "id": "A", "text": "Only I follows" },
+      { "id": "B", "text": "Only II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only II follows",
+      "explanation": {
+        "concept": "Complex Chains",
+        "step_by_step": [
+          "L > M and M \u2264 N: the signs are opposite, so no definite relation between L and N (I doesn't follow).",
+          "M \u2264 N < O \u2264 P implies M < P (II follows)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8305,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "In which of the following expressions does 'A < C' hold definitely true?",
+    "options": [
+      { "id": "A", "text": "A \u2264 B = C" },
+      { "id": "B", "text": "A < B \u2264 C" },
+      { "id": "C", "text": "A = B \u2265 C" },
+      { "id": "D", "text": "A > B < C" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A < B \u2264 C",
+      "explanation": {
+        "concept": "Strict Inequalities",
+        "step_by_step": [
+          "In B, A is strictly less than B, and B is at most C, so A must be strictly less than C."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8306,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Statements: H \u2265 I, I = J, J \u2264 K\nConclusion I: H \u2265 J\nConclusion II: I \u2264 K",
+    "options": [
+      { "id": "A", "text": "Only I follows" },
+      { "id": "B", "text": "Only II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both I and II follow",
+      "explanation": {
+        "concept": "Combined Inequalities",
+        "step_by_step": [
+          "H \u2265 I = J implies H \u2265 J.",
+          "I = J \u2264 K implies I \u2264 K."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8307,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 5, "label": "hard" },
+    "question_text": "Statements: R > S, S \u2265 T, T < U, V = U\nConclusion I: R > T\nConclusion II: S < V",
+    "options": [
+      { "id": "A", "text": "Only I follows" },
+      { "id": "B", "text": "Only II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Sign Breaks",
+        "step_by_step": [
+          "R > S \u2265 T implies R > T (I follows).",
+          "S \u2265 T < U means no relation between S and U/V (II doesn't follow)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8308,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Statements: M = N, N > O, O \u2265 P\nConclusion I: M > P\nConclusion II: N \u2265 P",
+    "options": [
+      { "id": "A", "text": "Only I follows" },
+      { "id": "B", "text": "Only II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only I follows",
+      "explanation": {
+        "concept": "Definite Comparison",
+        "step_by_step": [
+          "M = N > O \u2265 P means M is definitely greater than P (I follows).",
+          "N > O \u2265 P means N is definitely greater than P, not equal (II is incomplete/wrong)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8309,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 5, "label": "hard" },
+    "question_text": "Statements: A \u2264 B, B < C, D = C, D \u2264 E\nConclusion I: A < E\nConclusion II: B < E",
+    "options": [
+      { "id": "A", "text": "Only I follows" },
+      { "id": "B", "text": "Only II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Both I and II follow",
+      "explanation": {
+        "concept": "Multi-Step Logic",
+        "step_by_step": [
+          "A \u2264 B < C = D \u2264 E implies A < E (I follows).",
+          "B < C = D \u2264 E implies B < E (II follows)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 8310,
+    "subject": "Logical Reasoning",
+    "topic": "Symbolic Inequalities",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "In which expression is 'Z > X' definitely false?",
+    "options": [
+      { "id": "A", "text": "X < Y = Z" },
+      { "id": "B", "text": "Z \u2265 Y > X" },
+      { "id": "C", "text": "X = Y > Z" },
+      { "id": "D", "text": "X \u2264 Y < Z" }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "X = Y > Z",
+      "explanation": {
+        "concept": "Contradiction",
+        "step_by_step": [
+          "In C, X is greater than Z, which contradicts Z > X."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

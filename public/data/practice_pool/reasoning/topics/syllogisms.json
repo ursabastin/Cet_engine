@@ -1,0 +1,237 @@
+[
+  {
+    "id": 4001,
+    "subject": "Logical Reasoning",
+    "chapter": "Verbal Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Statements:\nI. All birds are wings.\nII. All wings are flying objects.\n\nConclusions:\nI. All birds are flying objects.\nII. Some flying objects are birds.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Either I or II follows" },
+      { "id": "D", "text": "Both I and II follow" }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Both I and II follow",
+      "explanation": {
+        "concept": "Standard Syllogism (All A are B, All B are C -> All A are C)",
+        "step_by_step": [
+          "From Statement I and II: Birds ⊂ Wings ⊂ Flying Objects.",
+          "Since Birds are a subset of Wings, and Wings are a subset of Flying Objects, all Birds are Flying Objects (Conclusion I follows).",
+          "Since Birds are a part of the Flying Objects set, some Flying Objects are definitely Birds (Conclusion II follows)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 4002,
+    "subject": "Logical Reasoning",
+    "chapter": "Verbal Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 5, "label": "intermediate" },
+    "question_text": "Statements:\nI. Some pens are pencils.\nII. All pencils are erasers.\n\nConclusions:\nI. All erasers are pencils.\nII. Some erasers are pens.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Neither I nor II follows" },
+      { "id": "D", "text": "Both I and II follow" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only conclusion II follows",
+      "explanation": {
+        "concept": "Categorical Syllogism",
+        "step_by_step": [
+          "Statement II says All Pencils ⊂ Erasers. This does not mean All Erasers ⊂ Pencils. So Conclusion I fails.",
+          "Some Pens overlap with Pencils (Stmt I), and all Pencils are inside Erasers (Stmt II). Therefore, the Pens that are Pencils must also be Erasers. So Conclusion II follows."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 4003,
+    "subject": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Statements:\nI. No cat is a dog.\nII. No dog is a lion.\n\nConclusions:\nI. No cat is a lion.\nII. Some lions are cats.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Neither I nor II follows" },
+      { "id": "D", "text": "Either I or II follows" }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Neither I nor II follows",
+      "explanation": {
+        "concept": "Negative Syllogism (No A is B, No B is C)",
+        "step_by_step": [
+          "Cat and Dog are disjoint. Dog and Lion are disjoint.",
+          "However, this does not give any direct information about the relationship between Cat and Lion.",
+          "They could be disjoint, overlapping, or one could be a subset of the other.",
+          "Therefore, neither 'No' nor 'Some' can be concluded definitely."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 4004,
+    "subject": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Statements:\nI. All apples are red.\nII. Some red items are fruits.\n\nConclusions:\nI. Some apples are fruits.\nII. Some fruits are red.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Both I and II follow" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only conclusion II follows",
+      "explanation": {
+        "concept": "Middle Term Relationship",
+        "step_by_step": [
+          "All apples are inside the 'red' circle. Some 'red' circle overlaps with 'fruits'.",
+          "There is no guarantee that the overlap of 'red' and 'fruits' includes the 'apples' section. So Conclusion I is not definite.",
+          "Conclusion II is simply a restatement of Statement II (If some red are fruits, some fruits are red). So it follows."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 4005,
+    "subject": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 5, "label": "intermediate" },
+    "question_text": "Statements:\nI. Only a few students are dancers.\nII. No dancer is a singer.\n\nConclusions:\nI. Some students are not singers.\nII. All students being singers is a possibility.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Neither I nor II follows" },
+      { "id": "D", "text": "Both I and II follow" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Only conclusion I follows",
+      "explanation": {
+        "concept": "Only a few + Negative overlap",
+        "step_by_step": [
+          "'Only a few students are dancers' means Some students are dancers AND Some students are NOT dancers.",
+          "Since some students are definitely dancers, and no dancer is a singer, those specific students who are dancers cannot be singers. Thus, 'Some students are not singers' is definitely true (Conclusion I follows).",
+          "Because some students MUST be dancers and dancers CANNOT be singers, all students can NEVER be singers. Thus, Conclusion II is false."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 4006,
+    "subject": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Statements:\nI. All tables are chairs.\nII. No chair is a bench.\n\nConclusions:\nI. All tables being benches is a possibility.\nII. No table is a bench.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Neither I nor II follows" },
+      { "id": "D", "text": "Both I and II follow" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only conclusion II follows",
+      "explanation": {
+        "concept": "Negative inheritance",
+        "step_by_step": [
+          "Tables ⊂ Chairs. Chairs and Benches are disjoint (No Chair is Bench).",
+          "Therefore, anything inside the 'Chairs' circle (Tables) can never touch the 'Bench' circle.",
+          "No Table is Bench is definitely true. The possibility of them overlapping is zero."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 4007,
+    "subject": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Statements:\nI. All windows are doors.\nII. Some doors are walls.\n\nConclusions:\nI. Some windows are walls.\nII. No window is a wall.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Either I or II follows" },
+      { "id": "D", "text": "Neither I nor II follows" }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "Either I or II follows",
+      "explanation": {
+        "concept": "Complementary Pair (Either-Or)",
+        "step_by_step": [
+          "Both conclusions are not definitely true individually based on the statements.",
+          "However, they form a 'Some' + 'No' pair with the same elements (windows and walls).",
+          "In any scenario, either there will be at least one window that is a wall, or there will be no window that is a wall. Thus, it's an 'Either-Or' case."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 4008,
+    "subject": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 5, "label": "hard" },
+    "question_text": "Statements:\nI. No plastic is wood.\nII. Some wood is metal.\n\nConclusions:\nI. Some metal is not plastic.\nII. All plastic being metal is a possibility.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Neither I nor II follows" },
+      { "id": "D", "text": "Both I and II follow" }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "Both I and II follow",
+      "explanation": {
+        "concept": "Negative Overlap + Possibility",
+        "step_by_step": [
+          "The part of Metal that is Wood can never be Plastic (because No Wood is Plastic). So 'Some Metal is not Plastic' is true (Conclusion I follows).",
+          "There is no restriction on Plastic being a subset of the 'Metal' circle, as long as it doesn't touch the 'Wood' part. So 'All plastic being metal' is a possibility (Conclusion II follows)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 4009,
+    "subject": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Statements:\nI. Every ocean is water.\nII. 0% water is land.\n\nConclusions:\nI. All oceans are land.\nII. No ocean is land.",
+    "options": [
+      { "id": "A", "text": "Only conclusion I follows" },
+      { "id": "B", "text": "Only conclusion II follows" },
+      { "id": "C", "text": "Either I or II follows" },
+      { "id": "D", "text": "Both I and II follow" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Only conclusion II follows",
+      "explanation": {
+        "concept": "Universal Negative (No A is B)",
+        "step_by_step": [
+          "'Every ocean is water' = All oceans are water.",
+          "'0% water is land' = No water is land.",
+          "If no water is land, and all oceans are inside water, then no ocean can be land."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

@@ -1,0 +1,589 @@
+[
+  {
+    "id": 6201,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "The students were asked to look _____ the meanings of the new words in the dictionary.",
+    "options": [
+      {
+        "id": "A",
+        "text": "up"
+      },
+      {
+        "id": "B",
+        "text": "at"
+      },
+      {
+        "id": "C",
+        "text": "into"
+      },
+      {
+        "id": "D",
+        "text": "on"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "up",
+      "explanation": {
+        "concept": "Phrasal Verbs (Look)",
+        "step_by_step": [
+          "'Look up' means to search for information in a reference book or database."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6202,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "She has been suffering _____ a severe headache since morning.",
+    "options": [
+      {
+        "id": "A",
+        "text": "with"
+      },
+      {
+        "id": "B",
+        "text": "from"
+      },
+      {
+        "id": "C",
+        "text": "by"
+      },
+      {
+        "id": "D",
+        "text": "to"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "from",
+      "explanation": {
+        "concept": "Fixed Prepositions",
+        "step_by_step": [
+          "The verb 'suffer' is followed by the preposition 'from' when referring to an illness."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6203,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "The manager congratulated the team _____ their successful project completion.",
+    "options": [
+      {
+        "id": "A",
+        "text": "for"
+      },
+      {
+        "id": "B",
+        "text": "on"
+      },
+      {
+        "id": "C",
+        "text": "with"
+      },
+      {
+        "id": "D",
+        "text": "about"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "on",
+      "explanation": {
+        "concept": "Fixed Prepositions",
+        "step_by_step": [
+          "One is 'congratulated on' something, not 'for' something in formal grammar."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6204,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "He is very good _____ playing the piano.",
+    "options": [
+      {
+        "id": "A",
+        "text": "in"
+      },
+      {
+        "id": "B",
+        "text": "at"
+      },
+      {
+        "id": "C",
+        "text": "with"
+      },
+      {
+        "id": "D",
+        "text": "about"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "at",
+      "explanation": {
+        "concept": "Adjectives followed by Prepositions",
+        "step_by_step": [
+          "The correct expression is 'good at' an activity."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6205,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 5,
+      "label": "hard"
+    },
+    "question_text": "The rules are applicable _____ every citizen of the country.",
+    "options": [
+      {
+        "id": "A",
+        "text": "to"
+      },
+      {
+        "id": "B",
+        "text": "for"
+      },
+      {
+        "id": "C",
+        "text": "with"
+      },
+      {
+        "id": "D",
+        "text": "on"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "to",
+      "explanation": {
+        "concept": "Fixed Prepositions",
+        "step_by_step": [
+          "The adjective 'applicable' is followed by the preposition 'to'."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6206,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "We discussed the matter _____ the dinner table.",
+    "options": [
+      {
+        "id": "A",
+        "text": "on"
+      },
+      {
+        "id": "B",
+        "text": "at"
+      },
+      {
+        "id": "C",
+        "text": "with"
+      },
+      {
+        "id": "D",
+        "text": "over"
+      }
+    ],
+    "correct_option": "D",
+    "solution": {
+      "final_answer": "over",
+      "explanation": {
+        "concept": "Prepositions of Occasion",
+        "step_by_step": [
+          "'Over dinner' or 'over the dinner table' means while eating or during the meal."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6207,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "The cat jumped _____ the fence to escape the dog.",
+    "options": [
+      {
+        "id": "A",
+        "text": "on"
+      },
+      {
+        "id": "B",
+        "text": "over"
+      },
+      {
+        "id": "C",
+        "text": "across"
+      },
+      {
+        "id": "D",
+        "text": "through"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "over",
+      "explanation": {
+        "concept": "Prepositions of Motion",
+        "step_by_step": [
+          "'Over' indicates movement from one side to the other across the top of an object."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6208,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "They have been living in this house _____ 2010.",
+    "options": [
+      {
+        "id": "A",
+        "text": "for"
+      },
+      {
+        "id": "B",
+        "text": "since"
+      },
+      {
+        "id": "C",
+        "text": "from"
+      },
+      {
+        "id": "D",
+        "text": "during"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "since",
+      "explanation": {
+        "concept": "Since vs For",
+        "step_by_step": [
+          "'Since' is used for a point in time.",
+          "'For' is used for a duration/period of time."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6209,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Are you familiar _____ the latest software updates?",
+    "options": [
+      {
+        "id": "A",
+        "text": "to"
+      },
+      {
+        "id": "B",
+        "text": "with"
+      },
+      {
+        "id": "C",
+        "text": "about"
+      },
+      {
+        "id": "D",
+        "text": "by"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "with",
+      "explanation": {
+        "concept": "Fixed Prepositions",
+        "step_by_step": [
+          "The adjective 'familiar' is followed by 'with' when referring to knowledge of something."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6210,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 5,
+      "label": "hard"
+    },
+    "question_text": "The dispute was settled _____ the two parties out of court.",
+    "options": [
+      {
+        "id": "A",
+        "text": "among"
+      },
+      {
+        "id": "B",
+        "text": "between"
+      },
+      {
+        "id": "C",
+        "text": "with"
+      },
+      {
+        "id": "D",
+        "text": "by"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "between",
+      "explanation": {
+        "concept": "Between vs Among",
+        "step_by_step": [
+          "'Between' is used for two distinct parties/items.",
+          "'Among' is used for more than two."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6211,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "He traveled all _____ the world to collect rare stamps.",
+    "options": [
+      {
+        "id": "A",
+        "text": "through"
+      },
+      {
+        "id": "B",
+        "text": "over"
+      },
+      {
+        "id": "C",
+        "text": "across"
+      },
+      {
+        "id": "D",
+        "text": "around"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "over",
+      "explanation": {
+        "concept": "Idiomatic Prepositions",
+        "step_by_step": [
+          "'All over the world' is a common idiomatic expression."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6212,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "The plane flew _____ the clouds.",
+    "options": [
+      {
+        "id": "A",
+        "text": "above"
+      },
+      {
+        "id": "B",
+        "text": "on"
+      },
+      {
+        "id": "C",
+        "text": "over"
+      },
+      {
+        "id": "D",
+        "text": "through"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "above",
+      "explanation": {
+        "concept": "Prepositions of Position",
+        "step_by_step": [
+          "'Above' indicates a higher level without direct contact."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6213,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "I am looking forward _____ meeting you next week.",
+    "options": [
+      {
+        "id": "A",
+        "text": "to"
+      },
+      {
+        "id": "B",
+        "text": "for"
+      },
+      {
+        "id": "C",
+        "text": "at"
+      },
+      {
+        "id": "D",
+        "text": "about"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "to",
+      "explanation": {
+        "concept": "Phrasal Verbs (Forward)",
+        "step_by_step": [
+          "'Looking forward to' is a fixed phrase followed by a gerund or noun."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6214,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 3,
+      "label": "basic"
+    },
+    "question_text": "Divide these sweets _____ the children.",
+    "options": [
+      {
+        "id": "A",
+        "text": "between"
+      },
+      {
+        "id": "B",
+        "text": "among"
+      },
+      {
+        "id": "C",
+        "text": "with"
+      },
+      {
+        "id": "D",
+        "text": "to"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "among",
+      "explanation": {
+        "concept": "Between vs Among",
+        "step_by_step": [
+          "Use 'among' when referring to more than two people."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 6215,
+    "subject": "English Language",
+    "topic": "Prepositions",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "She is married _____ a famous actor.",
+    "options": [
+      {
+        "id": "A",
+        "text": "with"
+      },
+      {
+        "id": "B",
+        "text": "to"
+      },
+      {
+        "id": "C",
+        "text": "by"
+      },
+      {
+        "id": "D",
+        "text": "at"
+      }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "to",
+      "explanation": {
+        "concept": "Fixed Prepositions",
+        "step_by_step": [
+          "In formal English, you are 'married to' someone, not 'married with'."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

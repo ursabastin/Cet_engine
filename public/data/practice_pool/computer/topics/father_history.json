@@ -590,5 +590,45 @@
       "formulae": []
     },
     "subtopic": "Fundamentals"
+  },
+  {
+    "id": 3009,
+    "subject": "Computer Basics",
+    "topic": "Father / History",
+    "difficulty": {
+      "level": 4,
+      "label": "moderate"
+    },
+    "question_text": "Who is widely considered the 'Father of Modern Computer Science' and Artificial Intelligence?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alan Turing"
+      },
+      {
+        "id": "B",
+        "text": "Charles Babbage"
+      },
+      {
+        "id": "C",
+        "text": "John von Neumann"
+      },
+      {
+        "id": "D",
+        "text": "Grace Hopper"
+      }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Alan Turing",
+      "explanation": {
+        "concept": "Theoretical Computer Science",
+        "step_by_step": [
+          "Alan Turing provided the formalization of the concepts of algorithm and computation with the Turing machine.",
+          "He is considered the father of theoretical computer science and artificial intelligence."
+        ]
+      }
+    },
+    "question_state": "active"
   }
 ]

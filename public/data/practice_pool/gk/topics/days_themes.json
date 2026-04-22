@@ -1,0 +1,242 @@
+[
+  {
+    "id": 7301,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "When is 'World Environment Day' celebrated globally?",
+    "options": [
+      { "id": "A", "text": "June 5" },
+      { "id": "B", "text": "July 11" },
+      { "id": "C", "text": "September 16" },
+      { "id": "D", "text": "April 22" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "June 5",
+      "explanation": {
+        "concept": "Global Awareness Days",
+        "step_by_step": [
+          "June 5th is the UN's principal vehicle for encouraging awareness and action for the protection of the environment."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7302,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "International Yoga Day is observed annually on:",
+    "options": [
+      { "id": "A", "text": "June 21" },
+      { "id": "B", "text": "March 20" },
+      { "id": "C", "text": "May 31" },
+      { "id": "D", "text": "December 1" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "June 21",
+      "explanation": {
+        "concept": "Global Awareness Days",
+        "step_by_step": [
+          "It was proposed by India and endorsed by the UN General Assembly."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7303,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "National Science Day in India (February 28) commemorates the discovery of:",
+    "options": [
+      { "id": "A", "text": "The zero" },
+      { "id": "B", "text": "The Raman Effect" },
+      { "id": "C", "text": "Nuclear energy" },
+      { "id": "D", "text": "Green Revolution" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The Raman Effect",
+      "explanation": {
+        "concept": "National Days",
+        "step_by_step": [
+          "Discovered by Sir C.V. Raman in 1928, for which he won the Nobel Prize."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7304,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "When is the 'World Health Day' celebrated?",
+    "options": [
+      { "id": "A", "text": "April 7" },
+      { "id": "B", "text": "May 1" },
+      { "id": "C", "text": "June 14" },
+      { "id": "D", "text": "August 12" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "April 7",
+      "explanation": {
+        "concept": "Global Awareness Days",
+        "step_by_step": [
+          "It marks the anniversary of the founding of the WHO in 1948."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7305,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "In India, National Voters' Day is celebrated on:",
+    "options": [
+      { "id": "A", "text": "August 15" },
+      { "id": "B", "text": "January 25" },
+      { "id": "C", "text": "January 26" },
+      { "id": "D", "text": "October 2" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "January 25",
+      "explanation": {
+        "concept": "National Days",
+        "step_by_step": [
+          "Celebrated to encourage more young voters to take part in the political process."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7306,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 5, "label": "intermediate" },
+    "question_text": "What is the primary theme of 'Earth Day' (April 22)?",
+    "options": [
+      { "id": "A", "text": "Protecting Oceans" },
+      { "id": "B", "text": "Investing in Our Planet" },
+      { "id": "C", "text": "Planting Trees" },
+      { "id": "D", "text": "Cleaning the Streets" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Investing in Our Planet",
+      "explanation": {
+        "concept": "Global Themes",
+        "step_by_step": [
+          "This has been the consistent theme for 2022-2023, often repeated in competitive exams."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7307,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "World Water Day is observed on:",
+    "options": [
+      { "id": "A", "text": "March 22" },
+      { "id": "B", "text": "April 22" },
+      { "id": "C", "text": "May 22" },
+      { "id": "D", "text": "June 22" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "March 22",
+      "explanation": {
+        "concept": "Global Awareness Days",
+        "step_by_step": [
+          "Focuses on the importance of freshwater and sustainable management."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7308,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "December 1st is observed as:",
+    "options": [
+      { "id": "A", "text": "World AIDS Day" },
+      { "id": "B", "text": "Human Rights Day" },
+      { "id": "C", "text": "World Food Day" },
+      { "id": "D", "text": "Consumer Rights Day" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "World AIDS Day",
+      "explanation": {
+        "concept": "Global Health Awareness",
+        "step_by_step": [
+          "Dedicated to raising awareness of the AIDS pandemic caused by HIV."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7309,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Teacher's Day in India is celebrated on September 5th to mark the birthday of:",
+    "options": [
+      { "id": "A", "text": "Mahatma Gandhi" },
+      { "id": "B", "text": "Dr. Sarvepalli Radhakrishnan" },
+      { "id": "C", "text": "Jawaharlal Nehru" },
+      { "id": "D", "text": "A.P.J. Abdul Kalam" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Dr. Sarvepalli Radhakrishnan",
+      "explanation": {
+        "concept": "National Days",
+        "step_by_step": [
+          "He was the first Vice President and second President of India."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 7310,
+    "subject": "General Knowledge",
+    "topic": "Important Days & Themes",
+    "difficulty": { "level": 5, "label": "hard" },
+    "question_text": "When is 'World Tourism Day' celebrated?",
+    "options": [
+      { "id": "A", "text": "September 27" },
+      { "id": "B", "text": "January 25" },
+      { "id": "C", "text": "May 27" },
+      { "id": "D", "text": "November 27" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "September 27",
+      "explanation": {
+        "concept": "Global Awareness Days",
+        "step_by_step": [
+          "Observed to spread awareness about the role of tourism within the international community."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

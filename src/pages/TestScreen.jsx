@@ -93,6 +93,16 @@ export default function TestScreen({
     }
   };
 
+  const topicHeaders = questions.map((q, idx) => {
+    const currentName = q.topicMeta?.name || 'General Questions';
+    const prevName = idx > 0 ? (questions[idx-1].topicMeta?.name || 'General Questions') : null;
+    
+    if (idx === 0 || currentName !== prevName) {
+      return { idx, name: currentName };
+    }
+    return null;
+  }).filter(Boolean);
+
   const handleNext = () => {
     if (currentIndex < total - 1) {
       updateTimeSpent(currentIndex);
@@ -168,14 +178,14 @@ export default function TestScreen({
           </button>
           <div className="flex flex-col">
             <h1 className="text-[11px] font-black text-white leading-none mb-1 uppercase tracking-[0.2em] italic">
-              {type === 'B' ? 'UNLIMITED PRACTICE SESSION' : `STRATEGIC MOCK TEST — ${date}`}
+              {mode === 'endurance' ? `SYLLABUS ENDURANCE MOCK — ${questions[0]?.subject.toUpperCase()}` : (type === 'B' ? 'UNLIMITED PRACTICE SESSION' : `STRATEGIC MOCK TEST — ${date}`)}
             </h1>
             <span className="text-[9px] uppercase font-bold text-blue-400 tracking-[0.1em] opacity-60">
               System Interface v2.0 · Live Examination
             </span>
           </div>
         </div>
-        <Timer totalSeconds={type === 'B' ? null : 240 * 60} hidden={type === 'B' || readOnly} onExpire={() => onSubmit(answers)} />
+        <Timer totalSeconds={mode === 'endurance' ? 25 * 60 : (type === 'B' ? null : 240 * 60)} hidden={type === 'B' || readOnly} onExpire={() => onSubmit(answers)} />
       </header>
 
       {/* Main Body Area */}
@@ -189,6 +199,16 @@ export default function TestScreen({
         <main className="flex-grow overflow-y-auto">
           <div className="min-h-full p-2 md:p-6 flex flex-col items-center">
             <div className="w-full max-w-5xl">
+              {/* Topic Separator Header */}
+              {currentQuestion?.topicMeta && (
+                <div className="mb-6 flex items-center gap-4 px-4 py-3 rounded-xl bg-blue-500/5 border border-blue-500/20 animate-in slide-in-from-top-2 duration-500">
+                  <div className="w-2 h-2 rounded-full bg-blue-500 animate-pulse"></div>
+                  <span className="text-[10px] font-black text-blue-400 uppercase tracking-[0.25em]">
+                    Current Topic: {(currentQuestion.topicMeta.name || 'General Section').replace(/_/g, ' ')} 
+                    <span className="ml-4 text-white/30">({currentQuestion.topicMeta.count ?? '—'} QUESTIONS IN THIS SECTION)</span>
+                  </span>
+                </div>
+              )}
               <QuestionCard question={currentQuestion} index={currentIndex} total={total} selectedAnswer={answers[currentIndex]} onSelect={handleSelect} isPractice={mode === 'practice'} readOnly={readOnly} />
             </div>
           </div>

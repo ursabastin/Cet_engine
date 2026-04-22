@@ -1,0 +1,243 @@
+[
+  {
+    "id": 5401,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "What does HTTP stand for in a website address?",
+    "options": [
+      { "id": "A", "text": "High Tech Text Processing" },
+      { "id": "B", "text": "HyperText Transfer Protocol" },
+      { "id": "C", "text": "Hyperlink and Text Transfer Process" },
+      { "id": "D", "text": "Hardware Transfer Technology" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "HyperText Transfer Protocol",
+      "explanation": {
+        "concept": "Web Protocols",
+        "step_by_step": [
+          "HTTP is the protocol used to transmit web pages over the internet."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5402,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Which of the following is a web browser?",
+    "options": [
+      { "id": "A", "text": "Google" },
+      { "id": "B", "text": "Mozilla Firefox" },
+      { "id": "C", "text": "Yahoo" },
+      { "id": "D", "text": "Bing" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Mozilla Firefox",
+      "explanation": {
+        "concept": "Web Browsers vs Search Engines",
+        "step_by_step": [
+          "Firefox is a browser (software to view pages).",
+          "Google, Yahoo, and Bing are search engines (services to find pages)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5403,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "The 's' in HTTPS indicates that the website is:",
+    "options": [
+      { "id": "A", "text": "Standard" },
+      { "id": "B", "text": "Secure" },
+      { "id": "C", "text": "Shared" },
+      { "id": "D", "text": "Simplified" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Secure",
+      "explanation": {
+        "concept": "Web Security",
+        "step_by_step": [
+          "HTTPS uses SSL/TLS encryption to protect data transferred between the browser and the server."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5404,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "What is the unique address of a web page called?",
+    "options": [
+      { "id": "A", "text": "IP Address" },
+      { "id": "B", "text": "URL (Uniform Resource Locator)" },
+      { "id": "C", "text": "Email Address" },
+      { "id": "D", "text": "Home Address" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "URL (Uniform Resource Locator)",
+      "explanation": {
+        "concept": "Web Identifiers",
+        "step_by_step": [
+          "A URL is the 'link' you type into the browser address bar."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5405,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 5, "label": "intermediate" },
+    "question_text": "Small files that websites store on your computer to remember your preferences and session data are called:",
+    "options": [
+      { "id": "A", "text": "Viruses" },
+      { "id": "B", "text": "Cookies" },
+      { "id": "C", "text": "Spam" },
+      { "id": "D", "text": "Worms" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Cookies",
+      "explanation": {
+        "concept": "Browser Data",
+        "step_by_step": [
+          "Cookies allow sites to keep you logged in and track your settings."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5406,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "DNS (Domain Name System) is responsible for:",
+    "options": [
+      { "id": "A", "text": "Managing email accounts" },
+      { "id": "B", "text": "Translating domain names (like google.com) into IP addresses" },
+      { "id": "C", "text": "Filtering spam" },
+      { "id": "D", "text": "Hosting website files" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Translating domain names (like google.com) into IP addresses",
+      "explanation": {
+        "concept": "DNS",
+        "step_by_step": [
+          "DNS acts like a phonebook for the internet."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5407,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "What is the homepage of a website?",
+    "options": [
+      { "id": "A", "text": "The very last page" },
+      { "id": "B", "text": "The first page that opens when you visit the site" },
+      { "id": "C", "text": "The about us page" },
+      { "id": "D", "text": "A page where the site owner lives" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "The first page that opens when you visit the site",
+      "explanation": {
+        "concept": "Web Navigation",
+        "step_by_step": [
+          "The homepage is the default entry point of a website."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5408,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "What is 'ISP'?",
+    "options": [
+      { "id": "A", "text": "Internet Security Program" },
+      { "id": "B", "text": "Internet Service Provider" },
+      { "id": "C", "text": "Internal System Protocol" },
+      { "id": "D", "text": "International Search Platform" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Internet Service Provider",
+      "explanation": {
+        "concept": "Internet Connectivity",
+        "step_by_step": [
+          "An ISP is a company (like Jio or Airtel) that provides you with access to the internet."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5409,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 5, "label": "hard" },
+    "question_text": "The 'Incognito' or 'Private' mode in a browser ensures that:",
+    "options": [
+      { "id": "A", "text": "Your ISP cannot see what you are doing" },
+      { "id": "B", "text": "Your browsing history and cookies are not saved on your local device" },
+      { "id": "C", "text": "You are completely invisible to websites" },
+      { "id": "D", "text": "You cannot be attacked by viruses" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Your browsing history and cookies are not saved on your local device",
+      "explanation": {
+        "concept": "Browser Privacy",
+        "step_by_step": [
+          "Private mode only clears local traces; it does not make you anonymous to the websites or the ISP."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5410,
+    "subject": "Computer Basics",
+    "topic": "Internet Basics",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "What is a 'Search Engine' crawler (also called a spider)?",
+    "options": [
+      { "id": "A", "text": "A type of virus that slow down the web" },
+      { "id": "B", "text": "A program that automatically visits web pages to index them for search results" },
+      { "id": "C", "text": "A person who searches the web manually" },
+      { "id": "D", "text": "A bug in the browser" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "A program that automatically visits web pages to index them for search results",
+      "explanation": {
+        "concept": "Search Engine Mechanics",
+        "step_by_step": [
+          "Crawlers browse the web systematically to build the database for search engines like Google."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

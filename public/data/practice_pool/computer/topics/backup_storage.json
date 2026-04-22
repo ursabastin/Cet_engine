@@ -1,0 +1,247 @@
+[
+  {
+    "id": 5101,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Which of the following is considered a primary storage device in a computer?",
+    "options": [
+      { "id": "A", "text": "Hard Disk" },
+      { "id": "B", "text": "RAM" },
+      { "id": "C", "text": "CD-ROM" },
+      { "id": "D", "text": "Pen Drive" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "RAM",
+      "explanation": {
+        "concept": "Storage Types",
+        "step_by_step": [
+          "Primary storage is volatile and directly accessible by the CPU (e.g., RAM).",
+          "Secondary storage is non-volatile and used for long-term data (e.g., HDD, Pen Drive)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5102,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "What does RAID stand for in the context of computer storage?",
+    "options": [
+      { "id": "A", "text": "Redundant Array of Independent Disks" },
+      { "id": "B", "text": "Rapid Access to Inactive Data" },
+      { "id": "C", "text": "Reliable Assembly of Internal Drives" },
+      { "id": "D", "text": "Reorganized Array of Individual Disks" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Redundant Array of Independent Disks",
+      "explanation": {
+        "concept": "Storage Technology",
+        "step_by_step": [
+          "RAID is a way of storing the same data in different places on multiple hard disks or solid-state drives to protect data in the case of a drive failure."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5103,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "Which of these storage media has the highest data transfer speed?",
+    "options": [
+      { "id": "A", "text": "DVD" },
+      { "id": "B", "text": "Magnetic Tape" },
+      { "id": "C", "text": "SSD (Solid State Drive)" },
+      { "id": "D", "text": "Floppy Disk" }
+    ],
+    "correct_option": "C",
+    "solution": {
+      "final_answer": "SSD (Solid State Drive)",
+      "explanation": {
+        "concept": "Storage Speed",
+        "step_by_step": [
+          "SSDs use flash memory and have no moving parts, making them much faster than optical or magnetic disks."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5104,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "A full backup of a system refers to:",
+    "options": [
+      { "id": "A", "text": "Backing up only changed files" },
+      { "id": "B", "text": "Backing up all files on a selected volume or disk" },
+      { "id": "C", "text": "Backing up only system settings" },
+      { "id": "D", "text": "Backing up data to the cloud only" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Backing up all files on a selected volume or disk",
+      "explanation": {
+        "concept": "Backup Strategies",
+        "step_by_step": [
+          "Full backup copies everything.",
+          "Incremental backup only copies files changed since the last backup."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5105,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 5, "label": "intermediate" },
+    "question_text": "Which storage device is commonly used for sequential access of large amounts of data for long-term archiving?",
+    "options": [
+      { "id": "A", "text": "Hard Disk" },
+      { "id": "B", "text": "Magnetic Tape" },
+      { "id": "C", "text": "RAM" },
+      { "id": "D", "text": "ROM" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Magnetic Tape",
+      "explanation": {
+        "concept": "Sequential vs Random Access",
+        "step_by_step": [
+          "Magnetic tapes are sequential access media, meaning data is read in order.",
+          "They are very cheap per GB and durable, making them ideal for massive backups."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5106,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Cloud storage solutions like Google Drive or Dropbox primarily use which type of hardware for back-end storage?",
+    "options": [
+      { "id": "A", "text": "Single user PCs" },
+      { "id": "B", "text": "Data centers with massive server farms" },
+      { "id": "C", "text": "Personal laptops" },
+      { "id": "D", "text": "USB hubs" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Data centers with massive server farms",
+      "explanation": {
+        "concept": "Cloud Infrastructure",
+        "step_by_step": [
+          "Cloud providers store data in large, secure data centers across the globe."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5107,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 3, "label": "basic" },
+    "question_text": "The capacity of a standard single-layer DVD is approximately:",
+    "options": [
+      { "id": "A", "text": "700 MB" },
+      { "id": "B", "text": "4.7 GB" },
+      { "id": "C", "text": "25 GB" },
+      { "id": "D", "text": "1 TB" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "4.7 GB",
+      "explanation": {
+        "concept": "Optical Storage Capacity",
+        "step_by_step": [
+          "CD: ~700MB",
+          "DVD: ~4.7GB",
+          "Blu-ray: ~25GB (single layer)."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5108,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Which of the following is a non-volatile semiconductor storage medium?",
+    "options": [
+      { "id": "A", "text": "SRAM" },
+      { "id": "B", "text": "Flash Memory" },
+      { "id": "C", "text": "DRAM" },
+      { "id": "D", "text": "Magnetic Disk" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Flash Memory",
+      "explanation": {
+        "concept": "Flash Storage",
+        "step_by_step": [
+          "Flash memory is used in SSDs and USB drives. It is electronic and retains data without power."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5109,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 5, "label": "hard" },
+    "question_text": "In storage technology, what is 'Hot Swapping'?",
+    "options": [
+      { "id": "A", "text": "Replacing a computer component while it is still running" },
+      { "id": "B", "text": "Cooling down a drive before replacement" },
+      { "id": "C", "text": "Transferring data over a network at high speed" },
+      { "id": "D", "text": "Switching between internal and external power" }
+    ],
+    "correct_option": "A",
+    "solution": {
+      "final_answer": "Replacing a computer component while it is still running",
+      "explanation": {
+        "concept": "Server/Storage Availability",
+        "step_by_step": [
+          "Hot swapping allows for adding or removing hardware (like a failed hard drive in a server) without shutting down the system."
+        ]
+      }
+    },
+    "question_state": "active"
+  },
+  {
+    "id": 5110,
+    "subject": "Computer Basics",
+    "topic": "Backup & Storage",
+    "difficulty": { "level": 4, "label": "moderate" },
+    "question_text": "Which unit is used to represent one quadrillion bytes (approx. 1024 Terabytes)?",
+    "options": [
+      { "id": "A", "text": "Gigabyte" },
+      { "id": "B", "text": "Petabyte" },
+      { "id": "C", "text": "Exabyte" },
+      { "id": "D", "text": "Zettabyte" }
+    ],
+    "correct_option": "B",
+    "solution": {
+      "final_answer": "Petabyte",
+      "explanation": {
+        "concept": "Data Units",
+        "step_by_step": [
+          "KB -> MB -> GB -> TB -> PB -> EB -> ZB."
+        ]
+      }
+    },
+    "question_state": "active"
+  }
+]

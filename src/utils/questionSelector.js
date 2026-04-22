@@ -1,34 +1,8 @@
 /**
- * STRATEGY CONFIGURATION (Wiz Academy 8-Day Prep)
- * Only include topics mentioned by the teacher + connecting topics.
- * These keys must match public/data/manifest.json exactly.
+ * LIVE ENGINE CONFIGURATION
+ * Now pulls from ALL topics registered in the manifest for a truly comprehensive, live experience.
  */
-export const PRIORITY_TOPICS = {
-  english: [
-    'tenses', 'reading_speed_drills', 'sentence_correction', 'articles', 
-    'synonyms_antonyms', 'vocabulary_in_context', 'idioms_phrases', 
-    'one_word_substitution', 'para_jumbles', 'cloze_test', 'error_detection', 
-    'fill_in_the_blanks', 'subject_verb_agreement'
-  ],
-  reasoning: [
-    'number_series', 'series_number_alphabet_', 'coding_decoding', 'blood_relations', 
-    'bar_graphs', 'case_di', 'line_graphs', 'pie_charts', 'tables', 'averages', 
-    'simplification', 'profit_loss', 'seating_arrangement_linear_circular_', 
-    'puzzles_box_floor_scheduling_', 'syllogism', 'direction_sense', 
-    'clocks_calendars', 'ratio_proportion', 'percentages'
-  ],
-  computer: [
-    'computer_generations', 'father_history', 'file_extensions', 'input_output_devices', 
-    'memory_ram_rom_', 'hardware_vs_software', 'networking_basics', 'www', 
-    'cybersecurity_awareness', 'shortcuts', 'operating_systems', 
-    'basic_logic_flow_of_execution', 'ip_http', 'email_basics'
-  ],
-  gk: [
-    'gk_current_affairs', 'constitution_basics', 'gk_economy_business', 
-    'gk_sports_events', 'gk_science_tech', 'gk_history_culture', 
-    'gk_geography_trade', 'gk_awards_honours', 'gk_miscellaneous'
-  ]
-};
+export const PRIORITY_TOPICS = null; // Setting to null to trigger "Full Pool" mode
 
 /**
  * Normalizes a question object for the UI.
@@ -90,10 +64,10 @@ export async function pickQuestions(subject, count, seedStr = null) {
     if (!manifestResponse.ok && manifestResponse.status !== 0) throw new Error('Manifest not found');
     const manifest = await manifestResponse.json();
     
-    // FILTER: Only use topics from the Wiz Academy strategy
-    const strategyFiles = manifest[subject].filter(file => 
-      PRIORITY_TOPICS[subject].includes(file)
-    );
+    // FILTER: Use all topics if PRIORITY_TOPICS is null
+    const strategyFiles = PRIORITY_TOPICS 
+      ? manifest[subject].filter(file => PRIORITY_TOPICS[subject].includes(file))
+      : manifest[subject];
     
     if (strategyFiles.length === 0) return [];
     
@@ -110,34 +84,20 @@ export async function pickQuestions(subject, count, seedStr = null) {
     if (allQuestions.length === 0) return [];
 
     let pool = [...allQuestions];
-    let offset = 0;
 
-    if (seedStr && !seedStr.includes('practice')) {
-      const dayMap = {
-        '2026-04-21': 0, '2026-04-22': 1, '2026-04-23': 2, '2026-04-24': 3,
-        '2026-04-25': 4, '2026-04-26': 5, '2026-04-27': 6, '2026-04-28': 7
-      };
-      const dayIdx = dayMap[seedStr] || 0;
-      const setIdx = seedStr.includes('A') ? 0 : 1;
-      offset = (dayIdx * 2 + setIdx) * count;
-    } else if (seedStr) {
-      let seed = 0;
-      for (let i = 0; i < seedStr.length; i++) {
-        seed = (seed << 5) - seed + seedStr.charCodeAt(i);
-        seed |= 0;
-      }
-      for (let i = pool.length - 1; i > 0; i--) {
-        const j = Math.abs(seed % (i + 1));
-        [pool[i], pool[j]] = [pool[j], pool[i]];
-        seed = (seed * 1103515245 + 12345) & 0x7fffffff;
-      }
+    // LIVE RANDOMIZATION: Fisher-Yates Shuffle with high-entropy seed
+    let seed = Date.now() + Math.random();
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
     }
 
-    const selected = [];
-    for (let i = 0; i < count; i++) {
-      const q = pool[(offset + i) % pool.length];
-      selected.push(normalizeQuestion(q, q._filename, subject));
-    }
+    // Always pick unique subset from shuffled pool
+    const selected = pool.slice(0, count).map(q => 
+      normalizeQuestion(q, q._filename, subject)
+    );
+
+    return selected;
 
     return selected;
   } catch (error) {

@@ -6,12 +6,14 @@
     "one_word_substitution", "para_jumbles", "parts_of_speech", "prepositions",
     "reading_speed_drills", "sentence_correction", "sentence_structure_modifiers",
     "subject_verb_agreement", "synonyms_antonyms", "tenses", "title_selection",
-    "tone_analysis", "tone_main_idea", "vocabulary_in_context"
+    "tone_analysis", "tone_main_idea", "vocabulary_in_context", "voice_narration",
+    "reading_comprehension", "prepositions"
   ],
   "gk": [
     "gk_current_affairs", "constitution_basics", "gk_economy_business", "gk_sports_events", 
     "gk_science_tech", "gk_history_culture", "gk_geography_trade", "gk_awards_honours", 
-    "gk_miscellaneous",
+    "gk_miscellaneous", "space_missions_schemes", "international_bodies",
+    "maharashtra_heritage", "days_themes", "books_authors",
     "agriculture_production", "airports_of_india", "architecture", "artificial_intelligence",
     "asian_games_2026", "badminton_2025", "badminton_2026", "basic_logic_flow_of_execution",
     "bharat_ratna_recent", "biotechnology", "bonus_shares", "brands_logos", "brics_summit",
@@ -70,8 +72,9 @@
     "women_s_cricket_world_cup_2025", "world_trade_routes"
   ],
   "computer": [
-    "father_history", "computer_generations", "file_extensions",
-    "algorithm", "basic_logic_flow_of_execution", "binary_basics", "cell_referencing",
+    "father_history", "computer_generations", "file_extensions", "cpu_logic_gates",
+    "backup_storage", "memory_hierarchy", "software_types", "internet_basics",
+    "algorithm", "basic_logic_flow_of_execution", "cell_referencing",
     "charts", "cybersecurity_awareness", "data_validation", "email_basics", "error_handling",
     "file_systems", "flowcharts", "formulas", "functions", "hardware_vs_software",
     "input_output_devices", "ip_http", "logical_functions", "memory_ram_rom_", "ms_word",
@@ -92,7 +95,8 @@
     "profit_loss", "puzzles_box_floor_scheduling_", "quadratic_equations", "ranking_order",
     "ratio_proportion", "seating_arrangement_linear_circular_", "series_number_alphabet_",
     "simple_interest_compound_interest", "simplification", "statement_assumption",
-    "statement_conclusion", "strong_weak_arguments", "syllogism", "tables",
-    "time_speed_distance_trains_boats_", "time_work", "triangle"
+    "statement_conclusion", "strong_weak_arguments", "syllogism", "syllogisms", "tables",
+    "time_speed_distance_trains_boats_", "time_work", "triangle",
+    "critical_reasoning", "venn_diagrams", "symbolic_inequalities"
   ]
 }

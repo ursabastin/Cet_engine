@@ -33,17 +33,23 @@ export default function QuestionCard({
       {/* Question Text - More standard size */}
       <div className="mb-6 px-2">
         <h2 className="text-xl font-bold !text-white leading-relaxed tracking-tight whitespace-pre-wrap" style={{ wordSpacing: '0.1em' }}>
-          {question.text}
+          {(() => {
+            const rawText = question.text || question.question_text || question.question || question.q || '';
+            return typeof rawText === 'object' ? (rawText.text || JSON.stringify(rawText)) : rawText;
+          })()}
         </h2>
       </div>
 
-      {/* Options - Compact Dark Glass */}
       <div className="grid grid-cols-1 gap-2.5 w-full">
         {question.options.map((option, i) => {
+          // Safety: Handle both string and object formats {id, text}
+          const optionText = typeof option === 'object' ? (option.text || option.label || JSON.stringify(option)) : option;
+          
           const isSelected = selectedAnswer === i;
           const letter = String.fromCharCode(65 + i);
-          const isCorrect = readOnly && letter === question.correct;
-          const isWrong = readOnly && isSelected && letter !== question.correct;
+          const correctLetter = question.correct || question.correct_option;
+          const isCorrect = readOnly && letter === correctLetter;
+          const isWrong = readOnly && isSelected && letter !== correctLetter;
 
           let borderClass = "border-white/5 bg-white/[0.02]";
           let textClass = "!text-white/60";
@@ -76,7 +82,7 @@ export default function QuestionCard({
                 {letter}
               </div>
               <span className={`text-base font-medium transition-all duration-200 ${textClass}`}>
-                {option}
+                {optionText}
               </span>
             </button>
           );
