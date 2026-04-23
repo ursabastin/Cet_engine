@@ -181,7 +181,7 @@ export default function TestScreen({
               {mode === 'endurance' ? `SYLLABUS ENDURANCE MOCK — ${questions[0]?.subject.toUpperCase()}` : (type === 'B' ? 'UNLIMITED PRACTICE SESSION' : `STRATEGIC MOCK TEST — ${date}`)}
             </h1>
             <span className="text-[9px] uppercase font-bold text-blue-400 tracking-[0.1em] opacity-60">
-              System Interface v2.0 · Live Examination
+              System Interface v1.3 · Live Examination
             </span>
           </div>
         </div>

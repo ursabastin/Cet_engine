@@ -3,10 +3,15 @@ import path from 'path';
 import fs from 'fs';
 import os from 'os';
 import { fileURLToPath } from 'url';
+import { autoUpdater } from "electron-updater";
+
+// Configure Auto-Updater
+autoUpdater.autoDownload = true;
+autoUpdater.autoInstallOnAppQuit = true;
 
 // ... (rest of imports)
 
-ipcMain.handle('save-analysis', async (event, { date, type, md, txt, json }) => {
+ipcMain.handle('save-analysis', async (event, { fileName, md, txt, json }) => {
   try {
     const docsPath = 'C:\\My life\\Academics\\Entrance Test\\Entrance test preparation daily result from 21 April to 28 April';
     
@@ -14,15 +19,13 @@ ipcMain.handle('save-analysis', async (event, { date, type, md, txt, json }) => 
       fs.mkdirSync(docsPath, { recursive: true });
     }
 
-    const baseName = `CET_${date}_Mock${type}_${Date.now()}`;
-    
-    fs.writeFileSync(path.join(docsPath, `${baseName}.md`), md);
-    fs.writeFileSync(path.join(docsPath, `${baseName}.txt`), txt);
-    fs.writeFileSync(path.join(docsPath, `${baseName}.json`), json);
+    fs.writeFileSync(path.join(docsPath, `${fileName}.json`), json);
+    fs.writeFileSync(path.join(docsPath, `${fileName}.txt`), txt);
+    fs.writeFileSync(path.join(docsPath, `${fileName}.md`), md);
 
-    return { success: true, path: docsPath, fileName: baseName };
+    return { success: true, path: docsPath };
   } catch (error) {
-    console.error('Failed to save analysis files', error);
+    console.error('Save failed:', error);
     return { success: false, error: error.message };
   }
 });
@@ -31,6 +34,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const isDev = process.env.NODE_ENV === 'development';
+
+// Auto-Updater Events
+autoUpdater.on('update-available', () => {
+  console.log('Update available. Downloading...');
+});
+
+autoUpdater.on('update-downloaded', () => {
+  console.log('Update downloaded. Installing now...');
+  autoUpdater.quitAndInstall();
+});
 
 function createWindow() {
   const win = new BrowserWindow({
@@ -48,6 +61,9 @@ function createWindow() {
     backgroundColor: '#050A18',
     icon: path.join(__dirname, '../public/assets/icon.png')
   });
+
+  // Check for updates
+  autoUpdater.checkForUpdatesAndNotify();
 
   if (isDev) {
     win.loadURL('http://localhost:5173');

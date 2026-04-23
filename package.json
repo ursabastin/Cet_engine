@@ -1,7 +1,7 @@
 {
   "name": "cet-engine",
   "private": true,
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Strategic Command Center for CET 2026 Examination Preparation",
   "author": "Sebastin Richard (Operator) & AI Orchestrators (Antigravity & Claude) with Wiz Academy Content",
   "main": "electron/main.js",
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
+    "electron-updater": "^6.8.3",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "tailwindcss": "^4.2.2"

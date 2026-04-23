@@ -42,7 +42,7 @@ export default function App() {
         });
 
         const bust = Date.now();
-        const planRes = await fetch(`data/mock_plan.json?v=${bust}`);
+        const planRes = await fetch(`mock_plan.json?v=${bust}`);
         if (!planRes.ok) throw new Error(`Blueprint Fetch Failed: ${planRes.status}`);
         
         const plan = await planRes.json();
@@ -69,7 +69,7 @@ export default function App() {
 
         const topicNames = [...new Set(mockData.topics.map(t => t.name))];
         const topicPromises = topicNames.map(name => 
-          fetch(`data/practice_pool/${sub}/topics/${name}.json`).then(r => {
+          fetch(`practice_pool/${sub}/topics/${name}.json`).then(r => {
             if (!r.ok) throw new Error(`Topic Data Missing: ${name}`);
             return r.json();
           })
@@ -140,10 +140,15 @@ export default function App() {
       computer: { correct: 0, total: 0 }
     };
 
+    let attempted = 0;
     questions.forEach((q, idx) => {
-      const selectedLetter = String.fromCharCode(65 + finalAnswers[idx]);
+      const userChoice = finalAnswers[idx];
+      const isAttempted = userChoice !== undefined && userChoice !== null;
+      if (isAttempted) attempted++;
+
+      const selectedLetter = String.fromCharCode(65 + userChoice);
       const correctLetter = q.correct || q.correct_option;
-      const isCorrect = selectedLetter === correctLetter;
+      const isCorrect = isAttempted && selectedLetter === correctLetter;
       if (isCorrect) score++;
       
       const sub = q.subject.toLowerCase();
@@ -164,7 +169,8 @@ export default function App() {
       finalAnswers,
       subjectScores,
       timeSpentPerQuestion,
-      questions
+      questions,
+      attempted
     );
 
     // TRACK ATTEMPTED QUESTIONS

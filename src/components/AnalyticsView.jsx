@@ -9,7 +9,14 @@ export default function AnalyticsView() {
     try {
       const daily = JSON.parse(localStorage.getItem('cet_mock_history') || '[]');
       const practice = JSON.parse(localStorage.getItem('cet_practice_history') || '[]');
-      return [...daily, ...practice].sort((a, b) => new Date(b.timestamp || b.date) - new Date(a.timestamp || a.date));
+      const combined = [...daily, ...practice];
+      return combined.map(item => ({
+        ...item,
+        // Derived attempted count for legacy support
+        effectiveAttempted: item.attempted !== undefined 
+          ? item.attempted 
+          : (item.answers ? Object.keys(item.answers).length : item.score)
+      })).sort((a, b) => new Date(b.timestamp || b.date) - new Date(a.timestamp || a.date));
     } catch (e) {
       return [];
     }
@@ -32,9 +39,10 @@ export default function AnalyticsView() {
       };
     }
 
-    const totalSolved = history.reduce((acc, curr) => acc + (curr.total || 50), 0);
+    const totalAttempted = history.reduce((acc, curr) => acc + curr.effectiveAttempted, 0);
+    const totalSolved = totalAttempted; // Solved now means Attempted
     const totalCorrect = history.reduce((acc, curr) => acc + (curr.score || 0), 0);
-    const avgAccuracy = Math.round((totalCorrect / totalSolved) * 100);
+    const avgAccuracy = totalAttempted > 0 ? Math.round((totalCorrect / totalAttempted) * 100) : 0;
 
     const subjects = {
       english: { correct: 0, total: 0 },
@@ -63,7 +71,7 @@ export default function AnalyticsView() {
       totalQuestions: 5600,
       completedQuestions: totalSolved,
       accuracy: avgAccuracy,
-      wrongAnswers: totalSolved - totalCorrect,
+      wrongAnswers: totalAttempted - totalCorrect,
       uniquePoolSize: 2430,
       subjectPerformance: [
         { name: 'English', score: getSubScore('english'), color: 'bg-accent-blue' },
@@ -76,8 +84,7 @@ export default function AnalyticsView() {
 
   const tabs = [
     { id: 'overview', label: 'Overview', icon: '📊' },
-    { id: 'vault', label: 'Mock Vault', icon: '🗄️' },
-    { id: 'subjects', label: 'Subject Mastery', icon: '🎯' }
+    { id: 'vault', label: 'Mock Vault', icon: '🗄️' }
   ];
 
   if (selectedMock) {
@@ -112,11 +119,11 @@ export default function AnalyticsView() {
           </div>
           <div className="p-6 rounded-2xl bg-red-500/5 border border-red-500/20">
             <span className="text-[9px] font-black text-red-500/60 uppercase block mb-1">Wrong</span>
-            <span className="text-2xl font-black text-red-500">{selectedMock.total - selectedMock.score}</span>
+            <span className="text-2xl font-black text-red-500">{selectedMock.effectiveAttempted - selectedMock.score}</span>
           </div>
           <div className="p-6 rounded-2xl bg-blue-500/5 border border-blue-500/20">
             <span className="text-[9px] font-black text-blue-500/60 uppercase block mb-1">Accuracy</span>
-            <span className="text-2xl font-black text-blue-500">{Math.round((selectedMock.score / selectedMock.total) * 100)}%</span>
+            <span className="text-2xl font-black text-blue-500">{Math.round((selectedMock.score / (selectedMock.effectiveAttempted || 1)) * 100)}%</span>
           </div>
         </div>
 
@@ -127,14 +134,23 @@ export default function AnalyticsView() {
             </div>
           ) : (
             selectedMock.questions.map((q, idx) => {
-              const userAnsLetter = String.fromCharCode(65 + selectedMock.answers[idx]);
+              const userChoice = selectedMock.answers[idx];
+              const isAttempted = userChoice !== undefined && userChoice !== null;
+              const userAnsLetter = String.fromCharCode(65 + userChoice);
               const correctAnsLetter = q.correct || q.correct_option;
-              const isCorrect = userAnsLetter === correctAnsLetter;
+              const isCorrect = isAttempted && userAnsLetter === correctAnsLetter;
+
+              let statusColor = "border-white/10 bg-white/[0.01]";
+              let indicatorColor = "bg-white/10 text-white/40";
+              if (isAttempted) {
+                statusColor = isCorrect ? 'bg-green-500/[0.02] border-green-500/10' : 'bg-red-500/[0.02] border-red-500/10';
+                indicatorColor = isCorrect ? 'bg-green-500/20 text-green-400' : 'bg-red-500/20 text-red-400';
+              }
 
               return (
-                <div key={idx} className={`p-8 rounded-[2.5rem] border transition-all ${isCorrect ? 'bg-green-500/[0.02] border-green-500/10' : 'bg-red-500/[0.02] border-red-500/10'}`}>
+                <div key={idx} className={`p-8 rounded-[2.5rem] border transition-all ${statusColor}`}>
                   <div className="flex items-start gap-6">
-                    <div className={`w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0 font-black text-sm ${isCorrect ? 'bg-green-500/20 text-green-400' : 'bg-red-500/20 text-red-400'}`}>
+                    <div className={`w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0 font-black text-sm ${indicatorColor}`}>
                       {idx + 1}
                     </div>
                     <div className="flex-grow space-y-6">
@@ -157,7 +173,8 @@ export default function AnalyticsView() {
                               <span className="w-6 h-6 rounded bg-black/20 flex items-center justify-center font-black">{letter}</span>
                               <span className="flex-grow">{optionText}</span>
                               {isUserChoice && <span className="text-[10px] uppercase font-black tracking-widest">{isCorrect ? '✅ Correct' : '❌ Your Choice'}</span>}
-                              {isCorrectChoice && !isUserChoice && <span className="text-[10px] uppercase font-black tracking-widest">✅ Answer</span>}
+                              {!isAttempted && isCorrectChoice && <span className="text-[10px] uppercase font-black tracking-widest">✅ Correct Answer</span>}
+                              {isAttempted && isCorrectChoice && !isUserChoice && <span className="text-[10px] uppercase font-black tracking-widest">✅ Correct Answer</span>}
                             </div>
                           );
                         })}
@@ -204,7 +221,7 @@ export default function AnalyticsView() {
             <div className="flex gap-4">
               <div className="text-center px-8 py-5 bg-white/5 rounded-[2rem] border border-white/10">
                 <span className="text-4xl font-black text-white leading-none">{stats.completedQuestions}</span>
-                <span className="block text-[9px] font-black uppercase tracking-widest text-white/30 mt-2">Solved</span>
+                <span className="block text-[9px] font-black uppercase tracking-widest text-white/30 mt-2">Attempted</span>
               </div>
               <div className="text-center px-8 py-5 bg-white/5 rounded-[2rem] border border-white/10">
                 <span className="text-4xl font-black text-green-500 leading-none">{history.reduce((a,c)=>a+(c.score||0),0)}</span>
@@ -213,10 +230,15 @@ export default function AnalyticsView() {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="bg-white/[0.03] p-8 rounded-[2rem] border border-white/10">
               <span className="text-[10px] font-black uppercase tracking-widest text-white/30 mb-3 block">Total Mocks</span>
-              <span className="text-4xl font-black text-white">{history.length}</span>
+              <span className="text-4xl font-black text-white">{history.filter(item => item.effectiveAttempted >= (item.total || 50)).length}</span>
+              <span className="block text-[9px] font-black uppercase tracking-widest text-white/20 mt-2">Fully Completed</span>
+            </div>
+            <div className="bg-white/[0.03] p-8 rounded-[2rem] border border-white/10">
+              <span className="text-[10px] font-black uppercase tracking-widest text-white/30 mb-3 block">Total Passion Attempts</span>
+              <span className="text-4xl font-black text-blue-400">{stats.completedQuestions}</span>
             </div>
             <div className="bg-white/[0.03] p-8 rounded-[2rem] border border-white/10">
               <span className="text-[10px] font-black uppercase tracking-widest text-white/30 mb-3 block">Total Errors</span>
@@ -224,7 +246,8 @@ export default function AnalyticsView() {
             </div>
             <div className="bg-white/[0.03] p-8 rounded-[2rem] border border-white/10">
               <span className="text-[10px] font-black uppercase tracking-widest text-white/30 mb-3 block">Completion</span>
-              <span className="text-4xl font-black text-blue-500">{Math.round((stats.completedQuestions / stats.totalQuestions) * 100)}%</span>
+              <span className="text-4xl font-black text-blue-500">{((stats.completedQuestions / stats.totalQuestions) * 100).toFixed(2)}%</span>
+              <span className="block text-[9px] font-black uppercase tracking-widest text-white/20 mt-2">{stats.totalQuestions - stats.completedQuestions} Questions Remaining</span>
             </div>
           </div>
         </div>
@@ -256,48 +279,29 @@ export default function AnalyticsView() {
                 <div className="flex-grow max-w-md w-full">
                   <div className="flex justify-between text-[10px] font-black uppercase tracking-widest mb-2">
                     <span className="text-green-500">✅ {item.score} Right</span>
-                    <span className="text-red-500">❌ {(item.total || 50) - item.score} Wrong</span>
+                    <span className="text-red-500">❌ {item.effectiveAttempted - item.score} Wrong</span>
+                    <span className="text-white/20">⚪ {(item.total || 50) - item.effectiveAttempted} Skipped</span>
                   </div>
                   <div className="h-2 bg-white/5 rounded-full overflow-hidden flex">
                     <div className="h-full bg-green-500" style={{ width: `${(item.score / (item.total || 50)) * 100}%` }}></div>
-                    <div className="h-full bg-red-500" style={{ width: `${(((item.total || 50) - item.score) / (item.total || 50)) * 100}%` }}></div>
+                    <div className="h-full bg-red-500" style={{ width: `${((item.effectiveAttempted - item.score) / (item.total || 50)) * 100}%` }}></div>
                   </div>
                 </div>
 
-                <div className="flex items-center gap-6">
-                  <div className="bg-white/5 px-6 py-3 rounded-2xl border border-white/10">
-                    <span className="text-2xl font-black text-white italic">
-                      {Math.round((item.score / (item.total || 50)) * 100)}%
-                    </span>
+                  <div className="flex items-center gap-6">
+                    <div className="bg-white/5 px-6 py-3 rounded-2xl border border-white/10">
+                      <span className="text-2xl font-black text-white italic">
+                        {Math.round((item.score / (item.effectiveAttempted || 1)) * 100)}%
+                      </span>
+                    </div>
                   </div>
-                  <div className="w-10 h-10 rounded-full bg-blue-600/10 flex items-center justify-center text-blue-400 group-hover:bg-blue-600 group-hover:text-white transition-all">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3"><path d="M9 18l6-6-6-6"/></svg>
-                  </div>
-                </div>
               </div>
             ))
           )}
         </div>
       )}
 
-      {activeTab === 'subjects' && (
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 animate-in fade-in duration-500">
-          {stats.subjectPerformance.map(sub => (
-            <div key={sub.name} className="bg-white/[0.03] p-8 rounded-[2.5rem] border border-white/10">
-              <div className="flex justify-between items-end mb-4">
-                <div>
-                  <span className="text-[10px] font-black text-white/30 uppercase tracking-widest block mb-1">Subject Mastery</span>
-                  <h3 className="text-2xl font-black text-white italic tracking-tighter">{sub.name}</h3>
-                </div>
-                <span className="text-3xl font-black text-white italic">{sub.score}%</span>
-              </div>
-              <div className="h-1.5 bg-white/5 rounded-full overflow-hidden">
-                <div className={`h-full ${sub.color}`} style={{ width: `${sub.score}%` }}></div>
-              </div>
-            </div>
-          ))}
-        </div>
-      )}
+
     </div>
   );
 }

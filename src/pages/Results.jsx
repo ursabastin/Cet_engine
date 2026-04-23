@@ -14,10 +14,32 @@ export default function Results({ questions, answers, timeSpent = {}, onHome, on
 
   const autoProcessAndSave = async () => {
     try {
+      // 1. Get Session Stats for Linking
+      const mockHistory = JSON.parse(localStorage.getItem('cet_mock_history') || '[]');
+      const practiceHistory = JSON.parse(localStorage.getItem('cet_practice_history') || '[]');
+      const totalSessionsSoFar = mockHistory.length + practiceHistory.length;
+      
+      const now = new Date();
+      const timeStr = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true }).replace(/[:\s]/g, '-');
+      const dateStr = now.toISOString().split('T')[0];
+      const displayTime = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true });
+      
+      const subjectName = questions[0]?.subject?.toUpperCase() || 'GENERAL';
+      const mockNum = questions[0]?.topicMeta?.id || 'P';
+      const sessionId = `CET-${dateStr.replace(/-/g, '')}-${timeStr}`;
+      
+      const fileName = `Result_${dateStr}_${timeStr}_${subjectName}_Mock_${mockNum}`;
+
+      let attempted = 0;
       const totalCorrect = questions.reduce((sum, q, idx) => {
-        const selectedLetter = String.fromCharCode(65 + answers[idx]);
-        return sum + (selectedLetter === q.correct ? 1 : 0);
+        const userChoice = answers[idx];
+        const isAttempted = userChoice !== undefined && userChoice !== null;
+        if (isAttempted) attempted++;
+        const selectedLetter = String.fromCharCode(65 + userChoice);
+        return sum + (isAttempted && selectedLetter === q.correct ? 1 : 0);
       }, 0);
+      
+      const accuracy = attempted > 0 ? Math.round((totalCorrect / attempted) * 100) : 0;
       
       const analysisData = questions.map((q, idx) => {
         const time = timeSpent[idx] || 0;
@@ -30,57 +52,77 @@ export default function Results({ questions, answers, timeSpent = {}, onHome, on
           text: q.text,
           userAnswer: q.options[answers[idx]] || 'Skipped',
           correctAnswer: q.options[q.correct.charCodeAt(0) - 65],
-          isCorrect: String.fromCharCode(65 + answers[idx]) === q.correct,
+          isCorrect: answers[idx] !== undefined && String.fromCharCode(65 + answers[idx]) === q.correct,
           timeTaken: time,
           targetTime: target,
-          surplus: diff > 0 ? diff : 0,
-          deficit: diff < 0 ? Math.abs(diff) : 0,
           explanation: q.explanation || {}
         };
       });
 
-      const dateStr = new Date().toISOString().split('T')[0];
-      const timeStr = new Date().toLocaleTimeString().replace(/:/g, '-');
-      const baseName = `CET_${dateStr}_Analysis_${timeStr}`;
+      const sessionContext = {
+        SESSION_ID: sessionId,
+        TIMESTAMP: now.toISOString(),
+        DISPLAY_TIME: `${dateStr} | ${displayTime}`,
+        SUBJECT: subjectName,
+        MOCK_NUMBER: mockNum,
+        PASSION_ATTEMPT_INDEX: totalSessionsSoFar + 1
+      };
 
-      // Create MD content (Obsidian Optimized with Backlinks)
-      const md = `# CET 2026 Performance Analysis\n\n` +
-        `## 📊 Summary\n- **Date:** ${new Date().toLocaleDateString()}\n- **Score:** ${totalCorrect}/${questions.length}\n- **Accuracy:** ${Math.round((totalCorrect/questions.length)*100)}%\n- **Raw Data:** [[${baseName}.json]]\n\n` +
-        `## 📑 Subject Performance\n` +
-        subjects.map(s => `- #[[${s.toUpperCase()}]] Mastery`).join('\n') + 
-        `\n\n## ⏱️ Question-Level Analytics\n| Q# | Subject | Topic | Result | Time | Target | Diff |\n|---|---|---|---|---|---|---|\n` +
-        analysisData.map(d => `| ${d.id} | #[[${d.subject}]] | [[${d.topic}]] | ${d.isCorrect ? '✅' : '❌'} | ${d.timeTaken}s | ${d.targetTime}s | ${d.surplus > 0 ? '+' + d.surplus : '-' + d.deficit}s |`).join('\n') +
-        `\n\n## 🧠 Question Data Bank\n` +
+      // 1. JSON Format
+      const json = JSON.stringify({ 
+        CONTEXT: sessionContext,
+        METRICS: { score: totalCorrect, total: questions.length, attempted, accuracy: `${accuracy}%` },
+        DETAILS: analysisData 
+      }, null, 2);
+
+      // 2. MD Format
+      const md = `# 📊 SESSION REPORT: ${subjectName} MOCK ${mockNum}\n` +
+        `> **Connection Key:** \`${sessionId}\`\n\n` +
+        `## 🎫 Session Identity\n` +
+        `- **Date & Time:** ${dateStr} @ ${displayTime}\n` +
+        `- **Subject:** ${subjectName}\n` +
+        `- **Mock ID:** ${mockNum}\n` +
+        `- **Passion Attempt #:** ${sessionContext.PASSION_ATTEMPT_INDEX}\n\n` +
+        `## 📈 Results\n` +
+        `| Metric | Value |\n| :--- | :--- |\n| Score | ${totalCorrect}/${questions.length} |\n| Accuracy | **${accuracy}%** |\n| Attempted | ${attempted} |\n\n` +
+        `## 📑 Subject Mastery\n` +
+        subjects.map(s => {
+          const subData = analysisData.filter(d => d.subject.toLowerCase() === s);
+          if (subData.length === 0) return null;
+          const subCorrect = subData.filter(d => d.isCorrect).length;
+          const subAcc = Math.round((subCorrect/subData.length)*100);
+          return `- **${s.toUpperCase()}**: ${subAcc}% Mastery`;
+        }).filter(Boolean).join('\n') + 
+        `\n\n## 🧠 Explanation Pathway\n` +
         analysisData.map(d => {
-          let expHtml = '';
-          if (d.explanation.concept) expHtml += `> [!INFO] Concept: [[${d.explanation.concept}]]\n`;
-          if (d.explanation.step_by_step) {
-            expHtml += `\n**Logic Pathway:**\n` + d.explanation.step_by_step.map(s => `1. ${s}`).join('\n');
-          }
-          return `### Question ${d.id}\n**Topic:** [[${d.topic}]]\n**Text:** ${d.text}\n**Your Answer:** ${d.userAnswer}\n**Correct:** ${d.correctAnswer}\n${expHtml}\n**Time Spent:** ${d.timeTaken}s\n---`;
+          let exp = d.explanation.concept ? `\n> **Concept:** ${d.explanation.concept}` : '';
+          return `### Q${d.id}: ${d.isCorrect ? '✅' : (d.userAnswer === 'Skipped' ? '⚪' : '❌')}\n**Question:** ${d.text}\n**Selected:** ${d.userAnswer} | **Correct:** ${d.correctAnswer}${exp}\n---`;
         }).join('\n');
 
-      const txt = `CET Analysis Summary\nDate: ${new Date().toLocaleString()}\nScore: ${totalCorrect}/${questions.length}\n\n` +
-        analysisData.map(d => `Q${d.id} [${d.subject} - ${d.topic}]: ${d.isCorrect ? 'PASS' : 'FAIL'} | Time: ${d.timeTaken}s`).join('\n');
-
-      const json = JSON.stringify({ 
-        metadata: { date: dateStr, score: totalCorrect, total: questions.length, baseName },
-        details: analysisData 
-      }, null, 2);
+      // 3. TXT Format
+      const txt = `==================================================\n` +
+        `CET ENGINE PERFORMANCE ARCHIVE\n` +
+        `==================================================\n` +
+        `ID       : ${sessionId}\n` +
+        `TIME     : ${dateStr} ${displayTime}\n` +
+        `SUBJECT  : ${subjectName}\n` +
+        `MOCK #   : ${mockNum}\n` +
+        `ATTEMPT  : ${sessionContext.PASSION_ATTEMPT_INDEX}\n` +
+        `--------------------------------------------------\n` +
+        `SCORE    : ${totalCorrect}/${questions.length} (${accuracy}% Accuracy)\n` +
+        `==================================================\n\n` +
+        `QUESTION LOG:\n` +
+        analysisData.map(d => `[${d.id.toString().padStart(2, '0')}] ${d.isCorrect ? 'RIGHT' : (d.userAnswer === 'Skipped' ? 'SKIP ' : 'WRONG')} | ${d.subject.toUpperCase()}`).join('\n');
 
       if (window.electronAPI?.saveAnalysis) {
         const res = await window.electronAPI.saveAnalysis({
-          date: dateStr,
-          type: 'EXAM',
+          fileName: fileName,
           md, txt, json
         });
-        if (res.success) {
-          setStatus('success');
-        } else {
-          throw new Error(res.error);
-        }
+        if (res.success) setStatus('success');
+        else throw new Error(res.error);
       } else {
-        throw new Error('FileSystem Access Denied');
+        setStatus('success'); // Fallback for browser (already saved to localStorage)
       }
     } catch (err) {
       setErrorMsg(err.message);
@@ -99,7 +141,7 @@ export default function Results({ questions, answers, timeSpent = {}, onHome, on
           <div className="animate-in fade-in duration-500">
             <div className="w-16 h-16 border-[5px] border-white/5 border-t-blue-500 rounded-full animate-spin mx-auto mb-8 shadow-[0_0_30px_rgba(37,99,235,0.2)]"></div>
             <h1 className="text-3xl font-black !text-white mb-3 italic tracking-tighter">Processing Session Data...</h1>
-            <p className="text-white/40 text-[11px] font-black uppercase tracking-[0.4em]">Encrypting · Syncing · Knowledge Base Export</p>
+            <p className="text-white/40 text-[11px] font-black uppercase tracking-[0.4em]">System Interface v1.3 · Knowledge Base Export</p>
           </div>
         )}
 

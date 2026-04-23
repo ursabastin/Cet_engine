@@ -46,7 +46,7 @@ function normalizeQuestion(q, filename, subject) {
  */
 export async function getPracticeQuestions(subject, count, seedStr) {
   try {
-    const manifestResponse = await fetch('data/manifest.json');
+    const manifestResponse = await fetch('manifest.json');
     const manifest = await manifestResponse.json();
     
     const strategyFiles = manifest[subject].filter(file => 
@@ -56,7 +56,7 @@ export async function getPracticeQuestions(subject, count, seedStr) {
     if (strategyFiles.length === 0) return [];
     
     const fetchPromises = strategyFiles.map(file => 
-      fetch(`data/practice_pool/${subject}/topics/${file}.json`)
+      fetch(`practice_pool/${subject}/topics/${file}.json`)
         .then(res => res.json())
         .then(data => data.map((q, idx) => ({ ...q, _filename: file, _index: idx })))
         .catch(() => [])

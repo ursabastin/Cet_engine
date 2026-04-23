@@ -61,7 +61,7 @@ export default function Home({ onStartTest, onBack }) {
                 </button>
               </div>
               <p className="text-white/40 text-[11px] font-black uppercase tracking-[0.4em] mt-2">
-                Dynamic Question Delivery · Full Syllabus Integration
+                System Interface v1.3 · Dynamic Question Delivery · Full Syllabus Integration
               </p>
             </div>
           </div>
@@ -88,7 +88,7 @@ export default function Home({ onStartTest, onBack }) {
             <div className="p-8 pb-4 flex items-center justify-between border-b border-white/5 bg-white/5 backdrop-blur-3xl">
               <div>
                 <h2 className="text-2xl font-black text-white tracking-tighter uppercase italic">Engine <span className="text-blue-500">Analytics</span></h2>
-                <p className="text-[10px] font-bold text-white/30 uppercase tracking-[0.3em] mt-1">Live performance tracking · Variation 51</p>
+                <p className="text-[10px] font-bold text-white/30 uppercase tracking-[0.3em] mt-1">Live performance tracking · v1.3</p>
               </div>
               <button 
                 onClick={() => setShowAnalysis(false)}
@@ -120,11 +120,11 @@ function MasteryHub({ onStartTest }) {
     const bust = Date.now();
     // Load both manifest and the pre-planned mock blueprint with cache busting
     Promise.all([
-      fetch(`data/manifest.json?v=${bust}`).then(res => {
+      fetch(`manifest.json?v=${bust}`).then(res => {
         if (!res.ok) throw new Error('Manifest not found');
         return res.json();
       }),
-      fetch(`data/mock_plan.json?v=${bust}`).then(res => {
+      fetch(`mock_plan.json?v=${bust}`).then(res => {
         if (!res.ok) throw new Error('Mock Blueprint not found');
         return res.json();
       })
