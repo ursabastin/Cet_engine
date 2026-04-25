@@ -3,7 +3,8 @@ import path from 'path';
 import fs from 'fs';
 import os from 'os';
 import { fileURLToPath } from 'url';
-import { autoUpdater } from "electron-updater";
+import pkg from 'electron-updater';
+const { autoUpdater } = pkg;
 
 // Configure Auto-Updater
 autoUpdater.autoDownload = true;
@@ -11,22 +12,38 @@ autoUpdater.autoInstallOnAppQuit = true;
 
 // ... (rest of imports)
 
-ipcMain.handle('save-analysis', async (event, { fileName, md, txt, json }) => {
+ipcMain.handle('save-analysis', async (event, { fileName, json }) => {
   try {
-    const docsPath = 'C:\\My life\\Academics\\Entrance Test\\Entrance test preparation daily result from 21 April to 28 April';
+    const docsPath = 'C:\\My life\\Academics\\Entrance Test\\Entrance test preparation daily result from 21 April to 28 April - 9 Data';
     
     if (!fs.existsSync(docsPath)) {
       fs.mkdirSync(docsPath, { recursive: true });
     }
 
     fs.writeFileSync(path.join(docsPath, `${fileName}.json`), json);
-    fs.writeFileSync(path.join(docsPath, `${fileName}.txt`), txt);
-    fs.writeFileSync(path.join(docsPath, `${fileName}.md`), md);
 
     return { success: true, path: docsPath };
   } catch (error) {
     console.error('Save failed:', error);
     return { success: false, error: error.message };
+  }
+});
+
+ipcMain.handle('get-analysis-data', async () => {
+  try {
+    const docsPath = 'C:\\My life\\Academics\\Entrance Test\\Entrance test preparation daily result from 21 April to 28 April - 9 Data';
+    if (!fs.existsSync(docsPath)) return [];
+
+    const files = fs.readdirSync(docsPath).filter(f => f.endsWith('.json'));
+    const data = files.map(file => {
+      const content = fs.readFileSync(path.join(docsPath, file), 'utf8');
+      return JSON.parse(content);
+    });
+
+    return data;
+  } catch (error) {
+    console.error('Fetch failed:', error);
+    return [];
   }
 });
 
@@ -65,10 +82,13 @@ function createWindow() {
   // Check for updates
   autoUpdater.checkForUpdatesAndNotify();
 
+  const isAnalytics = process.argv.includes('--analytics');
+  const queryParam = isAnalytics ? '?mode=analytics' : '';
+
   if (isDev) {
-    win.loadURL('http://localhost:5173');
+    win.loadURL(`http://localhost:5173${queryParam}`);
   } else {
-    win.loadFile(path.join(__dirname, '../dist/index.html'));
+    win.loadFile(path.join(__dirname, '../dist/index.html'), { query: isAnalytics ? { mode: 'analytics' } : {} });
   }
 
   // Remove menu in production

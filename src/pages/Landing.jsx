@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
-import SupportChat from '../components/SupportChat';
 
 export default function Landing({ onEnter }) {
-  const [isChatOpen, setIsChatOpen] = useState(false);
 
   return (
     <div className="min-h-screen bg-[#050505] flex flex-col items-center justify-center relative overflow-hidden font-outfit">
@@ -66,39 +64,8 @@ export default function Landing({ onEnter }) {
           </span>
         </button>
 
-        {/* Version / Year */}
-        <div className="mt-24 flex flex-col items-center gap-2">
-          <div className="text-white/20 text-[10px] font-black uppercase tracking-widest">
-            Build 2026.04.29-α • Production Grade
-          </div>
-          <div className="text-white/40 text-[9px] font-bold uppercase tracking-wider">
-            Contact: cet2026.support@gmail.com
-          </div>
-        </div>
       </div>
 
-      {/* Floating Support Button */}
-      <div className="absolute bottom-8 right-8 z-20 group">
-        <div className="absolute inset-0 bg-blue-600/20 blur-xl rounded-full scale-150 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-        <button 
-          onClick={() => setIsChatOpen(!isChatOpen)}
-          className="relative w-14 h-14 bg-white/5 border border-white/10 rounded-full flex items-center justify-center backdrop-blur-xl hover:scale-110 active:scale-95 transition-all shadow-2xl"
-          title="Contact Support"
-        >
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M21 11.5C21 16.75 16.75 21 11.5 21C6.25 21 2 16.75 2 11.5C2 6.25 6.25 2 11.5 2C16.75 2 21 6.25 21 11.5Z" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-            <path d="M9.09 9C9.3251 8.33167 9.78915 7.76811 10.4 7.40344C11.0108 7.03877 11.7314 6.89662 12.434 6.99368C13.1366 7.09074 13.7828 7.42152 14.2582 7.92723C14.7337 8.43294 15.0113 9.08537 15.04 9.76999C15.04 11.33 12.71 12.11 12.71 12.11M12.71 16H12.72" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-          </svg>
-        </button>
-        {!isChatOpen && (
-          <div className="absolute right-16 top-1/2 -translate-y-1/2 px-4 py-2 bg-white/10 border border-white/10 rounded-xl backdrop-blur-md opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none whitespace-nowrap">
-            <span className="text-white text-[10px] font-black uppercase tracking-widest">Support Available</span>
-          </div>
-        )}
-      </div>
-
-      {/* Support Chat Overlay */}
-      {isChatOpen && <SupportChat onClose={() => setIsChatOpen(false)} />}
 
       {/* Decorative lines */}
       <div className="absolute bottom-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-white/5 to-transparent"></div>
