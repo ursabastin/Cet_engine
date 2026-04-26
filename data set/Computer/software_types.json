@@ -1,0 +1,982 @@
+[
+  {
+    "id": "CMP-SFW-001",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "system_vs_application",
+    "question": "Which of the following is an example of System Software?",
+    "options": {
+      "A": "Media Player",
+      "B": "MS Word",
+      "C": "Operating System",
+      "D": "Web Browser"
+    },
+    "answer": "C",
+    "explanation": "System software, like an OS, manages hardware and software resources, unlike application software which performs specific tasks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-002",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "system_vs_application",
+    "question": "Which of the following is an example of System Software?",
+    "options": {
+      "A": "Web Browser",
+      "B": "Operating System",
+      "C": "MS Word",
+      "D": "Media Player"
+    },
+    "answer": "B",
+    "explanation": "System software, like an OS, manages hardware and software resources, unlike application software which performs specific tasks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-003",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "system_vs_application",
+    "question": "Which of the following is an example of System Software?",
+    "options": {
+      "A": "Operating System",
+      "B": "Media Player",
+      "C": "MS Word",
+      "D": "Web Browser"
+    },
+    "answer": "A",
+    "explanation": "System software, like an OS, manages hardware and software resources, unlike application software which performs specific tasks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-004",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "system_vs_application",
+    "question": "Which of the following is an example of System Software?",
+    "options": {
+      "A": "Media Player",
+      "B": "MS Word",
+      "C": "Web Browser",
+      "D": "Operating System"
+    },
+    "answer": "D",
+    "explanation": "System software, like an OS, manages hardware and software resources, unlike application software which performs specific tasks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-005",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "system_vs_application",
+    "question": "Which of the following is an example of System Software?",
+    "options": {
+      "A": "Operating System",
+      "B": "Media Player",
+      "C": "Web Browser",
+      "D": "MS Word"
+    },
+    "answer": "A",
+    "explanation": "System software, like an OS, manages hardware and software resources, unlike application software which performs specific tasks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-006",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "system_vs_application",
+    "question": "Which of the following is an example of System Software?",
+    "options": {
+      "A": "Operating System",
+      "B": "MS Word",
+      "C": "Media Player",
+      "D": "Web Browser"
+    },
+    "answer": "A",
+    "explanation": "System software, like an OS, manages hardware and software resources, unlike application software which performs specific tasks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-007",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "system_vs_application",
+    "question": "Which of the following is an example of System Software?",
+    "options": {
+      "A": "Web Browser",
+      "B": "Media Player",
+      "C": "MS Word",
+      "D": "Operating System"
+    },
+    "answer": "D",
+    "explanation": "System software, like an OS, manages hardware and software resources, unlike application software which performs specific tasks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-008",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "system_vs_application",
+    "question": "Which of the following is an example of System Software?",
+    "options": {
+      "A": "Web Browser",
+      "B": "Operating System",
+      "C": "Media Player",
+      "D": "MS Word"
+    },
+    "answer": "B",
+    "explanation": "System software, like an OS, manages hardware and software resources, unlike application software which performs specific tasks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-009",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "operating_system_types",
+    "question": "Which of the following operating systems is open-source?",
+    "options": {
+      "A": "Windows",
+      "B": "iOS",
+      "C": "Linux",
+      "D": "macOS"
+    },
+    "answer": "C",
+    "explanation": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-010",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "operating_system_types",
+    "question": "Which of the following operating systems is open-source?",
+    "options": {
+      "A": "Linux",
+      "B": "iOS",
+      "C": "Windows",
+      "D": "macOS"
+    },
+    "answer": "A",
+    "explanation": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-011",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "operating_system_types",
+    "question": "Which of the following operating systems is open-source?",
+    "options": {
+      "A": "Windows",
+      "B": "iOS",
+      "C": "macOS",
+      "D": "Linux"
+    },
+    "answer": "D",
+    "explanation": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-012",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "operating_system_types",
+    "question": "Which of the following operating systems is open-source?",
+    "options": {
+      "A": "Windows",
+      "B": "macOS",
+      "C": "Linux",
+      "D": "iOS"
+    },
+    "answer": "C",
+    "explanation": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-013",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "operating_system_types",
+    "question": "Which of the following operating systems is open-source?",
+    "options": {
+      "A": "Linux",
+      "B": "Windows",
+      "C": "macOS",
+      "D": "iOS"
+    },
+    "answer": "A",
+    "explanation": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-014",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "operating_system_types",
+    "question": "Which of the following operating systems is open-source?",
+    "options": {
+      "A": "Linux",
+      "B": "macOS",
+      "C": "iOS",
+      "D": "Windows"
+    },
+    "answer": "A",
+    "explanation": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-015",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "utility_software",
+    "question": "Antivirus programs and disk defragmenters are examples of what type of software?",
+    "options": {
+      "A": "Utility Software",
+      "B": "Shareware",
+      "C": "Application Software",
+      "D": "Firmware"
+    },
+    "answer": "A",
+    "explanation": "Utility software helps manage, maintain, and control computer resources.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-016",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "utility_software",
+    "question": "Antivirus programs and disk defragmenters are examples of what type of software?",
+    "options": {
+      "A": "Application Software",
+      "B": "Firmware",
+      "C": "Shareware",
+      "D": "Utility Software"
+    },
+    "answer": "D",
+    "explanation": "Utility software helps manage, maintain, and control computer resources.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-017",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "utility_software",
+    "question": "Antivirus programs and disk defragmenters are examples of what type of software?",
+    "options": {
+      "A": "Firmware",
+      "B": "Shareware",
+      "C": "Application Software",
+      "D": "Utility Software"
+    },
+    "answer": "D",
+    "explanation": "Utility software helps manage, maintain, and control computer resources.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-018",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "utility_software",
+    "question": "Antivirus programs and disk defragmenters are examples of what type of software?",
+    "options": {
+      "A": "Application Software",
+      "B": "Firmware",
+      "C": "Utility Software",
+      "D": "Shareware"
+    },
+    "answer": "C",
+    "explanation": "Utility software helps manage, maintain, and control computer resources.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-019",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "utility_software",
+    "question": "Antivirus programs and disk defragmenters are examples of what type of software?",
+    "options": {
+      "A": "Application Software",
+      "B": "Shareware",
+      "C": "Utility Software",
+      "D": "Firmware"
+    },
+    "answer": "C",
+    "explanation": "Utility software helps manage, maintain, and control computer resources.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-020",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "application_software",
+    "question": "Microsoft Excel and Google Chrome are examples of which category of software?",
+    "options": {
+      "A": "Malware",
+      "B": "Application Software",
+      "C": "System Software",
+      "D": "Utility Software"
+    },
+    "answer": "B",
+    "explanation": "Application software is designed to carry out a specific task for the user.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-021",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "application_software",
+    "question": "Microsoft Excel and Google Chrome are examples of which category of software?",
+    "options": {
+      "A": "Malware",
+      "B": "System Software",
+      "C": "Utility Software",
+      "D": "Application Software"
+    },
+    "answer": "D",
+    "explanation": "Application software is designed to carry out a specific task for the user.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-022",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "application_software",
+    "question": "Microsoft Excel and Google Chrome are examples of which category of software?",
+    "options": {
+      "A": "Malware",
+      "B": "Application Software",
+      "C": "System Software",
+      "D": "Utility Software"
+    },
+    "answer": "B",
+    "explanation": "Application software is designed to carry out a specific task for the user.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-023",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "application_software",
+    "question": "Microsoft Excel and Google Chrome are examples of which category of software?",
+    "options": {
+      "A": "Application Software",
+      "B": "System Software",
+      "C": "Utility Software",
+      "D": "Malware"
+    },
+    "answer": "A",
+    "explanation": "Application software is designed to carry out a specific task for the user.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-024",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "application_software",
+    "question": "Microsoft Excel and Google Chrome are examples of which category of software?",
+    "options": {
+      "A": "Utility Software",
+      "B": "Application Software",
+      "C": "Malware",
+      "D": "System Software"
+    },
+    "answer": "B",
+    "explanation": "Application software is designed to carry out a specific task for the user.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-025",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "open_source_proprietary",
+    "question": "Software whose source code is freely available for anyone to inspect and modify is known as:",
+    "options": {
+      "A": "Proprietary Software",
+      "B": "Shareware",
+      "C": "Open Source Software",
+      "D": "Freeware"
+    },
+    "answer": "C",
+    "explanation": "Open-source software (OSS) is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-026",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "open_source_proprietary",
+    "question": "Software whose source code is freely available for anyone to inspect and modify is known as:",
+    "options": {
+      "A": "Shareware",
+      "B": "Open Source Software",
+      "C": "Freeware",
+      "D": "Proprietary Software"
+    },
+    "answer": "B",
+    "explanation": "Open-source software (OSS) is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-027",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "open_source_proprietary",
+    "question": "Software whose source code is freely available for anyone to inspect and modify is known as:",
+    "options": {
+      "A": "Proprietary Software",
+      "B": "Open Source Software",
+      "C": "Freeware",
+      "D": "Shareware"
+    },
+    "answer": "B",
+    "explanation": "Open-source software (OSS) is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-028",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "open_source_proprietary",
+    "question": "Software whose source code is freely available for anyone to inspect and modify is known as:",
+    "options": {
+      "A": "Freeware",
+      "B": "Open Source Software",
+      "C": "Proprietary Software",
+      "D": "Shareware"
+    },
+    "answer": "B",
+    "explanation": "Open-source software (OSS) is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-029",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "freeware_shareware",
+    "question": "Software that is distributed free on a trial basis with the understanding that the user may need to pay for it later is called:",
+    "options": {
+      "A": "Freeware",
+      "B": "Open Source",
+      "C": "Shareware",
+      "D": "Firmware"
+    },
+    "answer": "C",
+    "explanation": "Shareware is proprietary software that is initially provided free of charge to users, who are allowed and encouraged to make and share copies.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-030",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "freeware_shareware",
+    "question": "Software that is distributed free on a trial basis with the understanding that the user may need to pay for it later is called:",
+    "options": {
+      "A": "Freeware",
+      "B": "Open Source",
+      "C": "Firmware",
+      "D": "Shareware"
+    },
+    "answer": "D",
+    "explanation": "Shareware is proprietary software that is initially provided free of charge to users, who are allowed and encouraged to make and share copies.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-031",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "freeware_shareware",
+    "question": "Software that is distributed free on a trial basis with the understanding that the user may need to pay for it later is called:",
+    "options": {
+      "A": "Freeware",
+      "B": "Open Source",
+      "C": "Shareware",
+      "D": "Firmware"
+    },
+    "answer": "C",
+    "explanation": "Shareware is proprietary software that is initially provided free of charge to users, who are allowed and encouraged to make and share copies.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-032",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "compiler_interpreter",
+    "question": "Which translator program converts the entire high-level language program into machine language at once?",
+    "options": {
+      "A": "Interpreter",
+      "B": "Linker",
+      "C": "Compiler",
+      "D": "Assembler"
+    },
+    "answer": "C",
+    "explanation": "A compiler translates the entire source code into machine code in one go, whereas an interpreter does it line-by-line.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-033",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "compiler_interpreter",
+    "question": "Which translator program converts the entire high-level language program into machine language at once?",
+    "options": {
+      "A": "Interpreter",
+      "B": "Compiler",
+      "C": "Assembler",
+      "D": "Linker"
+    },
+    "answer": "B",
+    "explanation": "A compiler translates the entire source code into machine code in one go, whereas an interpreter does it line-by-line.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-034",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "compiler_interpreter",
+    "question": "Which translator program converts the entire high-level language program into machine language at once?",
+    "options": {
+      "A": "Compiler",
+      "B": "Assembler",
+      "C": "Interpreter",
+      "D": "Linker"
+    },
+    "answer": "A",
+    "explanation": "A compiler translates the entire source code into machine code in one go, whereas an interpreter does it line-by-line.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-SFW-035",
+    "subject": "computer",
+    "topic": "software_types",
+    "subtopic": "compiler_interpreter",
+    "question": "Which translator program converts the entire high-level language program into machine language at once?",
+    "options": {
+      "A": "Linker",
+      "B": "Assembler",
+      "C": "Interpreter",
+      "D": "Compiler"
+    },
+    "answer": "D",
+    "explanation": "A compiler translates the entire source code into machine code in one go, whereas an interpreter does it line-by-line.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "software"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

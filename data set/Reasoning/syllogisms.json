@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "RSN-SYL-001",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-All",
+    "question": "Statements: 1. All cats are dogs. 2. All dogs are birds.\nConclusions: I. All cats are birds. II. Some birds are cats.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion I follows",
+      "C": "Only Conclusion II follows",
+      "D": "Both Conclusions I and II follow"
+    },
+    "answer": "D",
+    "explanation": "If all A are B and all B are C, then all A are C (I follows). Also, if all A are C, then some C are A (II follows).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-002",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-All",
+    "question": "Statements: 1. All cats are dogs. 2. All dogs are birds.\nConclusions: I. All cats are birds. II. Some birds are cats.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion II follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "C",
+    "explanation": "If all A are B and all B are C, then all A are C (I follows). Also, if all A are C, then some C are A (II follows).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-003",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-All",
+    "question": "Statements: 1. All cats are dogs. 2. All dogs are birds.\nConclusions: I. All cats are birds. II. Some birds are cats.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion I follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Only Conclusion II follows"
+    },
+    "answer": "C",
+    "explanation": "If all A are B and all B are C, then all A are C (I follows). Also, if all A are C, then some C are A (II follows).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-004",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-All",
+    "question": "Statements: 1. All cats are dogs. 2. All dogs are birds.\nConclusions: I. All cats are birds. II. Some birds are cats.",
+    "options": {
+      "A": "Both Conclusions I and II follow",
+      "B": "Only Conclusion II follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "A",
+    "explanation": "If all A are B and all B are C, then all A are C (I follows). Also, if all A are C, then some C are A (II follows).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-005",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-All",
+    "question": "Statements: 1. All cats are dogs. 2. All dogs are birds.\nConclusions: I. All cats are birds. II. Some birds are cats.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Only Conclusion I follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "C",
+    "explanation": "If all A are B and all B are C, then all A are C (I follows). Also, if all A are C, then some C are A (II follows).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-006",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-All",
+    "question": "Statements: 1. All cats are dogs. 2. All dogs are birds.\nConclusions: I. All cats are birds. II. Some birds are cats.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion II follows",
+      "C": "Only Conclusion I follows",
+      "D": "Both Conclusions I and II follow"
+    },
+    "answer": "D",
+    "explanation": "If all A are B and all B are C, then all A are C (I follows). Also, if all A are C, then some C are A (II follows).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-007",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-All",
+    "question": "Statements: 1. All cats are dogs. 2. All dogs are birds.\nConclusions: I. All cats are birds. II. Some birds are cats.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Neither Conclusion I nor Conclusion II follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "C",
+    "explanation": "If all A are B and all B are C, then all A are C (I follows). Also, if all A are C, then some C are A (II follows).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-008",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-All",
+    "question": "Statements: 1. All cats are dogs. 2. All dogs are birds.\nConclusions: I. All cats are birds. II. Some birds are cats.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion II follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "C",
+    "explanation": "If all A are B and all B are C, then all A are C (I follows). Also, if all A are C, then some C are A (II follows).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-009",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-Some",
+    "question": "Statements: 1. All pens are pencils. 2. Some pencils are erasers.\nConclusions: I. Some pens are erasers. II. No pens are erasers.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Only Conclusion I follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Either Conclusion I or Conclusion II follows"
+    },
+    "answer": "D",
+    "explanation": "This is a complementary pair (Some A are B / No A are B). Since no direct relation is given between pens and erasers, either one or the other must be true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-010",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-Some",
+    "question": "Statements: 1. All pens are pencils. 2. Some pencils are erasers.\nConclusions: I. Some pens are erasers. II. No pens are erasers.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Either Conclusion I or Conclusion II follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Only Conclusion II follows"
+    },
+    "answer": "B",
+    "explanation": "This is a complementary pair (Some A are B / No A are B). Since no direct relation is given between pens and erasers, either one or the other must be true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-011",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-Some",
+    "question": "Statements: 1. All pens are pencils. 2. Some pencils are erasers.\nConclusions: I. Some pens are erasers. II. No pens are erasers.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Either Conclusion I or Conclusion II follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "B",
+    "explanation": "This is a complementary pair (Some A are B / No A are B). Since no direct relation is given between pens and erasers, either one or the other must be true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-012",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-Some",
+    "question": "Statements: 1. All pens are pencils. 2. Some pencils are erasers.\nConclusions: I. Some pens are erasers. II. No pens are erasers.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Only Conclusion II follows",
+      "C": "Either Conclusion I or Conclusion II follows",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "C",
+    "explanation": "This is a complementary pair (Some A are B / No A are B). Since no direct relation is given between pens and erasers, either one or the other must be true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-013",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-Some",
+    "question": "Statements: 1. All pens are pencils. 2. Some pencils are erasers.\nConclusions: I. Some pens are erasers. II. No pens are erasers.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Neither Conclusion I nor Conclusion II follows",
+      "C": "Either Conclusion I or Conclusion II follows",
+      "D": "Only Conclusion II follows"
+    },
+    "answer": "C",
+    "explanation": "This is a complementary pair (Some A are B / No A are B). Since no direct relation is given between pens and erasers, either one or the other must be true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-014",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-Some",
+    "question": "Statements: 1. All pens are pencils. 2. Some pencils are erasers.\nConclusions: I. Some pens are erasers. II. No pens are erasers.",
+    "options": {
+      "A": "Either Conclusion I or Conclusion II follows",
+      "B": "Only Conclusion I follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Only Conclusion II follows"
+    },
+    "answer": "A",
+    "explanation": "This is a complementary pair (Some A are B / No A are B). Since no direct relation is given between pens and erasers, either one or the other must be true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-015",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-Some",
+    "question": "Statements: 1. All pens are pencils. 2. Some pencils are erasers.\nConclusions: I. Some pens are erasers. II. No pens are erasers.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Neither Conclusion I nor Conclusion II follows",
+      "C": "Only Conclusion I follows",
+      "D": "Either Conclusion I or Conclusion II follows"
+    },
+    "answer": "D",
+    "explanation": "This is a complementary pair (Some A are B / No A are B). Since no direct relation is given between pens and erasers, either one or the other must be true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-016",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "All-Some",
+    "question": "Statements: 1. All pens are pencils. 2. Some pencils are erasers.\nConclusions: I. Some pens are erasers. II. No pens are erasers.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Either Conclusion I or Conclusion II follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "B",
+    "explanation": "This is a complementary pair (Some A are B / No A are B). Since no direct relation is given between pens and erasers, either one or the other must be true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-017",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-All",
+    "question": "Statements: 1. Some cars are buses. 2. All buses are trucks.\nConclusions: I. Some cars are trucks. II. All trucks are cars.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion II follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "D",
+    "explanation": "Some cars are buses, and all buses are trucks, so those cars which are buses must be trucks. Conclusion I follows. Conclusion II is not necessarily true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-018",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-All",
+    "question": "Statements: 1. Some cars are buses. 2. All buses are trucks.\nConclusions: I. Some cars are trucks. II. All trucks are cars.",
+    "options": {
+      "A": "Both Conclusions I and II follow",
+      "B": "Only Conclusion II follows",
+      "C": "Only Conclusion I follows",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "C",
+    "explanation": "Some cars are buses, and all buses are trucks, so those cars which are buses must be trucks. Conclusion I follows. Conclusion II is not necessarily true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-019",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-All",
+    "question": "Statements: 1. Some cars are buses. 2. All buses are trucks.\nConclusions: I. Some cars are trucks. II. All trucks are cars.",
+    "options": {
+      "A": "Both Conclusions I and II follow",
+      "B": "Only Conclusion I follows",
+      "C": "Only Conclusion II follows",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "B",
+    "explanation": "Some cars are buses, and all buses are trucks, so those cars which are buses must be trucks. Conclusion I follows. Conclusion II is not necessarily true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-020",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-All",
+    "question": "Statements: 1. Some cars are buses. 2. All buses are trucks.\nConclusions: I. Some cars are trucks. II. All trucks are cars.",
+    "options": {
+      "A": "Both Conclusions I and II follow",
+      "B": "Only Conclusion I follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Only Conclusion II follows"
+    },
+    "answer": "B",
+    "explanation": "Some cars are buses, and all buses are trucks, so those cars which are buses must be trucks. Conclusion I follows. Conclusion II is not necessarily true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-021",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-All",
+    "question": "Statements: 1. Some cars are buses. 2. All buses are trucks.\nConclusions: I. Some cars are trucks. II. All trucks are cars.",
+    "options": {
+      "A": "Both Conclusions I and II follow",
+      "B": "Only Conclusion I follows",
+      "C": "Only Conclusion II follows",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "B",
+    "explanation": "Some cars are buses, and all buses are trucks, so those cars which are buses must be trucks. Conclusion I follows. Conclusion II is not necessarily true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-022",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-All",
+    "question": "Statements: 1. Some cars are buses. 2. All buses are trucks.\nConclusions: I. Some cars are trucks. II. All trucks are cars.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Both Conclusions I and II follow",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Only Conclusion II follows"
+    },
+    "answer": "A",
+    "explanation": "Some cars are buses, and all buses are trucks, so those cars which are buses must be trucks. Conclusion I follows. Conclusion II is not necessarily true.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-023",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-All",
+    "question": "Statements: 1. No tree is a flower. 2. All flowers are fruits.\nConclusions: I. Some fruits are not trees. II. No fruit is a tree.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Both Conclusions I and II follow",
+      "C": "Only Conclusion II follows",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "D",
+    "explanation": "Since all flowers are fruits and no tree is a flower, the fruits that are flowers can never be trees. Hence, some fruits are not trees. Conclusion II is not definite.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-024",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-All",
+    "question": "Statements: 1. No tree is a flower. 2. All flowers are fruits.\nConclusions: I. Some fruits are not trees. II. No fruit is a tree.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Both Conclusions I and II follow",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Only Conclusion II follows"
+    },
+    "answer": "A",
+    "explanation": "Since all flowers are fruits and no tree is a flower, the fruits that are flowers can never be trees. Hence, some fruits are not trees. Conclusion II is not definite.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-025",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-All",
+    "question": "Statements: 1. No tree is a flower. 2. All flowers are fruits.\nConclusions: I. Some fruits are not trees. II. No fruit is a tree.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Only Conclusion II follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Both Conclusions I and II follow"
+    },
+    "answer": "A",
+    "explanation": "Since all flowers are fruits and no tree is a flower, the fruits that are flowers can never be trees. Hence, some fruits are not trees. Conclusion II is not definite.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-026",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-All",
+    "question": "Statements: 1. No tree is a flower. 2. All flowers are fruits.\nConclusions: I. Some fruits are not trees. II. No fruit is a tree.",
+    "options": {
+      "A": "Both Conclusions I and II follow",
+      "B": "Neither Conclusion I nor Conclusion II follows",
+      "C": "Only Conclusion II follows",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "D",
+    "explanation": "Since all flowers are fruits and no tree is a flower, the fruits that are flowers can never be trees. Hence, some fruits are not trees. Conclusion II is not definite.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-027",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-All",
+    "question": "Statements: 1. No tree is a flower. 2. All flowers are fruits.\nConclusions: I. Some fruits are not trees. II. No fruit is a tree.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Only Conclusion I follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "B",
+    "explanation": "Since all flowers are fruits and no tree is a flower, the fruits that are flowers can never be trees. Hence, some fruits are not trees. Conclusion II is not definite.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-028",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-All",
+    "question": "Statements: 1. No tree is a flower. 2. All flowers are fruits.\nConclusions: I. Some fruits are not trees. II. No fruit is a tree.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Both Conclusions I and II follow",
+      "C": "Only Conclusion I follows",
+      "D": "Only Conclusion II follows"
+    },
+    "answer": "C",
+    "explanation": "Since all flowers are fruits and no tree is a flower, the fruits that are flowers can never be trees. Hence, some fruits are not trees. Conclusion II is not definite.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-029",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-Some",
+    "question": "Statements: 1. No mobile is a laptop. 2. Some laptops are tablets.\nConclusions: I. Some tablets are not mobiles. II. Some mobiles are tablets.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion II follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "D",
+    "explanation": "Some laptops are tablets, and no laptop is a mobile. So, the tablets that are laptops cannot be mobiles. I follows.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-030",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-Some",
+    "question": "Statements: 1. No mobile is a laptop. 2. Some laptops are tablets.\nConclusions: I. Some tablets are not mobiles. II. Some mobiles are tablets.",
+    "options": {
+      "A": "Both Conclusions I and II follow",
+      "B": "Neither Conclusion I nor Conclusion II follows",
+      "C": "Only Conclusion II follows",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "D",
+    "explanation": "Some laptops are tablets, and no laptop is a mobile. So, the tablets that are laptops cannot be mobiles. I follows.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-031",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-Some",
+    "question": "Statements: 1. No mobile is a laptop. 2. Some laptops are tablets.\nConclusions: I. Some tablets are not mobiles. II. Some mobiles are tablets.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Only Conclusion I follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "B",
+    "explanation": "Some laptops are tablets, and no laptop is a mobile. So, the tablets that are laptops cannot be mobiles. I follows.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-032",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-Some",
+    "question": "Statements: 1. No mobile is a laptop. 2. Some laptops are tablets.\nConclusions: I. Some tablets are not mobiles. II. Some mobiles are tablets.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Only Conclusion II follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Both Conclusions I and II follow"
+    },
+    "answer": "A",
+    "explanation": "Some laptops are tablets, and no laptop is a mobile. So, the tablets that are laptops cannot be mobiles. I follows.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-033",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-Some",
+    "question": "Statements: 1. No mobile is a laptop. 2. Some laptops are tablets.\nConclusions: I. Some tablets are not mobiles. II. Some mobiles are tablets.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Only Conclusion II follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Both Conclusions I and II follow"
+    },
+    "answer": "A",
+    "explanation": "Some laptops are tablets, and no laptop is a mobile. So, the tablets that are laptops cannot be mobiles. I follows.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-034",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "No-Some",
+    "question": "Statements: 1. No mobile is a laptop. 2. Some laptops are tablets.\nConclusions: I. Some tablets are not mobiles. II. Some mobiles are tablets.",
+    "options": {
+      "A": "Both Conclusions I and II follow",
+      "B": "Only Conclusion I follows",
+      "C": "Only Conclusion II follows",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "B",
+    "explanation": "Some laptops are tablets, and no laptop is a mobile. So, the tablets that are laptops cannot be mobiles. I follows.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-035",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-Not patterns",
+    "question": "Statements: 1. Some A are B. 2. Some B are not C.\nConclusions: I. Some A are not C. II. All B are A.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Neither Conclusion I nor Conclusion II follows",
+      "C": "Only Conclusion I follows",
+      "D": "Both Conclusions I and II follow"
+    },
+    "answer": "B",
+    "explanation": "There is no direct relationship established between A and C. Hence, Conclusion I does not follow. Conclusion II is obviously invalid.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-036",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-Not patterns",
+    "question": "Statements: 1. Some A are B. 2. Some B are not C.\nConclusions: I. Some A are not C. II. All B are A.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Both Conclusions I and II follow",
+      "C": "Only Conclusion II follows",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "A",
+    "explanation": "There is no direct relationship established between A and C. Hence, Conclusion I does not follow. Conclusion II is obviously invalid.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-037",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-Not patterns",
+    "question": "Statements: 1. Some A are B. 2. Some B are not C.\nConclusions: I. Some A are not C. II. All B are A.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion I follows",
+      "C": "Only Conclusion II follows",
+      "D": "Both Conclusions I and II follow"
+    },
+    "answer": "A",
+    "explanation": "There is no direct relationship established between A and C. Hence, Conclusion I does not follow. Conclusion II is obviously invalid.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-038",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-Not patterns",
+    "question": "Statements: 1. Some A are B. 2. Some B are not C.\nConclusions: I. Some A are not C. II. All B are A.",
+    "options": {
+      "A": "Neither Conclusion I nor Conclusion II follows",
+      "B": "Only Conclusion II follows",
+      "C": "Both Conclusions I and II follow",
+      "D": "Only Conclusion I follows"
+    },
+    "answer": "A",
+    "explanation": "There is no direct relationship established between A and C. Hence, Conclusion I does not follow. Conclusion II is obviously invalid.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-039",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-Not patterns",
+    "question": "Statements: 1. Some A are B. 2. Some B are not C.\nConclusions: I. Some A are not C. II. All B are A.",
+    "options": {
+      "A": "Only Conclusion II follows",
+      "B": "Both Conclusions I and II follow",
+      "C": "Only Conclusion I follows",
+      "D": "Neither Conclusion I nor Conclusion II follows"
+    },
+    "answer": "D",
+    "explanation": "There is no direct relationship established between A and C. Hence, Conclusion I does not follow. Conclusion II is obviously invalid.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-SYL-040",
+    "subject": "reasoning",
+    "topic": "syllogisms",
+    "subtopic": "Some-Not patterns",
+    "question": "Statements: 1. Some A are B. 2. Some B are not C.\nConclusions: I. Some A are not C. II. All B are A.",
+    "options": {
+      "A": "Only Conclusion I follows",
+      "B": "Only Conclusion II follows",
+      "C": "Neither Conclusion I nor Conclusion II follows",
+      "D": "Both Conclusions I and II follow"
+    },
+    "answer": "C",
+    "explanation": "There is no direct relationship established between A and C. Hence, Conclusion I does not follow. Conclusion II is obviously invalid.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "syllogisms",
+      "logic"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "RSN-DIR-001",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "final_direction",
+    "question": "A man walks 5 km South, then turns right and walks 3 km. He turns right again and walks 5 km. Which direction is he facing now?",
+    "options": {
+      "A": "South",
+      "B": "West",
+      "C": "North",
+      "D": "East"
+    },
+    "answer": "C",
+    "explanation": "South -> right turn means West. Walking West -> right turn means North. He is facing North.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-002",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "final_direction",
+    "question": "A man walks 5 km South, then turns right and walks 3 km. He turns right again and walks 5 km. Which direction is he facing now?",
+    "options": {
+      "A": "West",
+      "B": "South",
+      "C": "North",
+      "D": "East"
+    },
+    "answer": "C",
+    "explanation": "South -> right turn means West. Walking West -> right turn means North. He is facing North.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-003",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "final_direction",
+    "question": "A man walks 5 km South, then turns right and walks 3 km. He turns right again and walks 5 km. Which direction is he facing now?",
+    "options": {
+      "A": "South",
+      "B": "East",
+      "C": "West",
+      "D": "North"
+    },
+    "answer": "D",
+    "explanation": "South -> right turn means West. Walking West -> right turn means North. He is facing North.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-004",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "final_direction",
+    "question": "A man walks 5 km South, then turns right and walks 3 km. He turns right again and walks 5 km. Which direction is he facing now?",
+    "options": {
+      "A": "East",
+      "B": "South",
+      "C": "West",
+      "D": "North"
+    },
+    "answer": "D",
+    "explanation": "South -> right turn means West. Walking West -> right turn means North. He is facing North.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-005",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "final_direction",
+    "question": "A man walks 5 km South, then turns right and walks 3 km. He turns right again and walks 5 km. Which direction is he facing now?",
+    "options": {
+      "A": "East",
+      "B": "North",
+      "C": "South",
+      "D": "West"
+    },
+    "answer": "B",
+    "explanation": "South -> right turn means West. Walking West -> right turn means North. He is facing North.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-006",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "final_direction",
+    "question": "A man walks 5 km South, then turns right and walks 3 km. He turns right again and walks 5 km. Which direction is he facing now?",
+    "options": {
+      "A": "East",
+      "B": "North",
+      "C": "South",
+      "D": "West"
+    },
+    "answer": "B",
+    "explanation": "South -> right turn means West. Walking West -> right turn means North. He is facing North.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-007",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "final_direction",
+    "question": "A man walks 5 km South, then turns right and walks 3 km. He turns right again and walks 5 km. Which direction is he facing now?",
+    "options": {
+      "A": "West",
+      "B": "South",
+      "C": "East",
+      "D": "North"
+    },
+    "answer": "D",
+    "explanation": "South -> right turn means West. Walking West -> right turn means North. He is facing North.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-008",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "final_direction",
+    "question": "A man walks 5 km South, then turns right and walks 3 km. He turns right again and walks 5 km. Which direction is he facing now?",
+    "options": {
+      "A": "South",
+      "B": "East",
+      "C": "North",
+      "D": "West"
+    },
+    "answer": "C",
+    "explanation": "South -> right turn means West. Walking West -> right turn means North. He is facing North.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-009",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "total_distance",
+    "question": "A person walks 3 km East, turns left and walks 4 km. How far is he from the starting point?",
+    "options": {
+      "A": "5 km",
+      "B": "6 km",
+      "C": "1 km",
+      "D": "7 km"
+    },
+    "answer": "A",
+    "explanation": "Using Pythagoras theorem: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5 km.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-010",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "total_distance",
+    "question": "A person walks 3 km East, turns left and walks 4 km. How far is he from the starting point?",
+    "options": {
+      "A": "5 km",
+      "B": "7 km",
+      "C": "6 km",
+      "D": "1 km"
+    },
+    "answer": "A",
+    "explanation": "Using Pythagoras theorem: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5 km.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-011",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "total_distance",
+    "question": "A person walks 3 km East, turns left and walks 4 km. How far is he from the starting point?",
+    "options": {
+      "A": "5 km",
+      "B": "6 km",
+      "C": "1 km",
+      "D": "7 km"
+    },
+    "answer": "A",
+    "explanation": "Using Pythagoras theorem: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5 km.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-012",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "total_distance",
+    "question": "A person walks 3 km East, turns left and walks 4 km. How far is he from the starting point?",
+    "options": {
+      "A": "7 km",
+      "B": "6 km",
+      "C": "1 km",
+      "D": "5 km"
+    },
+    "answer": "D",
+    "explanation": "Using Pythagoras theorem: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5 km.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-013",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "total_distance",
+    "question": "A person walks 3 km East, turns left and walks 4 km. How far is he from the starting point?",
+    "options": {
+      "A": "6 km",
+      "B": "5 km",
+      "C": "7 km",
+      "D": "1 km"
+    },
+    "answer": "B",
+    "explanation": "Using Pythagoras theorem: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5 km.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-014",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "total_distance",
+    "question": "A person walks 3 km East, turns left and walks 4 km. How far is he from the starting point?",
+    "options": {
+      "A": "6 km",
+      "B": "1 km",
+      "C": "5 km",
+      "D": "7 km"
+    },
+    "answer": "C",
+    "explanation": "Using Pythagoras theorem: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5 km.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-015",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "shadow_direction",
+    "question": "One morning after sunrise, Amit and Raj were standing facing each other. Amit's shadow fell exactly to his right. Which direction was Raj facing?",
+    "options": {
+      "A": "East",
+      "B": "West",
+      "C": "North",
+      "D": "South"
+    },
+    "answer": "D",
+    "explanation": "In the morning, the sun is in the East, so shadows fall towards the West. If Amit's shadow is to his right, Amit is facing North (West is to the right of North). Since they face each other, Raj is facing South.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-016",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "shadow_direction",
+    "question": "One morning after sunrise, Amit and Raj were standing facing each other. Amit's shadow fell exactly to his right. Which direction was Raj facing?",
+    "options": {
+      "A": "East",
+      "B": "North",
+      "C": "South",
+      "D": "West"
+    },
+    "answer": "C",
+    "explanation": "In the morning, the sun is in the East, so shadows fall towards the West. If Amit's shadow is to his right, Amit is facing North (West is to the right of North). Since they face each other, Raj is facing South.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-017",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "shadow_direction",
+    "question": "One morning after sunrise, Amit and Raj were standing facing each other. Amit's shadow fell exactly to his right. Which direction was Raj facing?",
+    "options": {
+      "A": "South",
+      "B": "East",
+      "C": "North",
+      "D": "West"
+    },
+    "answer": "A",
+    "explanation": "In the morning, the sun is in the East, so shadows fall towards the West. If Amit's shadow is to his right, Amit is facing North (West is to the right of North). Since they face each other, Raj is facing South.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-018",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "relative_position",
+    "question": "City A is 10 km North of City B. City C is 10 km East of City B. In which direction is City A with respect to City C?",
+    "options": {
+      "A": "South-East",
+      "B": "North-West",
+      "C": "North-East",
+      "D": "South-West"
+    },
+    "answer": "B",
+    "explanation": "A is North of B. C is East of B. So from C, one must go West to B and North to A. Therefore, A is North-West of C.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-019",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "relative_position",
+    "question": "City A is 10 km North of City B. City C is 10 km East of City B. In which direction is City A with respect to City C?",
+    "options": {
+      "A": "South-West",
+      "B": "North-West",
+      "C": "North-East",
+      "D": "South-East"
+    },
+    "answer": "B",
+    "explanation": "A is North of B. C is East of B. So from C, one must go West to B and North to A. Therefore, A is North-West of C.",
+    "difficulty": "hard",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-DIR-020",
+    "subject": "reasoning",
+    "topic": "direction_sense",
+    "subtopic": "relative_position",
+    "question": "City A is 10 km North of City B. City C is 10 km East of City B. In which direction is City A with respect to City C?",
+    "options": {
+      "A": "North-West",
+      "B": "South-West",
+      "C": "North-East",
+      "D": "South-East"
+    },
+    "answer": "A",
+    "explanation": "A is North of B. C is East of B. So from C, one must go West to B and North to A. Therefore, A is North-West of C.",
+    "difficulty": "hard",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "direction_sense"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

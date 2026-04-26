@@ -1,0 +1,872 @@
+[
+  {
+    "id": "CMP-INT-001",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "www_vs_internet",
+    "question": "What is the primary difference between the World Wide Web (WWW) and the Internet?",
+    "options": {
+      "A": "They are exactly the same thing.",
+      "B": "The WWW is older than the Internet.",
+      "C": "The Internet is only for emails, WWW is for websites.",
+      "D": "The Internet is the network infrastructure, while the WWW is a service on top of it."
+    },
+    "answer": "D",
+    "explanation": "The Internet connects computers globally, whereas the WWW is a collection of information accessible via the Internet.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-002",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "www_vs_internet",
+    "question": "What is the primary difference between the World Wide Web (WWW) and the Internet?",
+    "options": {
+      "A": "The WWW is older than the Internet.",
+      "B": "The Internet is only for emails, WWW is for websites.",
+      "C": "The Internet is the network infrastructure, while the WWW is a service on top of it.",
+      "D": "They are exactly the same thing."
+    },
+    "answer": "C",
+    "explanation": "The Internet connects computers globally, whereas the WWW is a collection of information accessible via the Internet.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-003",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "www_vs_internet",
+    "question": "What is the primary difference between the World Wide Web (WWW) and the Internet?",
+    "options": {
+      "A": "They are exactly the same thing.",
+      "B": "The WWW is older than the Internet.",
+      "C": "The Internet is the network infrastructure, while the WWW is a service on top of it.",
+      "D": "The Internet is only for emails, WWW is for websites."
+    },
+    "answer": "C",
+    "explanation": "The Internet connects computers globally, whereas the WWW is a collection of information accessible via the Internet.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-004",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "www_vs_internet",
+    "question": "What is the primary difference between the World Wide Web (WWW) and the Internet?",
+    "options": {
+      "A": "They are exactly the same thing.",
+      "B": "The Internet is only for emails, WWW is for websites.",
+      "C": "The Internet is the network infrastructure, while the WWW is a service on top of it.",
+      "D": "The WWW is older than the Internet."
+    },
+    "answer": "C",
+    "explanation": "The Internet connects computers globally, whereas the WWW is a collection of information accessible via the Internet.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-005",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "www_vs_internet",
+    "question": "What is the primary difference between the World Wide Web (WWW) and the Internet?",
+    "options": {
+      "A": "The WWW is older than the Internet.",
+      "B": "The Internet is only for emails, WWW is for websites.",
+      "C": "The Internet is the network infrastructure, while the WWW is a service on top of it.",
+      "D": "They are exactly the same thing."
+    },
+    "answer": "C",
+    "explanation": "The Internet connects computers globally, whereas the WWW is a collection of information accessible via the Internet.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-006",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "url_structure",
+    "question": "In the URL 'https://www.example.com/page', what does 'https' represent?",
+    "options": {
+      "A": "Top-level Domain",
+      "B": "Domain Name",
+      "C": "Protocol",
+      "D": "Path"
+    },
+    "answer": "C",
+    "explanation": "In a URL, the first part (like http or https) signifies the protocol used to access the resource.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-007",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "url_structure",
+    "question": "In the URL 'https://www.example.com/page', what does 'https' represent?",
+    "options": {
+      "A": "Top-level Domain",
+      "B": "Protocol",
+      "C": "Path",
+      "D": "Domain Name"
+    },
+    "answer": "B",
+    "explanation": "In a URL, the first part (like http or https) signifies the protocol used to access the resource.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-008",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "url_structure",
+    "question": "In the URL 'https://www.example.com/page', what does 'https' represent?",
+    "options": {
+      "A": "Protocol",
+      "B": "Top-level Domain",
+      "C": "Path",
+      "D": "Domain Name"
+    },
+    "answer": "A",
+    "explanation": "In a URL, the first part (like http or https) signifies the protocol used to access the resource.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-009",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "url_structure",
+    "question": "In the URL 'https://www.example.com/page', what does 'https' represent?",
+    "options": {
+      "A": "Domain Name",
+      "B": "Top-level Domain",
+      "C": "Path",
+      "D": "Protocol"
+    },
+    "answer": "D",
+    "explanation": "In a URL, the first part (like http or https) signifies the protocol used to access the resource.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-010",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "browser_vs_search_engine",
+    "question": "Which of the following is a web browser and NOT a search engine?",
+    "options": {
+      "A": "Yahoo",
+      "B": "Bing",
+      "C": "Google",
+      "D": "Google Chrome"
+    },
+    "answer": "D",
+    "explanation": "Google Chrome is a web browser used to access websites. Google.com is the search engine.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-011",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "browser_vs_search_engine",
+    "question": "Which of the following is a web browser and NOT a search engine?",
+    "options": {
+      "A": "Bing",
+      "B": "Google Chrome",
+      "C": "Google",
+      "D": "Yahoo"
+    },
+    "answer": "B",
+    "explanation": "Google Chrome is a web browser used to access websites. Google.com is the search engine.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-012",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "browser_vs_search_engine",
+    "question": "Which of the following is a web browser and NOT a search engine?",
+    "options": {
+      "A": "Yahoo",
+      "B": "Google Chrome",
+      "C": "Google",
+      "D": "Bing"
+    },
+    "answer": "B",
+    "explanation": "Google Chrome is a web browser used to access websites. Google.com is the search engine.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-013",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "browser_vs_search_engine",
+    "question": "Which of the following is a web browser and NOT a search engine?",
+    "options": {
+      "A": "Google",
+      "B": "Google Chrome",
+      "C": "Bing",
+      "D": "Yahoo"
+    },
+    "answer": "B",
+    "explanation": "Google Chrome is a web browser used to access websites. Google.com is the search engine.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-014",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "http_https_ssl",
+    "question": "What does the 'S' in HTTPS stand for?",
+    "options": {
+      "A": "Standard",
+      "B": "Secure",
+      "C": "System",
+      "D": "Server"
+    },
+    "answer": "B",
+    "explanation": "HTTPS stands for HyperText Transfer Protocol Secure. It uses SSL/TLS to encrypt communications.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-015",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "http_https_ssl",
+    "question": "What does the 'S' in HTTPS stand for?",
+    "options": {
+      "A": "Secure",
+      "B": "System",
+      "C": "Standard",
+      "D": "Server"
+    },
+    "answer": "A",
+    "explanation": "HTTPS stands for HyperText Transfer Protocol Secure. It uses SSL/TLS to encrypt communications.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-016",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "http_https_ssl",
+    "question": "What does the 'S' in HTTPS stand for?",
+    "options": {
+      "A": "System",
+      "B": "Standard",
+      "C": "Server",
+      "D": "Secure"
+    },
+    "answer": "D",
+    "explanation": "HTTPS stands for HyperText Transfer Protocol Secure. It uses SSL/TLS to encrypt communications.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-017",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "http_https_ssl",
+    "question": "What does the 'S' in HTTPS stand for?",
+    "options": {
+      "A": "System",
+      "B": "Secure",
+      "C": "Server",
+      "D": "Standard"
+    },
+    "answer": "B",
+    "explanation": "HTTPS stands for HyperText Transfer Protocol Secure. It uses SSL/TLS to encrypt communications.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-018",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "http_https_ssl",
+    "question": "What does the 'S' in HTTPS stand for?",
+    "options": {
+      "A": "Server",
+      "B": "Secure",
+      "C": "Standard",
+      "D": "System"
+    },
+    "answer": "B",
+    "explanation": "HTTPS stands for HyperText Transfer Protocol Secure. It uses SSL/TLS to encrypt communications.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-019",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "dns_domain_ip",
+    "question": "What is the primary function of a DNS?",
+    "options": {
+      "A": "Hosts website files",
+      "B": "Encrypts web traffic",
+      "C": "Translates domain names to IP addresses",
+      "D": "Translates IP addresses to MAC addresses"
+    },
+    "answer": "C",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses that computers use.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-020",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "dns_domain_ip",
+    "question": "What is the primary function of a DNS?",
+    "options": {
+      "A": "Translates IP addresses to MAC addresses",
+      "B": "Encrypts web traffic",
+      "C": "Translates domain names to IP addresses",
+      "D": "Hosts website files"
+    },
+    "answer": "C",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses that computers use.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-021",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "dns_domain_ip",
+    "question": "What is the primary function of a DNS?",
+    "options": {
+      "A": "Translates IP addresses to MAC addresses",
+      "B": "Translates domain names to IP addresses",
+      "C": "Encrypts web traffic",
+      "D": "Hosts website files"
+    },
+    "answer": "B",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses that computers use.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-022",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "dns_domain_ip",
+    "question": "What is the primary function of a DNS?",
+    "options": {
+      "A": "Translates domain names to IP addresses",
+      "B": "Encrypts web traffic",
+      "C": "Hosts website files",
+      "D": "Translates IP addresses to MAC addresses"
+    },
+    "answer": "A",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses that computers use.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-023",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "ecommerce_types",
+    "question": "A consumer selling a used laptop to another consumer online is an example of which e-commerce model?",
+    "options": {
+      "A": "C2C (Consumer-to-Consumer)",
+      "B": "C2B (Consumer-to-Business)",
+      "C": "B2B (Business-to-Business)",
+      "D": "B2C (Business-to-Consumer)"
+    },
+    "answer": "A",
+    "explanation": "C2C involves transactions between private individuals, typical of platforms like eBay or OLX.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-024",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "ecommerce_types",
+    "question": "A consumer selling a used laptop to another consumer online is an example of which e-commerce model?",
+    "options": {
+      "A": "C2C (Consumer-to-Consumer)",
+      "B": "B2B (Business-to-Business)",
+      "C": "B2C (Business-to-Consumer)",
+      "D": "C2B (Consumer-to-Business)"
+    },
+    "answer": "A",
+    "explanation": "C2C involves transactions between private individuals, typical of platforms like eBay or OLX.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-025",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "ecommerce_types",
+    "question": "A consumer selling a used laptop to another consumer online is an example of which e-commerce model?",
+    "options": {
+      "A": "B2C (Business-to-Consumer)",
+      "B": "B2B (Business-to-Business)",
+      "C": "C2B (Consumer-to-Business)",
+      "D": "C2C (Consumer-to-Consumer)"
+    },
+    "answer": "D",
+    "explanation": "C2C involves transactions between private individuals, typical of platforms like eBay or OLX.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-026",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "ecommerce_types",
+    "question": "A consumer selling a used laptop to another consumer online is an example of which e-commerce model?",
+    "options": {
+      "A": "C2C (Consumer-to-Consumer)",
+      "B": "B2C (Business-to-Consumer)",
+      "C": "B2B (Business-to-Business)",
+      "D": "C2B (Consumer-to-Business)"
+    },
+    "answer": "A",
+    "explanation": "C2C involves transactions between private individuals, typical of platforms like eBay or OLX.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-027",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "ecommerce_types",
+    "question": "A consumer selling a used laptop to another consumer online is an example of which e-commerce model?",
+    "options": {
+      "A": "B2C (Business-to-Consumer)",
+      "B": "B2B (Business-to-Business)",
+      "C": "C2B (Consumer-to-Business)",
+      "D": "C2C (Consumer-to-Consumer)"
+    },
+    "answer": "D",
+    "explanation": "C2C involves transactions between private individuals, typical of platforms like eBay or OLX.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-028",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "cookies_cache_history",
+    "question": "What are small text files stored by a website on a user's computer to remember their preferences called?",
+    "options": {
+      "A": "Cookies",
+      "B": "Bookmarks",
+      "C": "History",
+      "D": "Cache"
+    },
+    "answer": "A",
+    "explanation": "Cookies are used by websites to remember stateful information or record the user's browsing activity.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-029",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "cookies_cache_history",
+    "question": "What are small text files stored by a website on a user's computer to remember their preferences called?",
+    "options": {
+      "A": "Cache",
+      "B": "Bookmarks",
+      "C": "History",
+      "D": "Cookies"
+    },
+    "answer": "D",
+    "explanation": "Cookies are used by websites to remember stateful information or record the user's browsing activity.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-INT-030",
+    "subject": "computer",
+    "topic": "internet_browser_ecommerce",
+    "subtopic": "cookies_cache_history",
+    "question": "What are small text files stored by a website on a user's computer to remember their preferences called?",
+    "options": {
+      "A": "Cookies",
+      "B": "History",
+      "C": "Cache",
+      "D": "Bookmarks"
+    },
+    "answer": "A",
+    "explanation": "Cookies are used by websites to remember stateful information or record the user's browsing activity.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "internet",
+      "web"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "CMP-MEM-001",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "volatile_vs_nonvolatile",
+    "question": "Which of the following memory types is volatile in nature?",
+    "options": {
+      "A": "RAM",
+      "B": "Hard Disk",
+      "C": "ROM",
+      "D": "Flash Drive"
+    },
+    "answer": "A",
+    "explanation": "Random Access Memory (RAM) is volatile, meaning it loses its data when power is turned off.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-002",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "volatile_vs_nonvolatile",
+    "question": "Which of the following memory types is volatile in nature?",
+    "options": {
+      "A": "Flash Drive",
+      "B": "ROM",
+      "C": "Hard Disk",
+      "D": "RAM"
+    },
+    "answer": "D",
+    "explanation": "Random Access Memory (RAM) is volatile, meaning it loses its data when power is turned off.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-003",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "volatile_vs_nonvolatile",
+    "question": "Which of the following memory types is volatile in nature?",
+    "options": {
+      "A": "RAM",
+      "B": "Hard Disk",
+      "C": "ROM",
+      "D": "Flash Drive"
+    },
+    "answer": "A",
+    "explanation": "Random Access Memory (RAM) is volatile, meaning it loses its data when power is turned off.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-004",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "volatile_vs_nonvolatile",
+    "question": "Which of the following memory types is volatile in nature?",
+    "options": {
+      "A": "Hard Disk",
+      "B": "RAM",
+      "C": "ROM",
+      "D": "Flash Drive"
+    },
+    "answer": "B",
+    "explanation": "Random Access Memory (RAM) is volatile, meaning it loses its data when power is turned off.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-005",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "volatile_vs_nonvolatile",
+    "question": "Which of the following memory types is volatile in nature?",
+    "options": {
+      "A": "Hard Disk",
+      "B": "ROM",
+      "C": "RAM",
+      "D": "Flash Drive"
+    },
+    "answer": "C",
+    "explanation": "Random Access Memory (RAM) is volatile, meaning it loses its data when power is turned off.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-006",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "volatile_vs_nonvolatile",
+    "question": "Which of the following memory types is volatile in nature?",
+    "options": {
+      "A": "ROM",
+      "B": "Flash Drive",
+      "C": "Hard Disk",
+      "D": "RAM"
+    },
+    "answer": "D",
+    "explanation": "Random Access Memory (RAM) is volatile, meaning it loses its data when power is turned off.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-007",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "volatile_vs_nonvolatile",
+    "question": "Which of the following memory types is volatile in nature?",
+    "options": {
+      "A": "Flash Drive",
+      "B": "RAM",
+      "C": "ROM",
+      "D": "Hard Disk"
+    },
+    "answer": "B",
+    "explanation": "Random Access Memory (RAM) is volatile, meaning it loses its data when power is turned off.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-008",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "volatile_vs_nonvolatile",
+    "question": "Which of the following memory types is volatile in nature?",
+    "options": {
+      "A": "ROM",
+      "B": "RAM",
+      "C": "Hard Disk",
+      "D": "Flash Drive"
+    },
+    "answer": "B",
+    "explanation": "Random Access Memory (RAM) is volatile, meaning it loses its data when power is turned off.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-009",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "ram_types",
+    "question": "Which type of RAM needs to be refreshed periodically?",
+    "options": {
+      "A": "MRAM",
+      "B": "NVRAM",
+      "C": "Dynamic RAM (DRAM)",
+      "D": "Static RAM (SRAM)"
+    },
+    "answer": "C",
+    "explanation": "DRAM needs to be refreshed thousands of times per second to retain data.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-010",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "ram_types",
+    "question": "Which type of RAM needs to be refreshed periodically?",
+    "options": {
+      "A": "MRAM",
+      "B": "Static RAM (SRAM)",
+      "C": "NVRAM",
+      "D": "Dynamic RAM (DRAM)"
+    },
+    "answer": "D",
+    "explanation": "DRAM needs to be refreshed thousands of times per second to retain data.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-011",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "ram_types",
+    "question": "Which type of RAM needs to be refreshed periodically?",
+    "options": {
+      "A": "Dynamic RAM (DRAM)",
+      "B": "Static RAM (SRAM)",
+      "C": "NVRAM",
+      "D": "MRAM"
+    },
+    "answer": "A",
+    "explanation": "DRAM needs to be refreshed thousands of times per second to retain data.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-012",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "ram_types",
+    "question": "Which type of RAM needs to be refreshed periodically?",
+    "options": {
+      "A": "Static RAM (SRAM)",
+      "B": "MRAM",
+      "C": "NVRAM",
+      "D": "Dynamic RAM (DRAM)"
+    },
+    "answer": "D",
+    "explanation": "DRAM needs to be refreshed thousands of times per second to retain data.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-013",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "ram_types",
+    "question": "Which type of RAM needs to be refreshed periodically?",
+    "options": {
+      "A": "NVRAM",
+      "B": "MRAM",
+      "C": "Dynamic RAM (DRAM)",
+      "D": "Static RAM (SRAM)"
+    },
+    "answer": "C",
+    "explanation": "DRAM needs to be refreshed thousands of times per second to retain data.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-014",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "ram_types",
+    "question": "Which type of RAM needs to be refreshed periodically?",
+    "options": {
+      "A": "MRAM",
+      "B": "Static RAM (SRAM)",
+      "C": "Dynamic RAM (DRAM)",
+      "D": "NVRAM"
+    },
+    "answer": "C",
+    "explanation": "DRAM needs to be refreshed thousands of times per second to retain data.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-015",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "rom_types",
+    "question": "Which type of ROM can be erased by exposing it to ultraviolet light?",
+    "options": {
+      "A": "EPROM",
+      "B": "EEPROM",
+      "C": "Mask ROM",
+      "D": "PROM"
+    },
+    "answer": "A",
+    "explanation": "Erasable Programmable Read-Only Memory (EPROM) can be erased using UV light.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-016",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "rom_types",
+    "question": "Which type of ROM can be erased by exposing it to ultraviolet light?",
+    "options": {
+      "A": "PROM",
+      "B": "EEPROM",
+      "C": "EPROM",
+      "D": "Mask ROM"
+    },
+    "answer": "C",
+    "explanation": "Erasable Programmable Read-Only Memory (EPROM) can be erased using UV light.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-017",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "rom_types",
+    "question": "Which type of ROM can be erased by exposing it to ultraviolet light?",
+    "options": {
+      "A": "Mask ROM",
+      "B": "EEPROM",
+      "C": "PROM",
+      "D": "EPROM"
+    },
+    "answer": "D",
+    "explanation": "Erasable Programmable Read-Only Memory (EPROM) can be erased using UV light.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-018",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "rom_types",
+    "question": "Which type of ROM can be erased by exposing it to ultraviolet light?",
+    "options": {
+      "A": "EEPROM",
+      "B": "Mask ROM",
+      "C": "PROM",
+      "D": "EPROM"
+    },
+    "answer": "D",
+    "explanation": "Erasable Programmable Read-Only Memory (EPROM) can be erased using UV light.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-019",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "rom_types",
+    "question": "Which type of ROM can be erased by exposing it to ultraviolet light?",
+    "options": {
+      "A": "EPROM",
+      "B": "PROM",
+      "C": "Mask ROM",
+      "D": "EEPROM"
+    },
+    "answer": "A",
+    "explanation": "Erasable Programmable Read-Only Memory (EPROM) can be erased using UV light.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-020",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "rom_types",
+    "question": "Which type of ROM can be erased by exposing it to ultraviolet light?",
+    "options": {
+      "A": "Mask ROM",
+      "B": "EPROM",
+      "C": "EEPROM",
+      "D": "PROM"
+    },
+    "answer": "B",
+    "explanation": "Erasable Programmable Read-Only Memory (EPROM) can be erased using UV light.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-021",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "cache_registers",
+    "question": "Which is the fastest and smallest unit of memory in a computer?",
+    "options": {
+      "A": "Registers",
+      "B": "Cache Memory",
+      "C": "RAM",
+      "D": "Hard Disk"
+    },
+    "answer": "A",
+    "explanation": "Registers are located directly within the CPU and are the fastest form of memory.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-022",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "cache_registers",
+    "question": "Which is the fastest and smallest unit of memory in a computer?",
+    "options": {
+      "A": "RAM",
+      "B": "Registers",
+      "C": "Cache Memory",
+      "D": "Hard Disk"
+    },
+    "answer": "B",
+    "explanation": "Registers are located directly within the CPU and are the fastest form of memory.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-023",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "cache_registers",
+    "question": "Which is the fastest and smallest unit of memory in a computer?",
+    "options": {
+      "A": "Cache Memory",
+      "B": "RAM",
+      "C": "Registers",
+      "D": "Hard Disk"
+    },
+    "answer": "C",
+    "explanation": "Registers are located directly within the CPU and are the fastest form of memory.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-024",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "cache_registers",
+    "question": "Which is the fastest and smallest unit of memory in a computer?",
+    "options": {
+      "A": "Registers",
+      "B": "RAM",
+      "C": "Cache Memory",
+      "D": "Hard Disk"
+    },
+    "answer": "A",
+    "explanation": "Registers are located directly within the CPU and are the fastest form of memory.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-025",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "cache_registers",
+    "question": "Which is the fastest and smallest unit of memory in a computer?",
+    "options": {
+      "A": "Hard Disk",
+      "B": "RAM",
+      "C": "Cache Memory",
+      "D": "Registers"
+    },
+    "answer": "D",
+    "explanation": "Registers are located directly within the CPU and are the fastest form of memory.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-026",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "cache_registers",
+    "question": "Which is the fastest and smallest unit of memory in a computer?",
+    "options": {
+      "A": "RAM",
+      "B": "Hard Disk",
+      "C": "Registers",
+      "D": "Cache Memory"
+    },
+    "answer": "C",
+    "explanation": "Registers are located directly within the CPU and are the fastest form of memory.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-027",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "primary_vs_secondary",
+    "question": "Which of the following is considered secondary memory?",
+    "options": {
+      "A": "ROM",
+      "B": "Hard Disk Drive",
+      "C": "RAM",
+      "D": "Cache"
+    },
+    "answer": "B",
+    "explanation": "Secondary memory is non-volatile, long-term storage like HDDs and SSDs.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-028",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "primary_vs_secondary",
+    "question": "Which of the following is considered secondary memory?",
+    "options": {
+      "A": "RAM",
+      "B": "Hard Disk Drive",
+      "C": "Cache",
+      "D": "ROM"
+    },
+    "answer": "B",
+    "explanation": "Secondary memory is non-volatile, long-term storage like HDDs and SSDs.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-029",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "primary_vs_secondary",
+    "question": "Which of the following is considered secondary memory?",
+    "options": {
+      "A": "ROM",
+      "B": "Hard Disk Drive",
+      "C": "RAM",
+      "D": "Cache"
+    },
+    "answer": "B",
+    "explanation": "Secondary memory is non-volatile, long-term storage like HDDs and SSDs.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-030",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "primary_vs_secondary",
+    "question": "Which of the following is considered secondary memory?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "Cache",
+      "D": "Hard Disk Drive"
+    },
+    "answer": "D",
+    "explanation": "Secondary memory is non-volatile, long-term storage like HDDs and SSDs.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-031",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "primary_vs_secondary",
+    "question": "Which of the following is considered secondary memory?",
+    "options": {
+      "A": "Cache",
+      "B": "ROM",
+      "C": "Hard Disk Drive",
+      "D": "RAM"
+    },
+    "answer": "C",
+    "explanation": "Secondary memory is non-volatile, long-term storage like HDDs and SSDs.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-032",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "primary_vs_secondary",
+    "question": "Which of the following is considered secondary memory?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "Cache",
+      "D": "Hard Disk Drive"
+    },
+    "answer": "D",
+    "explanation": "Secondary memory is non-volatile, long-term storage like HDDs and SSDs.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-033",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "flash_memory_sd",
+    "question": "Pen drives and SD cards use which type of memory technology?",
+    "options": {
+      "A": "SRAM",
+      "B": "Magnetic Tape",
+      "C": "Flash Memory",
+      "D": "Optical Memory"
+    },
+    "answer": "C",
+    "explanation": "Flash memory is an electronic non-volatile computer memory storage medium that can be electrically erased and reprogrammed.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-034",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "flash_memory_sd",
+    "question": "Pen drives and SD cards use which type of memory technology?",
+    "options": {
+      "A": "SRAM",
+      "B": "Flash Memory",
+      "C": "Optical Memory",
+      "D": "Magnetic Tape"
+    },
+    "answer": "B",
+    "explanation": "Flash memory is an electronic non-volatile computer memory storage medium that can be electrically erased and reprogrammed.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-035",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "flash_memory_sd",
+    "question": "Pen drives and SD cards use which type of memory technology?",
+    "options": {
+      "A": "Flash Memory",
+      "B": "SRAM",
+      "C": "Magnetic Tape",
+      "D": "Optical Memory"
+    },
+    "answer": "A",
+    "explanation": "Flash memory is an electronic non-volatile computer memory storage medium that can be electrically erased and reprogrammed.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-036",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "flash_memory_sd",
+    "question": "Pen drives and SD cards use which type of memory technology?",
+    "options": {
+      "A": "SRAM",
+      "B": "Flash Memory",
+      "C": "Optical Memory",
+      "D": "Magnetic Tape"
+    },
+    "answer": "B",
+    "explanation": "Flash memory is an electronic non-volatile computer memory storage medium that can be electrically erased and reprogrammed.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-037",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "memory_hierarchy",
+    "question": "Arrange the following memories from fastest to slowest: Cache, Registers, RAM, HDD.",
+    "options": {
+      "A": "Registers > Cache > RAM > HDD",
+      "B": "Registers > RAM > Cache > HDD",
+      "C": "HDD > RAM > Cache > Registers",
+      "D": "RAM > Cache > Registers > HDD"
+    },
+    "answer": "A",
+    "explanation": "The memory hierarchy speed is determined by proximity to the CPU.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-038",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "memory_hierarchy",
+    "question": "Arrange the following memories from fastest to slowest: Cache, Registers, RAM, HDD.",
+    "options": {
+      "A": "Registers > Cache > RAM > HDD",
+      "B": "Registers > RAM > Cache > HDD",
+      "C": "HDD > RAM > Cache > Registers",
+      "D": "RAM > Cache > Registers > HDD"
+    },
+    "answer": "A",
+    "explanation": "The memory hierarchy speed is determined by proximity to the CPU.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-039",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "memory_hierarchy",
+    "question": "Arrange the following memories from fastest to slowest: Cache, Registers, RAM, HDD.",
+    "options": {
+      "A": "RAM > Cache > Registers > HDD",
+      "B": "HDD > RAM > Cache > Registers",
+      "C": "Registers > Cache > RAM > HDD",
+      "D": "Registers > RAM > Cache > HDD"
+    },
+    "answer": "C",
+    "explanation": "The memory hierarchy speed is determined by proximity to the CPU.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-MEM-040",
+    "subject": "computer",
+    "topic": "memory_types",
+    "subtopic": "memory_hierarchy",
+    "question": "Arrange the following memories from fastest to slowest: Cache, Registers, RAM, HDD.",
+    "options": {
+      "A": "HDD > RAM > Cache > Registers",
+      "B": "RAM > Cache > Registers > HDD",
+      "C": "Registers > RAM > Cache > HDD",
+      "D": "Registers > Cache > RAM > HDD"
+    },
+    "answer": "D",
+    "explanation": "The memory hierarchy speed is determined by proximity to the CPU.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "hardware",
+      "memory"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "id": "GK-SCH-001",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "pm_kisan",
+    "question": "Under the PM-KISAN scheme, how much financial assistance is provided to eligible farmers annually?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Rs. 6,000",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "B",
+    "explanation": "Under PM-KISAN, Rs. 6,000 is given per year in three equal installments of Rs. 2,000 each.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-002",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "pm_kisan",
+    "question": "Under the PM-KISAN scheme, how much financial assistance is provided to eligible farmers annually?",
+    "options": {
+      "A": "Rs. 6,000",
+      "B": "Incorrect Option 2",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "A",
+    "explanation": "Under PM-KISAN, Rs. 6,000 is given per year in three equal installments of Rs. 2,000 each.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-003",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "pm_kisan",
+    "question": "Under the PM-KISAN scheme, how much financial assistance is provided to eligible farmers annually?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 3",
+      "C": "Rs. 6,000",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "C",
+    "explanation": "Under PM-KISAN, Rs. 6,000 is given per year in three equal installments of Rs. 2,000 each.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-004",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ayushman_bharat",
+    "question": "Ayushman Bharat scheme provides a health cover of up to how much amount per family per year?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Rs. 5 lakhs",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "B",
+    "explanation": "The Ayushman Bharat PM-JAY provides a health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-005",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ayushman_bharat",
+    "question": "Ayushman Bharat scheme provides a health cover of up to how much amount per family per year?",
+    "options": {
+      "A": "Rs. 5 lakhs",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "A",
+    "explanation": "The Ayushman Bharat PM-JAY provides a health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-006",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ayushman_bharat",
+    "question": "Ayushman Bharat scheme provides a health cover of up to how much amount per family per year?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Rs. 5 lakhs",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "B",
+    "explanation": "The Ayushman Bharat PM-JAY provides a health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-007",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "startup_india",
+    "question": "When was the Startup India initiative launched by the Government of India?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 1",
+      "C": "2016",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "C",
+    "explanation": "Startup India is an initiative of the Government of India, launched on 16 January 2016.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-008",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "startup_india",
+    "question": "When was the Startup India initiative launched by the Government of India?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 2",
+      "C": "2016",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "C",
+    "explanation": "Startup India is an initiative of the Government of India, launched on 16 January 2016.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-009",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "make_in_india",
+    "question": "What is the logo of the 'Make in India' initiative?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 3",
+      "D": "A Lion made of cogs"
+    },
+    "answer": "D",
+    "explanation": "The 'Make in India' logo is a striding lion made entirely of cogs, representing manufacturing, strength, and national pride.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-010",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "make_in_india",
+    "question": "What is the logo of the 'Make in India' initiative?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "A Lion made of cogs",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "B",
+    "explanation": "The 'Make in India' logo is a striding lion made entirely of cogs, representing manufacturing, strength, and national pride.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-011",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "digital_india",
+    "question": "Which of the following is a key pillar of the Digital India programme?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 1",
+      "D": "Broadband Highways"
+    },
+    "answer": "D",
+    "explanation": "Broadband Highways is one of the nine pillars of the Digital India programme aiming to connect villages with high-speed internet.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-012",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "digital_india",
+    "question": "Which of the following is a key pillar of the Digital India programme?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 2",
+      "C": "Broadband Highways",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "C",
+    "explanation": "Broadband Highways is one of the nine pillars of the Digital India programme aiming to connect villages with high-speed internet.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-013",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "digital_india",
+    "question": "Which of the following is a key pillar of the Digital India programme?",
+    "options": {
+      "A": "Broadband Highways",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "A",
+    "explanation": "Broadband Highways is one of the nine pillars of the Digital India programme aiming to connect villages with high-speed internet.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-014",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "swachh_bharat",
+    "question": "Swachh Bharat Abhiyan was launched on the birth anniversary of which Indian leader?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Mahatma Gandhi",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "B",
+    "explanation": "It was launched on 2 October 2014, the 145th birth anniversary of Mahatma Gandhi.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-015",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "swachh_bharat",
+    "question": "Swachh Bharat Abhiyan was launched on the birth anniversary of which Indian leader?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 1",
+      "D": "Mahatma Gandhi"
+    },
+    "answer": "D",
+    "explanation": "It was launched on 2 October 2014, the 145th birth anniversary of Mahatma Gandhi.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-016",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "beti_bachao_beti_padhao",
+    "question": "The 'Beti Bachao, Beti Padhao' scheme aims to address which social issue?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Declining Child Sex Ratio",
+      "C": "Incorrect Option 1",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "B",
+    "explanation": "The scheme was launched to address the declining Child Sex Ratio (CSR) and related issues of women empowerment.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-017",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "beti_bachao_beti_padhao",
+    "question": "The 'Beti Bachao, Beti Padhao' scheme aims to address which social issue?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 2",
+      "D": "Declining Child Sex Ratio"
+    },
+    "answer": "D",
+    "explanation": "The scheme was launched to address the declining Child Sex Ratio (CSR) and related issues of women empowerment.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-018",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "pm_awas_yojana",
+    "question": "What is the primary objective of the Pradhan Mantri Awas Yojana (PMAY)?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 2",
+      "D": "Housing for All"
+    },
+    "answer": "D",
+    "explanation": "PMAY is an initiative by the Government of India aiming to provide affordable housing to the urban and rural poor.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-019",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "pm_awas_yojana",
+    "question": "What is the primary objective of the Pradhan Mantri Awas Yojana (PMAY)?",
+    "options": {
+      "A": "Housing for All",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "A",
+    "explanation": "PMAY is an initiative by the Government of India aiming to provide affordable housing to the urban and rural poor.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-020",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "jal_jeevan_mission",
+    "question": "Jal Jeevan Mission aims to provide safe and adequate drinking water to all rural households by which year?",
+    "options": {
+      "A": "2024",
+      "B": "Incorrect Option 2",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "A",
+    "explanation": "The Jal Jeevan Mission aimed to supply 55 litres of water per person per day to every rural household through Functional Household Tap Connections by 2024.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-021",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "jal_jeevan_mission",
+    "question": "Jal Jeevan Mission aims to provide safe and adequate drinking water to all rural households by which year?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 1",
+      "C": "2024",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "C",
+    "explanation": "The Jal Jeevan Mission aimed to supply 55 litres of water per person per day to every rural household through Functional Household Tap Connections by 2024.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-022",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "niti_aayog",
+    "question": "Who is the ex-officio Chairman of NITI Aayog?",
+    "options": {
+      "A": "Prime Minister of India",
+      "B": "Incorrect Option 2",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "A",
+    "explanation": "The Prime Minister of India serves as the ex-officio Chairperson of NITI Aayog.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-023",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "niti_aayog",
+    "question": "Who is the ex-officio Chairman of NITI Aayog?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Prime Minister of India",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "B",
+    "explanation": "The Prime Minister of India serves as the ex-officio Chairperson of NITI Aayog.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-024",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "niti_aayog",
+    "question": "Who is the ex-officio Chairman of NITI Aayog?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 3",
+      "C": "Prime Minister of India",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "C",
+    "explanation": "The Prime Minister of India serves as the ex-officio Chairperson of NITI Aayog.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-025",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ministry_mapping",
+    "question": "The 'Ujjwala Yojana' is administered by which Ministry?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 2",
+      "C": "Incorrect Option 3",
+      "D": "Ministry of Petroleum and Natural Gas"
+    },
+    "answer": "D",
+    "explanation": "Pradhan Mantri Ujjwala Yojana (PMUY) was launched by the Ministry of Petroleum and Natural Gas to distribute LPG connections to women of BPL families.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-026",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ministry_mapping",
+    "question": "The 'Ujjwala Yojana' is administered by which Ministry?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Ministry of Petroleum and Natural Gas",
+      "C": "Incorrect Option 1",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "B",
+    "explanation": "Pradhan Mantri Ujjwala Yojana (PMUY) was launched by the Ministry of Petroleum and Natural Gas to distribute LPG connections to women of BPL families.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-027",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ministry_mapping",
+    "question": "The 'Ujjwala Yojana' is administered by which Ministry?",
+    "options": {
+      "A": "Ministry of Petroleum and Natural Gas",
+      "B": "Incorrect Option 2",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "A",
+    "explanation": "Pradhan Mantri Ujjwala Yojana (PMUY) was launched by the Ministry of Petroleum and Natural Gas to distribute LPG connections to women of BPL families.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-028",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ministry_mapping",
+    "question": "The 'Ujjwala Yojana' is administered by which Ministry?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 1",
+      "D": "Ministry of Petroleum and Natural Gas"
+    },
+    "answer": "D",
+    "explanation": "Pradhan Mantri Ujjwala Yojana (PMUY) was launched by the Ministry of Petroleum and Natural Gas to distribute LPG connections to women of BPL families.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-029",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ministry_mapping",
+    "question": "The 'Ujjwala Yojana' is administered by which Ministry?",
+    "options": {
+      "A": "Ministry of Petroleum and Natural Gas",
+      "B": "Incorrect Option 2",
+      "C": "Incorrect Option 1",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "A",
+    "explanation": "Pradhan Mantri Ujjwala Yojana (PMUY) was launched by the Ministry of Petroleum and Natural Gas to distribute LPG connections to women of BPL families.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-SCH-030",
+    "subject": "gk",
+    "topic": "government_schemes",
+    "subtopic": "ministry_mapping",
+    "question": "The 'Ujjwala Yojana' is administered by which Ministry?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 1",
+      "C": "Ministry of Petroleum and Natural Gas",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "C",
+    "explanation": "Pradhan Mantri Ujjwala Yojana (PMUY) was launched by the Ministry of Petroleum and Natural Gas to distribute LPG connections to women of BPL families.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "schemes",
+      "government"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "CMP-FF-001",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation CPU stand for?",
+    "options": {
+      "A": "CentralX Processing Unit",
+      "B": "Central Processing Unit",
+      "C": "Central Processing UnitX",
+      "D": "Central ProcessingX Unit"
+    },
+    "answer": "B",
+    "explanation": "CPU stands for Central Processing Unit.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-002",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation RAM stand for?",
+    "options": {
+      "A": "Random AccessX Memory",
+      "B": "Random Access MemoryX",
+      "C": "RandomX Access Memory",
+      "D": "Random Access Memory"
+    },
+    "answer": "D",
+    "explanation": "RAM stands for Random Access Memory.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-003",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation ROM stand for?",
+    "options": {
+      "A": "Read Only MemoryX",
+      "B": "ReadX Only Memory",
+      "C": "Read OnlyX Memory",
+      "D": "Read Only Memory"
+    },
+    "answer": "D",
+    "explanation": "ROM stands for Read Only Memory.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-004",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation LAN stand for?",
+    "options": {
+      "A": "Local Area NetworkX",
+      "B": "LocalX Area Network",
+      "C": "Local AreaX Network",
+      "D": "Local Area Network"
+    },
+    "answer": "D",
+    "explanation": "LAN stands for Local Area Network.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-005",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation WAN stand for?",
+    "options": {
+      "A": "Wide Area Network",
+      "B": "WideX Area Network",
+      "C": "Wide Area NetworkX",
+      "D": "Wide AreaX Network"
+    },
+    "answer": "A",
+    "explanation": "WAN stands for Wide Area Network.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-006",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation MAN stand for?",
+    "options": {
+      "A": "MetropolitanX Area Network",
+      "B": "Metropolitan Area Network",
+      "C": "Metropolitan Area NetworkX",
+      "D": "Metropolitan AreaX Network"
+    },
+    "answer": "B",
+    "explanation": "MAN stands for Metropolitan Area Network.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-007",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation WWW stand for?",
+    "options": {
+      "A": "WorldX Wide Web",
+      "B": "World WideX Web",
+      "C": "World Wide Web",
+      "D": "World Wide WebX"
+    },
+    "answer": "C",
+    "explanation": "WWW stands for World Wide Web.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-008",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation HTTP stand for?",
+    "options": {
+      "A": "HyperText TransferX Protocol",
+      "B": "HyperText Transfer Protocol",
+      "C": "HyperText Transfer ProtocolX",
+      "D": "HyperTextX Transfer Protocol"
+    },
+    "answer": "B",
+    "explanation": "HTTP stands for HyperText Transfer Protocol.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-009",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation HTTPS stand for?",
+    "options": {
+      "A": "HyperTextX Secure Protocol",
+      "B": "HyperText Transfer Protocol Secure",
+      "C": "HyperText SecureX Protocol",
+      "D": "HyperText Secure ProtocolX"
+    },
+    "answer": "B",
+    "explanation": "HTTPS stands for HyperText Transfer Protocol Secure.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-010",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation URL stand for?",
+    "options": {
+      "A": "Uniform Resource Locator",
+      "B": "Uniform Resource LocatorX",
+      "C": "Uniform ResourceX Locator",
+      "D": "UniformX Resource Locator"
+    },
+    "answer": "A",
+    "explanation": "URL stands for Uniform Resource Locator.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-011",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation HTML stand for?",
+    "options": {
+      "A": "HyperText Markup LanguageX",
+      "B": "HyperText MarkupX Language",
+      "C": "HyperTextX Markup Language",
+      "D": "HyperText Markup Language"
+    },
+    "answer": "D",
+    "explanation": "HTML stands for HyperText Markup Language.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-012",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation CSS stand for?",
+    "options": {
+      "A": "Cascading StyleX Sheets",
+      "B": "Cascading Style Sheets",
+      "C": "CascadingX Style Sheets",
+      "D": "Cascading Style SheetsX"
+    },
+    "answer": "B",
+    "explanation": "CSS stands for Cascading Style Sheets.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-013",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation PDF stand for?",
+    "options": {
+      "A": "Portable Document Format",
+      "B": "Portable DocumentX Format",
+      "C": "Portable Document FormatX",
+      "D": "PortableX Document Format"
+    },
+    "answer": "A",
+    "explanation": "PDF stands for Portable Document Format.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-014",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation JPEG stand for?",
+    "options": {
+      "A": "Joint Photographic GroupX",
+      "B": "JointX Photographic Group",
+      "C": "Joint PhotographicX Group",
+      "D": "Joint Photographic Experts Group"
+    },
+    "answer": "D",
+    "explanation": "JPEG stands for Joint Photographic Experts Group.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-015",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation USB stand for?",
+    "options": {
+      "A": "UniversalX Serial Bus",
+      "B": "Universal Serial BusX",
+      "C": "Universal SerialX Bus",
+      "D": "Universal Serial Bus"
+    },
+    "answer": "D",
+    "explanation": "USB stands for Universal Serial Bus.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-016",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation GUI stand for?",
+    "options": {
+      "A": "GraphicalX User Interface",
+      "B": "Graphical User InterfaceX",
+      "C": "Graphical User Interface",
+      "D": "Graphical UserX Interface"
+    },
+    "answer": "C",
+    "explanation": "GUI stands for Graphical User Interface.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-017",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation OS stand for?",
+    "options": {
+      "A": "OperatingX System Software",
+      "B": "Operating System SoftwareX",
+      "C": "Operating System",
+      "D": "Operating SystemX Software"
+    },
+    "answer": "C",
+    "explanation": "OS stands for Operating System.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-018",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation BIOS stand for?",
+    "options": {
+      "A": "Basic Input Output System",
+      "B": "Basic InputX System",
+      "C": "BasicX Input System",
+      "D": "Basic Input SystemX"
+    },
+    "answer": "A",
+    "explanation": "BIOS stands for Basic Input Output System.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-019",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation ALU stand for?",
+    "options": {
+      "A": "Arithmetic Logic UnitX",
+      "B": "Arithmetic LogicX Unit",
+      "C": "ArithmeticX Logic Unit",
+      "D": "Arithmetic Logic Unit"
+    },
+    "answer": "D",
+    "explanation": "ALU stands for Arithmetic Logic Unit.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-020",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation CU stand for?",
+    "options": {
+      "A": "Control Unit",
+      "B": "ControlX Unit Central",
+      "C": "Control Unit CentralX",
+      "D": "Control UnitX Central"
+    },
+    "answer": "A",
+    "explanation": "CU stands for Control Unit.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-021",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation DNS stand for?",
+    "options": {
+      "A": "Domain Name SystemX",
+      "B": "DomainX Name System",
+      "C": "Domain NameX System",
+      "D": "Domain Name System"
+    },
+    "answer": "D",
+    "explanation": "DNS stands for Domain Name System.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-022",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation FTP stand for?",
+    "options": {
+      "A": "FileX Transfer Protocol",
+      "B": "File TransferX Protocol",
+      "C": "File Transfer Protocol",
+      "D": "File Transfer ProtocolX"
+    },
+    "answer": "C",
+    "explanation": "FTP stands for File Transfer Protocol.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-023",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation SMTP stand for?",
+    "options": {
+      "A": "Simple MailX Protocol",
+      "B": "Simple Mail Transfer Protocol",
+      "C": "SimpleX Mail Protocol",
+      "D": "Simple Mail ProtocolX"
+    },
+    "answer": "B",
+    "explanation": "SMTP stands for Simple Mail Transfer Protocol.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-024",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation POP3 stand for?",
+    "options": {
+      "A": "Post Office Protocol version 3",
+      "B": "Post Office ProtocolX",
+      "C": "Post OfficeX Protocol",
+      "D": "PostX Office Protocol"
+    },
+    "answer": "A",
+    "explanation": "POP3 stands for Post Office Protocol version 3.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-025",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "full_form_expand",
+    "question": "What does the abbreviation IMAP stand for?",
+    "options": {
+      "A": "InternetX Message Protocol",
+      "B": "Internet Message Access Protocol",
+      "C": "Internet MessageX Protocol",
+      "D": "Internet Message ProtocolX"
+    },
+    "answer": "B",
+    "explanation": "IMAP stands for Internet Message Access Protocol.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-026",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Structured Query Language'?",
+    "options": {
+      "A": "SQLX",
+      "B": "SXL",
+      "C": "SQL",
+      "D": "XSQL"
+    },
+    "answer": "C",
+    "explanation": "The abbreviation for Structured Query Language is SQL.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-027",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Application Programming Interface'?",
+    "options": {
+      "A": "API",
+      "B": "XAPI",
+      "C": "AXI",
+      "D": "APIX"
+    },
+    "answer": "A",
+    "explanation": "The abbreviation for Application Programming Interface is API.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-028",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Artificial Intelligence'?",
+    "options": {
+      "A": "AI",
+      "B": "AIX",
+      "C": "XAI",
+      "D": "AXI"
+    },
+    "answer": "A",
+    "explanation": "The abbreviation for Artificial Intelligence is AI.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-029",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Machine Learning'?",
+    "options": {
+      "A": "XML",
+      "B": "MXL",
+      "C": "ML",
+      "D": "MLX"
+    },
+    "answer": "C",
+    "explanation": "The abbreviation for Machine Learning is ML.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-030",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Internet of Things'?",
+    "options": {
+      "A": "IXT",
+      "B": "XIoT",
+      "C": "IoT",
+      "D": "IoTX"
+    },
+    "answer": "C",
+    "explanation": "The abbreviation for Internet of Things is IoT.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-031",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Virtual Private Network'?",
+    "options": {
+      "A": "VPNX",
+      "B": "VXN",
+      "C": "VPN",
+      "D": "XVPN"
+    },
+    "answer": "C",
+    "explanation": "The abbreviation for Virtual Private Network is VPN.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-032",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Solid State Drive'?",
+    "options": {
+      "A": "SSD",
+      "B": "SSDX",
+      "C": "SXD",
+      "D": "XSSD"
+    },
+    "answer": "A",
+    "explanation": "The abbreviation for Solid State Drive is SSD.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-033",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Hard Disk Drive'?",
+    "options": {
+      "A": "HDD",
+      "B": "HDDX",
+      "C": "HXD",
+      "D": "XHDD"
+    },
+    "answer": "A",
+    "explanation": "The abbreviation for Hard Disk Drive is HDD.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-034",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Modulator Demodulator'?",
+    "options": {
+      "A": "MODEM",
+      "B": "XMODEM",
+      "C": "MODEMX",
+      "D": "MXM"
+    },
+    "answer": "A",
+    "explanation": "The abbreviation for Modulator Demodulator is MODEM.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-035",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Internet Service Provider'?",
+    "options": {
+      "A": "XISP",
+      "B": "ISP",
+      "C": "IXP",
+      "D": "ISPX"
+    },
+    "answer": "B",
+    "explanation": "The abbreviation for Internet Service Provider is ISP.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-036",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Internet Protocol'?",
+    "options": {
+      "A": "IXP",
+      "B": "IP",
+      "C": "XIP",
+      "D": "IPX"
+    },
+    "answer": "B",
+    "explanation": "The abbreviation for Internet Protocol is IP.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-037",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Media Access Control'?",
+    "options": {
+      "A": "MXC",
+      "B": "XMAC",
+      "C": "MACX",
+      "D": "MAC"
+    },
+    "answer": "D",
+    "explanation": "The abbreviation for Media Access Control is MAC.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-038",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Optical Character Recognition'?",
+    "options": {
+      "A": "OXR",
+      "B": "OCRX",
+      "C": "OCR",
+      "D": "XOCR"
+    },
+    "answer": "C",
+    "explanation": "The abbreviation for Optical Character Recognition is OCR.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-039",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Uninterruptible Power Supply'?",
+    "options": {
+      "A": "UPSX",
+      "B": "UXS",
+      "C": "XUPS",
+      "D": "UPS"
+    },
+    "answer": "D",
+    "explanation": "The abbreviation for Uninterruptible Power Supply is UPS.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-040",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "definition_to_abbreviation",
+    "question": "Which abbreviation stands for 'Liquid Crystal Display'?",
+    "options": {
+      "A": "LXD",
+      "B": "LCD",
+      "C": "LCDX",
+      "D": "XLCD"
+    },
+    "answer": "B",
+    "explanation": "The abbreviation for Liquid Crystal Display is LCD.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-041",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation LED, what does the letter 'L' stand for?",
+    "options": {
+      "A": "LightX",
+      "B": "Light",
+      "C": "Alternate",
+      "D": "Lighting"
+    },
+    "answer": "B",
+    "explanation": "In LED (Light Emitting Diode), the letter 'L' stands for 'Light'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-042",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation OLED, what does the letter 'O' stand for?",
+    "options": {
+      "A": "OrganicX",
+      "B": "Organicing",
+      "C": "Organic",
+      "D": "Alternate"
+    },
+    "answer": "C",
+    "explanation": "In OLED (Organic Light Emitting Diode), the letter 'O' stands for 'Organic'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-043",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation CD, what does the letter 'C' stand for?",
+    "options": {
+      "A": "CompactX",
+      "B": "Compacting",
+      "C": "Compact",
+      "D": "Alternate"
+    },
+    "answer": "C",
+    "explanation": "In CD (Compact Disc), the letter 'C' stands for 'Compact'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-044",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation DVD, what does the letter 'D' stand for?",
+    "options": {
+      "A": "Digital",
+      "B": "Digitaling",
+      "C": "DigitalX",
+      "D": "Alternate"
+    },
+    "answer": "A",
+    "explanation": "In DVD (Digital Versatile Disc), the letter 'D' stands for 'Digital'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-045",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation RAID, what does the letter 'R' stand for?",
+    "options": {
+      "A": "Redundanting",
+      "B": "RedundantX",
+      "C": "Redundant",
+      "D": "Alternate"
+    },
+    "answer": "C",
+    "explanation": "In RAID (Redundant Array of Independent Disks), the letter 'R' stands for 'Redundant'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-046",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation OTP, what does the letter 'O' stand for?",
+    "options": {
+      "A": "OneX",
+      "B": "Oneing",
+      "C": "Alternate",
+      "D": "One"
+    },
+    "answer": "D",
+    "explanation": "In OTP (One Time Password), the letter 'O' stands for 'One'.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-047",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation ATM, what does the letter 'A' stand for?",
+    "options": {
+      "A": "AutomatedX",
+      "B": "Automated",
+      "C": "Automateding",
+      "D": "Alternate"
+    },
+    "answer": "B",
+    "explanation": "In ATM (Automated Teller Machine), the letter 'A' stands for 'Automated'.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-048",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation PIN, what does the letter 'P' stand for?",
+    "options": {
+      "A": "Alternate",
+      "B": "Personal",
+      "C": "Personaling",
+      "D": "PersonalX"
+    },
+    "answer": "B",
+    "explanation": "In PIN (Personal Identification Number), the letter 'P' stands for 'Personal'.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-049",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation SIM, what does the letter 'S' stand for?",
+    "options": {
+      "A": "Alternate",
+      "B": "SubscriberX",
+      "C": "Subscribering",
+      "D": "Subscriber"
+    },
+    "answer": "D",
+    "explanation": "In SIM (Subscriber Identity Module), the letter 'S' stands for 'Subscriber'.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-FF-050",
+    "subject": "computer",
+    "topic": "full_forms",
+    "subtopic": "letter_specific",
+    "question": "In the abbreviation GPS, what does the letter 'G' stand for?",
+    "options": {
+      "A": "Global",
+      "B": "Alternate",
+      "C": "GlobalX",
+      "D": "Globaling"
+    },
+    "answer": "A",
+    "explanation": "In GPS (Global Positioning System), the letter 'G' stands for 'Global'.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "abbreviations"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

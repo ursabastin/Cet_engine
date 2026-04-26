@@ -1,0 +1,582 @@
+[
+  {
+    "id": "CMP-DAT-001",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "convert_between_units",
+    "question": "How many Bytes are there in 1 Kilobyte (KB)?",
+    "options": {
+      "A": "8 Bytes",
+      "B": "1024 Bytes",
+      "C": "1000 Bytes",
+      "D": "100 Bytes"
+    },
+    "answer": "B",
+    "explanation": "In computing, 1 KB is traditionally defined as 1024 Bytes (2^10 Bytes).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-002",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "convert_between_units",
+    "question": "How many Bytes are there in 1 Kilobyte (KB)?",
+    "options": {
+      "A": "100 Bytes",
+      "B": "8 Bytes",
+      "C": "1024 Bytes",
+      "D": "1000 Bytes"
+    },
+    "answer": "C",
+    "explanation": "In computing, 1 KB is traditionally defined as 1024 Bytes (2^10 Bytes).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-003",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "convert_between_units",
+    "question": "How many Bytes are there in 1 Kilobyte (KB)?",
+    "options": {
+      "A": "1024 Bytes",
+      "B": "1000 Bytes",
+      "C": "100 Bytes",
+      "D": "8 Bytes"
+    },
+    "answer": "A",
+    "explanation": "In computing, 1 KB is traditionally defined as 1024 Bytes (2^10 Bytes).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-004",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "convert_between_units",
+    "question": "How many Bytes are there in 1 Kilobyte (KB)?",
+    "options": {
+      "A": "1000 Bytes",
+      "B": "1024 Bytes",
+      "C": "8 Bytes",
+      "D": "100 Bytes"
+    },
+    "answer": "B",
+    "explanation": "In computing, 1 KB is traditionally defined as 1024 Bytes (2^10 Bytes).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-005",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "convert_between_units",
+    "question": "How many Bytes are there in 1 Kilobyte (KB)?",
+    "options": {
+      "A": "1000 Bytes",
+      "B": "8 Bytes",
+      "C": "1024 Bytes",
+      "D": "100 Bytes"
+    },
+    "answer": "C",
+    "explanation": "In computing, 1 KB is traditionally defined as 1024 Bytes (2^10 Bytes).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-006",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "convert_between_units",
+    "question": "How many Bytes are there in 1 Kilobyte (KB)?",
+    "options": {
+      "A": "100 Bytes",
+      "B": "1000 Bytes",
+      "C": "8 Bytes",
+      "D": "1024 Bytes"
+    },
+    "answer": "D",
+    "explanation": "In computing, 1 KB is traditionally defined as 1024 Bytes (2^10 Bytes).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-007",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "convert_between_units",
+    "question": "How many Bytes are there in 1 Kilobyte (KB)?",
+    "options": {
+      "A": "100 Bytes",
+      "B": "1024 Bytes",
+      "C": "1000 Bytes",
+      "D": "8 Bytes"
+    },
+    "answer": "B",
+    "explanation": "In computing, 1 KB is traditionally defined as 1024 Bytes (2^10 Bytes).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-008",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "convert_between_units",
+    "question": "How many Bytes are there in 1 Kilobyte (KB)?",
+    "options": {
+      "A": "8 Bytes",
+      "B": "1024 Bytes",
+      "C": "100 Bytes",
+      "D": "1000 Bytes"
+    },
+    "answer": "B",
+    "explanation": "In computing, 1 KB is traditionally defined as 1024 Bytes (2^10 Bytes).",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-009",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "order_units",
+    "question": "Which of the following represents the correct order of data units from smallest to largest?",
+    "options": {
+      "A": "Bit < Byte < KB < MB < GB",
+      "B": "Byte < Bit < MB < KB < GB",
+      "C": "Bit < Byte < MB < KB < GB",
+      "D": "KB < MB < GB < Byte < Bit"
+    },
+    "answer": "A",
+    "explanation": "The standard progression is Bit, Byte (8 bits), KB (1024 bytes), MB, GB, TB, PB.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-010",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "order_units",
+    "question": "Which of the following represents the correct order of data units from smallest to largest?",
+    "options": {
+      "A": "Bit < Byte < MB < KB < GB",
+      "B": "KB < MB < GB < Byte < Bit",
+      "C": "Bit < Byte < KB < MB < GB",
+      "D": "Byte < Bit < MB < KB < GB"
+    },
+    "answer": "C",
+    "explanation": "The standard progression is Bit, Byte (8 bits), KB (1024 bytes), MB, GB, TB, PB.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-011",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "order_units",
+    "question": "Which of the following represents the correct order of data units from smallest to largest?",
+    "options": {
+      "A": "Bit < Byte < MB < KB < GB",
+      "B": "KB < MB < GB < Byte < Bit",
+      "C": "Byte < Bit < MB < KB < GB",
+      "D": "Bit < Byte < KB < MB < GB"
+    },
+    "answer": "D",
+    "explanation": "The standard progression is Bit, Byte (8 bits), KB (1024 bytes), MB, GB, TB, PB.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-012",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "order_units",
+    "question": "Which of the following represents the correct order of data units from smallest to largest?",
+    "options": {
+      "A": "Bit < Byte < KB < MB < GB",
+      "B": "Byte < Bit < MB < KB < GB",
+      "C": "Bit < Byte < MB < KB < GB",
+      "D": "KB < MB < GB < Byte < Bit"
+    },
+    "answer": "A",
+    "explanation": "The standard progression is Bit, Byte (8 bits), KB (1024 bytes), MB, GB, TB, PB.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-013",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "storage_capacity",
+    "question": "What is the typical storage capacity of a standard CD-ROM?",
+    "options": {
+      "A": "1.44 MB",
+      "B": "25 GB",
+      "C": "4.7 GB",
+      "D": "700 MB"
+    },
+    "answer": "D",
+    "explanation": "A standard compact disc (CD-ROM) holds approximately 700 Megabytes of data.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-014",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "storage_capacity",
+    "question": "What is the typical storage capacity of a standard CD-ROM?",
+    "options": {
+      "A": "700 MB",
+      "B": "1.44 MB",
+      "C": "25 GB",
+      "D": "4.7 GB"
+    },
+    "answer": "A",
+    "explanation": "A standard compact disc (CD-ROM) holds approximately 700 Megabytes of data.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-015",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "storage_capacity",
+    "question": "What is the typical storage capacity of a standard CD-ROM?",
+    "options": {
+      "A": "700 MB",
+      "B": "1.44 MB",
+      "C": "4.7 GB",
+      "D": "25 GB"
+    },
+    "answer": "A",
+    "explanation": "A standard compact disc (CD-ROM) holds approximately 700 Megabytes of data.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-016",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "storage_capacity",
+    "question": "What is the typical storage capacity of a standard CD-ROM?",
+    "options": {
+      "A": "1.44 MB",
+      "B": "25 GB",
+      "C": "700 MB",
+      "D": "4.7 GB"
+    },
+    "answer": "C",
+    "explanation": "A standard compact disc (CD-ROM) holds approximately 700 Megabytes of data.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-017",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "storage_capacity",
+    "question": "What is the typical storage capacity of a standard CD-ROM?",
+    "options": {
+      "A": "25 GB",
+      "B": "4.7 GB",
+      "C": "1.44 MB",
+      "D": "700 MB"
+    },
+    "answer": "D",
+    "explanation": "A standard compact disc (CD-ROM) holds approximately 700 Megabytes of data.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-018",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "appropriate_unit",
+    "question": "Which unit is most appropriate to measure the storage capacity of a modern smartphone?",
+    "options": {
+      "A": "Megabytes (MB)",
+      "B": "Bits",
+      "C": "Gigabytes (GB)",
+      "D": "Kilobytes (KB)"
+    },
+    "answer": "C",
+    "explanation": "Modern smartphones typically have storage measured in Gigabytes (e.g., 64GB, 128GB, 256GB) or Terabytes.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-019",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "appropriate_unit",
+    "question": "Which unit is most appropriate to measure the storage capacity of a modern smartphone?",
+    "options": {
+      "A": "Megabytes (MB)",
+      "B": "Bits",
+      "C": "Kilobytes (KB)",
+      "D": "Gigabytes (GB)"
+    },
+    "answer": "D",
+    "explanation": "Modern smartphones typically have storage measured in Gigabytes (e.g., 64GB, 128GB, 256GB) or Terabytes.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-DAT-020",
+    "subject": "computer",
+    "topic": "data_units",
+    "subtopic": "appropriate_unit",
+    "question": "Which unit is most appropriate to measure the storage capacity of a modern smartphone?",
+    "options": {
+      "A": "Bits",
+      "B": "Gigabytes (GB)",
+      "C": "Megabytes (MB)",
+      "D": "Kilobytes (KB)"
+    },
+    "answer": "B",
+    "explanation": "Modern smartphones typically have storage measured in Gigabytes (e.g., 64GB, 128GB, 256GB) or Terabytes.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "data",
+      "storage"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

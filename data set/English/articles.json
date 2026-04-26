@@ -1,0 +1,902 @@
+[
+  {
+    "id": "ENG-ART-001",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "a_vs_an",
+    "question": "She is _______ honest woman who always tells the truth.",
+    "options": {
+      "A": "a",
+      "B": "the",
+      "C": "no article",
+      "D": "an"
+    },
+    "answer": "D",
+    "explanation": "Use 'an' before words starting with a vowel sound. 'Honest' starts with a silent 'h', making an 'o' sound. Option A ('a') is incorrect because it ignores the vowel sound.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "a_vs_an",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-002",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "a_vs_an",
+    "question": "He bought _______ umbrella for the rainy season.",
+    "options": {
+      "A": "the",
+      "B": "no article",
+      "C": "an",
+      "D": "a"
+    },
+    "answer": "C",
+    "explanation": "Use 'an' before words starting with a vowel sound. 'Umbrella' starts with an 'uh' sound. Option A ('a') is incorrect because it precedes a consonant sound.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "a_vs_an",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-003",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "a_vs_an",
+    "question": "We have _______ one-hour meeting tomorrow.",
+    "options": {
+      "A": "an",
+      "B": "the",
+      "C": "a",
+      "D": "no article"
+    },
+    "answer": "C",
+    "explanation": "Use 'a' before words starting with a consonant sound. 'One' starts with a 'w' sound. Option A ('an') is wrong because it relies on the letter 'o' rather than the phonetic sound.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "a_vs_an",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-004",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "a_vs_an",
+    "question": "I saw _______ European tourist near the monument.",
+    "options": {
+      "A": "an",
+      "B": "no article",
+      "C": "a",
+      "D": "the"
+    },
+    "answer": "C",
+    "explanation": "Use 'a' before a consonant sound. 'European' starts with a 'y' sound. Option A ('an') is incorrect because it mistakenly follows the spelling rather than pronunciation.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "a_vs_an",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-005",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "a_vs_an",
+    "question": "It is _______ honor to meet you.",
+    "options": {
+      "A": "the",
+      "B": "no article",
+      "C": "an",
+      "D": "a"
+    },
+    "answer": "C",
+    "explanation": "Use 'an' before words starting with a vowel sound. 'Honor' has a silent 'h'. Option A ('a') is incorrect because it ignores the silent 'h'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "a_vs_an",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-006",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "a_vs_an",
+    "question": "He is _______ university student.",
+    "options": {
+      "A": "no article",
+      "B": "an",
+      "C": "a",
+      "D": "the"
+    },
+    "answer": "C",
+    "explanation": "Use 'a' before words starting with a consonant sound. 'University' starts with a 'y' sound. Option A ('an') is incorrect because it assumes 'u' always makes a vowel sound.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "a_vs_an",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-007",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "a_vs_an",
+    "question": "She requested _______ X-ray for her fractured arm.",
+    "options": {
+      "A": "no article",
+      "B": "an",
+      "C": "the",
+      "D": "a"
+    },
+    "answer": "B",
+    "explanation": "Use 'an' before words starting with a vowel sound. The letter 'X' is pronounced 'eks'. Option A ('a') is wrong as it fails to account for the phonetic pronunciation.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "a_vs_an",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-008",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "a_vs_an",
+    "question": "They need _______ heir to the throne.",
+    "options": {
+      "A": "an",
+      "B": "no article",
+      "C": "the",
+      "D": "a"
+    },
+    "answer": "A",
+    "explanation": "Use 'an' before a vowel sound. 'Heir' has a silent 'h' and sounds like 'air'. Option A ('a') is incorrect because it assumes the 'h' is pronounced.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "a_vs_an",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-009",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "the_specific_reference",
+    "question": "Did you read _______ book I gave you?",
+    "options": {
+      "A": "a",
+      "B": "no article",
+      "C": "an",
+      "D": "the"
+    },
+    "answer": "D",
+    "explanation": "Use 'the' for specific, previously mentioned nouns. 'I gave you' specifies exactly which book. Option A ('a') is incorrect as it implies any random book.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "the_specific_reference",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-010",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "the_specific_reference",
+    "question": "Please shut _______ door behind you.",
+    "options": {
+      "A": "no article",
+      "B": "an",
+      "C": "a",
+      "D": "the"
+    },
+    "answer": "D",
+    "explanation": "Use 'the' when both speaker and listener know which specific noun is meant. The context implies a specific door in the room. Option A ('a') implies any door, which is illogical here.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "the_specific_reference",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-011",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "the_specific_reference",
+    "question": "_______ sun sets in the west.",
+    "options": {
+      "A": "An",
+      "B": "The",
+      "C": "A",
+      "D": "No article"
+    },
+    "answer": "B",
+    "explanation": "Use 'the' for unique objects. There is only one sun in our solar system. Option A ('A') is wrong because it implies there are multiple suns.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "the_specific_reference",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-012",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "the_specific_reference",
+    "question": "She is _______ tallest girl in our class.",
+    "options": {
+      "A": "no article",
+      "B": "the",
+      "C": "a",
+      "D": "an"
+    },
+    "answer": "B",
+    "explanation": "Use 'the' before superlative adjectives. 'Tallest' is a superlative. Option A ('a') is incorrect because superlatives refer to one specific extreme.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "the_specific_reference",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-013",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "the_specific_reference",
+    "question": "Where is _______ pen you borrowed yesterday?",
+    "options": {
+      "A": "a",
+      "B": "the",
+      "C": "an",
+      "D": "no article"
+    },
+    "answer": "B",
+    "explanation": "Use 'the' for a noun specified by a relative clause ('you borrowed yesterday'). Option A ('a') is incorrect because we are not talking about any general pen.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "the_specific_reference",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-014",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "the_specific_reference",
+    "question": "I liked _______ first chapter of the novel.",
+    "options": {
+      "A": "a",
+      "B": "the",
+      "C": "an",
+      "D": "no article"
+    },
+    "answer": "B",
+    "explanation": "Use 'the' before ordinal numbers. 'First' is an ordinal number specifying a position. Option A ('a') is incorrect because ordinal numbers are specific.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "the_specific_reference",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-015",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "the_specific_reference",
+    "question": "He is _______ man of the match.",
+    "options": {
+      "A": "the",
+      "B": "an",
+      "C": "a",
+      "D": "no article"
+    },
+    "answer": "A",
+    "explanation": "Use 'the' for a unique title or position in a specific context. Option A ('a') is wrong because there is only one such award per match.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "the_specific_reference",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-016",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "the_specific_reference",
+    "question": "We visited _______ museum that opened last week.",
+    "options": {
+      "A": "an",
+      "B": "a",
+      "C": "no article",
+      "D": "the"
+    },
+    "answer": "D",
+    "explanation": "Use 'the' when a restrictive clause specifies the noun. 'That opened last week' specifies which museum. Option A ('a') is incorrect because it makes the reference vague.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "the_specific_reference",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-017",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "question": "_______ water is essential for all living beings.",
+    "options": {
+      "A": "A",
+      "B": "No article",
+      "C": "An",
+      "D": "The"
+    },
+    "answer": "B",
+    "explanation": "Do not use an article with uncountable nouns used in a general sense. Water refers to all water globally. Option A ('The') is incorrect because it restricts meaning to specific water.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "zero_article",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-018",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "question": "She is studying _______ mathematics at college.",
+    "options": {
+      "A": "An",
+      "B": "No article",
+      "C": "The",
+      "D": "A"
+    },
+    "answer": "B",
+    "explanation": "Do not use articles before names of academic subjects. Option A ('The') is wrong because subjects are abstract and general.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "zero_article",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-019",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "question": "_______ children usually love playing games.",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "No article",
+      "D": "The"
+    },
+    "answer": "C",
+    "explanation": "Do not use an article with plural countable nouns in a general sense. Option A ('The') is wrong because it refers to specific children, not children in general.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "zero_article",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-020",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "question": "He traveled to London by _______ train.",
+    "options": {
+      "A": "The",
+      "B": "An",
+      "C": "No article",
+      "D": "A"
+    },
+    "answer": "C",
+    "explanation": "Do not use an article in the construction 'by + mode of transport'. Option A ('The') is incorrect because 'by the train' is grammatically non-standard.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "zero_article",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-021",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "question": "I usually have _______ breakfast at 8 AM.",
+    "options": {
+      "A": "The",
+      "B": "No article",
+      "C": "An",
+      "D": "A"
+    },
+    "answer": "B",
+    "explanation": "Do not use articles before names of regular meals. Option A ('The') is incorrect unless referring to a specific breakfast (e.g., 'the breakfast I had yesterday').",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "zero_article",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-022",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "zero_article",
+    "question": "_______ gold is a precious metal.",
+    "options": {
+      "A": "No article",
+      "B": "An",
+      "C": "A",
+      "D": "The"
+    },
+    "answer": "A",
+    "explanation": "Do not use articles before uncountable material nouns in a general sense. Option A ('The') is incorrect as it would imply specific gold, like 'the gold in this ring'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "zero_article",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-023",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "article_with_proper_nouns",
+    "question": "They sailed across _______ Pacific Ocean.",
+    "options": {
+      "A": "the",
+      "B": "no article",
+      "C": "a",
+      "D": "an"
+    },
+    "answer": "A",
+    "explanation": "Use 'the' before names of oceans, seas, and rivers. Option D ('no article') is incorrect because geographical bodies of water require 'the'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "article_with_proper_nouns",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-024",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "article_with_proper_nouns",
+    "question": "_______ Himalayas protect India from cold winds.",
+    "options": {
+      "A": "The",
+      "B": "A",
+      "C": "An",
+      "D": "No article"
+    },
+    "answer": "A",
+    "explanation": "Use 'the' before names of mountain ranges. Option D ('No article') is incorrect because mountain ranges (plural proper nouns) take 'the'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "article_with_proper_nouns",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-025",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "article_with_proper_nouns",
+    "question": "She is reading _______ Times of India.",
+    "options": {
+      "A": "an",
+      "B": "a",
+      "C": "no article",
+      "D": "the"
+    },
+    "answer": "D",
+    "explanation": "Use 'the' before names of famous newspapers. Option D ('no article') is incorrect because English newspaper titles conventionally take 'the'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "article_with_proper_nouns",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-026",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "article_with_proper_nouns",
+    "question": "He lives in _______ United States of America.",
+    "options": {
+      "A": "the",
+      "B": "an",
+      "C": "a",
+      "D": "no article"
+    },
+    "answer": "A",
+    "explanation": "Use 'the' before country names containing words like 'United', 'Republic', or 'Kingdom'. Option D ('no article') is incorrect because 'United States' is a compound descriptive name.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "article_with_proper_nouns",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-027",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "mixed_article_fill",
+    "question": "I bought _______ shirt and _______ tie.",
+    "options": {
+      "A": "the, a",
+      "B": "a, the",
+      "C": "the, the",
+      "D": "a, a"
+    },
+    "answer": "D",
+    "explanation": "Use indefinite articles when introducing singular countable nouns for the first time. Option D ('the, the') is wrong because the items haven't been mentioned before.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "mixed_article_fill",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-028",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "mixed_article_fill",
+    "question": "_______ dog is _______ loyal animal.",
+    "options": {
+      "A": "A, a",
+      "B": "The, an",
+      "C": "A, the",
+      "D": "The, the"
+    },
+    "answer": "A",
+    "explanation": "Use 'a' for singular nouns representing a class, and 'a' before consonant sounds. Option C ('A, the') is wrong because 'animal' here is non-specific.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "mixed_article_fill",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-029",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "mixed_article_fill",
+    "question": "She gave me _______ orange and _______ apple.",
+    "options": {
+      "A": "a, a",
+      "B": "an, a",
+      "C": "the, the",
+      "D": "an, an"
+    },
+    "answer": "D",
+    "explanation": "Use 'an' before words starting with vowel sounds. Both 'orange' and 'apple' start with vowel sounds. Option D ('an, a') is wrong because 'a apple' is phonetically incorrect.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "mixed_article_fill",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-ART-030",
+    "subject": "english",
+    "topic": "articles",
+    "subtopic": "mixed_article_fill",
+    "question": "_______ more you read, _______ better you understand.",
+    "options": {
+      "A": "The, the",
+      "B": "The, a",
+      "C": "A, a",
+      "D": "A, the"
+    },
+    "answer": "A",
+    "explanation": "Use 'the' in comparative parallel structures ('the + comparative, the + comparative'). Option B ('A, a') is wrong because this specific grammatical structure requires 'the'.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "articles",
+      "mixed_article_fill",
+      "fill_in_blank"
+    ],
+    "question_type": "fill_in_blank",
+    "mock_used": []
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "id": "CMP-BIN-001",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "decimal_to_binary",
+    "question": "What is the binary representation of the decimal number 13?",
+    "options": {
+      "A": "1011",
+      "B": "1001",
+      "C": "1101",
+      "D": "1110"
+    },
+    "answer": "C",
+    "explanation": "To convert 13 to binary: 13/2 = 6 rem 1. 6/2 = 3 rem 0. 3/2 = 1 rem 1. 1/2 = 0 rem 1. Reading remainders backwards gives 1101.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-002",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "decimal_to_binary",
+    "question": "What is the binary representation of the decimal number 13?",
+    "options": {
+      "A": "1101",
+      "B": "1001",
+      "C": "1110",
+      "D": "1011"
+    },
+    "answer": "A",
+    "explanation": "To convert 13 to binary: 13/2 = 6 rem 1. 6/2 = 3 rem 0. 3/2 = 1 rem 1. 1/2 = 0 rem 1. Reading remainders backwards gives 1101.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-003",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "decimal_to_binary",
+    "question": "What is the binary representation of the decimal number 13?",
+    "options": {
+      "A": "1101",
+      "B": "1110",
+      "C": "1001",
+      "D": "1011"
+    },
+    "answer": "A",
+    "explanation": "To convert 13 to binary: 13/2 = 6 rem 1. 6/2 = 3 rem 0. 3/2 = 1 rem 1. 1/2 = 0 rem 1. Reading remainders backwards gives 1101.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-004",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "decimal_to_binary",
+    "question": "What is the binary representation of the decimal number 13?",
+    "options": {
+      "A": "1011",
+      "B": "1110",
+      "C": "1001",
+      "D": "1101"
+    },
+    "answer": "D",
+    "explanation": "To convert 13 to binary: 13/2 = 6 rem 1. 6/2 = 3 rem 0. 3/2 = 1 rem 1. 1/2 = 0 rem 1. Reading remainders backwards gives 1101.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-005",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "decimal_to_binary",
+    "question": "What is the binary representation of the decimal number 13?",
+    "options": {
+      "A": "1011",
+      "B": "1101",
+      "C": "1110",
+      "D": "1001"
+    },
+    "answer": "B",
+    "explanation": "To convert 13 to binary: 13/2 = 6 rem 1. 6/2 = 3 rem 0. 3/2 = 1 rem 1. 1/2 = 0 rem 1. Reading remainders backwards gives 1101.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-006",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "decimal_to_binary",
+    "question": "What is the binary representation of the decimal number 13?",
+    "options": {
+      "A": "1011",
+      "B": "1101",
+      "C": "1110",
+      "D": "1001"
+    },
+    "answer": "B",
+    "explanation": "To convert 13 to binary: 13/2 = 6 rem 1. 6/2 = 3 rem 0. 3/2 = 1 rem 1. 1/2 = 0 rem 1. Reading remainders backwards gives 1101.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-007",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_to_decimal",
+    "question": "Convert the binary number 1010 to decimal.",
+    "options": {
+      "A": "14",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": "C",
+    "explanation": "1010 in binary = (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (0 * 2^0) = 8 + 0 + 2 + 0 = 10.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-008",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_to_decimal",
+    "question": "Convert the binary number 1010 to decimal.",
+    "options": {
+      "A": "14",
+      "B": "12",
+      "C": "10",
+      "D": "8"
+    },
+    "answer": "C",
+    "explanation": "1010 in binary = (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (0 * 2^0) = 8 + 0 + 2 + 0 = 10.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-009",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_to_decimal",
+    "question": "Convert the binary number 1010 to decimal.",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "14",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "1010 in binary = (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (0 * 2^0) = 8 + 0 + 2 + 0 = 10.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-010",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_to_decimal",
+    "question": "Convert the binary number 1010 to decimal.",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "8",
+      "D": "10"
+    },
+    "answer": "D",
+    "explanation": "1010 in binary = (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (0 * 2^0) = 8 + 0 + 2 + 0 = 10.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-011",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_to_decimal",
+    "question": "Convert the binary number 1010 to decimal.",
+    "options": {
+      "A": "12",
+      "B": "8",
+      "C": "14",
+      "D": "10"
+    },
+    "answer": "D",
+    "explanation": "1010 in binary = (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (0 * 2^0) = 8 + 0 + 2 + 0 = 10.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-012",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_to_decimal",
+    "question": "Convert the binary number 1010 to decimal.",
+    "options": {
+      "A": "10",
+      "B": "8",
+      "C": "12",
+      "D": "14"
+    },
+    "answer": "A",
+    "explanation": "1010 in binary = (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (0 * 2^0) = 8 + 0 + 2 + 0 = 10.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-013",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_addition",
+    "question": "What is the sum of the binary numbers 101 and 11?",
+    "options": {
+      "A": "1011",
+      "B": "1000",
+      "C": "111",
+      "D": "110"
+    },
+    "answer": "B",
+    "explanation": "Binary addition: 101 (which is 5) + 11 (which is 3) = 1000 (which is 8).",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-014",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_addition",
+    "question": "What is the sum of the binary numbers 101 and 11?",
+    "options": {
+      "A": "1000",
+      "B": "111",
+      "C": "110",
+      "D": "1011"
+    },
+    "answer": "A",
+    "explanation": "Binary addition: 101 (which is 5) + 11 (which is 3) = 1000 (which is 8).",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-015",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "binary_addition",
+    "question": "What is the sum of the binary numbers 101 and 11?",
+    "options": {
+      "A": "111",
+      "B": "1011",
+      "C": "1000",
+      "D": "110"
+    },
+    "answer": "C",
+    "explanation": "Binary addition: 101 (which is 5) + 11 (which is 3) = 1000 (which is 8).",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-016",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "AND_gate",
+    "question": "Which logic gate outputs 1 only if all its inputs are 1?",
+    "options": {
+      "A": "OR Gate",
+      "B": "NAND Gate",
+      "C": "XOR Gate",
+      "D": "AND Gate"
+    },
+    "answer": "D",
+    "explanation": "The AND gate follows logical multiplication; output is high (1) only when every input is high (1). Option 'OR' gives 1 if any input is 1.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-017",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "AND_gate",
+    "question": "Which logic gate outputs 1 only if all its inputs are 1?",
+    "options": {
+      "A": "AND Gate",
+      "B": "NAND Gate",
+      "C": "OR Gate",
+      "D": "XOR Gate"
+    },
+    "answer": "A",
+    "explanation": "The AND gate follows logical multiplication; output is high (1) only when every input is high (1). Option 'OR' gives 1 if any input is 1.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-018",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "OR_gate",
+    "question": "Which logic gate outputs 0 only if all its inputs are 0?",
+    "options": {
+      "A": "OR Gate",
+      "B": "NOR Gate",
+      "C": "AND Gate",
+      "D": "XNOR Gate"
+    },
+    "answer": "A",
+    "explanation": "The OR gate outputs a 1 if at least one input is 1. Therefore, it only outputs 0 when all inputs are 0.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-019",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "OR_gate",
+    "question": "Which logic gate outputs 0 only if all its inputs are 0?",
+    "options": {
+      "A": "AND Gate",
+      "B": "NOR Gate",
+      "C": "OR Gate",
+      "D": "XNOR Gate"
+    },
+    "answer": "C",
+    "explanation": "The OR gate outputs a 1 if at least one input is 1. Therefore, it only outputs 0 when all inputs are 0.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-020",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "NOT_gate",
+    "question": "Which gate is also known as an inverter?",
+    "options": {
+      "A": "AND Gate",
+      "B": "NAND Gate",
+      "C": "NOT Gate",
+      "D": "XOR Gate"
+    },
+    "answer": "C",
+    "explanation": "A NOT gate is a logic gate which implements logical negation, converting 0 to 1 and 1 to 0.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-021",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "NAND_gate",
+    "question": "The output of a NAND gate is 0 only when:",
+    "options": {
+      "A": "None of the above",
+      "B": "One input is 1 and the other is 0",
+      "C": "Both inputs are 0",
+      "D": "Both inputs are 1"
+    },
+    "answer": "D",
+    "explanation": "A NAND gate is the inverse of an AND gate. AND gives 1 when both inputs are 1, so NAND gives 0 in that condition.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-022",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "NOR_gate",
+    "question": "The output of a NOR gate is 1 only when:",
+    "options": {
+      "A": "None of the above",
+      "B": "Both inputs are 0",
+      "C": "Both inputs are 1",
+      "D": "One input is 1 and the other is 0"
+    },
+    "answer": "B",
+    "explanation": "A NOR gate is the inverse of an OR gate. OR gives 0 only when both inputs are 0, so NOR gives 1 in that condition.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-023",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "XOR_gate",
+    "question": "Which logic gate outputs 1 only when its two inputs are different?",
+    "options": {
+      "A": "NAND Gate",
+      "B": "XOR Gate",
+      "C": "XNOR Gate",
+      "D": "AND Gate"
+    },
+    "answer": "B",
+    "explanation": "The Exclusive-OR (XOR) gate outputs a high signal only if one input is high and the other is low.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-024",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "XNOR_gate",
+    "question": "Which logic gate outputs 1 only when both its inputs are the same?",
+    "options": {
+      "A": "XNOR Gate",
+      "B": "XOR Gate",
+      "C": "OR Gate",
+      "D": "NOR Gate"
+    },
+    "answer": "A",
+    "explanation": "The Exclusive-NOR (XNOR) gate is an equivalence gate; it outputs 1 when both inputs are 0 or both are 1. XOR outputs 1 when they are different.",
+    "difficulty": "hard",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-BIN-025",
+    "subject": "computer",
+    "topic": "binary_logic_gates",
+    "subtopic": "XNOR_gate",
+    "question": "Which logic gate outputs 1 only when both its inputs are the same?",
+    "options": {
+      "A": "OR Gate",
+      "B": "XOR Gate",
+      "C": "NOR Gate",
+      "D": "XNOR Gate"
+    },
+    "answer": "D",
+    "explanation": "The Exclusive-NOR (XNOR) gate is an equivalence gate; it outputs 1 when both inputs are 0 or both are 1. XOR outputs 1 when they are different.",
+    "difficulty": "hard",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "binary",
+      "logic_gates"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

@@ -1,0 +1,1872 @@
+[
+  {
+    "id": "ENG-RC-001",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "What is the primary purpose of the passage?",
+    "options": {
+      "A": "To describe the chemical properties of coffee beans.",
+      "B": "To recount the historical origins and spread of coffee.",
+      "C": "To explain how coffeehouses influenced European politics.",
+      "D": "To argue that Ethiopian coffee is the best in the world."
+    },
+    "answer": "B",
+    "explanation": "The passage focuses on the legend of coffee's discovery and traces its historical spread from Ethiopia to Europe.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P01",
+    "mock_used": [],
+    "passage_text": "Coffee is one of the most widely consumed beverages in the world, but its origins are steeped in legend. According to popular lore, a 9th-century Ethiopian goatherd named Kaldi discovered coffee when he noticed his goats became unusually energetic after eating the red berries from a certain tree. Kaldi reported his findings to the local monastery, where the monks brewed a drink with the berries and found it kept them alert during long hours of evening prayer. The knowledge of the energizing berries spread eastward to the Arabian Peninsula, where coffee cultivation and trade began. By the 16th century, coffee was known in Persia, Egypt, Syria, and Turkey. The beverage eventually made its way to Europe in the 17th century, where it became highly popular, leading to the establishment of coffeehouses that served as hubs for social interaction and intellectual discussion."
+  },
+  {
+    "id": "ENG-RC-002",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "According to the passage, who is credited with discovering the energizing effects of coffee berries in popular lore?",
+    "options": {
+      "A": "Arabian traders",
+      "B": "European monarchs",
+      "C": "An Ethiopian goatherd",
+      "D": "Persian monks"
+    },
+    "answer": "C",
+    "explanation": "The text explicitly states that an Ethiopian goatherd named Kaldi discovered coffee.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P01",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-003",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "By which century had coffee become highly popular in Europe?",
+    "options": {
+      "A": "9th century",
+      "B": "15th century",
+      "C": "16th century",
+      "D": "17th century"
+    },
+    "answer": "D",
+    "explanation": "The passage explicitly mentions that the beverage made its way to Europe in the 17th century, where it became highly popular.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P01",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-004",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "It can be inferred from the passage that the monks brewed the berries primarily to:",
+    "options": {
+      "A": "Stay awake during religious duties",
+      "B": "Cure illnesses",
+      "C": "Sell them to travelers",
+      "D": "Feed their goats"
+    },
+    "answer": "A",
+    "explanation": "The text notes the monks found the drink kept them alert during long hours of evening prayer, implying they used it to stay awake for religious duties.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P01",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-005",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "Which of the following would the author most likely agree with?",
+    "options": {
+      "A": "Coffee's true origin is completely undisputed fact.",
+      "B": "Coffeehouses played a role in societal development.",
+      "C": "Goats are the primary consumers of coffee berries today.",
+      "D": "European cultivation preceded Arabian cultivation."
+    },
+    "answer": "B",
+    "explanation": "The passage states coffeehouses served as hubs for social interaction and intellectual discussion, supporting the idea of societal impact.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P01",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-006",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "vocabulary",
+    "question": "In the context of the passage, the word 'steeped' most closely means:",
+    "options": {
+      "A": "Soaked in liquid",
+      "B": "Heavily infused or immersed",
+      "C": "Sloping sharply",
+      "D": "Quickly forgotten"
+    },
+    "answer": "B",
+    "explanation": "'Steeped in legend' means heavily infused or surrounded by legend, not physically soaked or sloping.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "vocabulary",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P01",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-007",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "Which of the following best summarizes the main idea of the passage?",
+    "options": {
+      "A": "AI is dangerous and should be banned from healthcare.",
+      "B": "Machine learning is primarily useful for administrative tasks.",
+      "C": "AI offers significant benefits to healthcare but also presents challenges that must be managed.",
+      "D": "Human doctors will soon be entirely replaced by AI systems."
+    },
+    "answer": "C",
+    "explanation": "The passage highlights AI's potential to revolutionize healthcare while dedicating the second half to the challenges and the need for human oversight.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P02",
+    "mock_used": [],
+    "passage_text": "Artificial Intelligence (AI) has the potential to revolutionize healthcare by improving diagnostic accuracy, personalizing treatment plans, and streamlining administrative tasks. Machine learning algorithms can analyze vast amounts of medical data, such as X-rays and MRI scans, identifying patterns that human eyes might miss. This can lead to earlier detection of diseases like cancer or neurological disorders. Furthermore, AI systems can help predict patient outcomes and recommend treatments tailored to an individual's genetic makeup and medical history. However, the integration of AI in medicine is not without challenges. Concerns about patient privacy, data security, and the potential for algorithmic bias must be addressed. Additionally, AI should be viewed as an augmenting tool for medical professionals, rather than a replacement, ensuring that the critical human elements of empathy and ethical judgment remain central to patient care."
+  },
+  {
+    "id": "ENG-RC-008",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "According to the text, what is one way machine learning algorithms can assist in healthcare?",
+    "options": {
+      "A": "By performing complex surgeries independently.",
+      "B": "By analyzing vast amounts of medical data to identify patterns.",
+      "C": "By replacing ethical judgment in hospitals.",
+      "D": "By eliminating the need for health insurance."
+    },
+    "answer": "B",
+    "explanation": "The passage explicitly states that machine learning algorithms can analyze vast amounts of medical data to identify patterns.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P02",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-009",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "Which of the following is NOT mentioned as a concern regarding AI in medicine?",
+    "options": {
+      "A": "Patient privacy",
+      "B": "Data security",
+      "C": "Algorithmic bias",
+      "D": "The high cost of hardware"
+    },
+    "answer": "D",
+    "explanation": "The passage mentions privacy, data security, and bias, but does not mention the cost of hardware.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P02",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-010",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "The author suggests that 'ethical judgment' in patient care:",
+    "options": {
+      "A": "Is currently superior in AI compared to humans.",
+      "B": "Is a critical human element that AI cannot replace.",
+      "C": "Is no longer necessary with modern treatments.",
+      "D": "Should be programmed into all medical algorithms."
+    },
+    "answer": "B",
+    "explanation": "The passage states that AI should augment professionals to ensure the critical human elements of empathy and ethical judgment remain central.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P02",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-011",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "Based on the passage, the integration of AI into healthcare is most likely to result in:",
+    "options": {
+      "A": "A decrease in the importance of a patient's genetic history.",
+      "B": "More personalized and proactive medical treatments.",
+      "C": "The total elimination of administrative hospital staff.",
+      "D": "Less accurate interpretation of MRI scans."
+    },
+    "answer": "B",
+    "explanation": "The passage notes AI helps predict outcomes and recommend treatments tailored to an individual's genetic makeup, pointing to personalized proactive care.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P02",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-012",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "tone",
+    "question": "What is the author's tone regarding the use of AI in healthcare?",
+    "options": {
+      "A": "Overly pessimistic and fearful",
+      "B": "Cautiously optimistic and balanced",
+      "C": "Completely indifferent",
+      "D": "Uncritically enthusiastic"
+    },
+    "answer": "B",
+    "explanation": "The author highlights the great potential (optimistic) but also carefully lists challenges and the need for human elements (cautious/balanced).",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "tone",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P02",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-013",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "What is the primary topic of the passage?",
+    "options": {
+      "A": "The impact of climate change on rainfall.",
+      "B": "The process of the continuous movement of water on Earth.",
+      "C": "How to conserve groundwater aquifers.",
+      "D": "The effect of solar energy on plant life."
+    },
+    "answer": "B",
+    "explanation": "The passage provides a comprehensive overview of the water cycle (hydrologic cycle), describing its continuous movement.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P03",
+    "mock_used": [],
+    "passage_text": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. Driven by solar energy, the cycle begins with evaporation, where water from oceans, lakes, and rivers turns into water vapor and rises into the atmosphere. Plants also contribute to this moisture through transpiration. As the vapor rises, it cools and undergoes condensation, forming clouds. When the water droplets in clouds combine and become heavy enough, they fall back to the Earth as precipitation, which can take the form of rain, snow, sleet, or hail. Once on the ground, water can flow over the surface as runoff, eventually returning to bodies of water, or it can infiltrate the soil to replenish groundwater aquifers. This endless cycle is crucial for sustaining life and maintaining the planet's ecosystems."
+  },
+  {
+    "id": "ENG-RC-014",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "What drives the hydrologic cycle according to the passage?",
+    "options": {
+      "A": "Lunar gravity",
+      "B": "Geothermal heat",
+      "C": "Solar energy",
+      "D": "Wind currents"
+    },
+    "answer": "C",
+    "explanation": "The text explicitly states, 'Driven by solar energy, the cycle begins...'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P03",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-015",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "Through which process do plants contribute moisture to the atmosphere?",
+    "options": {
+      "A": "Evaporation",
+      "B": "Condensation",
+      "C": "Infiltration",
+      "D": "Transpiration"
+    },
+    "answer": "D",
+    "explanation": "The passage explicitly mentions, 'Plants also contribute to this moisture through transpiration.'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P03",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-016",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "What would most likely happen if condensation did not occur?",
+    "options": {
+      "A": "Precipitation would not form.",
+      "B": "Evaporation would immediately stop.",
+      "C": "Groundwater aquifers would overflow.",
+      "D": "The oceans would freeze."
+    },
+    "answer": "A",
+    "explanation": "Condensation forms clouds, from which water droplets fall as precipitation. Without condensation, precipitation cannot happen.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P03",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-017",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "The passage implies that groundwater aquifers are:",
+    "options": {
+      "A": "Unrelated to the water cycle.",
+      "B": "Found above the atmosphere.",
+      "C": "Replenished by water infiltrating the soil.",
+      "D": "The sole source of evaporation."
+    },
+    "answer": "C",
+    "explanation": "The text states water can 'infiltrate the soil to replenish groundwater aquifers,' implying they are underground stores filled by infiltration.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P03",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-018",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "vocabulary",
+    "question": "In the context of the passage, the word 'precipitation' refers to:",
+    "options": {
+      "A": "Water falling from clouds to Earth",
+      "B": "Water vapor rising into the air",
+      "C": "Water flowing over the surface",
+      "D": "Water turning into ice underground"
+    },
+    "answer": "A",
+    "explanation": "The text defines precipitation as water falling back to Earth (rain, snow, sleet, hail).",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "vocabulary",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P03",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-019",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "Which of the following is the best title for the passage?",
+    "options": {
+      "A": "The Psychological Dangers of the Internet",
+      "B": "How to Connect with Friends Globally",
+      "C": "The Dual Nature of Social Media",
+      "D": "The Eradication of Misinformation"
+    },
+    "answer": "C",
+    "explanation": "The passage discusses both the positive connecting benefits and the negative psychological drawbacks of social media.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P04",
+    "mock_used": [],
+    "passage_text": "Social media has fundamentally changed how people communicate, share information, and form relationships. Platforms like Facebook, X, and Instagram allow users to connect with friends and family across the globe instantly. They also serve as powerful tools for raising awareness about social issues and mobilizing communities. However, the pervasive use of social media has also been linked to negative psychological effects. Studies suggest that excessive screen time and the constant comparison to curated, idealized versions of others' lives can contribute to feelings of anxiety, depression, and isolation. Furthermore, the rapid spread of misinformation and echo chambers can polarize societies. As social media continues to evolve, finding a balance between its connective benefits and its psychological drawbacks remains a critical challenge for modern society."
+  },
+  {
+    "id": "ENG-RC-020",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "Which of the following is mentioned as a benefit of social media?",
+    "options": {
+      "A": "Decreasing screen time",
+      "B": "Raising awareness about social issues",
+      "C": "Eliminating echo chambers",
+      "D": "Reducing anxiety"
+    },
+    "answer": "B",
+    "explanation": "The passage states they serve as powerful tools for raising awareness about social issues.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P04",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-021",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "What can contribute to feelings of anxiety and depression according to studies mentioned in the text?",
+    "options": {
+      "A": "Constant comparison to curated lives",
+      "B": "Connecting with family members",
+      "C": "Mobilizing communities",
+      "D": "Reading historical documents"
+    },
+    "answer": "A",
+    "explanation": "The text explicitly links constant comparison to curated, idealized versions of others' lives to anxiety and depression.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P04",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-022",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "Based on the passage, an 'echo chamber' on social media most likely leads to:",
+    "options": {
+      "A": "A broader understanding of different viewpoints.",
+      "B": "Increased polarization in society.",
+      "C": "A reduction in misinformation.",
+      "D": "Better mental health for users."
+    },
+    "answer": "B",
+    "explanation": "The passage states that the rapid spread of misinformation and echo chambers can polarize societies.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P04",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-023",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "The author suggests that solving the issues associated with social media will require:",
+    "options": {
+      "A": "Banning all social media platforms.",
+      "B": "Ignoring the psychological effects entirely.",
+      "C": "Finding a balance between its benefits and drawbacks.",
+      "D": "Only using platforms for raising awareness."
+    },
+    "answer": "C",
+    "explanation": "The concluding sentence states that finding a balance between its connective benefits and psychological drawbacks remains a critical challenge.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P04",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-024",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "tone",
+    "question": "The author's tone when discussing the psychological effects of social media is best described as:",
+    "options": {
+      "A": "Dismissive",
+      "B": "Concerned",
+      "C": "Mocking",
+      "D": "Jubilant"
+    },
+    "answer": "B",
+    "explanation": "The author uses words like 'pervasive,' 'negative psychological effects,' 'anxiety,' and 'depression,' indicating concern.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "tone",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P04",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-025",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "What is the primary focus of the passage?",
+    "options": {
+      "A": "The history of fossil fuels.",
+      "B": "The transition to renewable energy and its challenges.",
+      "C": "How to manufacture solar panels.",
+      "D": "The decline of the global economy."
+    },
+    "answer": "B",
+    "explanation": "The passage discusses the shift towards renewable energy (solar, wind) and the logistical hurdles involved in transitioning the grid.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P05",
+    "mock_used": [],
+    "passage_text": "The global transition toward renewable energy is accelerating as nations recognize the urgent need to combat climate change. Fossil fuels, which have powered industrial growth for over a century, are the primary contributors to greenhouse gas emissions. In response, investments in wind, solar, and hydroelectric power are surging. Solar photovoltaic panels are becoming increasingly efficient and affordable, allowing both homeowners and massive solar farms to generate clean electricity. Wind energy, harnessed by large turbines both onshore and offshore, is also providing a significant portion of the grid's capacity in many countries. Despite these advancements, transitioning to a fully renewable energy grid poses significant logistical hurdles. Energy storage technology, such as advanced battery systems, needs major improvements to ensure a stable power supply when the sun isn't shining or the wind isn't blowing. Furthermore, upgrading aging infrastructure is essential to accommodate these new energy sources."
+  },
+  {
+    "id": "ENG-RC-026",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "Which statement best expresses the central argument of the text?",
+    "options": {
+      "A": "Fossil fuels are still the best energy source available.",
+      "B": "Renewable energy is ready to replace fossil fuels immediately without issue.",
+      "C": "A shift to renewable energy is necessary but requires technological and infrastructure improvements.",
+      "D": "Wind energy is far superior to solar energy."
+    },
+    "answer": "C",
+    "explanation": "The text argues that transitioning is urgent, but specifically notes that energy storage and infrastructure upgrades are major hurdles.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P05",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-027",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "What is cited as the primary contributor to greenhouse gas emissions?",
+    "options": {
+      "A": "Solar farms",
+      "B": "Fossil fuels",
+      "C": "Advanced battery systems",
+      "D": "Hydroelectric power"
+    },
+    "answer": "B",
+    "explanation": "The passage explicitly identifies fossil fuels as the primary contributors to greenhouse gas emissions.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P05",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-028",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "Why does the passage mention that the sun isn't always shining and the wind isn't always blowing?",
+    "options": {
+      "A": "To argue that solar and wind power are useless.",
+      "B": "To explain why fossil fuels are better for the environment.",
+      "C": "To highlight the necessity for improved energy storage technology.",
+      "D": "To describe changing weather patterns."
+    },
+    "answer": "C",
+    "explanation": "These natural fluctuations are mentioned directly to explain why advanced battery systems (energy storage) need major improvements for a stable supply.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P05",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-029",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "It can be inferred from the passage that the current energy grid infrastructure:",
+    "options": {
+      "A": "Was perfectly designed for renewable energy.",
+      "B": "Is outdated and needs modification to handle new energy sources.",
+      "C": "Does not exist in most countries.",
+      "D": "Relies entirely on advanced battery systems."
+    },
+    "answer": "B",
+    "explanation": "The passage states that 'upgrading aging infrastructure is essential to accommodate these new energy sources,' implying it is currently outdated.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P05",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-030",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "vocabulary",
+    "question": "In the context of the passage, what does the word 'hurdles' mean?",
+    "options": {
+      "A": "Athletic events",
+      "B": "Financial investments",
+      "C": "Obstacles or difficulties",
+      "D": "Environmental benefits"
+    },
+    "answer": "C",
+    "explanation": "'Logistical hurdles' refers to the obstacles or difficulties faced in transitioning the energy grid.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "vocabulary",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P05",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-031",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "What is the main idea of the passage?",
+    "options": {
+      "A": "Habits are impossible to break once formed.",
+      "B": "The brain uses habits to save cognitive effort, and changing them requires altering the routine within the habit loop.",
+      "C": "Cues and rewards are completely irrelevant to human behavior.",
+      "D": "Driving is the most difficult habit to form."
+    },
+    "answer": "B",
+    "explanation": "The text explains why habits form (to save effort), the components of the loop, and the specific method required to change them.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P06",
+    "mock_used": [],
+    "passage_text": "Habits are automatic behaviors formed through a process known as 'chunking,' where the brain converts a sequence of actions into an automatic routine. This psychological phenomenon saves cognitive effort, allowing individuals to perform daily tasks like driving or tying shoes without conscious thought. According to researchers, the habit loop consists of three components: the cue, the routine, and the reward. The cue triggers the brain to initiate the behavior, the routine is the action itself, and the reward reinforces the loop, teaching the brain that the routine is worth remembering. While this process is highly efficient, it also makes bad habits notoriously difficult to break. To change a deeply ingrained habit, psychologists suggest that individuals must maintain the same cue and reward, but consciously insert a new, healthier routine into the loop. This requires significant willpower and self-awareness."
+  },
+  {
+    "id": "ENG-RC-032",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "According to the passage, what does the brain do during 'chunking'?",
+    "options": {
+      "A": "It forgets old memories to make room for new ones.",
+      "B": "It converts a sequence of actions into an automatic routine.",
+      "C": "It consciously analyzes every step of a task.",
+      "D": "It ignores all cues from the environment."
+    },
+    "answer": "B",
+    "explanation": "The text explicitly defines chunking as the process 'where the brain converts a sequence of actions into an automatic routine.'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P06",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-033",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "What are the three components of the habit loop mentioned by researchers?",
+    "options": {
+      "A": "Trigger, action, consequence",
+      "B": "Thought, action, regret",
+      "C": "Cue, routine, reward",
+      "D": "Start, middle, end"
+    },
+    "answer": "C",
+    "explanation": "The passage lists the components as 'the cue, the routine, and the reward.'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P06",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-034",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "To successfully change a bad habit, the passage suggests a person should:",
+    "options": {
+      "A": "Eliminate the cue and the reward completely.",
+      "B": "Keep the cue and reward the same, but change the routine.",
+      "C": "Rely solely on unconscious thought.",
+      "D": "Change the cue, routine, and reward simultaneously."
+    },
+    "answer": "B",
+    "explanation": "The text states individuals must 'maintain the same cue and reward, but consciously insert a new, healthier routine.'",
+    "difficulty": "hard",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P06",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-035",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "vocabulary",
+    "question": "What does the word 'ingrained' most likely mean in the context of the passage?",
+    "options": {
+      "A": "Made of wheat or grain",
+      "B": "Firmly established and difficult to change",
+      "C": "Recently discovered",
+      "D": "Easily forgotten"
+    },
+    "answer": "B",
+    "explanation": "A 'deeply ingrained habit' refers to one that is firmly established and hard to break.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "vocabulary",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P06",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-036",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "tone",
+    "question": "Which of the following describes the author's tone towards breaking bad habits?",
+    "options": {
+      "A": "Hopeless",
+      "B": "Analytical and instructional",
+      "C": "Humorous",
+      "D": "Angry"
+    },
+    "answer": "B",
+    "explanation": "The author explains the psychology behind habits and provides instructional insight on how to change them in an objective, analytical manner.",
+    "difficulty": "hard",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "tone",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P06",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-037",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "Which statement best summarizes the main point of the passage?",
+    "options": {
+      "A": "The oceans are too dangerous for humans to explore.",
+      "B": "Despite being largely unexplored, the deep ocean contains diverse life and holds critical information for science and climate.",
+      "C": "Hydrothermal vents are the only source of life in the ocean.",
+      "D": "Space exploration is more important than ocean exploration."
+    },
+    "answer": "B",
+    "explanation": "The passage covers the lack of exploration, the surprising life found (like at vents), the new tech used, and the importance of this knowledge.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P07",
+    "mock_used": [],
+    "passage_text": "Despite covering over 70% of the Earth's surface, the oceans remain largely unexplored, with less than 20% mapped in detail. The deep ocean, characterized by crushing pressure, near-freezing temperatures, and total darkness, is one of the most extreme environments on the planet. Yet, it is home to a staggering diversity of life. Deep-sea exploration has revealed fascinating ecosystems, such as hydrothermal vents, where organisms thrive not on sunlight, but on chemical energy from the Earth's interior through a process called chemosynthesis. Advances in technology, including remotely operated vehicles (ROVs) and autonomous underwater vehicles (AUVs), are allowing scientists to probe deeper and gather unprecedented data. Understanding the ocean's depths is critical not only for discovering new species and potential medical compounds but also for comprehending the ocean's role in regulating the global climate."
+  },
+  {
+    "id": "ENG-RC-038",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "Approximately what percentage of the ocean has been mapped in detail according to the text?",
+    "options": {
+      "A": "Less than 20%",
+      "B": "Exactly 50%",
+      "C": "Over 70%",
+      "D": "Nearly 100%"
+    },
+    "answer": "A",
+    "explanation": "The text states the oceans remain largely unexplored, 'with less than 20% mapped in detail.'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P07",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-039",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "What energy source do organisms at hydrothermal vents use to thrive?",
+    "options": {
+      "A": "Solar energy",
+      "B": "Wind energy",
+      "C": "Chemical energy from the Earth's interior",
+      "D": "Tidal energy"
+    },
+    "answer": "C",
+    "explanation": "The passage notes they thrive 'on chemical energy from the Earth's interior through a process called chemosynthesis.'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P07",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-040",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "Based on the passage, why are ROVs and AUVs particularly important for ocean exploration?",
+    "options": {
+      "A": "Because they are inexpensive to build.",
+      "B": "Because they can survive the extreme conditions of the deep ocean better than humans.",
+      "C": "Because they can communicate with marine life.",
+      "D": "Because they operate using solar power."
+    },
+    "answer": "B",
+    "explanation": "Given the 'crushing pressure, near-freezing temperatures, and total darkness,' it is inferred that technological vehicles are necessary to probe these extreme environments safely.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P07",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-041",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "The passage implies that discovering new species in the ocean might lead to:",
+    "options": {
+      "A": "An increase in ocean temperatures.",
+      "B": "The development of new medical treatments.",
+      "C": "A decrease in hydrothermal vents.",
+      "D": "The mapping of the entire ocean surface."
+    },
+    "answer": "B",
+    "explanation": "The text explicitly links 'discovering new species' and 'potential medical compounds,' implying a connection between the two.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P07",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-042",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "tone",
+    "question": "The author's attitude toward deep-sea exploration is one of:",
+    "options": {
+      "A": "Apathy",
+      "B": "Fascination and advocacy",
+      "C": "Skepticism",
+      "D": "Fear"
+    },
+    "answer": "B",
+    "explanation": "The author uses words like 'staggering diversity,' 'fascinating ecosystems,' and calls the understanding 'critical,' showing strong interest and support.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "tone",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P07",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-043",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "What is the main idea of the passage?",
+    "options": {
+      "A": "Inflation only benefits the wealthy.",
+      "B": "Central banks cause hyperinflation to stimulate the economy.",
+      "C": "Inflation is the decrease of purchasing power, and central banks must carefully manage interest rates to maintain economic balance.",
+      "D": "Lowering interest rates is the only way to stop inflation."
+    },
+    "answer": "C",
+    "explanation": "The passage defines inflation, discusses its effects, and explains how central banks use interest rates to manage it delicately.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P08",
+    "mock_used": [],
+    "passage_text": "Inflation is an economic concept that describes the general increase in the prices of goods and services in an economy over time, resulting in a decrease in the purchasing power of money. A moderate level of inflation is often considered a sign of a growing economy, as it encourages spending and investment rather than hoarding cash. However, hyperinflation or unexpectedly high inflation can be devastating, eroding savings and making everyday necessities unaffordable for the average citizen. Central banks aim to manage inflation by adjusting interest rates and controlling the money supply. By raising interest rates, borrowing becomes more expensive, which can cool down an overheated economy and stabilize prices. Conversely, lowering interest rates can stimulate economic activity during a recession. Achieving the right balance is a delicate task that requires constant monitoring of economic indicators."
+  },
+  {
+    "id": "ENG-RC-044",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "According to the passage, what is a potential benefit of a moderate level of inflation?",
+    "options": {
+      "A": "It encourages people to hoard cash.",
+      "B": "It decreases the purchasing power of money drastically.",
+      "C": "It encourages spending and investment.",
+      "D": "It guarantees a recession."
+    },
+    "answer": "C",
+    "explanation": "The text states, 'A moderate level of inflation is often considered a sign of a growing economy, as it encourages spending and investment...'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P08",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-045",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "How do central banks typically cool down an overheated economy?",
+    "options": {
+      "A": "By lowering interest rates",
+      "B": "By raising interest rates",
+      "C": "By printing more money",
+      "D": "By freezing bank accounts"
+    },
+    "answer": "B",
+    "explanation": "The passage explains that 'By raising interest rates, borrowing becomes more expensive, which can cool down an overheated economy...'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P08",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-046",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "Based on the text, what happens when the purchasing power of money decreases?",
+    "options": {
+      "A": "Consumers can buy more goods with the same amount of money.",
+      "B": "The cost of living drops.",
+      "C": "Consumers can buy fewer goods with the same amount of money.",
+      "D": "Interest rates automatically fall to zero."
+    },
+    "answer": "C",
+    "explanation": "A decrease in purchasing power means money is worth less, so it buys fewer goods, which is the definition of inflation provided in the text.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P08",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-047",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "The passage implies that managing an economy is:",
+    "options": {
+      "A": "A simple, one-step process.",
+      "B": "A complex task requiring careful observation and adjustment.",
+      "C": "Unrelated to the money supply.",
+      "D": "Solely the responsibility of average citizens."
+    },
+    "answer": "B",
+    "explanation": "The concluding sentence describes it as 'a delicate task that requires constant monitoring of economic indicators,' implying complexity and care.",
+    "difficulty": "hard",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P08",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-048",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "vocabulary",
+    "question": "In the context of the passage, what does 'eroding' mean?",
+    "options": {
+      "A": "Gradually destroying or reducing",
+      "B": "Building up over time",
+      "C": "Cleaning thoroughly",
+      "D": "Investing wisely"
+    },
+    "answer": "A",
+    "explanation": "'Eroding savings' means hyperinflation gradually destroys or reduces the value of savings.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "vocabulary",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P08",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-049",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "What is the primary concern addressed in the passage?",
+    "options": {
+      "A": "The high cost of building the International Space Station.",
+      "B": "The historical achievements of the space age since 1957.",
+      "C": "The accumulation of dangerous space debris and the threat it poses to space operations.",
+      "D": "The superiority of satellite communication over terrestrial networks."
+    },
+    "answer": "C",
+    "explanation": "The passage is dedicated to describing the buildup of space debris, the dangers it presents, and the need to mitigate the risk.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P09",
+    "mock_used": [],
+    "passage_text": "Since the dawn of the space age in 1957, humanity has launched thousands of rockets, satellites, and probes into orbit. A byproduct of this exploration is the accumulation of space debris\u2014defunct objects including dead satellites, spent rocket stages, and fragments from collisions. Orbiting the Earth at speeds of up to 17,500 miles per hour, even tiny pieces of debris can cause catastrophic damage to operational spacecraft and the International Space Station (ISS). This growing cloud of junk poses a severe threat to future space missions and the satellite infrastructure that modern society relies on for communication, navigation, and weather forecasting. Scientists refer to the worst-case scenario as the Kessler Syndrome, a theoretical cascade where collisions generate more debris, leading to further collisions, eventually rendering certain orbits unusable. Mitigating this risk requires international cooperation to track debris and develop technologies to actively remove larger pieces from orbit."
+  },
+  {
+    "id": "ENG-RC-050",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "Which of the following is the best alternate title for the passage?",
+    "options": {
+      "A": "The Kessler Syndrome: A Myth",
+      "B": "Orbiting Danger: The Problem of Space Junk",
+      "C": "How to Build a Satellite",
+      "D": "The Benefits of Space Exploration"
+    },
+    "answer": "B",
+    "explanation": "The passage centrally focuses on space debris (junk) and the danger it poses in orbit.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P09",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-051",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "What speeds can space debris reach in orbit?",
+    "options": {
+      "A": "Up to 500 miles per hour",
+      "B": "Up to 5,000 miles per hour",
+      "C": "Up to 17,500 miles per hour",
+      "D": "Speed of light"
+    },
+    "answer": "C",
+    "explanation": "The text explicitly states: 'Orbiting the Earth at speeds of up to 17,500 miles per hour...'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P09",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-052",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "According to the description of the Kessler Syndrome, what is the ultimate consequence of the theoretical cascade?",
+    "options": {
+      "A": "Spacecraft will become indestructible.",
+      "B": "Certain orbital paths will become completely unusable.",
+      "C": "Debris will safely burn up in the atmosphere.",
+      "D": "Satellites will transmit data faster."
+    },
+    "answer": "B",
+    "explanation": "The passage defines the Kessler Syndrome as a cascade leading to further collisions, 'eventually rendering certain orbits unusable.'",
+    "difficulty": "hard",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P09",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-053",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "vocabulary",
+    "question": "In the context of the passage, the word 'defunct' most nearly means:",
+    "options": {
+      "A": "Highly functional",
+      "B": "No longer existing or functioning",
+      "C": "Newly launched",
+      "D": "Dangerous"
+    },
+    "answer": "B",
+    "explanation": "'Defunct objects including dead satellites' indicates objects that are no longer operating or functioning.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "vocabulary",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P09",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-054",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "tone",
+    "question": "What is the author's tone regarding the issue of space debris?",
+    "options": {
+      "A": "Urgent and warning",
+      "B": "Humorous and lighthearted",
+      "C": "Indifferent",
+      "D": "Celebratory"
+    },
+    "answer": "A",
+    "explanation": "Words like 'catastrophic damage,' 'severe threat,' and 'worst-case scenario' indicate an urgent and warning tone.",
+    "difficulty": "hard",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "tone",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P09",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-055",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "question": "What is the main purpose of the passage?",
+    "options": {
+      "A": "To explain how honey is manufactured industrially.",
+      "B": "To argue against the use of pesticides.",
+      "C": "To highlight the ecological importance of bees and the threats they face.",
+      "D": "To describe the anatomy of a flower."
+    },
+    "answer": "C",
+    "explanation": "The passage explains why bees are vital (pollination, food supply) and then details the severe population decline and its causes.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "main_idea",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P10",
+    "mock_used": [],
+    "passage_text": "Bees are indispensable to the global ecosystem and agriculture due to their role as primary pollinators. As they forage for nectar to produce honey, bees inadvertently transfer pollen from the male parts of a flower to the female parts, facilitating plant reproduction. It is estimated that one-third of the human diet is dependent on insect-pollinated plants, making bees vital for food security. Beyond agriculture, bees support the growth of trees and flowers that provide habitats for other wildlife. However, bee populations worldwide have been declining rapidly, a phenomenon often referred to as Colony Collapse Disorder. The causes are multifaceted, including pesticide use, habitat loss, climate change, and disease. Protecting bee populations is therefore not merely an environmental concern, but a critical necessity for maintaining global food supplies and biodiversity."
+  },
+  {
+    "id": "ENG-RC-056",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "According to the passage, approximately how much of the human diet depends on insect-pollinated plants?",
+    "options": {
+      "A": "One-tenth",
+      "B": "One-quarter",
+      "C": "One-third",
+      "D": "One-half"
+    },
+    "answer": "C",
+    "explanation": "The text states: 'It is estimated that one-third of the human diet is dependent on insect-pollinated plants...'",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P10",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-057",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "specific_detail",
+    "question": "Which of the following is NOT listed as a cause of Colony Collapse Disorder?",
+    "options": {
+      "A": "Pesticide use",
+      "B": "Habitat loss",
+      "C": "Overproduction of honey",
+      "D": "Climate change"
+    },
+    "answer": "C",
+    "explanation": "The passage lists pesticide use, habitat loss, climate change, and disease. It does not mention overproduction of honey.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "specific_detail",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P10",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-058",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "The passage implies that the extinction of bees would most likely result in:",
+    "options": {
+      "A": "An increase in global food supplies.",
+      "B": "A severe crisis for global food security and biodiversity.",
+      "C": "No significant change to human diets.",
+      "D": "An overpopulation of other insects."
+    },
+    "answer": "B",
+    "explanation": "Because bees are 'vital for food security' and 'indispensable to the global ecosystem,' their extinction would trigger a severe crisis.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P10",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-059",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "inference",
+    "question": "Why does the author mention that bees transfer pollen 'inadvertently'?",
+    "options": {
+      "A": "To show that bees are highly intelligent.",
+      "B": "To indicate that bees pollinate plants as a byproduct of their search for nectar.",
+      "C": "To prove that bees dislike flowers.",
+      "D": "To suggest that pollination is harmful to bees."
+    },
+    "answer": "B",
+    "explanation": "'Inadvertently' means without intention. They transfer pollen accidentally while foraging for nectar, which is their actual goal.",
+    "difficulty": "medium",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "inference",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P10",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-RC-060",
+    "subject": "english",
+    "topic": "reading_comprehension",
+    "subtopic": "tone",
+    "question": "The tone of the passage's conclusion is best described as:",
+    "options": {
+      "A": "Optimistic",
+      "B": "Serious and cautionary",
+      "C": "Sarcastic",
+      "D": "Aggressive"
+    },
+    "answer": "B",
+    "explanation": "The conclusion calls protecting bees 'a critical necessity,' emphasizing the serious and cautionary nature of the issue.",
+    "difficulty": "easy",
+    "priority": "must_do",
+    "frequency": "3-4/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "reading_comprehension",
+      "tone",
+      "mcq_direct"
+    ],
+    "question_type": "reading_comprehension",
+    "passage_id": "P10",
+    "mock_used": []
+  }
+]

@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "RSN-COD-001",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, APPLE is written as CRRNG, how is LEMON written in that code?",
+    "options": {
+      "A": "NGOQP",
+      "B": "NGNPM",
+      "C": "NGOQP",
+      "D": "MHNPM"
+    },
+    "answer": "A",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-002",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, TIGER is written as VKIGT, how is LEMON written in that code?",
+    "options": {
+      "A": "NGOQP",
+      "B": "MHNPM",
+      "C": "NGNPM",
+      "D": "NGOQP"
+    },
+    "answer": "A",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-003",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, WATER is written as YCVGT, how is LEMON written in that code?",
+    "options": {
+      "A": "NGNPM",
+      "B": "MHNPM",
+      "C": "NGOQP",
+      "D": "NGOQP"
+    },
+    "answer": "D",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-004",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, CHAIR is written as EJCKT, how is LEMON written in that code?",
+    "options": {
+      "A": "NGNPM",
+      "B": "NGOQP",
+      "C": "NGOQP",
+      "D": "MHNPM"
+    },
+    "answer": "C",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-005",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, TABLE is written as VCDNG, how is LEMON written in that code?",
+    "options": {
+      "A": "NGOQP",
+      "B": "NGOQP",
+      "C": "MHNPM",
+      "D": "NGNPM"
+    },
+    "answer": "B",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-006",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, PAPER is written as RCRGT, how is LEMON written in that code?",
+    "options": {
+      "A": "NGNPM",
+      "B": "NGOQP",
+      "C": "MHNPM",
+      "D": "NGOQP"
+    },
+    "answer": "D",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-007",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, PLANT is written as RNCPV, how is LEMON written in that code?",
+    "options": {
+      "A": "NGOQP",
+      "B": "NGNPM",
+      "C": "MHNPM",
+      "D": "NGOQP"
+    },
+    "answer": "D",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-008",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, RIVER is written as TKXGT, how is LEMON written in that code?",
+    "options": {
+      "A": "MHNPM",
+      "B": "NGOQP",
+      "C": "NGNPM",
+      "D": "NGOQP"
+    },
+    "answer": "B",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-009",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, STONE is written as UVQPG, how is LEMON written in that code?",
+    "options": {
+      "A": "NGOQP",
+      "B": "NGOQP",
+      "C": "NGNPM",
+      "D": "MHNPM"
+    },
+    "answer": "B",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-010",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_forward",
+    "question": "If in a certain code, MOUSE is written as OQWUG, how is LEMON written in that code?",
+    "options": {
+      "A": "MHNPM",
+      "B": "NGOQP",
+      "C": "NGOQP",
+      "D": "NGNPM"
+    },
+    "answer": "C",
+    "explanation": "Each letter is shifted forward by 2. L+2=N, E+2=G, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_forward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-011",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_backward",
+    "question": "If in a certain code, APPLE is written as ZOOKD, how is MANGO written in that code?",
+    "options": {
+      "A": "LYMFN",
+      "B": "LZNFP",
+      "C": "LZMFN",
+      "D": "LZMFN"
+    },
+    "answer": "D",
+    "explanation": "Each letter is shifted backward by 1. M-1=L, A-1=Z, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_backward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-012",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_backward",
+    "question": "If in a certain code, TIGER is written as SHFDQ, how is MANGO written in that code?",
+    "options": {
+      "A": "LZMFN",
+      "B": "LYMFN",
+      "C": "LZMFN",
+      "D": "LZNFP"
+    },
+    "answer": "A",
+    "explanation": "Each letter is shifted backward by 1. M-1=L, A-1=Z, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_backward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-013",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_backward",
+    "question": "If in a certain code, WATER is written as VZSDQ, how is MANGO written in that code?",
+    "options": {
+      "A": "LYMFN",
+      "B": "LZMFN",
+      "C": "LZNFP",
+      "D": "LZMFN"
+    },
+    "answer": "B",
+    "explanation": "Each letter is shifted backward by 1. M-1=L, A-1=Z, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_backward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-014",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_backward",
+    "question": "If in a certain code, CHAIR is written as BGZHQ, how is MANGO written in that code?",
+    "options": {
+      "A": "LYMFN",
+      "B": "LZNFP",
+      "C": "LZMFN",
+      "D": "LZMFN"
+    },
+    "answer": "C",
+    "explanation": "Each letter is shifted backward by 1. M-1=L, A-1=Z, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_backward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-015",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_backward",
+    "question": "If in a certain code, TABLE is written as SZAKD, how is MANGO written in that code?",
+    "options": {
+      "A": "LYMFN",
+      "B": "LZMFN",
+      "C": "LZNFP",
+      "D": "LZMFN"
+    },
+    "answer": "B",
+    "explanation": "Each letter is shifted backward by 1. M-1=L, A-1=Z, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_backward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-016",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_backward",
+    "question": "If in a certain code, PAPER is written as OZODQ, how is MANGO written in that code?",
+    "options": {
+      "A": "LZMFN",
+      "B": "LZMFN",
+      "C": "LZNFP",
+      "D": "LYMFN"
+    },
+    "answer": "A",
+    "explanation": "Each letter is shifted backward by 1. M-1=L, A-1=Z, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_backward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-017",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_backward",
+    "question": "If in a certain code, PLANT is written as OKZMS, how is MANGO written in that code?",
+    "options": {
+      "A": "LZNFP",
+      "B": "LZMFN",
+      "C": "LZMFN",
+      "D": "LYMFN"
+    },
+    "answer": "C",
+    "explanation": "Each letter is shifted backward by 1. M-1=L, A-1=Z, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_backward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-018",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "letter_shift_backward",
+    "question": "If in a certain code, RIVER is written as QHUDQ, how is MANGO written in that code?",
+    "options": {
+      "A": "LZNFP",
+      "B": "LYMFN",
+      "C": "LZMFN",
+      "D": "LZMFN"
+    },
+    "answer": "D",
+    "explanation": "Each letter is shifted backward by 1. M-1=L, A-1=Z, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "letter_shift_backward"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-019",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "reverse_alphabet",
+    "question": "If in a certain code, APPLE is written as ZKKOV, how is GRAPE written in that code?",
+    "options": {
+      "A": "TIZLW",
+      "B": "TIYKV",
+      "C": "TIZKV",
+      "D": "TIZKV"
+    },
+    "answer": "D",
+    "explanation": "Each letter is replaced by its reverse pair (A=Z, B=Y). G becomes T, R becomes I, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "reverse_alphabet"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-020",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "reverse_alphabet",
+    "question": "If in a certain code, TIGER is written as GRTVI, how is GRAPE written in that code?",
+    "options": {
+      "A": "TIZLW",
+      "B": "TIYKV",
+      "C": "TIZKV",
+      "D": "TIZKV"
+    },
+    "answer": "C",
+    "explanation": "Each letter is replaced by its reverse pair (A=Z, B=Y). G becomes T, R becomes I, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "reverse_alphabet"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-021",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "reverse_alphabet",
+    "question": "If in a certain code, WATER is written as DZGVI, how is GRAPE written in that code?",
+    "options": {
+      "A": "TIZKV",
+      "B": "TIYKV",
+      "C": "TIZLW",
+      "D": "TIZKV"
+    },
+    "answer": "D",
+    "explanation": "Each letter is replaced by its reverse pair (A=Z, B=Y). G becomes T, R becomes I, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "reverse_alphabet"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-022",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "reverse_alphabet",
+    "question": "If in a certain code, CHAIR is written as XSZRI, how is GRAPE written in that code?",
+    "options": {
+      "A": "TIZKV",
+      "B": "TIZKV",
+      "C": "TIYKV",
+      "D": "TIZLW"
+    },
+    "answer": "B",
+    "explanation": "Each letter is replaced by its reverse pair (A=Z, B=Y). G becomes T, R becomes I, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "reverse_alphabet"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-023",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "reverse_alphabet",
+    "question": "If in a certain code, TABLE is written as GZYOV, how is GRAPE written in that code?",
+    "options": {
+      "A": "TIZKV",
+      "B": "TIZKV",
+      "C": "TIZLW",
+      "D": "TIYKV"
+    },
+    "answer": "A",
+    "explanation": "Each letter is replaced by its reverse pair (A=Z, B=Y). G becomes T, R becomes I, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "reverse_alphabet"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-024",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "reverse_alphabet",
+    "question": "If in a certain code, PAPER is written as KZKVI, how is GRAPE written in that code?",
+    "options": {
+      "A": "TIZKV",
+      "B": "TIZKV",
+      "C": "TIYKV",
+      "D": "TIZLW"
+    },
+    "answer": "A",
+    "explanation": "Each letter is replaced by its reverse pair (A=Z, B=Y). G becomes T, R becomes I, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "reverse_alphabet"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-025",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "reverse_alphabet",
+    "question": "If in a certain code, PLANT is written as KOZMG, how is GRAPE written in that code?",
+    "options": {
+      "A": "TIZKV",
+      "B": "TIZKV",
+      "C": "TIYKV",
+      "D": "TIZLW"
+    },
+    "answer": "A",
+    "explanation": "Each letter is replaced by its reverse pair (A=Z, B=Y). G becomes T, R becomes I, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "reverse_alphabet"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-026",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "reverse_alphabet",
+    "question": "If in a certain code, RIVER is written as IREVI, how is GRAPE written in that code?",
+    "options": {
+      "A": "TIZLW",
+      "B": "TIYKV",
+      "C": "TIZKV",
+      "D": "TIZKV"
+    },
+    "answer": "C",
+    "explanation": "Each letter is replaced by its reverse pair (A=Z, B=Y). G becomes T, R becomes I, etc.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "reverse_alphabet"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-027",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If APPLE is coded as 50, what is the code for FISH?",
+    "options": {
+      "A": "40",
+      "B": "43",
+      "C": "42",
+      "D": "47"
+    },
+    "answer": "C",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-028",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If TIGER is coded as 59, what is the code for FISH?",
+    "options": {
+      "A": "43",
+      "B": "42",
+      "C": "47",
+      "D": "40"
+    },
+    "answer": "B",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-029",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If WATER is coded as 67, what is the code for FISH?",
+    "options": {
+      "A": "40",
+      "B": "43",
+      "C": "42",
+      "D": "47"
+    },
+    "answer": "C",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-030",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If CHAIR is coded as 39, what is the code for FISH?",
+    "options": {
+      "A": "40",
+      "B": "42",
+      "C": "47",
+      "D": "43"
+    },
+    "answer": "B",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-031",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If TABLE is coded as 40, what is the code for FISH?",
+    "options": {
+      "A": "47",
+      "B": "42",
+      "C": "40",
+      "D": "43"
+    },
+    "answer": "B",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-032",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If PAPER is coded as 56, what is the code for FISH?",
+    "options": {
+      "A": "40",
+      "B": "47",
+      "C": "42",
+      "D": "43"
+    },
+    "answer": "C",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-033",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If PLANT is coded as 63, what is the code for FISH?",
+    "options": {
+      "A": "42",
+      "B": "43",
+      "C": "40",
+      "D": "47"
+    },
+    "answer": "A",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-034",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If RIVER is coded as 72, what is the code for FISH?",
+    "options": {
+      "A": "47",
+      "B": "43",
+      "C": "40",
+      "D": "42"
+    },
+    "answer": "D",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-035",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If STONE is coded as 73, what is the code for FISH?",
+    "options": {
+      "A": "42",
+      "B": "47",
+      "C": "43",
+      "D": "40"
+    },
+    "answer": "A",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-036",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "number_coding",
+    "question": "If MOUSE is coded as 73, what is the code for FISH?",
+    "options": {
+      "A": "40",
+      "B": "42",
+      "C": "43",
+      "D": "47"
+    },
+    "answer": "B",
+    "explanation": "The code is the sum of the positional values of the letters (A=1, B=2). F=6, I=9, S=19, H=8. Sum = 42.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "number_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-037",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "word_substitution",
+    "question": "If green is called red, red is called blue, and blue is called yellow, what is the color of blood?",
+    "options": {
+      "A": "blue",
+      "B": "green",
+      "C": "red",
+      "D": "yellow"
+    },
+    "answer": "A",
+    "explanation": "The color of blood is red. Since red is called blue, the answer is blue.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "word_substitution"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-038",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "word_substitution",
+    "question": "If green is called red, red is called blue, and blue is called yellow, what is the color of blood?",
+    "options": {
+      "A": "blue",
+      "B": "green",
+      "C": "red",
+      "D": "yellow"
+    },
+    "answer": "A",
+    "explanation": "The color of blood is red. Since red is called blue, the answer is blue.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "word_substitution"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-039",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "word_substitution",
+    "question": "If green is called red, red is called blue, and blue is called yellow, what is the color of blood?",
+    "options": {
+      "A": "green",
+      "B": "blue",
+      "C": "yellow",
+      "D": "red"
+    },
+    "answer": "B",
+    "explanation": "The color of blood is red. Since red is called blue, the answer is blue.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "word_substitution"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-040",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "word_substitution",
+    "question": "If green is called red, red is called blue, and blue is called yellow, what is the color of blood?",
+    "options": {
+      "A": "blue",
+      "B": "red",
+      "C": "green",
+      "D": "yellow"
+    },
+    "answer": "A",
+    "explanation": "The color of blood is red. Since red is called blue, the answer is blue.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "word_substitution"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-041",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "word_substitution",
+    "question": "If green is called red, red is called blue, and blue is called yellow, what is the color of blood?",
+    "options": {
+      "A": "yellow",
+      "B": "green",
+      "C": "blue",
+      "D": "red"
+    },
+    "answer": "C",
+    "explanation": "The color of blood is red. Since red is called blue, the answer is blue.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "word_substitution"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-042",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "word_substitution",
+    "question": "If green is called red, red is called blue, and blue is called yellow, what is the color of blood?",
+    "options": {
+      "A": "yellow",
+      "B": "green",
+      "C": "blue",
+      "D": "red"
+    },
+    "answer": "C",
+    "explanation": "The color of blood is red. Since red is called blue, the answer is blue.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "word_substitution"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-043",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "word_substitution",
+    "question": "If green is called red, red is called blue, and blue is called yellow, what is the color of blood?",
+    "options": {
+      "A": "red",
+      "B": "green",
+      "C": "blue",
+      "D": "yellow"
+    },
+    "answer": "C",
+    "explanation": "The color of blood is red. Since red is called blue, the answer is blue.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "word_substitution"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-044",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "word_substitution",
+    "question": "If green is called red, red is called blue, and blue is called yellow, what is the color of blood?",
+    "options": {
+      "A": "green",
+      "B": "red",
+      "C": "yellow",
+      "D": "blue"
+    },
+    "answer": "D",
+    "explanation": "The color of blood is red. Since red is called blue, the answer is blue.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "word_substitution"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-045",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "symbol_coding",
+    "question": "If A is '@', B is '#', C is '$', how is CAB written?",
+    "options": {
+      "A": "#$@",
+      "B": "$#@",
+      "C": "$@#",
+      "D": "@#$"
+    },
+    "answer": "C",
+    "explanation": "C is '$', A is '@', B is '#'. CAB = $@#.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "symbol_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-046",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "symbol_coding",
+    "question": "If A is '@', B is '#', C is '$', how is CAB written?",
+    "options": {
+      "A": "#$@",
+      "B": "$@#",
+      "C": "@#$",
+      "D": "$#@"
+    },
+    "answer": "B",
+    "explanation": "C is '$', A is '@', B is '#'. CAB = $@#.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "symbol_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-047",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "symbol_coding",
+    "question": "If A is '@', B is '#', C is '$', how is CAB written?",
+    "options": {
+      "A": "#$@",
+      "B": "$@#",
+      "C": "@#$",
+      "D": "$#@"
+    },
+    "answer": "B",
+    "explanation": "C is '$', A is '@', B is '#'. CAB = $@#.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "symbol_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-048",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "symbol_coding",
+    "question": "If A is '@', B is '#', C is '$', how is CAB written?",
+    "options": {
+      "A": "@#$",
+      "B": "$#@",
+      "C": "#$@",
+      "D": "$@#"
+    },
+    "answer": "D",
+    "explanation": "C is '$', A is '@', B is '#'. CAB = $@#.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "symbol_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-049",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "symbol_coding",
+    "question": "If A is '@', B is '#', C is '$', how is CAB written?",
+    "options": {
+      "A": "$@#",
+      "B": "$#@",
+      "C": "#$@",
+      "D": "@#$"
+    },
+    "answer": "A",
+    "explanation": "C is '$', A is '@', B is '#'. CAB = $@#.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "symbol_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-050",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "symbol_coding",
+    "question": "If A is '@', B is '#', C is '$', how is CAB written?",
+    "options": {
+      "A": "#$@",
+      "B": "@#$",
+      "C": "$#@",
+      "D": "$@#"
+    },
+    "answer": "D",
+    "explanation": "C is '$', A is '@', B is '#'. CAB = $@#.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "symbol_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-051",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "symbol_coding",
+    "question": "If A is '@', B is '#', C is '$', how is CAB written?",
+    "options": {
+      "A": "@#$",
+      "B": "$@#",
+      "C": "$#@",
+      "D": "#$@"
+    },
+    "answer": "B",
+    "explanation": "C is '$', A is '@', B is '#'. CAB = $@#.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "symbol_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-052",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "symbol_coding",
+    "question": "If A is '@', B is '#', C is '$', how is CAB written?",
+    "options": {
+      "A": "#$@",
+      "B": "@#$",
+      "C": "$#@",
+      "D": "$@#"
+    },
+    "answer": "D",
+    "explanation": "C is '$', A is '@', B is '#'. CAB = $@#.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "symbol_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-053",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "conditional_coding",
+    "question": "If words starting with a vowel add '1' and words starting with a consonant add '2', what is the code for APPLE?",
+    "options": {
+      "A": "APPLE2",
+      "B": "2APPLE",
+      "C": "1APPLE",
+      "D": "APPLE1"
+    },
+    "answer": "D",
+    "explanation": "APPLE starts with a vowel, so we append 1.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "conditional_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-054",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "conditional_coding",
+    "question": "If words starting with a vowel add '1' and words starting with a consonant add '2', what is the code for APPLE?",
+    "options": {
+      "A": "2APPLE",
+      "B": "APPLE2",
+      "C": "1APPLE",
+      "D": "APPLE1"
+    },
+    "answer": "D",
+    "explanation": "APPLE starts with a vowel, so we append 1.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "conditional_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-055",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "conditional_coding",
+    "question": "If words starting with a vowel add '1' and words starting with a consonant add '2', what is the code for APPLE?",
+    "options": {
+      "A": "2APPLE",
+      "B": "APPLE2",
+      "C": "APPLE1",
+      "D": "1APPLE"
+    },
+    "answer": "C",
+    "explanation": "APPLE starts with a vowel, so we append 1.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "conditional_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-056",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "conditional_coding",
+    "question": "If words starting with a vowel add '1' and words starting with a consonant add '2', what is the code for APPLE?",
+    "options": {
+      "A": "APPLE1",
+      "B": "2APPLE",
+      "C": "APPLE2",
+      "D": "1APPLE"
+    },
+    "answer": "A",
+    "explanation": "APPLE starts with a vowel, so we append 1.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "conditional_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-057",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "conditional_coding",
+    "question": "If words starting with a vowel add '1' and words starting with a consonant add '2', what is the code for APPLE?",
+    "options": {
+      "A": "APPLE2",
+      "B": "1APPLE",
+      "C": "2APPLE",
+      "D": "APPLE1"
+    },
+    "answer": "D",
+    "explanation": "APPLE starts with a vowel, so we append 1.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "conditional_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-058",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "conditional_coding",
+    "question": "If words starting with a vowel add '1' and words starting with a consonant add '2', what is the code for APPLE?",
+    "options": {
+      "A": "1APPLE",
+      "B": "2APPLE",
+      "C": "APPLE1",
+      "D": "APPLE2"
+    },
+    "answer": "C",
+    "explanation": "APPLE starts with a vowel, so we append 1.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "conditional_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-059",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "conditional_coding",
+    "question": "If words starting with a vowel add '1' and words starting with a consonant add '2', what is the code for APPLE?",
+    "options": {
+      "A": "APPLE2",
+      "B": "APPLE1",
+      "C": "2APPLE",
+      "D": "1APPLE"
+    },
+    "answer": "B",
+    "explanation": "APPLE starts with a vowel, so we append 1.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "conditional_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "RSN-COD-060",
+    "subject": "reasoning",
+    "topic": "coding_decoding",
+    "subtopic": "conditional_coding",
+    "question": "If words starting with a vowel add '1' and words starting with a consonant add '2', what is the code for APPLE?",
+    "options": {
+      "A": "APPLE1",
+      "B": "2APPLE",
+      "C": "1APPLE",
+      "D": "APPLE2"
+    },
+    "answer": "A",
+    "explanation": "APPLE starts with a vowel, so we append 1.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "reasoning",
+      "coding_decoding",
+      "conditional_coding"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

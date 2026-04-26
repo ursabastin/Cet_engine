@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "ENG-SPEECH-001",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "He said, 'I am writing a letter.'",
+    "options": {
+      "A": "He told that he was writing a letter.",
+      "B": "He said that I was writing a letter.",
+      "C": "He said that he was writing a letter.",
+      "D": "He said that he is writing a letter."
+    },
+    "answer": "C",
+    "explanation": "When reporting a statement, 'am writing' (Present Cont.) changes to 'was writing' (Past Cont.). Option B is incorrect because it fails to change the tense.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-002",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "She said, 'I have finished my work.'",
+    "options": {
+      "A": "She told that she finished her work.",
+      "B": "She said that I had finished my work.",
+      "C": "She said that she has finished her work.",
+      "D": "She said that she had finished her work."
+    },
+    "answer": "D",
+    "explanation": "Present Perfect ('have finished') changes to Past Perfect ('had finished'). Option B is wrong as it keeps the present perfect tense.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-003",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "Rahul said, 'I went to the market yesterday.'",
+    "options": {
+      "A": "Rahul said that he had gone to the market yesterday.",
+      "B": "Rahul told that he had gone to the market yesterday.",
+      "C": "Rahul said that he had gone to the market the previous day.",
+      "D": "Rahul said that he went to the market the previous day."
+    },
+    "answer": "C",
+    "explanation": "Simple Past ('went') changes to Past Perfect ('had gone'), and 'yesterday' changes to 'the previous day'. Option D is wrong because it keeps 'yesterday'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-004",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "Maya said, 'The sun rises in the east.'",
+    "options": {
+      "A": "Maya said that the sun rose in the east.",
+      "B": "Maya said that the sun rises in the east.",
+      "C": "Maya said that the sun had risen in the east.",
+      "D": "Maya told that the sun rises in the east."
+    },
+    "answer": "B",
+    "explanation": "Universal truths do not change tense in indirect speech. Option B is incorrect because it changes the tense to simple past.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-005",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "He said, 'I will call you tomorrow.'",
+    "options": {
+      "A": "He said that he would call me the next day.",
+      "B": "He said that he would call me tomorrow.",
+      "C": "He told he would call me the next day.",
+      "D": "He said that he will call me tomorrow."
+    },
+    "answer": "A",
+    "explanation": "'Will' changes to 'would' and 'tomorrow' changes to 'the next day'. Option C is incorrect as it fails to change 'tomorrow'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-006",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "She said, 'I can swim across the river.'",
+    "options": {
+      "A": "She said that she can swim across the river.",
+      "B": "She said that she could swam across the river.",
+      "C": "She said that she could swim across the river.",
+      "D": "She told she could swim across the river."
+    },
+    "answer": "C",
+    "explanation": "'Can' changes to 'could' in indirect speech. Option B is wrong because it leaves 'can' unchanged.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-007",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "The teacher said, 'Honesty is the best policy.'",
+    "options": {
+      "A": "The teacher said that honesty had been the best policy.",
+      "B": "The teacher told that honesty is the best policy.",
+      "C": "The teacher said that honesty was the best policy.",
+      "D": "The teacher said that honesty is the best policy."
+    },
+    "answer": "D",
+    "explanation": "Proverbs and universal truths remain in the present tense. Option B is wrong because it changes the proverb to the past tense.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-008",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "He said, 'I am reading a book now.'",
+    "options": {
+      "A": "He told that he was reading a book then.",
+      "B": "He said that he was reading a book then.",
+      "C": "He said that he was reading a book now.",
+      "D": "He said that he is reading a book then."
+    },
+    "answer": "B",
+    "explanation": "'Am reading' changes to 'was reading', and 'now' changes to 'then'. Option B is incorrect because 'now' must change to 'then'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-009",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "John said, 'I saw her yesterday.'",
+    "options": {
+      "A": "John said that he had seen her yesterday.",
+      "B": "John told that he had seen her the previous day.",
+      "C": "John said that he saw her the previous day.",
+      "D": "John said that he had seen her the previous day."
+    },
+    "answer": "D",
+    "explanation": "Simple past 'saw' becomes past perfect 'had seen', and 'yesterday' becomes 'the previous day'. Option C is wrong because it keeps 'yesterday'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-010",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "She said, 'I may attend the meeting.'",
+    "options": {
+      "A": "She said that she might attend the meeting.",
+      "B": "She said that she may attend the meeting.",
+      "C": "She said that she might attended the meeting.",
+      "D": "She told she might attend the meeting."
+    },
+    "answer": "A",
+    "explanation": "'May' changes to 'might'. Option B is wrong because it leaves 'may' unchanged.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-011",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "He said, 'My car was stolen.'",
+    "options": {
+      "A": "He said that his car had been stolen.",
+      "B": "He said that his car was stolen.",
+      "C": "He said that my car had been stolen.",
+      "D": "He told that his car had been stolen."
+    },
+    "answer": "A",
+    "explanation": "Simple past passive 'was stolen' changes to past perfect passive 'had been stolen'. Option B is incorrect as it fails to shift the tense.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-012",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "statement_to_indirect",
+    "question": "They said, 'We were playing chess.'",
+    "options": {
+      "A": "They said that they were playing chess.",
+      "B": "They said that we had been playing chess.",
+      "C": "They told that they had been playing chess.",
+      "D": "They said that they had been playing chess."
+    },
+    "answer": "D",
+    "explanation": "Past Continuous 'were playing' changes to Past Perfect Continuous 'had been playing'. Option B is incorrect because it does not change the tense.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "statement_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-013",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "He said to me, 'Are you coming?'",
+    "options": {
+      "A": "He asked me if I was coming.",
+      "B": "He asked me if was I coming.",
+      "C": "He asked me that if I was coming.",
+      "D": "He asked me whether I am coming."
+    },
+    "answer": "A",
+    "explanation": "For Yes/No questions, use 'if' or 'whether' and change to statement word order. Option B is incorrect because 'that' and 'if' cannot be used together.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-014",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "She said to him, 'Where do you live?'",
+    "options": {
+      "A": "She asked him that where he lived.",
+      "B": "She asked him where did he live.",
+      "C": "She asked him where does he live.",
+      "D": "She asked him where he lived."
+    },
+    "answer": "D",
+    "explanation": "For Wh- questions, keep the question word and change to statement word order. Option B is wrong because it uses the interrogative order 'did he live'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-015",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "Rahul said to me, 'Have you finished your work?'",
+    "options": {
+      "A": "Rahul asked me that if I had finished my work.",
+      "B": "Rahul asked me if I had finished my work.",
+      "C": "Rahul asked me if had I finished my work.",
+      "D": "Rahul asked me if I have finished my work."
+    },
+    "answer": "B",
+    "explanation": "Present perfect changes to past perfect, and word order becomes a statement. Option B is wrong as it keeps the present perfect tense.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-016",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "The teacher said to the student, 'Why are you late?'",
+    "options": {
+      "A": "The teacher asked the student why was he late.",
+      "B": "The teacher asked the student that why he was late.",
+      "C": "The teacher asked the student why he was late.",
+      "D": "The teacher asked the student why he is late."
+    },
+    "answer": "C",
+    "explanation": "Change interrogative order to assertive order ('why he was late'). Option B is incorrect because it retains the question order ('why was he').",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-017",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "He said to her, 'Will you help me?'",
+    "options": {
+      "A": "He asked her that if she would help him.",
+      "B": "He asked her if would she help him.",
+      "C": "He asked her if she would help him.",
+      "D": "He asked her if she will help him."
+    },
+    "answer": "C",
+    "explanation": "'Will' changes to 'would', and pronoun 'you' changes to 'she'. Option B is incorrect because 'will' must change to 'would'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-018",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "She asked, 'Can I borrow your pen?'",
+    "options": {
+      "A": "She asked that if she could borrow my pen.",
+      "B": "She asked if could she borrow my pen.",
+      "C": "She asked if she could borrow my pen.",
+      "D": "She asked if I could borrow her pen."
+    },
+    "answer": "C",
+    "explanation": "'Can' becomes 'could' and 'I' becomes 'she'. Option D is wrong because it uses interrogative word order.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-019",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "The policeman said to the man, 'What is your name?'",
+    "options": {
+      "A": "The policeman asked the man what was his name.",
+      "B": "The policeman asked the man what his name is.",
+      "C": "The policeman asked the man that what his name was.",
+      "D": "The policeman asked the man what his name was."
+    },
+    "answer": "D",
+    "explanation": "The verb moves to the end in indirect wh-questions. Option B is wrong because it keeps the interrogative structure 'what was his name'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-020",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "He said to me, 'Did you see the movie?'",
+    "options": {
+      "A": "He asked me if I had seen the movie.",
+      "B": "He asked me whether I saw the movie.",
+      "C": "He asked me if had I seen the movie.",
+      "D": "He asked me if I saw the movie."
+    },
+    "answer": "A",
+    "explanation": "Simple past 'did see' changes to past perfect 'had seen'. Option B is incorrect because it keeps the simple past tense.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-021",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "My mother said, 'When will you return?'",
+    "options": {
+      "A": "My mother asked that when I would return.",
+      "B": "My mother asked when I would return.",
+      "C": "My mother asked when I will return.",
+      "D": "My mother asked when would I return."
+    },
+    "answer": "B",
+    "explanation": "'Will' changes to 'would', and word order becomes a statement. Option B is wrong due to interrogative word order.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-022",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "question_to_indirect",
+    "question": "The manager said, 'Who broke this computer?'",
+    "options": {
+      "A": "The manager asked who broke this computer.",
+      "B": "The manager asked who broke that computer.",
+      "C": "The manager asked who had broken this computer.",
+      "D": "The manager asked who had broken that computer."
+    },
+    "answer": "D",
+    "explanation": "Simple past 'broke' becomes past perfect 'had broken', and 'this' becomes 'that'. Option C is wrong because 'this' must change to 'that'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "question_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-023",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "command_to_indirect",
+    "question": "He said to the servant, 'Bring me a glass of water.'",
+    "options": {
+      "A": "He ordered the servant to brought him a glass of water.",
+      "B": "He ordered the servant to bring him a glass of water.",
+      "C": "He requested the servant to bring him a glass of water.",
+      "D": "He ordered the servant that bring him a glass of water."
+    },
+    "answer": "B",
+    "explanation": "Commands use 'ordered/told to + V1'. Option C is wrong because 'requested' does not fit a command to a servant. Option B uses 'that'.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "command_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-024",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "command_to_indirect",
+    "question": "The doctor said to the patient, 'Take your medicine regularly.'",
+    "options": {
+      "A": "The doctor advised the patient taking his medicine regularly.",
+      "B": "The doctor ordered the patient to take his medicine regularly.",
+      "C": "The doctor advised the patient to take his medicine regularly.",
+      "D": "The doctor advised the patient that take his medicine regularly."
+    },
+    "answer": "C",
+    "explanation": "Medical advice uses 'advised to + V1'. Option C is wrong because 'advised taking' is incorrect grammar here.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "command_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-025",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "command_to_indirect",
+    "question": "The teacher said to the boys, 'Do not make a noise.'",
+    "options": {
+      "A": "The teacher ordered the boys to not make a noise.",
+      "B": "The teacher forbade the boys to make a noise.",
+      "C": "The teacher advised the boys not to make a noise.",
+      "D": "The teacher forbade the boys not to make a noise."
+    },
+    "answer": "B",
+    "explanation": "When using 'forbade', do not use 'not' as 'forbade' is already negative. Option B is wrong because it creates a double negative.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "command_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-026",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "command_to_indirect",
+    "question": "She said to me, 'Please help me with this bag.'",
+    "options": {
+      "A": "She ordered me to help her with that bag.",
+      "B": "She requested me that help her with that bag.",
+      "C": "She requested me to help me with that bag.",
+      "D": "She requested me to help her with that bag."
+    },
+    "answer": "D",
+    "explanation": "'Please' indicates a request, and 'this' becomes 'that'. Option B is wrong because pronouns are not changed correctly.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "command_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-027",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "command_to_indirect",
+    "question": "The captain said to the soldiers, 'March forward!'",
+    "options": {
+      "A": "The captain commanded the soldiers to march forward.",
+      "B": "The captain commanded the soldiers to marched forward.",
+      "C": "The captain commanded the soldiers that march forward.",
+      "D": "The captain requested the soldiers to march forward."
+    },
+    "answer": "A",
+    "explanation": "Military orders use 'commanded to + V1'. Option D is wrong because the infinitive verb 'to march' must be in base form.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "command_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-028",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "command_to_indirect",
+    "question": "He said to the child, 'Do not play with fire.'",
+    "options": {
+      "A": "He warned the child not to play with fire.",
+      "B": "He warned the child to not play with fire.",
+      "C": "He warned the child that do not play with fire.",
+      "D": "He ordered the child not playing with fire."
+    },
+    "answer": "A",
+    "explanation": "Negative commands use 'warned/told not to + V1'. Option D is wrong because 'that do not play' is grammatically incorrect.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "command_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-029",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "command_to_indirect",
+    "question": "My father said to me, 'Work hard for your exams.'",
+    "options": {
+      "A": "My father advised me to worked hard for my exams.",
+      "B": "My father advised me to work hard for my exams.",
+      "C": "My father advised me that work hard for my exams.",
+      "D": "My father ordered me to work hard for my exams."
+    },
+    "answer": "B",
+    "explanation": "Parental guidance is typically reported as advice. Option D is incorrect because infinitives use the base verb 'to work'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "command_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-030",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "command_to_indirect",
+    "question": "The officer said, 'Shoot the prisoner!'",
+    "options": {
+      "A": "The officer requested to shoot the prisoner.",
+      "B": "The officer ordered to shoot the prisoner.",
+      "C": "The officer ordered shooting the prisoner.",
+      "D": "The officer ordered that shoot the prisoner."
+    },
+    "answer": "B",
+    "explanation": "Strong commands use 'ordered to'. Option C is incorrect as 'requested' contradicts the severity of the command.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "command_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-031",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "exclamation_to_indirect",
+    "question": "He said, 'Alas! I am undone.'",
+    "options": {
+      "A": "He told with sorrow that he was undone.",
+      "B": "He exclaimed with sorrow that I am undone.",
+      "C": "He exclaimed with joy that he was undone.",
+      "D": "He exclaimed with sorrow that he was undone."
+    },
+    "answer": "D",
+    "explanation": "'Alas' indicates sorrow. The tense changes to past. Option D is wrong because 'told with sorrow' is incorrect reporting verb usage.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "exclamation_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-032",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "exclamation_to_indirect",
+    "question": "She said, 'Hurrah! We have won the match.'",
+    "options": {
+      "A": "She exclaimed with joy that we have won the match.",
+      "B": "She exclaimed with sorrow that they had won the match.",
+      "C": "She exclaimed with joy that they had won the match.",
+      "D": "She exclaimed with joy that they won the match."
+    },
+    "answer": "C",
+    "explanation": "'Hurrah' indicates joy. Present perfect changes to past perfect. Option C is wrong because it uses simple past.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "exclamation_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-033",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "exclamation_to_indirect",
+    "question": "He said, 'What a beautiful flower it is!'",
+    "options": {
+      "A": "He exclaimed that what a beautiful flower it was.",
+      "B": "He exclaimed with wonder that it was a very beautiful flower.",
+      "C": "He asked what a beautiful flower it was.",
+      "D": "He exclaimed with wonder that it is a very beautiful flower."
+    },
+    "answer": "B",
+    "explanation": "Exclamatory sentences with 'what' or 'how' become statements with 'very' or 'great'. Option C is wrong as it keeps the present tense.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "exclamation_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-034",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "exclamation_to_indirect",
+    "question": "The old man said, 'May you live long!'",
+    "options": {
+      "A": "The old man prayed that I might live long.",
+      "B": "The old man prayed that I may live long.",
+      "C": "The old man asked that I might live long.",
+      "D": "The old man told that I might live long."
+    },
+    "answer": "A",
+    "explanation": "Optative sentences use 'prayed' or 'wished', and 'may' becomes 'might'. Option B is wrong because it keeps 'may'.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "exclamation_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-035",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "exclamation_to_indirect",
+    "question": "She said, 'Bravo! You have done well.'",
+    "options": {
+      "A": "She applauded him that he had done well.",
+      "B": "She told him bravo that he had done well.",
+      "C": "She applauded him, saying that he had done well.",
+      "D": "She exclaimed with joy that he has done well."
+    },
+    "answer": "C",
+    "explanation": "'Bravo' is reported using 'applauded... saying that'. Option B is wrong as it keeps the present perfect tense.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "exclamation_to_indirect",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-036",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "indirect_to_direct",
+    "question": "He asked me where I was going.",
+    "options": {
+      "A": "He said to me, 'Where are you going?'",
+      "B": "He said to me, 'Where you are going?'",
+      "C": "He said to me, 'Where I am going?'",
+      "D": "He said to me, 'Where was I going?'"
+    },
+    "answer": "A",
+    "explanation": "Reverse conversion requires changing past continuous back to present continuous interrogative. Option D is wrong due to assertive word order.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "indirect_to_direct",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-037",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "indirect_to_direct",
+    "question": "She told him that she would come the next day.",
+    "options": {
+      "A": "She said to him, 'I will come the next day.'",
+      "B": "She said to him, 'She will come tomorrow.'",
+      "C": "She said to him, 'I would come tomorrow.'",
+      "D": "She said to him, 'I will come tomorrow.'"
+    },
+    "answer": "D",
+    "explanation": "'would' becomes 'will' and 'the next day' becomes 'tomorrow'. Option C is wrong because it retains 'the next day'.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "indirect_to_direct",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-038",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "indirect_to_direct",
+    "question": "They exclaimed with joy that they had won.",
+    "options": {
+      "A": "They said, 'Alas! We have won.'",
+      "B": "They said, 'Hurrah! They had won.'",
+      "C": "They said, 'Hurrah! We have won.'",
+      "D": "They said, 'Hurrah! We won.'"
+    },
+    "answer": "C",
+    "explanation": "Past perfect reverts to present perfect, and 'exclaimed with joy' reverts to 'Hurrah!'. Option D is wrong because simple past is less accurate here.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "indirect_to_direct",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-039",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "indirect_to_direct",
+    "question": "The doctor advised the patient to quit smoking.",
+    "options": {
+      "A": "The doctor asked the patient, 'Do you quit smoking?'",
+      "B": "The doctor said to the patient, 'Quit smoking.'",
+      "C": "The doctor ordered the patient, 'To quit smoking.'",
+      "D": "The doctor said to the patient, 'You quit smoking.'"
+    },
+    "answer": "B",
+    "explanation": "An imperative sentence in direct speech becomes an infinitive in indirect. Option B is wrong because imperatives drop the subject pronoun.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "indirect_to_direct",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-SPEECH-040",
+    "subject": "english",
+    "topic": "direct_indirect_speech",
+    "subtopic": "indirect_to_direct",
+    "question": "He said that the sun is a star.",
+    "options": {
+      "A": "He said, 'The sun is a star.'",
+      "B": "He said, 'The sun was a star.'",
+      "C": "He said that, 'The sun is a star.'",
+      "D": "He told, 'The sun is a star.'"
+    },
+    "answer": "A",
+    "explanation": "Universal truths remain identical in direct speech. Option D is wrong because 'told' cannot be used without an object.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "direct_indirect_speech",
+      "indirect_to_direct",
+      "conversion"
+    ],
+    "question_type": "conversion",
+    "mock_used": []
+  }
+]

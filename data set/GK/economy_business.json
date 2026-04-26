@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "GK-ECO-001",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "rbi_monetary_policy",
+    "question": "What does Repo Rate mean?",
+    "options": {
+      "A": "Rate at which RBI lends money to commercial banks",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "A",
+    "explanation": "The repo rate is the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-002",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "rbi_monetary_policy",
+    "question": "What does Repo Rate mean?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Rate at which RBI lends money to commercial banks"
+    },
+    "answer": "D",
+    "explanation": "The repo rate is the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-003",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "rbi_monetary_policy",
+    "question": "What does Repo Rate mean?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 3",
+      "C": "Rate at which RBI lends money to commercial banks",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "C",
+    "explanation": "The repo rate is the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-004",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "rbi_monetary_policy",
+    "question": "What does Repo Rate mean?",
+    "options": {
+      "A": "Rate at which RBI lends money to commercial banks",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "A",
+    "explanation": "The repo rate is the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-005",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "rbi_monetary_policy",
+    "question": "What does Repo Rate mean?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Rate at which RBI lends money to commercial banks",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "B",
+    "explanation": "The repo rate is the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-006",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "rbi_monetary_policy",
+    "question": "What does Repo Rate mean?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Rate at which RBI lends money to commercial banks",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "B",
+    "explanation": "The repo rate is the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-007",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "rbi_monetary_policy",
+    "question": "What does Repo Rate mean?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 1",
+      "C": "Rate at which RBI lends money to commercial banks",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "C",
+    "explanation": "The repo rate is the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-008",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "rbi_monetary_policy",
+    "question": "What does Repo Rate mean?",
+    "options": {
+      "A": "Rate at which RBI lends money to commercial banks",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "A",
+    "explanation": "The repo rate is the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-009",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "banking_basics",
+    "question": "Which body regulates the securities market in India?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 1",
+      "D": "SEBI"
+    },
+    "answer": "D",
+    "explanation": "The Securities and Exchange Board of India (SEBI) is the regulatory body for the securities and commodity market in India.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-010",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "banking_basics",
+    "question": "Which body regulates the securities market in India?",
+    "options": {
+      "A": "SEBI",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "A",
+    "explanation": "The Securities and Exchange Board of India (SEBI) is the regulatory body for the securities and commodity market in India.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-011",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "banking_basics",
+    "question": "Which body regulates the securities market in India?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 2",
+      "D": "SEBI"
+    },
+    "answer": "D",
+    "explanation": "The Securities and Exchange Board of India (SEBI) is the regulatory body for the securities and commodity market in India.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-012",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "banking_basics",
+    "question": "Which body regulates the securities market in India?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 1",
+      "C": "SEBI",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "C",
+    "explanation": "The Securities and Exchange Board of India (SEBI) is the regulatory body for the securities and commodity market in India.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-013",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "banking_basics",
+    "question": "Which body regulates the securities market in India?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "SEBI",
+      "C": "Incorrect Option 1",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "B",
+    "explanation": "The Securities and Exchange Board of India (SEBI) is the regulatory body for the securities and commodity market in India.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-014",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "trade_exports_imports",
+    "question": "Which of the following is India's largest import item?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Crude Oil"
+    },
+    "answer": "D",
+    "explanation": "Crude petroleum is consistently India's largest import commodity by value.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-015",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "trade_exports_imports",
+    "question": "Which of the following is India's largest import item?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 2",
+      "C": "Crude Oil",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "C",
+    "explanation": "Crude petroleum is consistently India's largest import commodity by value.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-016",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "trade_exports_imports",
+    "question": "Which of the following is India's largest import item?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 1",
+      "D": "Crude Oil"
+    },
+    "answer": "D",
+    "explanation": "Crude petroleum is consistently India's largest import commodity by value.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-017",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "trade_exports_imports",
+    "question": "Which of the following is India's largest import item?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Crude Oil",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "B",
+    "explanation": "Crude petroleum is consistently India's largest import commodity by value.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-018",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "trade_exports_imports",
+    "question": "Which of the following is India's largest import item?",
+    "options": {
+      "A": "Crude Oil",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "A",
+    "explanation": "Crude petroleum is consistently India's largest import commodity by value.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-019",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "trade_exports_imports",
+    "question": "Which of the following is India's largest import item?",
+    "options": {
+      "A": "Crude Oil",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "A",
+    "explanation": "Crude petroleum is consistently India's largest import commodity by value.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-020",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gdp_growth",
+    "question": "Which sector contributes the maximum to India's GDP?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 3",
+      "D": "Services Sector"
+    },
+    "answer": "D",
+    "explanation": "The tertiary or services sector accounts for over 50% of India's Gross Domestic Product.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-021",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gdp_growth",
+    "question": "Which sector contributes the maximum to India's GDP?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 2",
+      "C": "Services Sector",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "C",
+    "explanation": "The tertiary or services sector accounts for over 50% of India's Gross Domestic Product.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-022",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gdp_growth",
+    "question": "Which sector contributes the maximum to India's GDP?",
+    "options": {
+      "A": "Services Sector",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "A",
+    "explanation": "The tertiary or services sector accounts for over 50% of India's Gross Domestic Product.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-023",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gdp_growth",
+    "question": "Which sector contributes the maximum to India's GDP?",
+    "options": {
+      "A": "Services Sector",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "A",
+    "explanation": "The tertiary or services sector accounts for over 50% of India's Gross Domestic Product.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-024",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gst_basics",
+    "question": "When was the Goods and Services Tax (GST) implemented in India?",
+    "options": {
+      "A": "July 1, 2017",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "A",
+    "explanation": "GST was launched at midnight on July 1, 2017, to replace multiple cascading indirect taxes.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-025",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gst_basics",
+    "question": "When was the Goods and Services Tax (GST) implemented in India?",
+    "options": {
+      "A": "July 1, 2017",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "A",
+    "explanation": "GST was launched at midnight on July 1, 2017, to replace multiple cascading indirect taxes.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-026",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gst_basics",
+    "question": "When was the Goods and Services Tax (GST) implemented in India?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "July 1, 2017",
+      "C": "Incorrect Option 1",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "B",
+    "explanation": "GST was launched at midnight on July 1, 2017, to replace multiple cascading indirect taxes.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-027",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gst_basics",
+    "question": "When was the Goods and Services Tax (GST) implemented in India?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "July 1, 2017",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "B",
+    "explanation": "GST was launched at midnight on July 1, 2017, to replace multiple cascading indirect taxes.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-028",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "gst_basics",
+    "question": "When was the Goods and Services Tax (GST) implemented in India?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 2",
+      "C": "Incorrect Option 3",
+      "D": "July 1, 2017"
+    },
+    "answer": "D",
+    "explanation": "GST was launched at midnight on July 1, 2017, to replace multiple cascading indirect taxes.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-029",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "stock_market_basics",
+    "question": "SENSEX is the benchmark index of which stock exchange?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 3",
+      "D": "Bombay Stock Exchange (BSE)"
+    },
+    "answer": "D",
+    "explanation": "SENSEX is the index comprising 30 well-established and financially sound companies listed on the BSE.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-030",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "stock_market_basics",
+    "question": "SENSEX is the benchmark index of which stock exchange?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 2",
+      "C": "Bombay Stock Exchange (BSE)",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "C",
+    "explanation": "SENSEX is the index comprising 30 well-established and financially sound companies listed on the BSE.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-031",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "stock_market_basics",
+    "question": "SENSEX is the benchmark index of which stock exchange?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Bombay Stock Exchange (BSE)",
+      "C": "Incorrect Option 1",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "B",
+    "explanation": "SENSEX is the index comprising 30 well-established and financially sound companies listed on the BSE.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-032",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "stock_market_basics",
+    "question": "SENSEX is the benchmark index of which stock exchange?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Bombay Stock Exchange (BSE)",
+      "C": "Incorrect Option 3",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "B",
+    "explanation": "SENSEX is the index comprising 30 well-established and financially sound companies listed on the BSE.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-033",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "international_trade",
+    "question": "Where is the headquarters of the World Trade Organization (WTO) located?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 2",
+      "C": "Geneva, Switzerland",
+      "D": "Incorrect Option 1"
+    },
+    "answer": "C",
+    "explanation": "The WTO headquarters is located in Geneva, Switzerland.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-034",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "international_trade",
+    "question": "Where is the headquarters of the World Trade Organization (WTO) located?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Geneva, Switzerland",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "B",
+    "explanation": "The WTO headquarters is located in Geneva, Switzerland.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-035",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "international_trade",
+    "question": "Where is the headquarters of the World Trade Organization (WTO) located?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 3",
+      "C": "Geneva, Switzerland",
+      "D": "Incorrect Option 2"
+    },
+    "answer": "C",
+    "explanation": "The WTO headquarters is located in Geneva, Switzerland.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-036",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "international_trade",
+    "question": "Where is the headquarters of the World Trade Organization (WTO) located?",
+    "options": {
+      "A": "Incorrect Option 3",
+      "B": "Incorrect Option 1",
+      "C": "Incorrect Option 2",
+      "D": "Geneva, Switzerland"
+    },
+    "answer": "D",
+    "explanation": "The WTO headquarters is located in Geneva, Switzerland.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-037",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "sez_fdi",
+    "question": "What is the primary objective of establishing Special Economic Zones (SEZs)?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "To promote exports",
+      "C": "Incorrect Option 2",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "B",
+    "explanation": "SEZs are established to enhance foreign investment and promote exports by providing business-friendly regulations.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-038",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "sez_fdi",
+    "question": "What is the primary objective of establishing Special Economic Zones (SEZs)?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 1",
+      "C": "To promote exports",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "C",
+    "explanation": "SEZs are established to enhance foreign investment and promote exports by providing business-friendly regulations.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-039",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "sez_fdi",
+    "question": "What is the primary objective of establishing Special Economic Zones (SEZs)?",
+    "options": {
+      "A": "Incorrect Option 2",
+      "B": "Incorrect Option 1",
+      "C": "To promote exports",
+      "D": "Incorrect Option 3"
+    },
+    "answer": "C",
+    "explanation": "SEZs are established to enhance foreign investment and promote exports by providing business-friendly regulations.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "GK-ECO-040",
+    "subject": "gk",
+    "topic": "economy_business",
+    "subtopic": "sez_fdi",
+    "question": "What is the primary objective of establishing Special Economic Zones (SEZs)?",
+    "options": {
+      "A": "Incorrect Option 1",
+      "B": "Incorrect Option 3",
+      "C": "Incorrect Option 2",
+      "D": "To promote exports"
+    },
+    "answer": "D",
+    "explanation": "SEZs are established to enhance foreign investment and promote exports by providing business-friendly regulations.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "gk",
+      "economy",
+      "business"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

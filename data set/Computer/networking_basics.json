@@ -1,0 +1,982 @@
+[
+  {
+    "id": "CMP-NET-001",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "lan_man_wan",
+    "question": "A network covering a small geographical area, like a single office or building, is called a:",
+    "options": {
+      "A": "MAN",
+      "B": "PAN",
+      "C": "WAN",
+      "D": "LAN"
+    },
+    "answer": "D",
+    "explanation": "Local Area Network (LAN) covers a small area such as an office, building, or campus.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-002",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "lan_man_wan",
+    "question": "A network covering a small geographical area, like a single office or building, is called a:",
+    "options": {
+      "A": "LAN",
+      "B": "PAN",
+      "C": "MAN",
+      "D": "WAN"
+    },
+    "answer": "A",
+    "explanation": "Local Area Network (LAN) covers a small area such as an office, building, or campus.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-003",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "lan_man_wan",
+    "question": "A network covering a small geographical area, like a single office or building, is called a:",
+    "options": {
+      "A": "LAN",
+      "B": "MAN",
+      "C": "WAN",
+      "D": "PAN"
+    },
+    "answer": "A",
+    "explanation": "Local Area Network (LAN) covers a small area such as an office, building, or campus.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-004",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "lan_man_wan",
+    "question": "A network covering a small geographical area, like a single office or building, is called a:",
+    "options": {
+      "A": "WAN",
+      "B": "PAN",
+      "C": "MAN",
+      "D": "LAN"
+    },
+    "answer": "D",
+    "explanation": "Local Area Network (LAN) covers a small area such as an office, building, or campus.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-005",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "lan_man_wan",
+    "question": "A network covering a small geographical area, like a single office or building, is called a:",
+    "options": {
+      "A": "MAN",
+      "B": "WAN",
+      "C": "LAN",
+      "D": "PAN"
+    },
+    "answer": "C",
+    "explanation": "Local Area Network (LAN) covers a small area such as an office, building, or campus.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-006",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "lan_man_wan",
+    "question": "A network covering a small geographical area, like a single office or building, is called a:",
+    "options": {
+      "A": "WAN",
+      "B": "LAN",
+      "C": "MAN",
+      "D": "PAN"
+    },
+    "answer": "B",
+    "explanation": "Local Area Network (LAN) covers a small area such as an office, building, or campus.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-007",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "topologies",
+    "question": "In which network topology is every node connected to a single central cable?",
+    "options": {
+      "A": "Bus Topology",
+      "B": "Star Topology",
+      "C": "Mesh Topology",
+      "D": "Ring Topology"
+    },
+    "answer": "A",
+    "explanation": "In a bus topology, all devices share a single communication cable or line.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-008",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "topologies",
+    "question": "In which network topology is every node connected to a single central cable?",
+    "options": {
+      "A": "Ring Topology",
+      "B": "Bus Topology",
+      "C": "Mesh Topology",
+      "D": "Star Topology"
+    },
+    "answer": "B",
+    "explanation": "In a bus topology, all devices share a single communication cable or line.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-009",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "topologies",
+    "question": "In which network topology is every node connected to a single central cable?",
+    "options": {
+      "A": "Bus Topology",
+      "B": "Ring Topology",
+      "C": "Star Topology",
+      "D": "Mesh Topology"
+    },
+    "answer": "A",
+    "explanation": "In a bus topology, all devices share a single communication cable or line.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-010",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "topologies",
+    "question": "In which network topology is every node connected to a single central cable?",
+    "options": {
+      "A": "Mesh Topology",
+      "B": "Bus Topology",
+      "C": "Ring Topology",
+      "D": "Star Topology"
+    },
+    "answer": "B",
+    "explanation": "In a bus topology, all devices share a single communication cable or line.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-011",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "topologies",
+    "question": "In which network topology is every node connected to a single central cable?",
+    "options": {
+      "A": "Ring Topology",
+      "B": "Bus Topology",
+      "C": "Mesh Topology",
+      "D": "Star Topology"
+    },
+    "answer": "B",
+    "explanation": "In a bus topology, all devices share a single communication cable or line.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-012",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "topologies",
+    "question": "In which network topology is every node connected to a single central cable?",
+    "options": {
+      "A": "Star Topology",
+      "B": "Ring Topology",
+      "C": "Bus Topology",
+      "D": "Mesh Topology"
+    },
+    "answer": "C",
+    "explanation": "In a bus topology, all devices share a single communication cable or line.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-013",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "ip_mac_address",
+    "question": "Which address is known as the physical address of a network interface card?",
+    "options": {
+      "A": "URL",
+      "B": "MAC Address",
+      "C": "Port Number",
+      "D": "IP Address"
+    },
+    "answer": "B",
+    "explanation": "A Media Access Control (MAC) address is a unique identifier assigned to a network interface controller.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-014",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "ip_mac_address",
+    "question": "Which address is known as the physical address of a network interface card?",
+    "options": {
+      "A": "Port Number",
+      "B": "URL",
+      "C": "MAC Address",
+      "D": "IP Address"
+    },
+    "answer": "C",
+    "explanation": "A Media Access Control (MAC) address is a unique identifier assigned to a network interface controller.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-015",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "ip_mac_address",
+    "question": "Which address is known as the physical address of a network interface card?",
+    "options": {
+      "A": "MAC Address",
+      "B": "Port Number",
+      "C": "URL",
+      "D": "IP Address"
+    },
+    "answer": "A",
+    "explanation": "A Media Access Control (MAC) address is a unique identifier assigned to a network interface controller.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-016",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "ip_mac_address",
+    "question": "Which address is known as the physical address of a network interface card?",
+    "options": {
+      "A": "IP Address",
+      "B": "URL",
+      "C": "Port Number",
+      "D": "MAC Address"
+    },
+    "answer": "D",
+    "explanation": "A Media Access Control (MAC) address is a unique identifier assigned to a network interface controller.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-017",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "ip_mac_address",
+    "question": "Which address is known as the physical address of a network interface card?",
+    "options": {
+      "A": "IP Address",
+      "B": "Port Number",
+      "C": "URL",
+      "D": "MAC Address"
+    },
+    "answer": "D",
+    "explanation": "A Media Access Control (MAC) address is a unique identifier assigned to a network interface controller.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-018",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "protocols",
+    "question": "Which protocol is responsible for resolving domain names to IP addresses?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "DHCP",
+      "D": "DNS"
+    },
+    "answer": "D",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-019",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "protocols",
+    "question": "Which protocol is responsible for resolving domain names to IP addresses?",
+    "options": {
+      "A": "DHCP",
+      "B": "FTP",
+      "C": "DNS",
+      "D": "HTTP"
+    },
+    "answer": "C",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-020",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "protocols",
+    "question": "Which protocol is responsible for resolving domain names to IP addresses?",
+    "options": {
+      "A": "HTTP",
+      "B": "DHCP",
+      "C": "DNS",
+      "D": "FTP"
+    },
+    "answer": "C",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-021",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "protocols",
+    "question": "Which protocol is responsible for resolving domain names to IP addresses?",
+    "options": {
+      "A": "DHCP",
+      "B": "FTP",
+      "C": "DNS",
+      "D": "HTTP"
+    },
+    "answer": "C",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses.",
+    "difficulty": "easy",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-022",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "protocols",
+    "question": "Which protocol is responsible for resolving domain names to IP addresses?",
+    "options": {
+      "A": "DNS",
+      "B": "HTTP",
+      "C": "FTP",
+      "D": "DHCP"
+    },
+    "answer": "A",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-023",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "protocols",
+    "question": "Which protocol is responsible for resolving domain names to IP addresses?",
+    "options": {
+      "A": "DNS",
+      "B": "FTP",
+      "C": "HTTP",
+      "D": "DHCP"
+    },
+    "answer": "A",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-024",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "protocols",
+    "question": "Which protocol is responsible for resolving domain names to IP addresses?",
+    "options": {
+      "A": "HTTP",
+      "B": "DHCP",
+      "C": "DNS",
+      "D": "FTP"
+    },
+    "answer": "C",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-025",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "protocols",
+    "question": "Which protocol is responsible for resolving domain names to IP addresses?",
+    "options": {
+      "A": "DHCP",
+      "B": "DNS",
+      "C": "FTP",
+      "D": "HTTP"
+    },
+    "answer": "B",
+    "explanation": "Domain Name System (DNS) translates human-readable domain names into IP addresses.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-026",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "devices",
+    "question": "Which networking device operates at the network layer and connects different networks together?",
+    "options": {
+      "A": "Repeater",
+      "B": "Hub",
+      "C": "Router",
+      "D": "Switch"
+    },
+    "answer": "C",
+    "explanation": "Routers connect two or more different networks and direct data packets to their destinations.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-027",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "devices",
+    "question": "Which networking device operates at the network layer and connects different networks together?",
+    "options": {
+      "A": "Switch",
+      "B": "Repeater",
+      "C": "Hub",
+      "D": "Router"
+    },
+    "answer": "D",
+    "explanation": "Routers connect two or more different networks and direct data packets to their destinations.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-028",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "devices",
+    "question": "Which networking device operates at the network layer and connects different networks together?",
+    "options": {
+      "A": "Hub",
+      "B": "Router",
+      "C": "Switch",
+      "D": "Repeater"
+    },
+    "answer": "B",
+    "explanation": "Routers connect two or more different networks and direct data packets to their destinations.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-029",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "devices",
+    "question": "Which networking device operates at the network layer and connects different networks together?",
+    "options": {
+      "A": "Router",
+      "B": "Hub",
+      "C": "Repeater",
+      "D": "Switch"
+    },
+    "answer": "A",
+    "explanation": "Routers connect two or more different networks and direct data packets to their destinations.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-030",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "devices",
+    "question": "Which networking device operates at the network layer and connects different networks together?",
+    "options": {
+      "A": "Repeater",
+      "B": "Hub",
+      "C": "Router",
+      "D": "Switch"
+    },
+    "answer": "C",
+    "explanation": "Routers connect two or more different networks and direct data packets to their destinations.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-031",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "devices",
+    "question": "Which networking device operates at the network layer and connects different networks together?",
+    "options": {
+      "A": "Hub",
+      "B": "Router",
+      "C": "Switch",
+      "D": "Repeater"
+    },
+    "answer": "B",
+    "explanation": "Routers connect two or more different networks and direct data packets to their destinations.",
+    "difficulty": "medium",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-032",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "client_server_p2p",
+    "question": "In which network architecture do all computers have equal status and share resources without a central server?",
+    "options": {
+      "A": "Mainframe",
+      "B": "Peer-to-Peer (P2P)",
+      "C": "Client-Server",
+      "D": "Cloud Network"
+    },
+    "answer": "B",
+    "explanation": "In a P2P network, there is no central server; all computers act as both clients and servers.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-033",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "client_server_p2p",
+    "question": "In which network architecture do all computers have equal status and share resources without a central server?",
+    "options": {
+      "A": "Cloud Network",
+      "B": "Mainframe",
+      "C": "Client-Server",
+      "D": "Peer-to-Peer (P2P)"
+    },
+    "answer": "D",
+    "explanation": "In a P2P network, there is no central server; all computers act as both clients and servers.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-034",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "client_server_p2p",
+    "question": "In which network architecture do all computers have equal status and share resources without a central server?",
+    "options": {
+      "A": "Client-Server",
+      "B": "Cloud Network",
+      "C": "Mainframe",
+      "D": "Peer-to-Peer (P2P)"
+    },
+    "answer": "D",
+    "explanation": "In a P2P network, there is no central server; all computers act as both clients and servers.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "CMP-NET-035",
+    "subject": "computer",
+    "topic": "networking_basics",
+    "subtopic": "client_server_p2p",
+    "question": "In which network architecture do all computers have equal status and share resources without a central server?",
+    "options": {
+      "A": "Peer-to-Peer (P2P)",
+      "B": "Client-Server",
+      "C": "Mainframe",
+      "D": "Cloud Network"
+    },
+    "answer": "A",
+    "explanation": "In a P2P network, there is no central server; all computers act as both clients and servers.",
+    "difficulty": "hard",
+    "priority": "high",
+    "frequency": "2-3/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "computer",
+      "networking"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]

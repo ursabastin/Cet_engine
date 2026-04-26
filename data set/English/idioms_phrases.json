@@ -1,0 +1,902 @@
+[
+  {
+    "id": "ENG-IDIOM-001",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "body_part_idioms",
+    "question": "What is the meaning of the idiom: 'turn a blind eye'?",
+    "options": {
+      "A": "To face the other direction",
+      "B": "To stare continuously",
+      "C": "To have poor vision",
+      "D": "To ignore something intentionally"
+    },
+    "answer": "D",
+    "explanation": "The idiom means to pretend not to notice something. Option B is incorrect as idioms are figurative, not literal.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "body_part_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-002",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "body_part_idioms",
+    "question": "What is the meaning of the idiom: 'cost an arm and a leg'?",
+    "options": {
+      "A": "To be very expensive",
+      "B": "To be extremely cheap",
+      "C": "To buy insurance",
+      "D": "To involve physical injury"
+    },
+    "answer": "A",
+    "explanation": "This idiom implies a steep or exorbitant price. Option B incorrectly takes the phrase literally.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "body_part_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-003",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "body_part_idioms",
+    "question": "What is the meaning of the idiom: 'get off my back'?",
+    "options": {
+      "A": "To give someone a massage",
+      "B": "To carry a heavy burden",
+      "C": "To walk away",
+      "D": "To stop nagging or annoying someone"
+    },
+    "answer": "D",
+    "explanation": "The phrase is used to tell someone to stop criticizing or bothering you. Option C is a literal misinterpretation.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "body_part_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-004",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "body_part_idioms",
+    "question": "What is the meaning of the idiom: 'keep your chin up'?",
+    "options": {
+      "A": "To remain cheerful in a difficult situation",
+      "B": "To look up at the sky",
+      "C": "To act arrogantly",
+      "D": "To maintain good posture"
+    },
+    "answer": "A",
+    "explanation": "It is an expression of encouragement during tough times. Option B incorrectly assumes it means acting haughty.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "body_part_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-005",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "body_part_idioms",
+    "question": "What is the meaning of the idiom: 'cold shoulder'?",
+    "options": {
+      "A": "To intentionally ignore someone",
+      "B": "To be very friendly",
+      "C": "To freeze in the winter",
+      "D": "To carry a heavy load"
+    },
+    "answer": "A",
+    "explanation": "Giving someone the cold shoulder means showing indifference. Option B is a literal, physical misinterpretation.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "body_part_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-006",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "body_part_idioms",
+    "question": "What is the meaning of the idiom: 'rule of thumb'?",
+    "options": {
+      "A": "A method to measure fingers",
+      "B": "A strict legal rule",
+      "C": "A dangerous activity",
+      "D": "A general guideline based on practice"
+    },
+    "answer": "D",
+    "explanation": "It refers to an approximate or rough guideline. Option B is wrong because the rule is informal, not legal.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "body_part_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-007",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "animal_idioms",
+    "question": "What is the meaning of the idiom: 'let the cat out of the bag'?",
+    "options": {
+      "A": "To be very careless",
+      "B": "To free a pet",
+      "C": "To reveal a secret",
+      "D": "To make a mistake"
+    },
+    "answer": "C",
+    "explanation": "This idiom means to accidentally or intentionally disclose hidden information. Option B is a literal interpretation.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "animal_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-008",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "animal_idioms",
+    "question": "What is the meaning of the idiom: 'raining cats and dogs'?",
+    "options": {
+      "A": "A noisy thunderstorm",
+      "B": "Animals falling from the sky",
+      "C": "A light drizzle",
+      "D": "Raining very heavily"
+    },
+    "answer": "D",
+    "explanation": "It describes an intense downpour. Option B is comically literal and incorrect.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "animal_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-009",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "animal_idioms",
+    "question": "What is the meaning of the idiom: 'the lion's share'?",
+    "options": {
+      "A": "The smallest portion",
+      "B": "The largest part of something",
+      "C": "A dangerous situation",
+      "D": "A piece of meat"
+    },
+    "answer": "B",
+    "explanation": "It refers to the major or largest portion of something distributed. Option D is the exact opposite of the meaning.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "animal_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-010",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "animal_idioms",
+    "question": "What is the meaning of the idiom: 'hold your horses'?",
+    "options": {
+      "A": "To control a wild animal",
+      "B": "To prepare for a journey",
+      "C": "To wait or be patient",
+      "D": "To ride fast"
+    },
+    "answer": "C",
+    "explanation": "This is an informal way of telling someone to slow down or wait. Option B takes the phrase literally.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "animal_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-011",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "animal_idioms",
+    "question": "What is the meaning of the idiom: 'a dark horse'?",
+    "options": {
+      "A": "A person who is evil",
+      "B": "A little-known person who emerges to prominence",
+      "C": "An unlucky person",
+      "D": "A black colored horse"
+    },
+    "answer": "B",
+    "explanation": "It refers to a candidate or competitor about whom little is known but who unexpectedly wins. Option C is a negative misinterpretation.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "animal_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-012",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "colour_idioms",
+    "question": "What is the meaning of the idiom: 'in the red'?",
+    "options": {
+      "A": "Being very angry",
+      "B": "Operating at a financial loss",
+      "C": "Being in a dangerous area",
+      "D": "Wearing red clothes"
+    },
+    "answer": "B",
+    "explanation": "In accounting, red ink indicates negative numbers or debt. Option C misinterprets red as emotion rather than finance.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "colour_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-013",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "colour_idioms",
+    "question": "What is the meaning of the idiom: 'green with envy'?",
+    "options": {
+      "A": "Extremely jealous",
+      "B": "Feeling sick to the stomach",
+      "C": "Inexperienced",
+      "D": "Loving nature"
+    },
+    "answer": "A",
+    "explanation": "The idiom describes intense jealousy. Option B misinterprets 'green' as physical illness.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "colour_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-014",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "colour_idioms",
+    "question": "What is the meaning of the idiom: 'out of the blue'?",
+    "options": {
+      "A": "Happening unexpectedly",
+      "B": "Diving into water",
+      "C": "Flying high in the sky",
+      "D": "Feeling depressed"
+    },
+    "answer": "A",
+    "explanation": "It means something occurring without any warning, like a bolt from the clear blue sky. Option C misinterprets 'blue' as sadness.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "colour_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-015",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "colour_idioms",
+    "question": "What is the meaning of the idiom: 'once in a blue moon'?",
+    "options": {
+      "A": "Every month",
+      "B": "Never",
+      "C": "Very rarely",
+      "D": "During an eclipse"
+    },
+    "answer": "C",
+    "explanation": "A blue moon is a rare astronomical event, translating metaphorically to something that seldom happens. Option D is incorrect as it means it never happens.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "colour_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-016",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "number_idioms",
+    "question": "What is the meaning of the idiom: 'on cloud nine'?",
+    "options": {
+      "A": "Flying in an airplane",
+      "B": "Dreaming",
+      "C": "Feeling confused",
+      "D": "Extremely happy"
+    },
+    "answer": "D",
+    "explanation": "It means experiencing a state of blissful happiness. Option C is a misinterpretation of being in the clouds.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "number_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-017",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "number_idioms",
+    "question": "What is the meaning of the idiom: 'at sixes and sevens'?",
+    "options": {
+      "A": "Playing a game with dice",
+      "B": "In a state of total confusion or disarray",
+      "C": "Working very efficiently",
+      "D": "Counting numbers"
+    },
+    "answer": "B",
+    "explanation": "The phrase describes a situation characterized by disorder. Option D is a literal misinterpretation.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "number_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-018",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "number_idioms",
+    "question": "What is the meaning of the idiom: 'catch-22'?",
+    "options": {
+      "A": "A paradoxical situation from which an individual cannot escape",
+      "B": "A very easy problem",
+      "C": "A lucky catch",
+      "D": "A game played with 22 players"
+    },
+    "answer": "A",
+    "explanation": "It refers to a frustrating situation where rules are contradictory. Option C is the complete opposite.",
+    "difficulty": "easy",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "number_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-019",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "business_money_idioms",
+    "question": "What is the meaning of the idiom: 'in the black'?",
+    "options": {
+      "A": "Financially profitable",
+      "B": "Feeling depressed",
+      "C": "In a dark room",
+      "D": "Hiding from the police"
+    },
+    "answer": "A",
+    "explanation": "Opposite of 'in the red', this means a business is making a profit. Option A is the correct business terminology.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "business_money_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-020",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "business_money_idioms",
+    "question": "What is the meaning of the idiom: 'break the bank'?",
+    "options": {
+      "A": "To rob a bank",
+      "B": "To cost a lot of money",
+      "C": "To open a new account",
+      "D": "To destroy a building"
+    },
+    "answer": "B",
+    "explanation": "It means something is so expensive it consumes all of one's money. Option B is a literal, criminal misinterpretation.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "business_money_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-021",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "business_money_idioms",
+    "question": "What is the meaning of the idiom: 'foot the bill'?",
+    "options": {
+      "A": "To walk to a restaurant",
+      "B": "To refuse to pay",
+      "C": "To pay for something",
+      "D": "To kick a piece of paper"
+    },
+    "answer": "C",
+    "explanation": "It means to settle the payment, usually for an expensive item or a group. Option B is comically literal.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "business_money_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-022",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "business_money_idioms",
+    "question": "What is the meaning of the idiom: 'cut corners'?",
+    "options": {
+      "A": "To use scissors carefully",
+      "B": "To do something poorly to save time or money",
+      "C": "To take a short route driving",
+      "D": "To decorate a room"
+    },
+    "answer": "B",
+    "explanation": "It means to skip steps to do something more cheaply or quickly, usually with negative results. Option C is literal.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "business_money_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-023",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "business_money_idioms",
+    "question": "What is the meaning of the idiom: 'golden handshake'?",
+    "options": {
+      "A": "A very valuable ring",
+      "B": "A successful business deal",
+      "C": "A large severance payment given to an executive",
+      "D": "A friendly greeting"
+    },
+    "answer": "C",
+    "explanation": "It refers specifically to financial compensation upon leaving a company. Option D confuses it with the general idea of success.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "business_money_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-024",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "general_common_idioms",
+    "question": "What is the meaning of the idiom: 'burn bridges'?",
+    "options": {
+      "A": "To start a fire",
+      "B": "To destroy physical infrastructure",
+      "C": "To run away from a problem",
+      "D": "To ruin a relationship beyond repair"
+    },
+    "answer": "D",
+    "explanation": "It means to act in a way that makes it impossible to return to a previous state or relationship. Option B is literal.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "general_common_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-025",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "general_common_idioms",
+    "question": "What is the meaning of the idiom: 'bite the bullet'?",
+    "options": {
+      "A": "To surrender",
+      "B": "To face a difficult situation bravely",
+      "C": "To eat something hard",
+      "D": "To be aggressive"
+    },
+    "answer": "B",
+    "explanation": "It means to endure a painful or unpleasant situation that is unavoidable. Option B is literal.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "general_common_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-026",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "general_common_idioms",
+    "question": "What is the meaning of the idiom: 'hit the nail on the head'?",
+    "options": {
+      "A": "To make a big mistake",
+      "B": "To describe exactly what is causing a situation",
+      "C": "To be very good at carpentry",
+      "D": "To have a headache"
+    },
+    "answer": "B",
+    "explanation": "It means to be precisely right about something. Option B is literal.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "general_common_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-027",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "general_common_idioms",
+    "question": "What is the meaning of the idiom: 'piece of cake'?",
+    "options": {
+      "A": "Something very easy to do",
+      "B": "A sweet dessert",
+      "C": "A small portion of work",
+      "D": "A difficult task"
+    },
+    "answer": "A",
+    "explanation": "The phrase denotes a task that requires very little effort. Option B takes it literally.",
+    "difficulty": "medium",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "general_common_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-028",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "general_common_idioms",
+    "question": "What is the meaning of the idiom: 'spill the beans'?",
+    "options": {
+      "A": "To cook dinner",
+      "B": "To be messy",
+      "C": "To reveal secret information",
+      "D": "To drop food on the floor"
+    },
+    "answer": "C",
+    "explanation": "It implies inadvertently revealing something confidential. Option B is literal.",
+    "difficulty": "hard",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "general_common_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-029",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "general_common_idioms",
+    "question": "What is the meaning of the idiom: 'under the weather'?",
+    "options": {
+      "A": "Standing in the rain",
+      "B": "Facing bad luck",
+      "C": "Feeling slightly ill",
+      "D": "Being poor"
+    },
+    "answer": "C",
+    "explanation": "It is a common phrase to describe feeling unwell. Option B is literal.",
+    "difficulty": "hard",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "general_common_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  },
+  {
+    "id": "ENG-IDIOM-030",
+    "subject": "english",
+    "topic": "idioms_phrases",
+    "subtopic": "general_common_idioms",
+    "question": "What is the meaning of the idiom: 'devil's advocate'?",
+    "options": {
+      "A": "Someone who brings bad news",
+      "B": "A lawyer who defends criminals",
+      "C": "A truly evil person",
+      "D": "One who presents a counter argument to test a point"
+    },
+    "answer": "D",
+    "explanation": "It means arguing against a popular view to provoke debate. Option B is literal.",
+    "difficulty": "hard",
+    "priority": "moderate",
+    "frequency": "1-2/shift",
+    "year_seen": [
+      "2024",
+      "2025"
+    ],
+    "tags": [
+      "english",
+      "idioms_phrases",
+      "general_common_idioms",
+      "mcq_direct"
+    ],
+    "question_type": "mcq_direct",
+    "mock_used": []
+  }
+]
