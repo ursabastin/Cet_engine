@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { ThemeProvider } from './context/ThemeContext';
 import { MockProvider } from './context/MockContext';
 import { AttemptProvider } from './context/AttemptContext';
@@ -15,7 +15,7 @@ export default function App() {
     <ThemeProvider>
       <MockProvider>
         <AttemptProvider>
-          <BrowserRouter>
+          <HashRouter>
             <ShellLayout>
               <Routes>
                 <Route path="/" element={<LandingScreen />} />
@@ -26,7 +26,7 @@ export default function App() {
                 <Route path="/solutions/:id" element={<SolutionsScreen />} />
               </Routes>
             </ShellLayout>
-          </BrowserRouter>
+          </HashRouter>
         </AttemptProvider>
       </MockProvider>
     </ThemeProvider>

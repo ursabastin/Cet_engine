@@ -24,7 +24,7 @@ export default function TopBar() {
   return (
     <div className="glass" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '0 24px', height: '56px', borderRadius: '0', borderBottom: 'var(--glass-border)', zIndex: 50, position: 'relative', boxShadow: 'none' }}>
       <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-        <img src="/favicon.svg" alt="Logo" style={{ width: '24px', height: '24px' }} />
+        <img src="./favicon.svg" alt="Logo" style={{ width: '24px', height: '24px' }} />
         <span className="font-display text-primary" style={{ fontWeight: 600, fontSize: '18px' }}>CET Practice</span>
       </div>
       <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
