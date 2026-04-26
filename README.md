@@ -49,7 +49,7 @@ graph TD
 *Every file has a specific job. Click on the cards below to dive deep into the specific organs of this application.*
 
 <details>
-<summary><h2>🧠 The Brain Room (Logic & Memory)</h2></summary>
+<summary><strong>🧠 The Brain Room (Logic & Memory)</strong></summary>
 <br>
 
 These files don't show anything on the screen. They live in the shadows and do the math.
@@ -69,7 +69,7 @@ These files don't show anything on the screen. They live in the shadows and do t
 </details>
 
 <details>
-<summary><h2>⚔️ The Arena (The Visuals)</h2></summary>
+<summary><strong>⚔️ The Arena (The Visuals)</strong></summary>
 <br>
 
 These files are the actual buttons, text, and colors you see and touch.
@@ -84,7 +84,7 @@ These files are the actual buttons, text, and colors you see and touch.
 </details>
 
 <details>
-<summary><h2>😈 The Jutsu Generator (Psychological Warfare)</h2></summary>
+<summary><strong>😈 The Jutsu Generator (Psychological Warfare)</strong></summary>
 <br>
 
 *   **`sentenceGenerator.js` (The Roaster)**
@@ -95,7 +95,7 @@ These files are the actual buttons, text, and colors you see and touch.
 </details>
 
 <details>
-<summary><h2>📈 The Analyst (My Progress)</h2></summary>
+<summary><strong>📈 The Analyst (My Progress)</strong></summary>
 <br>
 
 *   **`ProgressView.jsx` (The Tracker)**
