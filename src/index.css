@@ -1,105 +1,193 @@
 @import "tailwindcss";
 
+/* Section 1 — Google Font imports */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=JetBrains+Mono:wght@400&family=Outfit:wght@400;500;600;700&display=swap');
+
+/* Section 2 — CSS reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+#root {
+  height: 100%;
+  overflow: hidden;
+}
+
+/* Section 3 — CSS Variables (Dark Mode Defaults) */
 :root {
-  --bg-primary:     #050A18;   /* dark page background */
-  --bg-card:        rgba(255, 255, 255, 0.03); 
-  --bg-hover:       rgba(255, 255, 255, 0.08); 
-  --border:         rgba(255, 255, 255, 0.1); 
-  --text-primary:   #FFFFFF;   /* headings */
-  --text-secondary: rgba(255, 255, 255, 0.6); 
-  --accent-blue:    #3B82F6;   /* blue-500 */
-  --accent-green:   #10B981; 
-  --accent-amber:   #F59E0B; 
-  --accent-red:     #EF4444; 
-  --shadow-card:    0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  /* ── BACKGROUND LAYERS ─────────────────────────────────── */
+  --bg-base: #0a0f1e;
+  --bg-mesh-1: rgba(99, 102, 241, 0.15);
+  --bg-mesh-2: rgba(16, 185, 129, 0.12);
+  --bg-mesh-3: rgba(255, 255, 255, 0.08);
+
+  /* ── GLASS SURFACES ────────────────────────────────────── */
+  --glass-bg: rgba(255, 255, 255, 0.08);
+  --glass-bg-hover: rgba(255, 255, 255, 0.13);
+  --glass-bg-active: rgba(255, 255, 255, 0.18);
+  --glass-bg-deep: rgba(10, 15, 30, 0.75);
+
+  --glass-blur: 12px;
+  --glass-blur-heavy: 24px;
+  --glass-blur-light: 6px;
+
+  /* ── GLASS BORDERS ─────────────────────────────────────── */
+  --glass-border: 1px solid rgba(255, 255, 255, 0.15);
+  --glass-border-hover: 1px solid rgba(255, 255, 255, 0.30);
+  --glass-border-glow: 1px solid rgba(99, 102, 241, 0.40);
+
+  /* ── ACCENT COLORS ─────────────────────────────────────── */
+  --accent-primary: #6366f1;
+  --accent-primary-glow: rgba(99, 102, 241, 0.25);
+  --accent-secondary: #10b981;
+  --accent-success: #10b981;
+  --accent-danger: #ef4444;
+  --accent-warning: #f59e0b;
+  --accent-info: #3b82f6;
+
+  /* ── TEXT ───────────────────────────────────────────────── */
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.7);
+  --text-tertiary: rgba(255, 255, 255, 0.5);
+  --text-inverse: #000000;
+
+  /* ── SUBJECT COLORS ─────────────────────────────────────── */
+  --subject-english: rgba(99, 102, 241, 0.20);
+  --subject-english-solid: #6366f1;
+  --subject-reasoning: rgba(16, 185, 129, 0.20);
+  --subject-reasoning-solid: #10b981;
+  --subject-gk: rgba(245, 158, 11, 0.20);
+  --subject-gk-solid: #f59e0b;
+  --subject-computer: rgba(139, 92, 246, 0.20);
+  --subject-computer-solid: #8b5cf6;
+
+  /* ── SPACING ────────────────────────────────────────────── */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+
+  /* ── RADIUS ─────────────────────────────────────────────── */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-pill: 999px;
+
+  /* ── SHADOWS ────────────────────────────────────────────── */
+  --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.12), 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-glow: 0 0 24px rgba(99, 102, 241, 0.20);
+  --shadow-deep: 0 24px 64px rgba(0, 0, 0, 0.20);
+
+  /* ── TRANSITIONS ────────────────────────────────────────── */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* ── TYPOGRAPHY ─────────────────────────────────────────── */
+  --font-display: 'Outfit', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
 }
 
-@theme {
-  --font-inter: "Inter", system-ui, sans-serif;
-  --font-outfit: "Outfit", sans-serif;
-  --font-jakarta: "Plus Jakarta Sans", sans-serif;
-  --color-bg-primary: var(--bg-primary);
-  --color-bg-card: var(--bg-card);
-  --color-bg-hover: var(--bg-hover);
-  --color-border-custom: var(--border);
-  --color-text-primary: var(--text-primary);
-  --color-text-secondary: var(--text-secondary);
-  --color-accent-blue: var(--accent-blue);
-  --color-accent-green: var(--accent-green);
-  --color-accent-amber: var(--accent-amber);
-  --color-accent-red: var(--accent-red);
-  --shadow-card: var(--shadow-card);
+/* Section 4 — Light mode overrides */
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg-base: #e8eaf0;
+    --bg-mesh-1: rgba(99, 102, 241, 0.12);
+    --bg-mesh-2: rgba(16, 185, 129, 0.10);
+    --bg-mesh-3: rgba(0, 0, 0, 0.03);
+
+    --glass-bg: rgba(255, 255, 255, 0.55);
+    --glass-bg-hover: rgba(255, 255, 255, 0.72);
+    --glass-bg-active: rgba(255, 255, 255, 0.85);
+    --glass-bg-deep: rgba(232, 234, 240, 0.80);
+
+    --glass-border: 1px solid rgba(255, 255, 255, 0.6);
+    --glass-border-hover: 1px solid rgba(255, 255, 255, 0.9);
+    --glass-border-glow: 1px solid rgba(99, 102, 241, 0.50);
+
+    --text-primary: #111827;
+    --text-secondary: rgba(17, 24, 39, 0.7);
+    --text-tertiary: rgba(17, 24, 39, 0.5);
+    --text-inverse: #ffffff;
+  }
 }
 
+/* Section 5 — body background mesh */
 body {
-  background-color: var(--bg-primary);
+  background-color: var(--bg-base);
+  background-image: 
+    radial-gradient(circle at top left, var(--bg-mesh-1) 0%, transparent 60vw),
+    radial-gradient(circle at bottom right, var(--bg-mesh-2) 0%, transparent 80vw),
+    radial-gradient(circle at center, var(--bg-mesh-3) 0%, transparent 60vw);
+  background-attachment: fixed;
+  font-family: var(--font-body);
   color: var(--text-primary);
-  font-family: var(--font-inter);
-  font-size: 15px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  user-select: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  cursor: default;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: var(--text-primary);
-  font-weight: 600;
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; width: 100vw; height: 100vh;
+  pointer-events: none;
+  background: url('data:image/svg+xml,%3Csvg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"%3E%3Cfilter id="noiseFilter"%3E%3CfeTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/%3E%3C/filter%3E%3Crect width="100%25" height="100%25" filter="url(%23noiseFilter)"/%3E%3C/svg%3E');
+  opacity: 0.03;
+  z-index: -1;
 }
 
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+/* Section 6 — Scrollbar styling */
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--glass-bg-hover);
+  border-radius: var(--radius-pill);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(99, 102, 241, 0.5);
 }
 
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+/* Section 7 — Utility classes */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-glass);
 }
 
-@keyframes zoomIn {
-  from { opacity: 0; transform: scale(0.95); }
-  to { opacity: 1; transform: scale(1); }
+.glass-hover:hover {
+  background: var(--glass-bg-hover);
+  border: var(--glass-border-hover);
+  transition: var(--transition-base);
 }
 
-.animate-in {
-  animation-duration: 300ms;
-  animation-fill-mode: both;
+.glass-deep {
+  background: var(--glass-bg-deep);
+  backdrop-filter: blur(var(--glass-blur-heavy));
+  -webkit-backdrop-filter: blur(var(--glass-blur-heavy));
+  border: var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-deep);
 }
 
-.fade-in {
-  animation-name: fadeIn;
-}
-
-.zoom-in-95 {
-  animation-name: zoomIn;
-}
-
-@keyframes shimmer {
-  from {
-    transform: translateX(-100%);
-  }
-  to {
-    transform: translateX(100%);
-  }
-}
-
-/* Hide scrollbar for Chrome, Safari and Opera */
-.scrollbar-hide::-webkit-scrollbar {
-  display: none;
-}
-
-/* Hide scrollbar for IE, Edge and Firefox */
-.scrollbar-hide {
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
-}
+.text-primary { color: var(--text-primary); }
+.text-secondary { color: var(--text-secondary); }
+.text-tertiary { color: var(--text-tertiary); }
+.font-display { font-family: var(--font-display); }
+.font-mono { font-family: var(--font-mono); }

@@ -1,0 +1,47 @@
+export const SUBJECTS = {
+  english: {
+    label: 'English Language',
+    shortLabel: 'English',
+    color: 'var(--subject-english-solid)',
+    tint: 'var(--subject-english)',
+    icon: '/icons.svg#english',
+    topicsCount: 15,
+    questionsPerFullMock: 30,
+  },
+  reasoning: {
+    label: 'Logical Reasoning',
+    shortLabel: 'Reasoning',
+    color: 'var(--subject-reasoning-solid)',
+    tint: 'var(--subject-reasoning)',
+    icon: '/icons.svg#reasoning',
+    topicsCount: 14,
+    questionsPerFullMock: 30,
+  },
+  general_knowledge: {
+    label: 'General Knowledge',
+    shortLabel: 'GK',
+    color: 'var(--subject-gk-solid)',
+    tint: 'var(--subject-gk)',
+    icon: '/icons.svg#gk',
+    topicsCount: 10,
+    questionsPerFullMock: 20,
+  },
+  gk: {
+    label: 'General Knowledge',
+    shortLabel: 'GK',
+    color: 'var(--subject-gk-solid)',
+    tint: 'var(--subject-gk)',
+    icon: '/icons.svg#gk',
+    topicsCount: 10,
+    questionsPerFullMock: 20,
+  },
+  computer: {
+    label: 'Computer Basics',
+    shortLabel: 'Computer',
+    color: 'var(--subject-computer-solid)',
+    tint: 'var(--subject-computer)',
+    icon: '/icons.svg#computer',
+    topicsCount: 12,
+    questionsPerFullMock: 20,
+  }
+};
