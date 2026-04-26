@@ -1,4 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { Calendar } from 'lucide-react';
+import CalendarModal from './../modals/CalendarModal';
 
 export default function TopBar() {
   const examDate = new Date('2026-04-28T00:00:00Z');
@@ -8,6 +10,7 @@ export default function TopBar() {
   
   let countdownText;
   let isExamDay = false;
+  const [showCalendar, setShowCalendar] = useState(false);
   
   if (diffDays > 0) {
     countdownText = `Exam in ${diffDays} days`;
@@ -25,6 +28,15 @@ export default function TopBar() {
         <span className="font-display text-primary" style={{ fontWeight: 600, fontSize: '18px' }}>CET Practice</span>
       </div>
       <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+        <button 
+          onClick={() => setShowCalendar(true)}
+          style={{ background: 'transparent', border: '1px solid var(--glass-border)', padding: '4px 8px', borderRadius: 'var(--radius-sm)', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', color: 'var(--text-secondary)' }}
+          title="View Battle Plan Calendar"
+        >
+          <Calendar size={16} color="var(--accent-primary)" />
+          <span style={{ fontSize: '12px', fontFamily: 'var(--font-display)', fontWeight: 600 }}>Schedule</span>
+        </button>
+
         {isExamDay ? (
           <span className="font-display" style={{ fontWeight: 500, color: 'var(--accent-success)' }}>{countdownText}</span>
         ) : (
@@ -33,6 +45,8 @@ export default function TopBar() {
           </span>
         )}
       </div>
+
+      {showCalendar && <CalendarModal onClose={() => setShowCalendar(false)} />}
     </div>
   );
 }

@@ -1,7 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 import TopBar from './TopBar';
-import NavRail from './NavRail';
 import ContentArea from './ContentArea';
 
 export default function ShellLayout({ children }) {
@@ -19,7 +18,6 @@ export default function ShellLayout({ children }) {
   return (
     <div style={{ height: '100vh', display: 'flex', flexDirection: 'column' }}>
       <TopBar />
-      <NavRail />
       <ContentArea>
         {children}
       </ContentArea>

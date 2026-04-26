@@ -7,6 +7,28 @@ const AttemptContext = createContext();
 export function AttemptProvider({ children }) {
   const { getMockById, updateMockStatus } = useMock();
   const [currentAttempt, setCurrentAttempt] = useState(null);
+  const [explanationTokens, setExplanationTokens] = useState(() => {
+    const saved = localStorage.getItem('global_explanation_tokens');
+    return saved !== null ? parseInt(saved, 10) : 30;
+  });
+
+  const useExplanationToken = () => {
+    if (explanationTokens > 0) {
+      const newTokens = explanationTokens - 1;
+      setExplanationTokens(newTokens);
+      localStorage.setItem('global_explanation_tokens', newTokens);
+      return true;
+    }
+    return false;
+  };
+
+  const addExplanationTokens = (amount) => {
+    setExplanationTokens(prev => {
+      const newTokens = prev + amount;
+      localStorage.setItem('global_explanation_tokens', newTokens);
+      return newTokens;
+    });
+  };
 
   const startAttempt = (mockId) => {
     const mock = getMockById(mockId);
@@ -88,6 +110,7 @@ export function AttemptProvider({ children }) {
     setCurrentAttempt(updated);
     updateMockStatus(updated.mockId, 'completed');
     localStorage.setItem(`attempt_${updated.mockId}`, JSON.stringify(updated));
+    addExplanationTokens(5);
     return updated;
   };
 
@@ -97,7 +120,9 @@ export function AttemptProvider({ children }) {
     saveResponse,
     markForReview,
     updateTimeRemaining,
-    submitAttempt
+    submitAttempt,
+    explanationTokens,
+    useExplanationToken
   };
 
   return <AttemptContext.Provider value={value}>{children}</AttemptContext.Provider>;

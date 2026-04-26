@@ -8,7 +8,7 @@
 
 <h2>About the Application</h2>
 <blockquote>
-  An offline-first, high-performance Desktop application built for serious CET 2026 aspirants. It provides an immersive, distraction-free environment for taking full-length mock exams, practicing topic-specific questions, and gaining deep analytical insights into exam performance.
+  An offline-first, high-performance Desktop application built for serious CET 2026 aspirants. It provides an immersive, distraction-free environment for taking full-length mock exams and gaining deep analytical insights into exam performance.
 </blockquote>
 
 <h2>Core Features</h2>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><b>📚 Vast Question Bank</b></td>
-    <td>Bundled with a read-only dataset featuring 19 Full-Length Mock Exams and 51 specialized topic datasets across English, Reasoning, General Knowledge, and Computer.</td>
+    <td>Bundled with a read-only dataset featuring 19 Full-Length Mock Exams mapped strictly to the examination syllabus.</td>
   </tr>
   <tr>
     <td><b>💾 Smart Persistence</b></td>
