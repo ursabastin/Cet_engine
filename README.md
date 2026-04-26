@@ -134,8 +134,12 @@ If I delete this entire app from my local computer, and I want to bring it back 
 
 The code you see here is public. But the **Proprietary 19-Mock Question Database (The JSON Data)**—thousands of highly curated CET questions—is intentionally hidden and stripped from this repository to protect my intellectual property.
 
-If you are a student, an institute, or a developer interested in acquiring the database, licensing the software, or requesting a custom build, message me directly:
+I have decided to release the master database for a flat **₹399**. 
+Why ₹399? Because it is cheaper than a single generic entrance exam textbook, yet it gives you exactly what a textbook cannot: 2,850 programmable, meticulously curated questions equipped with strict logical explanations. It is ready to be instantly injected into this engine to start your grind. 
 
+**🛒 [Unlock the Master Database Here (₹399)](https://superprofile.bio/vp/stop-reading-textbooks--start-the-cet-2026-engine-)**
+
+For institute licensing, bulk distribution, or custom EdTech software builds, message me directly:
 **👉 [Sebastin Richard on Instagram (@ursabastin)](https://www.instagram.com/ursabastin?igsh=MWZ1bW9lZmp4bzlxeA==)**
 
 ---
