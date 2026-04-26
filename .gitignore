@@ -23,6 +23,7 @@ build/
 # Local data (User history and data bank)
 # We want to push the practice_pool data but NOT the user's local attempts if they were saved in files
 # Currently everything is in localStorage, so no files to ignore yet.
+data set/
 
 # Environment
 .env
