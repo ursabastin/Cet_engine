@@ -1,165 +1,145 @@
 <div align="center">
-  <img src="./public/favicon.svg" alt="CET Engine 2026 Logo" width="120" />
-  <h1>CET Engine 2026: The Master Blueprint</h1>
-  <p><strong>The Ultimate Strategic Command Center for CET Examination Preparation</strong></p>
+  <img src="./public/favicon.svg" alt="CET Engine Logo" width="100" style="margin-bottom: 20px;"/>
+  <h1>⚡ CET ENGINE 2026 ⚡</h1>
+  <h3><i>The Masterpiece. The Strategy. The Weapon.</i></h3>
+  <p>Normal students read textbooks. Creators build engines.</p>
 </div>
 
 <br/>
 
-> **Welcome to the Blueprint.** Think of this application not as a boring test-taking website, but as a **video game**. Your brain is the main character, knowledge tokens are your currency, and the April 29th CET Exam is the final boss. This document explains exactly how the entire game was built from scratch so that a 14-year-old (or you, 5 years from now) can completely rebuild it.
+> **"If you can't explain it to a 14-year-old, you don't understand it yourself."**
+> 
+> This isn't a boring academic project. This is a **gamified examination combat simulator**. I built this to hack my own brain for the April 29th CET Exam. It uses a custom-built Token Economy, psychological friction, and a stunning Glassmorphism interface to force active learning. 
+> 
+> If you are reading this 5 years in the future, or if you are just a kid trying to figure out how software is built—welcome to my brain. Here is exactly how this machine breathes.
 
 ---
 
-## 🔺 The Pyramid Scheme Tree (Application Flow)
+## 🌳 The "Pyramid Scheme" Tree (How Data Flows)
 
-Here is exactly how data flows through the application. If you click a button, this is the path it takes through the files.
+Imagine the app like a giant waterfall. Water (data) falls from the top (the desktop app) all the way down to the bottom (the final score). Here is the exact map of the river:
 
 ```mermaid
 graph TD
-    A[Desktop .exe Starts] -->|Runs on| B(Electron Wrapper)
-    B --> C{App.jsx Router}
-    C --> D[Home.jsx: Selects a Mock]
-    D --> E[MockStartScreen.jsx: Briefing]
-    E --> F[AttemptContext.jsx: The Memory Card]
-    F --> G[TestInterface.jsx: The Battle Arena]
+    A([🔥 You Double-Click the .exe]) --> B[Electron Wrapper: The Invisible Browser]
+    B --> C{App.jsx: The Traffic Cop}
     
-    subgraph The Battle Arena
-        G --> H[QuestionPanel.jsx: Shows text]
-        G --> I[QuestionPalette.jsx: The side grid]
+    C -->|Go to Home| D(Home.jsx: The Lobby)
+    C -->|Start a Test| E(TestInterface.jsx: The Arena)
+    
+    E --> F[[MockContext.jsx: Supplies the Questions]]
+    E --> G[[AttemptContext.jsx: The Memory Card]]
+    
+    subgraph The Battle Screen
+        E --> H(QuestionPanel: Shows the Text)
+        E --> I(QuestionPalette: The Number Grid)
     end
     
-    I -->|Click 'Jutsu' Explanation| J[sentenceGenerator.js: Insults you]
-    J -->|Lose 1 Token| F
+    I -.->|User clicks 'Jutsu'| J>sentenceGenerator.js: Insults You]
+    J -.->|Takes 1 Token| G
     
-    G -->|Submit Test| K[ResultsScreen.jsx: Final Score]
-    K --> L[ProgressView.jsx: Updates Analytics]
+    E ==>|Time runs out| K{ResultsScreen: The Judge}
+    K ==> L((ProgressView: Updates Mastery Stats))
 ```
 
 ---
 
-## 🗂️ The Complete Skeleton (File-by-File Breakdown)
+## 🧩 The Anatomy of the Engine (Click to Open)
 
-*Click on any of the **Cards** below to reveal exactly how the code works inside.*
+*Every file has a specific job. Click on the cards below to dive deep into the specific organs of this application.*
 
 <details>
-<summary><h3>🃏 Card A: The Brain (Contexts & Logic)</h3></summary>
+<summary><h2>🧠 The Brain Room (Logic & Memory)</h2></summary>
+<br>
 
-These files are the invisible "memory cards" of the application. They run in the background and remember everything you do.
+These files don't show anything on the screen. They live in the shadows and do the math.
 
-*   **`src/context/AttemptContext.jsx`**
-    *   **What it does:** This is the most important file in the app. It saves your game.
-    *   **`startAttempt(mockId)`:** When you start a test, this creates a blank save file (with a timer and empty answers).
-    *   **`saveResponse(questionId, option)`:** Every time you click a radio button, this function instantly writes it to `localStorage` so if your computer crashes, your answers are saved.
-    *   **`useExplanationToken()`:** Checks if you have more than 0 tokens. If you do, it deducts 1 token and lets you see an explanation.
+*   **`AttemptContext.jsx` (The Save File)**
+    *   *What it does:* This is a massive "Memory Card". It remembers how many tokens you have, which radio button you clicked, and how much time is left.
+    *   *Core Functions:* 
+        *   `saveResponse()`: Instantly writes your clicked answer to the hard drive (`localStorage`) so you don't lose data if the app crashes.
+        *   `useExplanationToken()`: The bank. It checks if you have `> 0` tokens. If yes, it subtracts one and lets you see the secret answer.
 
-*   **`src/context/MockContext.jsx`**
-    *   **What it does:** This loads all 19 mock tests into memory.
-    *   **`loadMocks()`:** It goes into the `data/mockPlan.js` file and prepares the schedule so the app knows how many questions are in each test.
+*   **`MockContext.jsx` (The Librarian)**
+    *   *What it does:* It holds all 19 mock tests in its hands and hands them out when the user asks for one.
 
-*   **`src/utils/scoreCalculator.js`**
-    *   **What it does:** The math engine.
-    *   **`calculateScore(responses, questions)`:** It loops through every answer you gave. If it matches the `correct_answer`, it adds `+1`. If it's wrong, it subtracts `-0.25`.
+*   **`scoreCalculator.js` (The Mathematician)**
+    *   *What it does:* It loops through your answers. If you are right: `+1`. If you are wrong: `-0.25`. It is ruthless and accurate.
 
 </details>
 
 <details>
-<summary><h3>🃏 Card B: The Battle Arena (The Test Interface)</h3></summary>
+<summary><h2>⚔️ The Arena (The Visuals)</h2></summary>
+<br>
 
-These files control what you actually see on the screen while you are taking a test.
+These files are the actual buttons, text, and colors you see and touch.
 
-*   **`src/pages/TestInterface.jsx`**
-    *   **What it does:** The main wrapper for the test. It holds the timer at the top, the question in the middle, and the grid on the right.
-    *   **`handleTimeUp()`:** A strict function that automatically submits the test if the countdown timer hits 00:00.
+*   **`TestInterface.jsx` (The Colosseum)**
+    *   *What it does:* It puts the Timer on top, the Question in the middle, and the Grid on the right. It connects the "Brain" to the "Visuals".
 
-*   **`src/components/test/QuestionPanel.jsx`**
-    *   **What it does:** This renders the actual text of the question (e.g., "Who invented the computer?") and the 4 radio buttons (A, B, C, D).
-    *   **`handleOptionSelect()`:** When you click an option, it sends a message up to `AttemptContext` to save it.
-
-*   **`src/components/test/QuestionPalette.jsx`**
-    *   **What it does:** The grid of numbers on the right side.
-    *   **Color Logic:** It checks `AttemptContext`. If the question is answered, it turns the box Green. If visited but not answered, Red. If marked for review, Purple.
-    *   **The Jutsu Button:** A special toggle that triggers the mocking modal before revealing the secret explanation.
+*   **`QuestionPalette.jsx` (The Side Grid)**
+    *   *What it does:* The grid of 150 numbers. It talks to the Brain. "Hey Brain, did the user answer question 42?" If yes, it paints box 42 **Green**. If no, **Red**. 
+    *   *The Jutsu Button:* This is the button that unlocks the explanation. It triggers a popup modal that forces you to think before spending a token.
 
 </details>
 
 <details>
-<summary><h3>🃏 Card C: Analytics (My Progress)</h3></summary>
+<summary><h2>😈 The Jutsu Generator (Psychological Warfare)</h2></summary>
+<br>
 
-How the application judges your performance after the test is over.
-
-*   **`src/pages/ResultsScreen.jsx`**
-    *   **What it does:** The screen you see immediately after submitting a test. It shows your total score, how many you got right, and how many you skipped.
-
-*   **`src/components/views/ProgressView.jsx`**
-    *   **What it does:** The "My Progress" tab on the Home screen.
-    *   **`calculateSubjectMastery()`:** A massive recursive function that digs through *every test you have ever taken*, sorts the questions by subject (English, Computer, GK, Reasoning), and calculates your exact accuracy percentage in that specific topic.
+*   **`sentenceGenerator.js` (The Roaster)**
+    *   *What it does:* It stops you from cheating by making you feel bad for looking at the answer.
+    *   *How it works:* It has 4 lists of words (Start, Action, Judgment, End). Every time you click "View Explanation", it randomly grabs one word from each list and stitches them together to create **10,000 unique insulting sentences**.
+    *   *Example:* "Oh, you are relying on the Jutsu? A true shinobi would solve it themselves."
 
 </details>
 
 <details>
-<summary><h3>🃏 Card D: The Token Economy & Jutsu Engine</h3></summary>
+<summary><h2>📈 The Analyst (My Progress)</h2></summary>
+<br>
 
-The psychological friction designed to stop you from cheating and relying on explanations.
-
-*   **`src/utils/sentenceGenerator.js`**
-    *   **What it does:** An algorithm that generates 10,000+ unique, insulting sentences.
-    *   **How it works:** It contains 4 arrays of words (Openers, Actions, Judgments, Closers). When you try to buy an explanation, it picks one random word from each array and smashes them together. 
-    *   *Example Output:* "Oh, you are relying on the Jutsu? This proves your brain is weak. A true shinobi would solve it themselves."
-
-*   **The Token Math (`AttemptContext.jsx`)**
-    *   You start with exactly **30 Global Tokens**.
-    *   Every time you complete a full mock test, you earn **+5 Tokens**.
-    *   Every time you click "View Explanation", you lose **-1 Token**.
-
-</details>
-
-<details>
-<summary><h3>🃏 Card E: The Shell & 3D Elements</h3></summary>
-
-*   **`src/components/shell/ShellLayout.jsx`**
-    *   The glass container that holds everything.
-*   **`src/components/shell/TopBar.jsx`**
-    *   The top navigation bar that holds the "Schedule" button.
-*   **`src/components/modals/CalendarModal.jsx`**
-    *   The 24-hour Notion-style calendar that visually maps out your brutal 72-hour gauntlet schedule. It uses `createPortal` to float above the rest of the application.
+*   **`ProgressView.jsx` (The Tracker)**
+    *   *What it does:* It digs through every test you've ever taken, sorts the questions by subject (Computer, English, etc.), and calculates your exact accuracy percentage across your entire lifetime of using the app.
 
 </details>
 
 ---
 
-## 💻 The Quality of Language (Tech Stack Explained Simply)
+## 🧪 The Alchemy (Languages Used)
 
-If you are a 14-year-old trying to understand what makes this code run, here is the secret recipe:
+How do you build something like this? You use the right spells. 
 
-1.  **React 19 (The Builder):** Normally, websites load a completely new page when you click a link. React is a robot that rebuilds only the *parts of the screen* that change, instantly. That's why the timer ticks and the grid changes colors without the screen flashing.
-2.  **Tailwind CSS (The Paintbrush):** Instead of writing thousands of lines of CSS styling rules, Tailwind gives us shortcuts. We just type `class="bg-blue-500 rounded"` and it instantly paints a blue box with rounded corners.
-3.  **Glassmorphism (The Aesthetic):** We used custom CSS to blur the background behind the windows, making it look like frosted glass. We also overlaid an SVG noise filter (`/assets/noise.svg`) to give it a premium, textured feel.
-4.  **Vite (The Compressor):** When we finish writing the code, Vite is the machine that crushes thousands of files into one tiny, lightning-fast package.
-5.  **Electron (The Wrapper):** This takes our website package and wraps it inside a Chrome browser engine, completely hiding it, so it runs as a native, double-clickable `.exe` Windows application.
-
----
-
-## 🏗️ How to Rebuild in the Future
-
-If you completely delete your local database, format your hard drive, and pull this raw code from GitHub 5 years from now, here is exactly how to bring it back to life:
-
-1.  **Install Node.js:** Download and install Node.js (the engine that runs JavaScript outside of a browser).
-2.  **Open the Terminal:** Open Command Prompt or PowerShell in this folder.
-3.  **Install Dependencies:** Type `npm install` and hit Enter. This downloads all the building blocks (React, Vite, Electron).
-4.  **Run Development Mode:** Type `npm run electron:dev`. This will pop open the app so you can edit the code and watch it update live.
-5.  **Compile the `.exe`:** Type `npm run electron:build`. Wait 2 minutes. Go into the `dist_electron` folder, and you will find your shiny new `.exe` application ready to be installed.
+| Spell | Translation for a 14-Year-Old | Why I Used It |
+| :--- | :--- | :--- |
+| **React 19** | The magic builder robot. | Instead of loading a new web page every time you click a button, React just swaps out the text instantly. It makes the app feel like a fast video game instead of a slow website. |
+| **Tailwind CSS** | The instant paintbrush. | Instead of writing thousands of lines of code just to make a box blue, I can just type `"bg-blue-500"`. It makes styling 10x faster. |
+| **Vite** | The hyper-compressor. | When the code is finished, Vite crushes thousands of files into one tiny, lightning-fast bundle in milliseconds. |
+| **Electron** | The disguise kit. | It takes a normal website and wraps it inside an invisible Chrome browser, turning it into a native `.exe` Windows app that you can double-click on your desktop. |
 
 ---
 
-## 💾 Database Access & Commercial Inquiries
+## 🧟 The Resurrection Protocol (How to Rebuild)
 
-The source code for this engine is provided, but the **proprietary 19-Mock Question Database (JSON Data)** is intentionally withheld from this repository to protect intellectual property. 
+If I delete this entire app from my local computer, and I want to bring it back to life 5 years from now, here is the exact ritual to perform in the terminal:
 
-If you are interested in acquiring the question database, licensing the software, or commercial usage, please message me directly on Instagram:
-👉 **[Sebastin Richard (@ursabastin)](https://www.instagram.com/ursabastin?igsh=MWZ1bW9lZmp4bzlxeA==)**
+1.  **Summon the Tools:** Download and install `Node.js` on your PC.
+2.  **Open the Portal:** Open PowerShell or Command Prompt inside this folder.
+3.  **Gather Materials:** Type `<kbd>npm install</kbd>`. This downloads all the dependencies (React, Electron, etc.) from the internet.
+4.  **Enter the Matrix:** Type `<kbd>npm run electron:dev</kbd>`. This boots up the app in "Live Edit Mode" so you can change the code and watch it update instantly.
+5.  **Forge the Weapon (.exe):** Type `<kbd>npm run electron:build</kbd>`. Wait 2 minutes. A shiny new `CET Engine 2026.exe` will pop out in the `dist_electron/` folder, ready to be installed.
 
-<br/>
+---
+
+## 💎 The Vault (Commercial Access)
+
+The code you see here is public. But the **Proprietary 19-Mock Question Database (The JSON Data)**—thousands of highly curated CET questions—is intentionally hidden and stripped from this repository to protect my intellectual property.
+
+If you are a student, an institute, or a developer interested in acquiring the database, licensing the software, or requesting a custom build, message me directly:
+
+**👉 [Sebastin Richard on Instagram (@ursabastin)](https://www.instagram.com/ursabastin?igsh=MWZ1bW9lZmp4bzlxeA==)**
+
+---
 <div align="center">
-  <p><strong>Copyright © 2026 Sebastin Richard. All rights reserved.</strong></p>
-  <p><em>"Victory belongs to the most persevering."</em></p>
+  <p><i>Architected & Built by <strong>Sebastin Richard</strong>.</i></p>
+  <p><i>"Victory belongs to the most persevering."</i></p>
 </div>
