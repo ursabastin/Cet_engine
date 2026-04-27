@@ -12,7 +12,7 @@ export default function TestInterface() {
   const { id } = useParams();
   const navigate = useNavigate();
   const { getMockById } = useMockLoader();
-  const { currentAttempt, saveResponse, markForReview, submitAttempt } = useAttempt();
+  const { currentAttempt, saveResponse, markForReview, recordQuestionTime, submitAttempt } = useAttempt();
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showSubmitModal, setShowSubmitModal] = useState(false);
@@ -29,10 +29,8 @@ export default function TestInterface() {
     }
   }, [mock, currentAttempt, id, navigate]);
 
-  if (!mock || !currentAttempt) return null;
-
   const flatQuestions = [];
-  if (mock.sections) {
+  if (mock?.sections) {
     mock.sections.forEach(s => {
       s.questions.forEach(q => flatQuestions.push(q));
     });
@@ -41,7 +39,24 @@ export default function TestInterface() {
   const currentQuestion = flatQuestions[currentIndex];
   const isFirst = currentIndex === 0;
   const isLast = currentIndex === flatQuestions.length - 1;
-  const currentSelection = currentAttempt.responses[currentQuestion?.id];
+  const currentSelection = currentAttempt?.responses[currentQuestion?.id];
+
+  // TRACK TIME PER QUESTION
+  useEffect(() => {
+    if (!currentQuestion || !recordQuestionTime) return;
+    
+    const startTime = Date.now();
+    
+    return () => {
+      const endTime = Date.now();
+      const secondsSpent = Math.floor((endTime - startTime) / 1000);
+      if (secondsSpent > 0) {
+        recordQuestionTime(currentQuestion.id, secondsSpent);
+      }
+    };
+  }, [currentIndex, currentQuestion?.id]);
+
+  if (!mock || !currentAttempt) return null;
 
   const handleOptionSelect = (option) => {
     saveResponse(currentQuestion.id, option);
@@ -98,7 +113,7 @@ export default function TestInterface() {
           />
         </div>
 
-        <div style={{ flex: 1, height: '100%', overflowY: 'auto', position: 'relative' }}>
+        <div style={{ flex: 1, height: '100%', overflow: 'hidden', position: 'relative' }}>
           <QuestionPanel 
             question={currentQuestion}
             index={currentIndex}

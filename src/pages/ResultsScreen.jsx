@@ -42,6 +42,9 @@ export default function ResultsScreen() {
         score={result.earnedMarks} 
         totalMarks={result.totalMarks} 
         percentage={result.percentage} 
+        duration={mock.durationSeconds}
+        timeSpent={result.timeSpentSeconds}
+        submittedAt={attempt.submittedAt}
       />
 
       <div style={{ 

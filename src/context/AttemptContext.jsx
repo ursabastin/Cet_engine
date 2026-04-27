@@ -51,6 +51,7 @@ export function AttemptProvider({ children }) {
         status: 'in_progress',
         responses: {},
         reviewMarked: {},
+        timePerQuestion: {},
         timeRemaining: mock.duration_seconds,
         startedAt: new Date().toISOString()
       };
@@ -59,6 +60,19 @@ export function AttemptProvider({ children }) {
     setCurrentAttempt(attempt);
     updateMockStatus(mockId, 'in_progress');
     localStorage.setItem(`attempt_${mockId}`, JSON.stringify(attempt));
+  };
+
+  const recordQuestionTime = (questionId, seconds) => {
+    if (!currentAttempt) return;
+    setCurrentAttempt(prev => {
+      const currentTime = prev.timePerQuestion?.[questionId] || 0;
+      const updated = {
+        ...prev,
+        timePerQuestion: { ...prev.timePerQuestion, [questionId]: currentTime + seconds }
+      };
+      localStorage.setItem(`attempt_${prev.mockId}`, JSON.stringify(updated));
+      return updated;
+    });
   };
 
   const saveResponse = (questionId, option) => {
@@ -119,6 +133,7 @@ export function AttemptProvider({ children }) {
     startAttempt,
     saveResponse,
     markForReview,
+    recordQuestionTime,
     updateTimeRemaining,
     submitAttempt,
     explanationTokens,

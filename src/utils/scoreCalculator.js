@@ -12,7 +12,7 @@ export function calculateScore(mock, attempt) {
     mock.sections.forEach(section => {
       const sub = section.subject;
       if (!subjectBreakdown[sub]) {
-        subjectBreakdown[sub] = { correct: 0, wrong: 0, skipped: 0, marks: 0, total: 0 };
+        subjectBreakdown[sub] = { correct: 0, wrong: 0, skipped: 0, marks: 0, total: 0, timeTaken: 0 };
       }
       
       section.questions.forEach(q => {
@@ -20,6 +20,10 @@ export function calculateScore(mock, attempt) {
         totalQuestions++;
         totalMarks += mock.marks_per_correct;
         subjectBreakdown[sub].total++;
+
+        // Track time spent on this specific question
+        const qTime = attempt.timePerQuestion?.[q.id] || 0;
+        subjectBreakdown[sub].timeTaken += qTime;
 
         const response = attempt.responses[q.id];
         if (!response) {

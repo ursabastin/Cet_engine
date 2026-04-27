@@ -6,9 +6,13 @@ import { fileURLToPath } from 'url';
 import pkg from 'electron-updater';
 const { autoUpdater } = pkg;
 
-// Configure Auto-Updater
-autoUpdater.autoDownload = true;
-autoUpdater.autoInstallOnAppQuit = true;
+// PERFORMANCE OPTIMIZATION: Disable GPU acceleration if it causes lags on some Windows machines
+// This is often the cause of "shuts itself down" or "screen lag" issues.
+if (process.platform === 'win32') {
+  app.commandLine.appendSwitch('disable-gpu-compositing');
+  app.commandLine.appendSwitch('disable-gpu-rasterization');
+  app.commandLine.appendSwitch('disable-software-rasterizer');
+}
 
 // ... (rest of imports)
 
@@ -73,7 +77,10 @@ function createWindow() {
     webPreferences: {
       nodeIntegration: false,
       contextIsolation: true,
-      preload: path.join(__dirname, 'preload.cjs')
+      preload: path.join(__dirname, 'preload.cjs'),
+      spellcheck: false, // Save CPU cycles
+      backgroundThrottling: true, // Save resources when minimized
+      devTools: isDev // Only allow devtools in development
     },
     backgroundColor: '#050A18',
     icon: path.join(__dirname, '../public/assets/icon.png')
@@ -97,7 +104,22 @@ function createWindow() {
   }
 }
 
-app.whenReady().then(createWindow);
+// Ensure single instance to prevent resource conflicts
+const gotTheLock = app.requestSingleInstanceLock();
+
+if (!gotTheLock) {
+  app.quit();
+} else {
+  app.on('second-instance', (event, commandLine, workingDirectory) => {
+    const wins = BrowserWindow.getAllWindows();
+    if (wins.length > 0) {
+      if (wins[0].isMinimized()) wins[0].restore();
+      wins[0].focus();
+    }
+  });
+
+  app.whenReady().then(createWindow);
+}
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {

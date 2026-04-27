@@ -37,8 +37,8 @@ export default function QuestionPanel({
 
   const options = ['A', 'B', 'C', 'D'];
 
-  return (
-    <div style={{ padding: 'var(--space-xl)' }}>
+  const questionContent = (
+    <>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 'var(--space-lg)' }}>
         <div className="font-display text-tertiary" style={{ fontWeight: 600, fontSize: '14px' }}>
           Question {index + 1} of {totalQuestions}
@@ -46,18 +46,7 @@ export default function QuestionPanel({
         <Badge label={question.topic?.replace(/_/g, ' ') || 'General'} variant="info" />
       </div>
 
-      {question.passage && (
-        <div className="glass" style={{ background: 'rgba(255,255,255,0.03)', padding: 'var(--space-md)', marginBottom: 'var(--space-lg)', maxHeight: '200px', overflowY: 'auto' }}>
-          <div className="font-display text-tertiary" style={{ fontSize: '11px', fontWeight: 500, marginBottom: 'var(--space-xs)' }}>
-            PASSAGE
-          </div>
-          <div className="font-body text-secondary" style={{ fontSize: '15px', lineHeight: 1.7 }}>
-            {question.passage}
-          </div>
-        </div>
-      )}
-
-      <div className="font-body text-primary" style={{ fontSize: '17px', lineHeight: 1.6, margin: 'var(--space-lg) 0' }}>
+      <div className="font-body text-primary" style={{ fontSize: '17px', fontWeight: 500, lineHeight: 1.6, marginBottom: 'var(--space-lg)', whiteSpace: 'pre-wrap' }}>
         {renderQuestionText(question.question)}
       </div>
 
@@ -87,6 +76,39 @@ export default function QuestionPanel({
           );
         })}
       </div>
+    </>
+  );
+
+  if (question.passage) {
+    return (
+      <div style={{ display: 'flex', height: '100%', overflow: 'hidden' }}>
+        {/* Left: Passage */}
+        <div style={{ 
+          flex: 1, 
+          borderRight: '1px solid var(--glass-border)', 
+          padding: 'var(--space-xl)', 
+          overflowY: 'auto',
+          background: 'rgba(255,255,255,0.02)'
+        }}>
+          <div className="font-display text-tertiary" style={{ fontSize: '11px', fontWeight: 600, marginBottom: 'var(--space-sm)', letterSpacing: '1px' }}>
+            PASSAGE
+          </div>
+          <div className="font-body text-secondary" style={{ fontSize: '15px', lineHeight: 1.8, whiteSpace: 'pre-wrap' }}>
+            {question.passage}
+          </div>
+        </div>
+
+        {/* Right: Question & Options */}
+        <div style={{ flex: 1, padding: 'var(--space-xl)', overflowY: 'auto' }}>
+          {questionContent}
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div style={{ padding: 'var(--space-xl)', maxWidth: '800px', margin: '0 auto', height: '100%', overflowY: 'auto' }}>
+      {questionContent}
     </div>
   );
 }

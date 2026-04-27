@@ -8,7 +8,7 @@ export default function ExplanationBox({ explanation }) {
       <div className="font-display text-primary" style={{ fontSize: '14px', fontWeight: 600, marginBottom: 'var(--space-sm)', color: 'var(--accent-success)' }}>
         Explanation
       </div>
-      <div className="font-body text-secondary" style={{ fontSize: '15px', lineHeight: 1.6 }}>
+      <div className="font-body text-secondary" style={{ fontSize: '15px', lineHeight: 1.6, whiteSpace: 'pre-wrap' }}>
         {explanation}
       </div>
     </div>

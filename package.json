@@ -1,7 +1,7 @@
 {
   "name": "cet-engine",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.5.3",
   "description": "Strategic Command Center for CET 2026 Examination Preparation",
   "author": "Sebastin Richard",
   "main": "electron/main.js",
@@ -44,6 +44,7 @@
     "appId": "com.sebastinrichard.cet-engine",
     "productName": "CET Engine 2026",
     "copyright": "Copyright © 2026",
+    "compression": "maximum",
     "directories": {
       "output": "dist_electron"
     },
@@ -64,7 +65,8 @@
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "CET Engine 2026"
+      "shortcutName": "CET Engine 2026",
+      "deleteAppDataOnUninstall": false
     },
     "asar": true
   }

@@ -45,7 +45,7 @@ export default function SolutionsScreen() {
   };
 
   return (
-    <div style={{ maxWidth: '800px', margin: '0 auto', animation: 'fadeInUp 400ms ease-out forwards', paddingBottom: 'var(--space-2xl)' }}>
+    <div style={{ maxWidth: '1200px', margin: '0 auto', animation: 'fadeInUp 400ms ease-out forwards', paddingBottom: 'var(--space-2xl)' }}>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 'var(--space-xl)' }}>
         <div>
           <h1 className="font-display text-primary" style={{ fontSize: '24px', fontWeight: 700, margin: 0 }}>

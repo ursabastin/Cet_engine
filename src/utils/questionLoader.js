@@ -33,15 +33,30 @@ export function loadQuestionPool() {
     if (fileName === 'geography') key = 'geography_india_world';
 
     const questions = files[path];
-    pool[subject][key] = questions;
     
+    // Process passages for questions in a set
     if (Array.isArray(questions)) {
+      let currentPassage = null;
+      let currentSetId = null;
+      
       questions.forEach(q => {
+        const setId = q.passage_id || q.cloze_id || q.di_set_id;
+        
+        if (q.passage_text) {
+          currentPassage = q.passage_text;
+          currentSetId = setId;
+          q.passage = currentPassage;
+        } else if (setId && setId === currentSetId && currentPassage) {
+          q.passage = currentPassage;
+        }
+        
         if (q && q.id) {
           idMap[q.id] = q;
         }
       });
     }
+
+    pool[subject][key] = questions;
   }
 
   return { pool, idMap };
